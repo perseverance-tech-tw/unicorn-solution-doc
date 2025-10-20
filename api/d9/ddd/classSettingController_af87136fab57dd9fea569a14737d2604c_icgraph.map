@@ -1,0 +1,7 @@
+<map id="SettingController::switchToInformationPage" name="SettingController::switchToInformationPage">
+<area shape="rect" id="Node000001" title="Switches the view to the Information (About) page." alt="" coords="499,5,684,45"/>
+<area shape="rect" id="Node000002" href="$dc/d7c/classSettingView.html#af56590adf70e7dfa8ae7301852367c87" title="Static callback to switch to the Information settings page." alt="" coords="252,5,451,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,28,451,28,451,23,485,23"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects GTK signals from widgets to their callback handlers." alt="" coords="5,13,204,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,28,204,28,204,23,238,23"/>
+</map>

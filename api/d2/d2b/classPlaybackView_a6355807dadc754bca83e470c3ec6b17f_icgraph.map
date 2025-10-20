@@ -1,0 +1,8 @@
+<map id="PlaybackView::togglePlayback" name="PlaybackView::togglePlayback">
+<area shape="rect" id="Node000001" title="Toggles the paused/playing state of the video." alt="" coords="500,5,720,31"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#a55ca9c40e4b3b4672e730ae2e3d50c60" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,5,217,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="486,17,452,17,265,17,217,18,217,12,265,11,452,11,486,12"/>
+<area shape="rect" id="Node000003" href="$d2/d2b/classPlaybackView.html#ae93398654949eb76e805da200bbc948a" title="Initiates playback for the currently selected video file." alt="" coords="265,26,452,66"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="487,34,452,38,452,33,486,29"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="252,37,217,33,218,27,252,31"/>
+</map>

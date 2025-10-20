@@ -1,0 +1,5 @@
+<map id="PlaybackView::openBsisRight" name="PlaybackView::openBsisRight">
+<area shape="rect" id="Node000001" title="Switches the playback display to the BSIS Right view." alt="" coords="265,5,479,31"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#a55ca9c40e4b3b4672e730ae2e3d50c60" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,5,217,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,21,217,21,217,15,252,15"/>
+</map>

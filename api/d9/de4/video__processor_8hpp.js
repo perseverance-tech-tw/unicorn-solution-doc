@@ -1,0 +1,45 @@
+var video__processor_8hpp =
+[
+    [ "VideoProcessor::DetectionResult", "d0/d01/structVideoProcessor_1_1DetectionResult.html", "d0/d01/structVideoProcessor_1_1DetectionResult" ],
+    [ "VideoProcessor::Seed", "d2/d53/structVideoProcessor_1_1Seed.html", "d2/d53/structVideoProcessor_1_1Seed" ],
+    [ "VideoPlaybackType", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36af", [
+      [ "RECORD_VIEW_ORIGINAL", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afafd5f7425eeb67b4b037ece95d550aee8", null ],
+      [ "RECORD_VIEW_PANORAMA", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afab7c9af90a5517438d8b738f0494975c2", null ],
+      [ "RECORD_VIEW_ANYPOINT", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afa4169bff85c2dacf5b163d5f36adb9d90", null ],
+      [ "RECORD_VIEW_RESULT", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afacd37d4dc6ee247c3e802f7a0e7a6c2f7", null ],
+      [ "FULL_SCREEN_ANYPOINT_1", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afa2b0bccdd2957b16f9048fd5197302bdd", null ],
+      [ "FULL_SCREEN_ANYPOINT_2", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afa5871477c498894036d65d897c3375032", null ],
+      [ "FULL_SCREEN_ANYPOINT_3", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afa369b70af5e528a0d5802b97a7a7f2314", null ],
+      [ "FULL_SCREEN_ANYPOINT_4", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afa175fb5bff6624a64d13dd2bed1cd8ee1", null ],
+      [ "FULL_SCREEN_PANORAMA", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afa8404ccc610184652ccd5a8e3144f2350", null ],
+      [ "RECORD_VIEW_MOIS", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afa4b9bdc1bcf2efa1bbb120797f4ff040f", null ],
+      [ "RECORD_VIEW_BSIS", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afac00d6c1d5075631df7a04fe4b077521f", null ],
+      [ "RECORD_VIEW_BSIS_LEFT", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afaaf6bd8cafaeea0c92b7894f1756eaa07", null ],
+      [ "RECORD_VIEW_BSIS_RIGHT", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afa3ac185f2f2bf9b9ade3fb3b616c00444", null ],
+      [ "RECORD_VIEW_BSIS_REVERSE", "d9/de4/video__processor_8hpp.html#a5e8525516d985c80cb30ac572e0d36afa25f562729131e77fd4afcc4aeaf158a9", null ]
+    ] ],
+    [ "VideoType", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605", [
+      [ "LIVE_VIEW_ORIGINAL", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a0a1e2784eae11a4650fc57868a74c1c6", null ],
+      [ "LIVE_VIEW_PANORAMA", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605ab51a426010f5251b60bde77fbf855892", null ],
+      [ "LIVE_VIEW_ANYPOINT", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605aee32d483137b5309d8a1df98ae991e9a", null ],
+      [ "LIVE_VIEW_RESULT", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605afb4330e9a645541cfcc6c68d88dc7087", null ],
+      [ "CONFIGURATION_ANYPOINT_1", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a2510ae124771ac4da2f47f0eaf967b86", null ],
+      [ "CONFIGURATION_ANYPOINT_2", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605af090471dbf6e4ed532067206a5eb5ad8", null ],
+      [ "CONFIGURATION_ANYPOINT_3", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a86b3de4b6df329575a90ce859567ba85", null ],
+      [ "CONFIGURATION_ANYPOINT_4", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605aa6f964d4214abaa9936061aa69fa151e", null ],
+      [ "CONFIGURATION_PANORAMA", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a4c95838797048ed323a93790c6287297", null ],
+      [ "FULL_SCREEN_ANYPOINT_1", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a2b0bccdd2957b16f9048fd5197302bdd", null ],
+      [ "FULL_SCREEN_ANYPOINT_2", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a5871477c498894036d65d897c3375032", null ],
+      [ "FULL_SCREEN_ANYPOINT_3", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a369b70af5e528a0d5802b97a7a7f2314", null ],
+      [ "FULL_SCREEN_ANYPOINT_4", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a175fb5bff6624a64d13dd2bed1cd8ee1", null ],
+      [ "FULL_SCREEN_PANORAMA", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a8404ccc610184652ccd5a8e3144f2350", null ],
+      [ "MOIS", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a2256ab3ce73e9b0ee693d8c78cefe7a1", null ],
+      [ "BSIS", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605aa518165498edd9590ed21579dd38bfe8", null ],
+      [ "BSIS_LEFT", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a58cca8f99f80667ca05faffb5b7c6781", null ],
+      [ "BSIS_RIGHT", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605adbb346d825154707b52d94a88e201ef4", null ],
+      [ "BSIS_REVERSE", "d9/de4/video__processor_8hpp.html#ae848ee1573229abe6bcd7cfa1b292605a63b699dc7b63703b9dba16138e7ce000", null ]
+    ] ],
+    [ "dispatchCurrentViewJobs", "d9/de4/video__processor_8hpp.html#a73c0c6e4c17743ddb956a6f0dcae8a71", null ],
+    [ "updateDimensionsAndMapsBatch", "d9/de4/video__processor_8hpp.html#a2b2a46b31480caf2d9786589f65ab735", null ],
+    [ "AI_INTERVAL_MS", "d9/de4/video__processor_8hpp.html#a4cfb89edd399dda1bda66d745cc23fa6", null ]
+];

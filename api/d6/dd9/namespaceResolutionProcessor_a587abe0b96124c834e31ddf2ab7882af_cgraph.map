@@ -1,0 +1,11 @@
+<map id="ResolutionProcessor::initializeResolutions" name="ResolutionProcessor::initializeResolutions">
+<area shape="rect" id="Node000001" title="Dynamically calculates and populates the available resolution settings." alt="" coords="5,37,168,77"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#a929dd28d154e3a6b0a2ac443bc1b1a29" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="216,5,364,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,42,202,36,203,42,169,47"/>
+<area shape="rect" id="Node000003" href="$d7/d8b/classMoildevApplicator.html#ad63cde2afc00b7a67822c509e3f44116" title="Gets the native (full) resolution of the maps as determined by the initialized Moildev camera paramet..." alt="" coords="216,69,364,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,68,203,73,202,78,168,73"/>
+<area shape="rect" id="Node000004" href="$d1/dc8/classMoildev.html#a02794642b11e74d4567fc645aef71a70" title=" " alt="" coords="412,51,599,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="364,78,398,74,399,79,365,83"/>
+<area shape="rect" id="Node000005" href="$d1/dc8/classMoildev.html#aa57069b0f4c853ebfcf8d642960a1442" title=" " alt="" coords="415,101,596,126"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="365,95,401,99,401,104,364,100"/>
+</map>

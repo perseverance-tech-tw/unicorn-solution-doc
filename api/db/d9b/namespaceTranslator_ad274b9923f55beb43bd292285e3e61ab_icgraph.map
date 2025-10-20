@@ -1,0 +1,30 @@
+<map id="Translator::getLanguageDisplayName" name="Translator::getLanguageDisplayName">
+<area shape="rect" id="Node000001" title="Gets the user&#45;friendly display name for a language code." alt="" coords="700,208,967,233"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a435de1aa42f77395be58fc89f56e51ca" title="Loads a language, applies all translations, and sets text direction." alt="" coords="529,208,652,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="686,223,652,223,652,218,686,218"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a40f835d8601f3f12d87152b99b12ba51" title="A convenience wrapper for load to change the language at runtime." alt="" coords="265,5,469,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="579,196,565,161,544,120,516,78,480,44,459,33,462,28,483,40,520,75,549,117,570,159,584,194"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a4b275dbd53cbb19b43d5f27b2780a12d" title="Initializes the translator on application startup." alt="" coords="279,55,454,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="573,198,536,145,510,118,480,95,453,83,455,78,483,90,513,114,540,141,578,195"/>
+<area shape="rect" id="Node000006" href="$dc/d7c/classSettingView.html#a9a06d7883c3846d2cd60beb67614007f" title="Static callback to switch the application language to Arabic." alt="" coords="252,105,481,145"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="558,202,522,180,480,159,448,147,450,142,482,154,524,175,561,198"/>
+<area shape="rect" id="Node000008" href="$dc/d7c/classSettingView.html#ac7a30aec357689e34887cc8e9c94b61d" title="Static callback to switch the application language to German." alt="" coords="252,169,481,209"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="515,213,481,208,482,202,516,207"/>
+<area shape="rect" id="Node000009" href="$dc/d7c/classSettingView.html#acb790b43104b7e20afd62d491c0a2bb1" title="Static callback to switch the application language to English." alt="" coords="252,233,481,273"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="516,234,482,239,481,234,515,229"/>
+<area shape="rect" id="Node000010" href="$dc/d7c/classSettingView.html#a88a487affdce72f54458b1f2aee5848b" title="Static callback to switch the application language to Spanish." alt="" coords="252,297,481,337"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="561,243,524,266,482,287,450,299,448,294,480,282,522,261,558,239"/>
+<area shape="rect" id="Node000011" href="$dc/d7c/classSettingView.html#ab25ae58375942d1546ceffe8de8cc9b1" title="Static callbacks for &#39;clicked&#39; events on language selection buttons." alt="" coords="252,361,481,401"/>
+<area shape="poly" id="edge13_Node000002_Node000011" title=" " alt="" coords="577,246,539,299,513,327,483,351,460,363,457,358,480,346,509,323,535,296,573,243"/>
+<area shape="rect" id="Node000012" href="$dc/d7c/classSettingView.html#ae0fcf2bd5f209e1e4518cdf8d9330652" title="Static callback to switch the application language to Chinese." alt="" coords="252,425,481,465"/>
+<area shape="poly" id="edge15_Node000002_Node000012" title=" " alt="" coords="584,247,571,285,550,330,521,376,483,415,464,427,461,422,480,411,517,372,545,327,566,283,579,246"/>
+<area shape="rect" id="Node000005" href="$dd/d94/classBaseView.html#af470f1fa07284981ce7646d5296c728c" title="Constructs a BaseView instance." alt="" coords="26,55,183,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="265,70,184,70,184,65,265,65"/>
+<area shape="rect" id="Node000007" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects GTK signals from widgets to their callback handlers." alt="" coords="5,272,204,297"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="267,152,253,159,211,186,173,218,119,274,115,270,170,214,208,182,251,154,265,148"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="277,215,253,223,188,249,133,274,131,270,186,244,251,218,275,210"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="239,271,204,275,204,270,238,266"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="238,304,204,299,204,294,239,298"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="275,359,251,351,186,325,131,300,133,295,188,320,253,346,277,354"/>
+<area shape="poly" id="edge16_Node000012_Node000007" title=" " alt="" coords="265,422,251,415,208,387,170,355,115,300,119,296,173,351,211,383,253,410,267,417"/>
+</map>

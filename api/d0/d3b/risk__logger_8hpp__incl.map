@@ -1,0 +1,15 @@
+<map id="include/utils/risk_logger.hpp" name="include/utils/risk_logger.hpp">
+<area shape="rect" id="Node000001" title="Defines a header&#45;only utility for logging VRU detection risks." alt="" coords="121,5,251,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="74,93,154,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,47,136,85,132,81,167,44"/>
+<area shape="rect" id="Node000003" href="$d3/db7/vru__detector_8hpp.html" title="Defines the public interface for the VRUDetector namespace." alt="" coords="178,93,341,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,44,241,81,237,85,202,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,167,143,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,121,118,164,116,159,229,116"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="167,167,253,192"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="253,121,228,157,224,154,249,117"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="277,167,340,192"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="270,117,295,154,291,157,265,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="365,167,423,192"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="282,116,361,158,359,162,280,121"/>
+</map>

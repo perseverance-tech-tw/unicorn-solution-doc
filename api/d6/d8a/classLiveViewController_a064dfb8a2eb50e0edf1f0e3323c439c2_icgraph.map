@@ -1,0 +1,7 @@
+<map id="LiveViewController::bsis" name="LiveViewController::bsis">
+<area shape="rect" id="Node000001" title="Switches to BSIS (Bird Surround Image System) mode." alt="" coords="515,5,660,45"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#ae44c7e6f396172ce2beb06852092a22c" title="Static wrapper for the &#39;BSIS View&#39; button click signal." alt="" coords="265,5,467,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,28,467,28,467,23,501,23"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,13,217,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,28,217,28,217,23,252,23"/>
+</map>

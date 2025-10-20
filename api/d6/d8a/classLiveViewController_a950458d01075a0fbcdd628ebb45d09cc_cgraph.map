@@ -1,0 +1,7 @@
+<map id="LiveViewController::stopActiveVideoLoop" name="LiveViewController::stopActiveVideoLoop">
+<area shape="rect" id="Node000001" title="Stops all active live video loops and capture threads." alt="" coords="5,35,172,75"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#a4f94f75c6d134244d8f97334ce22fb3c" title="Resets all playback&#45;related state variables and timers." alt="" coords="220,5,451,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,42,206,38,206,43,173,47"/>
+<area shape="rect" id="Node000003" href="$de/d54/live__view__controller_8cpp.html#a408ad91af704f2802f77b357d1ea22f9" title="Stops the capture thread safely and joins it." alt="" coords="262,70,409,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,61,249,70,248,75,172,67"/>
+</map>

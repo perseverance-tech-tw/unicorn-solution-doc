@@ -1,0 +1,13 @@
+<map id="SettingView::populateResolutionOptions" name="SettingView::populateResolutionOptions">
+<area shape="rect" id="Node000001" title="Dynamically creates and adds resolution radio buttons to the UI." alt="" coords="5,37,239,77"/>
+<area shape="rect" id="Node000002" href="$d6/dd9/namespaceResolutionProcessor.html#a587abe0b96124c834e31ddf2ab7882af" title="Dynamically calculates and populates the available resolution settings." alt="" coords="287,37,449,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,55,273,55,273,60,239,60"/>
+<area shape="rect" id="Node000003" href="$d7/d8b/classMoildevApplicator.html#a929dd28d154e3a6b0a2ac443bc1b1a29" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="497,5,645,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,42,484,36,485,42,450,47"/>
+<area shape="rect" id="Node000004" href="$d7/d8b/classMoildevApplicator.html#ad63cde2afc00b7a67822c509e3f44116" title="Gets the native (full) resolution of the maps as determined by the initialized Moildev camera paramet..." alt="" coords="497,69,645,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="450,68,485,73,484,78,449,73"/>
+<area shape="rect" id="Node000005" href="$d1/dc8/classMoildev.html#a02794642b11e74d4567fc645aef71a70" title=" " alt="" coords="693,51,880,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="646,78,679,74,680,79,646,83"/>
+<area shape="rect" id="Node000006" href="$d1/dc8/classMoildev.html#aa57069b0f4c853ebfcf8d642960a1442" title=" " alt="" coords="696,101,877,126"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="646,95,683,99,682,104,646,100"/>
+</map>

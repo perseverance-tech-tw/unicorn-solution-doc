@@ -1,0 +1,19 @@
+<map id="SettingView::onCameraButtonClicked" name="SettingView::onCameraButtonClicked">
+<area shape="rect" id="Node000001" title="Static callback for &#39;clicked&#39; events on main menu navigation buttons." alt="" coords="5,27,223,67"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="271,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,31,257,27,257,32,223,37"/>
+<area shape="rect" id="Node000004" href="$d9/ddd/classSettingController.html#ab11e7be64a794077ba0cc3b72799e6b2" title="Switches the view to the Camera Settings page." alt="" coords="273,55,433,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,57,259,62,259,67,223,63"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="493,5,640,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,15,480,15,480,21,435,21"/>
+<area shape="rect" id="Node000005" href="$d9/ddd/classSettingController.html#aad93d7e770616caa6da256ef3f832152" title="Enables or disables edit mode for camera settings." alt="" coords="497,55,637,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="433,73,483,73,483,78,433,78"/>
+<area shape="rect" id="Node000006" href="$d9/ddd/classSettingController.html#a430ec18fc43b2bdb0a2007563c29b270" title="Updates labels and images for the specified page." alt="" coords="483,119,651,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="421,93,487,113,485,118,420,98"/>
+<area shape="rect" id="Node000007" href="$db/d9b/namespaceTranslator.html#ae9b2362ef7a27751976241012e2debd8" title="Sets the text of a GtkLabel using a translation key." alt="" coords="699,127,875,152"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="651,137,685,137,685,142,651,142"/>
+<area shape="rect" id="Node000008" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="923,127,1065,152"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="875,137,909,137,909,142,875,142"/>
+<area shape="rect" id="Node000009" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="1113,127,1337,152"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1066,137,1099,137,1099,142,1066,142"/>
+</map>

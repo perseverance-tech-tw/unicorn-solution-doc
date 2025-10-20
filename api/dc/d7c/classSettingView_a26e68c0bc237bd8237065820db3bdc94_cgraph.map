@@ -1,0 +1,15 @@
+<map id="SettingView::onComboParamsChanged" name="SettingView::onComboParamsChanged">
+<area shape="rect" id="Node000001" title="Static callback for the &#39;changed&#39; event on the camera parameter dropdown." alt="" coords="5,85,223,125"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#acddc35541508b9bae3f4317ccf64b54e" title="Displays the parameters of a selected camera." alt="" coords="271,55,465,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,89,256,86,257,91,223,95"/>
+<area shape="rect" id="Node000006" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="286,120,450,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="223,114,273,120,272,125,223,119"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="515,5,658,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,53,523,32,525,37,446,58"/>
+<area shape="rect" id="Node000005" href="$d9/ddd/classSettingController.html#aad93d7e770616caa6da256ef3f832152" title="Enables or disables edit mode for camera settings." alt="" coords="517,55,657,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="466,73,503,73,503,78,466,78"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="708,5,932,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="658,15,694,15,694,21,658,21"/>
+<area shape="rect" id="Node000007" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="513,120,660,145"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="450,130,500,130,500,135,450,135"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="checkNullPointer" name="checkNullPointer">
+<area shape="rect" id="Node000001" title="Checks if a pointer is null and terminates the program if it is." alt="" coords="200,31,332,56"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="5,5,152,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,35,152,31,152,25,186,30"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a6600615265dfdf00daf61735abc81289" title="Binds GTK widgets to class member variables." alt="" coords="11,55,146,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,56,147,61,146,56,186,51"/>
+</map>

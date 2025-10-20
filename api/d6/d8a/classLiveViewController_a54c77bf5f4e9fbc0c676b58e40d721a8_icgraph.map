@@ -1,0 +1,13 @@
+<map id="LiveViewController::openPage" name="LiveViewController::openPage">
+<area shape="rect" id="Node000001" title="Opens the live view page and initializes mode." alt="" coords="548,63,693,103"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#a3aedb33d7095e4773446855a31032e0a" title="Static wrapper for the &#39;Main View&#39; button click signal." alt="" coords="282,5,483,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="533,64,466,48,467,43,535,59"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a39e47e97870317e27f578239ae95706e" title="Handles the &#39;Live View&#39; button click event." alt="" coords="265,70,500,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="534,85,500,85,500,80,534,80"/>
+<area shape="rect" id="Node000006" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Sets up the application routes and component bindings." alt="" coords="331,119,434,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="535,103,501,111,435,124,434,119,499,105,534,98"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,13,217,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="268,28,218,28,218,23,268,23"/>
+<area shape="rect" id="Node000005" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="38,70,185,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,85,185,85,185,80,252,80"/>
+</map>

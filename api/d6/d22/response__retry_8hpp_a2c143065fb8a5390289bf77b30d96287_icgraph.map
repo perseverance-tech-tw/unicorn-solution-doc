@@ -1,0 +1,13 @@
+<map id="showRetryDialog" name="showRetryDialog">
+<area shape="rect" id="Node000001" title="Displays a modal error dialog with &quot;Retry&quot; and &quot;Close&quot; options." alt="" coords="757,45,891,70"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a0daa0f131ed6a4bbfb82c31440aba96a" title="Handles the &#39;Configuration&#39; button click event." alt="" coords="515,5,709,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="743,48,709,43,710,37,744,43"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#aa5796ded0fe04b24cc7221a21aeda98c" title="Opens a connected camera device via GStreamer." alt="" coords="539,69,685,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="744,72,685,81,685,76,743,67"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="293,13,439,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="501,28,440,28,440,23,501,23"/>
+<area shape="rect" id="Node000005" href="$d0/d13/classLiveViewView.html#af6021391acc5a19defca5b9c342aa7fc" title="Static wrapper for the &#39;Open Camera&#39; button click signal." alt="" coords="265,69,467,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="525,92,467,92,467,87,525,87"/>
+<area shape="rect" id="Node000006" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,77,217,102"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="252,92,217,92,217,87,252,87"/>
+</map>

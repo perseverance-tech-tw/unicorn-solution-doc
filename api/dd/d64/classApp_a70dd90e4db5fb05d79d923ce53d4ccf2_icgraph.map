@@ -1,0 +1,19 @@
+<map id="App::setActiveSidebarButton" name="App::setActiveSidebarButton">
+<area shape="rect" id="Node000001" title="Sets the currently active sidebar button." alt="" coords="487,119,695,145"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a0daa0f131ed6a4bbfb82c31440aba96a" title="Handles the &#39;Configuration&#39; button click event." alt="" coords="222,5,417,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="554,115,500,87,438,60,402,48,404,43,440,55,502,82,556,110"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#ac6da02831e42bc4dda7746e2dd5d6c37" title="Handles the &#39;Help&#39; button click event." alt="" coords="200,70,439,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="506,119,390,98,391,93,507,114"/>
+<area shape="rect" id="Node000005" href="$dd/d64/classApp.html#a39e47e97870317e27f578239ae95706e" title="Handles the &#39;Live View&#39; button click event." alt="" coords="202,119,437,145"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="473,135,437,135,437,129,473,129"/>
+<area shape="rect" id="Node000006" href="$dd/d64/classApp.html#a686b54a2e8900d6e292bc03b5aa30db0" title="Handles the &#39;Playback&#39; button click event." alt="" coords="212,169,427,209"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="517,150,415,172,414,167,516,145"/>
+<area shape="rect" id="Node000007" href="$dd/d64/classApp.html#a732c57f411b349bf301c8b71170db4cd" title="Handles the &#39;Settings&#39; button click event." alt="" coords="219,233,420,273"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="562,155,507,190,440,224,407,236,405,231,438,219,504,185,559,150"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="5,119,152,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,52,201,60,144,91,98,121,96,117,141,86,199,55,218,47"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="242,101,201,109,140,122,139,117,199,104,241,95"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="188,135,153,135,153,129,188,129"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="221,169,132,147,133,142,222,163"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="216,231,199,224,137,185,92,147,95,143,140,180,201,219,218,226"/>
+</map>

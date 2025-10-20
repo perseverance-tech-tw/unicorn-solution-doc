@@ -1,0 +1,15 @@
+<map id="MoildevApplicator::reconfigureAndRemap" name="MoildevApplicator::reconfigureAndRemap">
+<area shape="rect" id="Node000001" title="Reloads all camera parameters, re&#45;initializes the Moildev engine, and regenerates all maps." alt="" coords="929,37,1096,77"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#ac0a7a3e8963c81ce0e28f866e3f5264d" title="Applies the current camera settings to the application." alt="" coords="699,37,881,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="915,60,881,60,881,55,915,55"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/classSettingView.html#a050732c6a09278f5d76cd0cf00614644" title="Static callback for the &#39;Apply&#39; button in camera settings." alt="" coords="448,5,651,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="685,46,651,41,651,36,685,41"/>
+<area shape="rect" id="Node000005" href="$d1/db4/classConfigurationView.html#a3f4b61de9ce9838eb197de50e49916f8" title="Handles the &#39;clicked&#39; event for the Scale Factor button." alt="" coords="470,69,629,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="685,74,629,81,629,76,684,69"/>
+<area shape="rect" id="Node000004" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects GTK signals from widgets to their callback handlers." alt="" coords="201,13,400,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="435,28,400,28,400,23,435,23"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="227,69,375,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="456,92,375,92,375,87,456,87"/>
+<area shape="rect" id="Node000007" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="5,69,153,109"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="213,92,154,92,154,87,213,87"/>
+</map>

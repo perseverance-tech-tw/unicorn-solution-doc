@@ -1,0 +1,5 @@
+<map id="Beeper::beep_once" name="Beeper::beep_once">
+<area shape="rect" id="Node000001" title="A low&#45;level primitive that plays the configured sound file once." alt="" coords="5,5,152,31"/>
+<area shape="rect" id="Node000002" href="$dd/d6d/namespaceBeeper.html#ad8a2f98120ce54803bac4045ed92ced2" title="Initializes the audio backend on first use." alt="" coords="200,5,367,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,15,186,15,186,21,152,21"/>
+</map>

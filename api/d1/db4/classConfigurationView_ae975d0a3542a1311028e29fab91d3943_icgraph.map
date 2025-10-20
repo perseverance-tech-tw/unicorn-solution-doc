@@ -1,0 +1,12 @@
+<map id="ConfigurationView::initSpinButtonsFromApplicator" name="ConfigurationView::initSpinButtonsFromApplicator">
+<area shape="rect" id="Node000001" title="Initializes the UI controls (spin buttons, switches) with values from the data model." alt="" coords="611,39,831,79"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html#ad51c7d0d5b33b136109741f649e7b95b" title="Handles the &#39;clicked&#39; event for the Reset button." alt="" coords="397,8,563,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="597,46,562,41,563,36,597,40"/>
+<area shape="rect" id="Node000005" href="$d1/db4/classConfigurationView.html#a0c5fed278f22ffa2813ed1b3f3fe7f4f" title="Binds UI widgets from the Glade file to class member variables." alt="" coords="201,69,349,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="597,70,350,87,349,82,597,64"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="201,5,349,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,29,349,29,349,24,384,24"/>
+<area shape="rect" id="Node000004" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="5,37,153,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="188,42,154,48,153,43,187,37"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="187,78,153,72,154,67,188,72"/>
+</map>

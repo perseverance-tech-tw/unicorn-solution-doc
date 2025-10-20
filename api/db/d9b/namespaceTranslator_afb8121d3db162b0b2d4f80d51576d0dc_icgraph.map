@@ -1,0 +1,7 @@
+<map id="Translator::loadLanguageSettings" name="Translator::loadLanguageSettings">
+<area shape="rect" id="Node000001" title="Loads the last used language from the configuration file." alt="" coords="433,5,619,45"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a4b275dbd53cbb19b43d5f27b2780a12d" title="Initializes the translator on application startup." alt="" coords="211,13,385,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,28,385,28,385,23,420,23"/>
+<area shape="rect" id="Node000003" href="$dd/d94/classBaseView.html#af470f1fa07284981ce7646d5296c728c" title="Constructs a BaseView instance." alt="" coords="5,13,163,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,28,163,28,163,23,196,23"/>
+</map>

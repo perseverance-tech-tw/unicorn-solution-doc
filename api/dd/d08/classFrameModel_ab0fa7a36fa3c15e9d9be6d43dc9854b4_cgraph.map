@@ -1,0 +1,5 @@
+<map id="FrameModel::saveToDatabase" name="FrameModel::saveToDatabase">
+<area shape="rect" id="Node000001" title="Saves all in&#45;memory frame records to the SQLite database(s)." alt="" coords="5,13,224,38"/>
+<area shape="rect" id="Node000002" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Reads all stored records." alt="" coords="272,5,467,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,23,258,23,258,28,224,28"/>
+</map>

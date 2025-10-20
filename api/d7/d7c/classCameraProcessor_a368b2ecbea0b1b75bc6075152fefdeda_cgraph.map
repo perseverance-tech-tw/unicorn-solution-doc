@@ -1,0 +1,5 @@
+<map id="CameraProcessor::refreshCameras" name="CameraProcessor::refreshCameras">
+<area shape="rect" id="Node000001" title="Re&#45;scans and returns an updated list of available cameras." alt="" coords="5,5,196,45"/>
+<area shape="rect" id="Node000002" href="$d7/d7c/classCameraProcessor.html#a19caf2566b8b42e3d1a0ae7e026af6f0" title="Detects all available video cameras connected to the system." alt="" coords="244,5,489,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,23,230,23,230,28,196,28"/>
+</map>

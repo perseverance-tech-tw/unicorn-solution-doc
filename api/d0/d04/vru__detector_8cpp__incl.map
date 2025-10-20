@@ -1,0 +1,29 @@
+<map id="src/utils/vru_detector.cpp" name="src/utils/vru_detector.cpp">
+<area shape="rect" id="Node000001" title="Implements the VRU detector utilities: preparing snapshots &amp; ROIs, zoning&#45;based risk assessment,..." alt="" coords="449,5,635,31"/>
+<area shape="rect" id="Node000002" href="$d3/db7/vru__detector_8hpp.html" title="Defines the public interface for the VRUDetector namespace." alt="" coords="129,79,291,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="489,33,278,78,276,73,488,28"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="315,79,478,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="520,33,434,75,431,70,517,28"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="502,79,582,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="545,31,545,65,539,65,539,31"/>
+<area shape="rect" id="Node000009" href="$d3/dad/constants_8hpp.html" title="Global constants, configuration parameters, and helper declarations." alt="" coords="607,79,787,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="568,28,660,70,658,75,566,33"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="811,79,878,104"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="593,28,798,76,797,81,592,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,143,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,106,109,148,107,143,187,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="167,152,253,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="213,104,213,138,207,138,207,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="277,152,340,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="227,102,283,142,280,146,224,106"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="495,225,554,251"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="239,102,352,150,491,217,489,221,350,154,237,106"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="638,107,592,124,570,137,552,154,536,182,529,212,524,211,531,180,548,150,567,133,589,120,636,102"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="562,152,653,177"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="684,106,634,145,631,141,681,102"/>
+<area shape="rect" id="Node000011" href="$de/d34/resolution__processor_8hpp.html" title="Declares functions and types for managing map resolutions." alt="" coords="677,152,893,177"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="712,102,761,141,758,145,709,106"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="744,180,568,228,567,222,742,175"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="759,225,810,251"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="787,178,787,212,782,212,782,178"/>
+</map>

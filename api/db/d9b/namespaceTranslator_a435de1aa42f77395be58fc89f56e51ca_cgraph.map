@@ -1,0 +1,20 @@
+<map id="Translator::load" name="Translator::load">
+<area shape="rect" id="Node000001" title="Loads a language, applies all translations, and sets text direction." alt="" coords="5,145,128,170"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a0b426d40685f92ba85ab58f53ccd651f" title="Applies a translated text string to a widget, handling different widget types." alt="" coords="209,5,410,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,143,116,99,144,75,175,55,195,46,197,51,177,60,147,80,120,103,80,146"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#ad274b9923f55beb43bd292285e3e61ab" title="Gets the user&#45;friendly display name for a language code." alt="" coords="176,70,443,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,142,129,122,175,104,206,96,208,101,177,109,131,127,92,147"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a6a391fc881ce1c6935580d5675d1a6f2" title="Checks if a given language code is supported by the application." alt="" coords="192,119,427,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,148,178,143,179,148,129,154"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="197,169,421,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="129,161,184,166,183,172,128,166"/>
+<area shape="rect" id="Node000006" href="$db/d9b/namespaceTranslator.html#a7827ff6a7333af80e54bdecabb6fea6e" title="Persists the chosen language code to a configuration file." alt="" coords="215,219,403,259"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="94,168,177,203,207,212,206,217,175,208,92,172"/>
+<area shape="rect" id="Node000008" href="$db/d9b/namespaceTranslator.html#a6526d2a56f0804c968e2d84ad966e5b7" title="Sets the text direction for a widget tree based on the language code." alt="" coords="209,289,409,314"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="78,169,117,218,145,245,177,268,209,282,207,287,175,273,142,249,113,221,74,172"/>
+<area shape="rect" id="Node000007" href="$db/d9b/namespaceTranslator.html#ae383320be2d8bc76a23ababafb2a363c" title="Determines and creates the configuration directory and path if they don&#39;t exist." alt="" coords="493,219,677,245"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="404,234,480,232,480,237,404,239"/>
+<area shape="rect" id="Node000009" href="$db/d9b/namespaceTranslator.html#ac6e49834a44fadd0b54bf7da049cc13a" title="Recursively applies a text direction to a widget and all of its children." alt="" coords="491,293,680,333"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="409,303,477,306,477,311,409,308"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="535,294,531,284,540,274,558,269,585,267,617,269,634,277,632,282,616,275,585,272,559,274,542,279,537,285,540,292"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PlaybackView::onBackButtonClick" name="PlaybackView::onBackButtonClick">
+<area shape="rect" id="Node000001" title="Handles the &#39;clicked&#39; event for the &#39;Back to List&#39; button." alt="" coords="265,5,476,45"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#a55ca9c40e4b3b4672e730ae2e3d50c60" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,13,217,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,28,218,28,218,23,252,23"/>
+</map>

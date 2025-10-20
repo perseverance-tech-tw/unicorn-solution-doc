@@ -1,0 +1,21 @@
+<map id="SettingView::onSaveButtonClicked" name="SettingView::onSaveButtonClicked">
+<area shape="rect" id="Node000001" title="Static callback for the &#39;Save&#39; button in camera settings." alt="" coords="5,78,204,118"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="259,31,423,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,75,272,57,273,62,192,81"/>
+<area shape="rect" id="Node000004" href="$d9/ddd/classSettingController.html#a30e5a8d5d1f9a6014f93dff32953ef80" title="Saves the current camera parameters to the database." alt="" coords="252,106,431,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,107,238,111,238,116,204,112"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="517,5,663,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,32,503,24,503,29,424,38"/>
+<area shape="rect" id="Node000005" href="$d9/ddd/classSettingController.html#acddc35541508b9bae3f4317ccf64b54e" title="Displays the parameters of a selected camera." alt="" coords="493,106,687,146"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="431,123,479,123,479,129,431,129"/>
+<area shape="rect" id="Node000006" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="749,71,892,96"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="415,103,478,91,614,80,736,79,736,84,614,86,479,97,416,109"/>
+<area shape="rect" id="Node000008" href="$d9/ddd/classSettingController.html#aad93d7e770616caa6da256ef3f832152" title="Enables or disables edit mode for camera settings." alt="" coords="751,135,891,175"/>
+<area shape="poly" id="edge10_Node000004_Node000008" title=" " alt="" coords="415,143,479,155,547,161,615,162,737,159,737,164,615,168,546,166,478,161,414,149"/>
+<area shape="rect" id="Node000009" href="$de/d7b/classMessageDialog.html#aefa0ad36108530840218a99631f73974" title="Creates, shows, and destroys a modal GTK message dialog." alt="" coords="479,221,701,247"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="375,144,424,172,480,200,523,215,522,220,478,204,421,177,373,149"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="687,105,737,96,738,101,688,111"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="688,136,737,142,737,147,687,141"/>
+<area shape="rect" id="Node000007" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="940,71,1164,96"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="892,81,926,81,926,86,892,86"/>
+</map>

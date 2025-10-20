@@ -1,0 +1,28 @@
+<map id="ResolutionProcessor::applyNewResolution" name="ResolutionProcessor::applyNewResolution">
+<area shape="rect" id="Node000001" title="Applies the currently selected resolution by regenerating all maps." alt="" coords="5,67,169,107"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#a929dd28d154e3a6b0a2ac443bc1b1a29" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="572,5,720,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,64,217,52,308,40,399,32,558,24,558,29,399,37,308,46,218,57,160,69"/>
+<area shape="rect" id="Node000003" href="$d6/dd9/namespaceResolutionProcessor.html#a587abe0b96124c834e31ddf2ab7882af" title="Dynamically calculates and populates the available resolution settings." alt="" coords="273,67,435,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,84,259,84,259,89,170,89"/>
+<area shape="rect" id="Node000007" href="$d7/d8b/classMoildevApplicator.html#aa61a841927f071e1ef2dc72acbd0eaf6" title="Regenerates all function maps at a new target resolution." alt="" coords="217,133,491,173"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="169,104,261,127,259,133,167,109"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="435,67,558,41,559,46,436,72"/>
+<area shape="rect" id="Node000004" href="$d7/d8b/classMoildevApplicator.html#ad63cde2afc00b7a67822c509e3f44116" title="Gets the native (full) resolution of the maps as determined by the initialized Moildev camera paramet..." alt="" coords="572,69,720,109"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="436,85,558,86,558,91,436,90"/>
+<area shape="rect" id="Node000005" href="$d1/dc8/classMoildev.html#a02794642b11e74d4567fc645aef71a70" title=" " alt="" coords="801,91,988,117"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="721,91,788,95,787,100,720,96"/>
+<area shape="rect" id="Node000006" href="$d1/dc8/classMoildev.html#aa57069b0f4c853ebfcf8d642960a1442" title=" " alt="" coords="804,42,985,67"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="720,76,790,67,791,72,721,82"/>
+<area shape="rect" id="Node000008" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="539,133,753,173"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="491,151,525,151,525,156,491,156"/>
+<area shape="rect" id="Node000011" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="564,218,728,243"/>
+<area shape="poly" id="edge13_Node000007_Node000011" title=" " alt="" coords="431,171,584,212,583,217,430,176"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="747,131,816,117,817,122,748,136"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="726,131,752,119,766,109,775,98,785,87,800,76,815,70,817,74,803,81,789,91,779,102,770,113,755,124,729,136"/>
+<area shape="rect" id="Node000009" href="$d1/dc8/classMoildev.html#ad4818dfc88bdadd90595d8ddd20e1d52" title=" " alt="" coords="819,190,970,215"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="748,171,817,185,816,190,747,176"/>
+<area shape="rect" id="Node000010" href="$d1/dc8/classMoildev.html#a3fef5721ae893cb26e3b6af5402f9320" title=" " alt="" coords="811,141,979,166"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="753,151,797,151,797,156,753,156"/>
+<area shape="rect" id="Node000012" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="821,239,968,265"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="728,235,808,242,807,247,728,240"/>
+</map>

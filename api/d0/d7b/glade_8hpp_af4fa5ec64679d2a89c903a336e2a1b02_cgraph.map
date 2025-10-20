@@ -1,0 +1,5 @@
+<map id="getProjectRoot" name="getProjectRoot">
+<area shape="rect" id="Node000001" title="Gets the project&#39;s root directory." alt="" coords="5,5,124,31"/>
+<area shape="rect" id="Node000002" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="172,5,305,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,15,158,15,158,21,124,21"/>
+</map>

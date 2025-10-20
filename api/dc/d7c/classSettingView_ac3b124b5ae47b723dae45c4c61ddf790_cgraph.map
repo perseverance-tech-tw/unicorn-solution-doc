@@ -1,0 +1,11 @@
+<map id="SettingView::startTimeUpdate" name="SettingView::startTimeUpdate">
+<area shape="rect" id="Node000001" title="Registers a periodic timer to update the date/time display." alt="" coords="5,13,223,38"/>
+<area shape="rect" id="Node000002" href="$dc/d7c/classSettingView.html#a6b0c77e2bc8fd28d3ee8e369599198e7" title="Glib timeout callback to periodically update the date/time display." alt="" coords="271,13,448,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,23,257,23,257,28,223,28"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/classSettingView.html#a83fa57969ede9793e5b8fb80575c39ab" title="Updates the date/time label with the current time, formatted according to the selected preference." alt="" coords="496,5,709,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,23,482,23,482,28,448,28"/>
+<area shape="rect" id="Node000004" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="757,13,921,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="709,23,744,23,744,28,709,28"/>
+<area shape="rect" id="Node000005" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="969,13,1116,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="922,23,956,23,956,28,922,28"/>
+</map>

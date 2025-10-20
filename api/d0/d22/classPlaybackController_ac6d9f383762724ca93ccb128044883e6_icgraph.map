@@ -1,0 +1,9 @@
+<map id="PlaybackController::onVideoClicked" name="PlaybackController::onVideoClicked">
+<area shape="rect" id="Node000001" title="Static callback for handling video button clicks in the playback view." alt="" coords="656,5,801,45"/>
+<area shape="rect" id="Node000002" href="$d0/d22/classPlaybackController.html#ae49cbe73c54af212f9cce725c6c02467" title="Opens the playback page and initializes playback&#45;related UI components." alt="" coords="463,5,608,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="642,28,609,28,609,23,642,23"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a686b54a2e8900d6e292bc03b5aa30db0" title="Handles the &#39;Playback&#39; button click event." alt="" coords="200,5,415,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,28,415,28,415,23,448,23"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="5,13,152,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="186,28,152,28,152,23,186,23"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="src/constants/constants.cpp" name="src/constants/constants.cpp">
+<area shape="rect" id="Node000001" title="Implementation of global constants and database&#45;related configuration management for the Unicorn Solu..." alt="" coords="448,5,651,31"/>
+<area shape="rect" id="Node000002" href="$d3/dad/constants_8hpp.html" title="Global constants, configuration parameters, and helper declarations." alt="" coords="173,79,353,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,33,323,78,322,73,503,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="344,225,403,251"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="523,33,487,53,453,81,428,113,408,149,383,213,378,211,403,147,424,110,449,77,484,48,520,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="462,79,535,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="543,33,517,69,513,66,539,29"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="560,79,640,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="560,29,586,66,582,69,556,33"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="664,79,739,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="575,28,665,70,663,75,573,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="763,79,842,104"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="591,28,751,73,749,78,589,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="289,102,321,122,350,150,365,181,373,211,368,212,360,183,346,154,317,126,286,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,152,96,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="229,107,99,150,97,145,228,101"/>
+<area shape="rect" id="Node000005" href="$de/d34/resolution__processor_8hpp.html" title="Declares functions and types for managing map resolutions." alt="" coords="120,152,336,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="259,106,242,141,237,138,255,103"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="253,175,339,217,336,222,250,180"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="203,225,253,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="231,178,231,212,225,212,225,178"/>
+</map>

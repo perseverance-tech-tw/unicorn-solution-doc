@@ -1,0 +1,11 @@
+<map id="include/utils/record_processor.hpp" name="include/utils/record_processor.hpp">
+<area shape="rect" id="Node000001" title="Declares the functions for the RecordProcessor namespace." alt="" coords="336,5,483,45"/>
+<area shape="rect" id="Node000002" href="$de/d54/live__view__controller_8cpp.html" title="Implements the LiveViewController class, managing live camera feeds, media input, recording,..." alt="" coords="5,93,160,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,51,155,96,154,91,324,46"/>
+<area shape="rect" id="Node000003" href="$d3/d48/record__processor_8cpp.html" title="Implements the functions for the RecordProcessor namespace." alt="" coords="185,101,399,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="374,56,309,103,306,98,371,51"/>
+<area shape="rect" id="Node000004" href="$de/d5f/video__processor_8cpp.html" title="Implements the logic for processing and dispatching video frames for different views." alt="" coords="423,101,633,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="448,51,514,98,510,103,445,56"/>
+<area shape="rect" id="Node000005" href="$d8/dc9/live__view__view_8cpp.html" title="Implementation of the LiveViewView class, which handles the main live view UI." alt="" coords="657,93,807,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="494,46,662,91,661,96,492,51"/>
+</map>

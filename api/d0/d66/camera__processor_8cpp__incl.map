@@ -1,0 +1,23 @@
+<map id="src/utils/camera_processor.cpp" name="src/utils/camera_processor.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the CameraProcessor class." alt="" coords="455,5,677,31"/>
+<area shape="rect" id="Node000002" href="$d4/d4e/camera__processor_8hpp.html" title="Defines the CameraProcessor utility class for cross&#45;platform camera detection." alt="" coords="22,79,222,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,33,207,79,207,74,494,28"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="246,79,401,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="528,33,376,77,375,72,526,28"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="425,79,505,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="551,33,494,73,491,68,548,28"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="529,79,603,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="569,31,569,65,563,65,563,31"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="627,79,702,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="583,29,639,68,636,73,580,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="726,79,790,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="598,28,715,71,713,76,596,33"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="814,79,899,104"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="613,28,801,74,800,79,612,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,68,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,106,63,145,59,141,107,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="93,152,151,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="125,104,125,138,119,138,119,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="176,152,236,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="137,102,183,141,180,145,134,106"/>
+</map>

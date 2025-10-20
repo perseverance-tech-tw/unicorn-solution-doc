@@ -1,0 +1,7 @@
+<map id="RecordProcessor::startRecord" name="RecordProcessor::startRecord">
+<area shape="rect" id="Node000001" title="Starts the video recording process." alt="" coords="5,5,219,31"/>
+<area shape="rect" id="Node000002" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="267,5,385,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,15,253,15,253,21,219,21"/>
+<area shape="rect" id="Node000003" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="433,5,567,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,15,420,15,420,21,385,21"/>
+</map>

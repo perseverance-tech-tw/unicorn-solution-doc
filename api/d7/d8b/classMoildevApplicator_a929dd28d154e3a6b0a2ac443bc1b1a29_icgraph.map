@@ -1,0 +1,66 @@
+<map id="MoildevApplicator::getInstance" name="MoildevApplicator::getInstance">
+<area shape="rect" id="Node000001" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="1356,329,1504,369"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#ac0a7a3e8963c81ce0e28f866e3f5264d" title="Applies the current camera settings to the application." alt="" coords="841,164,1023,204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1407,320,1365,269,1338,245,1307,225,1236,199,1162,185,1089,179,1024,179,1024,174,1089,173,1162,179,1238,194,1309,220,1341,240,1369,265,1411,316"/>
+<area shape="rect" id="Node000008" href="$d6/dd9/namespaceResolutionProcessor.html#aa2b64270deead06b632da17ba8c99cd1" title="Applies the currently selected resolution by regenerating all maps." alt="" coords="850,36,1014,76"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1421,316,1410,264,1389,202,1374,170,1355,140,1333,113,1306,90,1273,71,1236,56,1198,46,1159,41,1083,38,1014,44,1014,38,1082,33,1160,35,1199,41,1238,51,1275,66,1310,86,1337,109,1359,137,1378,167,1394,200,1415,263,1427,315"/>
+<area shape="rect" id="Node000011" href="$d6/dd9/namespaceResolutionProcessor.html#a587abe0b96124c834e31ddf2ab7882af" title="Dynamically calculates and populates the available resolution settings." alt="" coords="1125,100,1287,140"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="1411,318,1370,245,1340,205,1306,170,1285,155,1262,143,1265,138,1288,150,1310,166,1344,202,1374,242,1416,315"/>
+<area shape="rect" id="Node000013" href="$d2/dd2/classFunctionModel.html#a3b7e6d813c600d03346c0a93384e4768" title="Loads the mapX and mapY matrices for a record from its file paths." alt="" coords="1115,590,1297,615"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="1423,384,1408,428,1385,481,1353,534,1333,558,1310,579,1288,592,1285,588,1306,575,1329,555,1348,531,1381,479,1403,426,1418,382"/>
+<area shape="rect" id="Node000016" href="$d1/db4/classConfigurationView.html#a6705956d2e04ae28a29ab069bccf196b" title="Handles mouse clicks on the original fisheye source image to set alpha/beta." alt="" coords="833,343,1031,383"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="1342,354,1032,363,1031,357,1342,349"/>
+<area shape="rect" id="Node000017" href="$d1/db4/classConfigurationView.html#ac61d15abba6de1e443c1c68df035e82b" title="Handles the end of a drag operation on a result view." alt="" coords="840,457,1024,497"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="1400,381,1359,414,1309,441,1236,463,1161,476,1089,482,1024,484,1024,479,1088,477,1160,471,1235,458,1307,436,1356,409,1397,377"/>
+<area shape="rect" id="Node000018" href="$d1/db4/classConfigurationView.html#ad51c7d0d5b33b136109741f649e7b95b" title="Handles the &#39;clicked&#39; event for the Reset button." alt="" coords="562,241,727,281"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="1363,327,1307,311,1183,283,1056,269,880,261,727,261,727,256,880,256,1056,264,1184,278,1309,305,1364,322"/>
+<area shape="rect" id="Node000019" href="$d1/db4/classConfigurationView.html#a6aa468fdf9dfe2537610faaf1628a8b0" title="Handles mouse scroll events over result views to control zoom." alt="" coords="848,279,1016,319"/>
+<area shape="poly" id="edge24_Node000001_Node000019" title=" " alt="" coords="1342,343,1016,310,1017,304,1342,338"/>
+<area shape="rect" id="Node000020" href="$d1/db4/classConfigurationView.html#a011c0307ed969aa6e895cd8a91d9c9b7" title="Handles the &#39;value&#45;changed&#39; event for alpha, beta, and zoom spin buttons." alt="" coords="1127,387,1285,427"/>
+<area shape="poly" id="edge26_Node000001_Node000020" title=" " alt="" coords="1343,374,1286,389,1284,384,1342,369"/>
+<area shape="rect" id="Node000023" href="$d1/db4/classConfigurationView.html#a4cc02b3e90aeb5f9772192fab336d343" title="Handles the &#39;value&#45;changed&#39; event for margin control spin buttons." alt="" coords="1104,525,1308,565"/>
+<area shape="poly" id="edge35_Node000001_Node000023" title=" " alt="" coords="1407,382,1364,432,1310,485,1246,528,1243,523,1306,481,1360,429,1403,378"/>
+<area shape="rect" id="Node000024" href="$d2/dd2/classFunctionModel.html#aa28a81f1530283093002ecee07e59730" title="Populates the model with initial default function presets." alt="" coords="1121,639,1291,665"/>
+<area shape="poly" id="edge39_Node000001_Node000024" title=" " alt="" coords="1427,383,1415,437,1393,504,1359,572,1337,603,1310,630,1292,641,1289,637,1306,626,1333,600,1355,569,1389,502,1410,436,1421,382"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/classSettingView.html#a050732c6a09278f5d76cd0cf00614644" title="Static callback for the &#39;Apply&#39; button in camera settings." alt="" coords="265,120,468,160"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="827,175,760,168,468,148,469,143,760,163,827,169"/>
+<area shape="rect" id="Node000005" href="$d1/db4/classConfigurationView.html#a3f4b61de9ce9838eb197de50e49916f8" title="Handles the &#39;clicked&#39; event for the Scale Factor button." alt="" coords="565,177,724,217"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="827,192,725,196,724,191,827,186"/>
+<area shape="rect" id="Node000004" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects GTK signals from widgets to their callback handlers." alt="" coords="5,95,204,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="251,129,204,123,205,117,252,123"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="293,375,441,415"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="553,221,531,232,484,265,443,305,384,376,380,373,439,302,481,261,528,227,551,216"/>
+<area shape="rect" id="Node000007" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="31,407,179,447"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="279,408,179,420,179,415,278,403"/>
+<area shape="rect" id="Node000009" href="$d9/ddd/classSettingController.html#a2791252c2631e57ec70f7bb296475c95" title="Applies and saves the selected resolution option." alt="" coords="529,5,760,45"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="836,49,760,40,761,35,837,43"/>
+<area shape="rect" id="Node000010" href="$dc/d7c/classSettingView.html#a2af9902528deb733be5297327d38a59c" title="Static callback for the &#39;Apply&#39; button in resolution settings." alt="" coords="252,56,481,96"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="836,62,482,75,482,69,836,57"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="522,50,477,59,476,53,521,45"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="239,94,204,99,204,93,238,89"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="1110,101,1014,78,1015,73,1112,95"/>
+<area shape="rect" id="Node000012" href="$dc/d7c/classSettingView.html#aea351f9991f935b3e310a00efe3fcf6d" title="Dynamically creates and adds resolution radio buttons to the UI." alt="" coords="815,100,1049,140"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="1111,123,1049,123,1049,117,1111,117"/>
+<area shape="rect" id="Node000014" href="$d2/dd2/classFunctionModel.html#aa97dab815b623f2bef3d112062fd40d2" title="Loads function records from a SQLite database into memory." alt="" coords="808,639,1056,665"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="1122,620,1004,642,1003,637,1121,615"/>
+<area shape="rect" id="Node000015" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Sets up the application routes and component bindings." alt="" coords="593,663,696,689"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="795,666,696,674,696,669,794,661"/>
+<area shape="poly" id="edge19_Node000016_Node000006" title=" " alt="" coords="819,372,441,393,441,388,819,366"/>
+<area shape="poly" id="edge21_Node000017_Node000006" title=" " alt="" coords="826,475,684,463,529,441,431,417,432,412,530,436,685,458,826,469"/>
+<area shape="poly" id="edge23_Node000018_Node000006" title=" " alt="" coords="565,288,530,302,459,340,399,377,397,372,456,335,528,298,563,283"/>
+<area shape="poly" id="edge25_Node000019_Node000006" title=" " alt="" coords="835,315,530,364,441,381,440,376,529,359,834,310"/>
+<area shape="poly" id="edge34_Node000020_Node000006" title=" " alt="" coords="1113,408,441,398,441,393,1113,403"/>
+<area shape="poly" id="edge31_Node000020_Node000016" title=" " alt="" coords="1113,394,1031,381,1032,376,1114,389"/>
+<area shape="poly" id="edge32_Node000020_Node000017" title=" " alt="" coords="1115,433,1011,460,1010,455,1114,428"/>
+<area shape="poly" id="edge33_Node000020_Node000019" title=" " alt="" coords="1158,382,1109,357,1055,333,1016,320,1017,315,1057,328,1111,352,1160,378"/>
+<area shape="rect" id="Node000021" href="$d1/db4/classConfigurationView.html#ae975d0a3542a1311028e29fab91d3943" title="Initializes the UI controls (spin buttons, switches) with values from the data model." alt="" coords="822,521,1042,561"/>
+<area shape="poly" id="edge27_Node000020_Node000021" title=" " alt="" coords="1172,438,1120,476,1057,512,1026,524,1024,519,1055,507,1117,472,1169,433"/>
+<area shape="poly" id="edge28_Node000021_Node000018" title=" " alt="" coords="815,517,806,511,776,486,749,457,704,392,671,330,651,283,656,281,676,328,708,389,753,453,780,482,810,507,818,513"/>
+<area shape="rect" id="Node000022" href="$d1/db4/classConfigurationView.html#a0c5fed278f22ffa2813ed1b3f3fe7f4f" title="Binds UI widgets from the Glade file to class member variables." alt="" coords="293,535,441,575"/>
+<area shape="poly" id="edge29_Node000021_Node000022" title=" " alt="" coords="808,547,441,556,441,550,808,542"/>
+<area shape="poly" id="edge30_Node000022_Node000007" title=" " alt="" coords="311,531,145,449,148,444,313,526"/>
+<area shape="poly" id="edge38_Node000023_Node000006" title=" " alt="" coords="1100,570,1056,576,932,587,877,585,808,576,747,563,687,545,572,501,473,455,402,417,404,413,476,451,574,497,689,540,749,558,808,571,877,580,931,582,1056,571,1099,565"/>
+<area shape="poly" id="edge36_Node000023_Node000021" title=" " alt="" coords="1090,546,1042,546,1042,540,1090,541"/>
+<area shape="poly" id="edge37_Node000023_Node000023" title=" " alt="" coords="1244,514,1231,507,1206,504,1184,506,1172,511,1167,517,1169,524,1164,526,1162,516,1168,506,1183,501,1206,499,1232,502,1246,509"/>
+<area shape="poly" id="edge40_Node000024_Node000014" title=" " alt="" coords="1107,655,1056,655,1056,649,1107,649"/>
+</map>

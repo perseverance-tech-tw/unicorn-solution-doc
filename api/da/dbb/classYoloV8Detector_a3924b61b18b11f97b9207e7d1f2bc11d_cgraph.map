@@ -1,0 +1,11 @@
+<map id="YoloV8Detector::detect" name="YoloV8Detector::detect">
+<area shape="rect" id="Node000001" title="Detects objects in the input image and returns the detection results." alt="" coords="5,99,176,125"/>
+<area shape="rect" id="Node000002" href="$da/dbb/classYoloV8Detector.html#aec6f221ea7caca18f8c59905bf985a13" title="Draws the detection results on the input image." alt="" coords="239,5,400,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,97,223,55,243,47,245,53,225,60,122,102"/>
+<area shape="rect" id="Node000003" href="$da/dbb/classYoloV8Detector.html#a66822ee5c0b01491b9193175cb46c915" title="Runs inference on the preprocessed input tensor." alt="" coords="224,70,415,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,98,210,94,211,99,176,104"/>
+<area shape="rect" id="Node000004" href="$da/dbb/classYoloV8Detector.html#a1390ec5ee2fab049245ed51d9e19a6fb" title="Prepares the input image for inference." alt="" coords="230,120,409,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,120,217,125,216,130,176,125"/>
+<area shape="rect" id="Node000005" href="$da/dbb/classYoloV8Detector.html#a8ca341827d323c4c8330e0dc969e94f4" title="Processes the raw output tensors to extract bounding boxes, scores, and class IDs." alt="" coords="230,184,409,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="119,122,225,170,244,177,242,182,223,174,117,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LiveViewView::setActiveInternalButton" name="LiveViewView::setActiveInternalButton">
+<area shape="rect" id="Node000001" title="Sets the visual &#39;active&#39; state for an internal navigation button (e.g., Main, Panorama)." alt="" coords="5,5,236,45"/>
+<area shape="rect" id="Node000002" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="284,13,411,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,23,270,23,270,28,237,28"/>
+</map>

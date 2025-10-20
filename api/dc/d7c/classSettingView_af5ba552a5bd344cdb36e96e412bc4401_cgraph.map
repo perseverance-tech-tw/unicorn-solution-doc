@@ -1,0 +1,9 @@
+<map id="SettingView::onSaveDatetimeFormat" name="SettingView::onSaveDatetimeFormat">
+<area shape="rect" id="Node000001" title="Static callback for the &#39;Save&#39; button in datetime settings." alt="" coords="5,23,221,63"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="299,5,463,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,30,285,24,285,30,222,36"/>
+<area shape="rect" id="Node000004" href="$de/d7b/classMessageDialog.html#aefa0ad36108530840218a99631f73974" title="Creates, shows, and destroys a modal GTK message dialog." alt="" coords="269,55,492,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,50,256,53,255,59,221,56"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="540,5,687,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,15,526,15,526,21,463,21"/>
+</map>

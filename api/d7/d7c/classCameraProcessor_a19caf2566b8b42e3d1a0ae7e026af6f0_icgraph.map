@@ -1,0 +1,17 @@
+<map id="CameraProcessor::detectAvailableCameras" name="CameraProcessor::detectAvailableCameras">
+<area shape="rect" id="Node000001" title="Detects all available video cameras connected to the system." alt="" coords="1396,27,1641,67"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a93a2d3cd53d12edde5db2ee4596659a8" title="Initializes available cameras (executed once)." alt="" coords="1168,5,1337,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1382,35,1337,30,1338,25,1383,30"/>
+<area shape="rect" id="Node000003" href="$d7/d7c/classCameraProcessor.html#a368b2ecbea0b1b75bc6075152fefdeda" title="Re&#45;scans and returns an updated list of available cameras." alt="" coords="1157,55,1348,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1383,64,1349,68,1348,63,1382,59"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#ae1411491add31744add938be5b7018cc" title="Refreshes the list of connected cameras." alt="" coords="951,63,1109,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1143,78,1110,78,1110,73,1143,73"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#a8be728413fab5c4ea2349e9839ff5b23" title="Refreshes the list of available camera devices." alt="" coords="708,55,903,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="937,78,903,78,903,73,937,73"/>
+<area shape="rect" id="Node000006" href="$d6/d8a/classLiveViewController.html#aa5796ded0fe04b24cc7221a21aeda98c" title="Opens a connected camera device via GStreamer." alt="" coords="515,55,660,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="694,78,660,78,660,73,694,73"/>
+<area shape="rect" id="Node000007" href="$d0/d13/classLiveViewView.html#af6021391acc5a19defca5b9c342aa7fc" title="Static wrapper for the &#39;Open Camera&#39; button click signal." alt="" coords="265,55,467,95"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="501,78,467,78,467,73,501,73"/>
+<area shape="rect" id="Node000008" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,63,217,88"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="252,78,217,78,217,73,252,73"/>
+</map>

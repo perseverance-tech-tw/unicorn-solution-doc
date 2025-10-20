@@ -1,0 +1,14 @@
+<map id="LiveViewView::startVideoPlayback" name="LiveViewView::startVideoPlayback">
+<area shape="rect" id="Node000001" title="Initiates the video playback loop for a loaded media file." alt="" coords="749,37,936,77"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#ac3ceba55f7297483763f02269dd3c140" title="Opens media file dialog for image or video selection." alt="" coords="535,5,681,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="735,45,680,38,681,33,736,40"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#a6623836ead39e0d6e910d5d8f23c11e3" title="Starts or resumes video playback." alt="" coords="515,69,701,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="736,75,702,79,701,74,736,69"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html#a8e807352f3b2f67a6c3f975a46837990" title="Static wrapper for the &#39;Load Media&#39; button click signal." alt="" coords="265,5,467,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="521,28,467,28,467,23,521,23"/>
+<area shape="rect" id="Node000004" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,45,217,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,42,213,47,212,42,251,37"/>
+<area shape="rect" id="Node000006" href="$d0/d13/classLiveViewView.html#a0fbcaa21ac6506ec58d0ac73964891b3" title="Static wrapper for the &#39;Play/Resume&#39; video playback button click signal." alt="" coords="265,69,467,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="501,92,467,92,467,87,501,87"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="251,78,212,73,213,67,252,72"/>
+</map>

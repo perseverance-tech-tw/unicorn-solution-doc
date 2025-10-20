@@ -1,0 +1,5 @@
+<map id="Translator::loadLanguageSettings" name="Translator::loadLanguageSettings">
+<area shape="rect" id="Node000001" title="Loads the last used language from the configuration file." alt="" coords="5,5,191,45"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#ae383320be2d8bc76a23ababafb2a363c" title="Determines and creates the configuration directory and path if they don&#39;t exist." alt="" coords="239,13,423,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,23,225,23,225,28,191,28"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="FunctionModel::updateValue" name="FunctionModel::updateValue">
+<area shape="rect" id="Node000001" title="Updates the parameters of a specific function record." alt="" coords="5,42,212,67"/>
+<area shape="rect" id="Node000002" href="$d2/dd2/classFunctionModel.html#a790db6bdf6c9742933870cc5f69a9fa2" title="Saves all in&#45;memory function records to the SQLite database." alt="" coords="260,13,492,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,41,246,37,247,42,213,46"/>
+<area shape="rect" id="Node000004" href="$d8/d7f/classBaseModel.html#a8d849d71a00141d530f70d23ce83a0a6" title="Updates a record with a given ID." alt="" coords="271,63,481,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,63,258,68,258,73,212,68"/>
+<area shape="rect" id="Node000003" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Reads all stored records." alt="" coords="540,5,749,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="492,23,527,23,527,28,492,28"/>
+</map>

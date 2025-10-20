@@ -1,0 +1,27 @@
+<map id="MoildevApplicator::applyMarginToMap" name="MoildevApplicator::applyMarginToMap">
+<area shape="rect" id="Node000001" title="Applies cropping (margins) to a base map and saves the result." alt="" coords="5,195,153,235"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="201,97,416,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,193,248,140,250,145,128,198"/>
+<area shape="rect" id="Node000007" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="227,203,391,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="154,213,213,213,213,218,154,218"/>
+<area shape="rect" id="Node000009" href="$d2/dd2/classFunctionModel.html#a36183ae73ea97e3488aadb81e2cf55c9" title="Saves new map matrices to a record and its corresponding files." alt="" coords="217,276,401,301"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="143,233,256,269,254,274,142,238"/>
+<area shape="rect" id="Node000003" href="$d1/dc8/classMoildev.html#ad4818dfc88bdadd90595d8ddd20e1d52" title=" " alt="" coords="493,5,644,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,94,399,66,463,39,488,32,490,37,465,45,402,71,347,99"/>
+<area shape="rect" id="Node000004" href="$d1/dc8/classMoildev.html#a02794642b11e74d4567fc645aef71a70" title=" " alt="" coords="475,55,662,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="414,94,487,80,488,85,415,99"/>
+<area shape="rect" id="Node000005" href="$d1/dc8/classMoildev.html#aa57069b0f4c853ebfcf8d642960a1442" title=" " alt="" coords="478,104,659,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="416,114,464,114,464,119,416,119"/>
+<area shape="rect" id="Node000006" href="$d1/dc8/classMoildev.html#a3fef5721ae893cb26e3b6af5402f9320" title=" " alt="" coords="485,153,653,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="415,134,488,148,487,153,414,139"/>
+<area shape="rect" id="Node000008" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="495,203,642,228"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="391,213,482,213,482,218,391,218"/>
+<area shape="rect" id="Node000010" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="509,252,628,277"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="400,278,495,269,496,274,401,283"/>
+<area shape="rect" id="Node000012" href="$da/da2/glade_8cpp.html#a1599dcb10c73bc9252ed092964a4e518" title="Sanitizes a string to be used as a valid filename." alt="" coords="501,301,636,327"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="401,295,488,304,487,309,400,300"/>
+<area shape="rect" id="Node000013" href="$d8/d7f/classBaseModel.html#a8d849d71a00141d530f70d23ce83a0a6" title="Updates a record with a given ID." alt="" coords="464,351,673,391"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="350,299,493,345,491,350,349,304"/>
+<area shape="rect" id="Node000011" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="721,252,855,277"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="628,262,708,262,708,267,628,267"/>
+</map>

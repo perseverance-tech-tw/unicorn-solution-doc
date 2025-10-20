@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkunicorn_solution=globalThis.webpackChunkunicorn_solution||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/unicorn-solution-doc/blog","blogTitle":"Blog","authorsListPath":"/unicorn-solution-doc/blog/authors"}')}}]);

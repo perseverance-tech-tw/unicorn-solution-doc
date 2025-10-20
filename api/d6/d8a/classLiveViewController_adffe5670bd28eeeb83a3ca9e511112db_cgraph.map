@@ -1,0 +1,17 @@
+<map id="LiveViewController::startRecord" name="LiveViewController::startRecord">
+<area shape="rect" id="Node000001" title="Starts recording the current live view." alt="" coords="5,85,151,125"/>
+<area shape="rect" id="Node000002" href="$d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e" title="Checks if the system is currently recording." alt="" coords="207,5,421,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,82,152,61,198,41,228,31,230,37,200,46,154,65,114,87"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html#a5846b9e4115f6aaba09ad0c74a8d05ec" title="Sets the visual &#39;active&#39; state for an internal navigation button (e.g., Main, Panorama)." alt="" coords="199,55,429,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,93,185,89,185,94,152,98"/>
+<area shape="rect" id="Node000005" href="$de/d7b/classMessageDialog.html#aefa0ad36108530840218a99631f73974" title="Creates, shows, and destroys a modal GTK message dialog." alt="" coords="203,120,425,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="152,111,194,116,193,121,151,116"/>
+<area shape="rect" id="Node000006" href="$d0/d64/namespaceRecordProcessor.html#a4bad10b0fc88ac8db2a4a299f599df1e" title="Starts the video recording process." alt="" coords="207,169,421,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="120,122,200,155,229,164,227,169,198,161,118,127"/>
+<area shape="rect" id="Node000004" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="477,63,604,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="430,73,463,73,463,78,430,78"/>
+<area shape="rect" id="Node000007" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="481,169,600,195"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="421,179,467,179,467,185,421,185"/>
+<area shape="rect" id="Node000008" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="652,169,785,195"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="600,179,638,179,638,185,600,185"/>
+</map>

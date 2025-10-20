@@ -1,0 +1,5 @@
+<map id="RiskLogger::logMois" name="RiskLogger::logMois">
+<area shape="rect" id="Node000001" title="Logs the details of a MOIS (Manoeuvring Overtaking Information System) risk assessment." alt="" coords="5,5,159,31"/>
+<area shape="rect" id="Node000002" href="$db/d5d/namespaceRiskLogger.html#ae8d14ec72311e371f307fbe874b61fa8" title="Logs the details of a single ZoneRisk." alt="" coords="207,5,361,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,15,193,15,193,21,159,21"/>
+</map>

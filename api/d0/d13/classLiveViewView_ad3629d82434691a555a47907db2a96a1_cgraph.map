@@ -1,0 +1,19 @@
+<map id="LiveViewView::hitControllerAiButtonWrapper" name="LiveViewView::hitControllerAiButtonWrapper">
+<area shape="rect" id="Node000001" title="Static wrapper for the &#39;AI&#39; button click signal." alt="" coords="5,88,207,128"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#adf78489232b4a73cc74722080e0813d9" title="Toggles the AI processing button state (ON/OFF)." alt="" coords="255,59,421,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,93,241,88,241,94,207,98"/>
+<area shape="rect" id="Node000008" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="256,123,420,149"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="207,118,243,122,242,127,207,123"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html#a5846b9e4115f6aaba09ad0c74a8d05ec" title="Sets the visual &#39;active&#39; state for an internal navigation button (e.g., Main, Panorama)." alt="" coords="469,5,700,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,58,478,46,479,51,422,63"/>
+<area shape="rect" id="Node000005" href="$da/da2/glade_8cpp.html#ac53a941281312000616c1b26c2dbdbc1" title="Sets up hover and active state image effects for a button." alt="" coords="472,70,697,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="422,77,458,78,458,83,422,83"/>
+<area shape="rect" id="Node000004" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="748,13,875,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="701,23,734,23,734,28,701,28"/>
+<area shape="rect" id="Node000006" href="$da/da2/glade_8cpp.html#ad1d9c4d98d16172f9107f55eaca0a626" title="Static GTK callback for the &quot;enter&#45;notify&#45;event&quot; (mouse hover)." alt="" coords="750,66,873,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="697,78,736,77,736,83,697,83"/>
+<area shape="rect" id="Node000007" href="$da/da2/glade_8cpp.html#a13fa12eb9a5c0e04138952795ea717a5" title="Static GTK callback for the &quot;leave&#45;notify&#45;event&quot; (mouse un&#45;hover)." alt="" coords="749,115,874,141"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="650,93,736,110,735,115,648,98"/>
+<area shape="rect" id="Node000009" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="511,123,658,149"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="420,133,498,133,498,139,420,139"/>
+</map>

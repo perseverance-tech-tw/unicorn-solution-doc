@@ -1,0 +1,25 @@
+<map id="SettingController::switchToMenuPage" name="SettingController::switchToMenuPage">
+<area shape="rect" id="Node000001" title="Switches to the settings menu page." alt="" coords="529,197,675,237"/>
+<area shape="rect" id="Node000002" href="$dc/d7c/classSettingView.html#ad2a71858db29261c53b1adbfa7baf46d" title="Static callback for the &#39;Back&#39; button to return to the main settings menu." alt="" coords="267,5,466,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="583,187,542,122,513,88,480,60,458,48,461,43,483,55,517,84,546,119,587,184"/>
+<area shape="rect" id="Node000004" href="$dc/d7c/classSettingView.html#a9a06d7883c3846d2cd60beb67614007f" title="Static callback to switch the application language to Arabic." alt="" coords="252,69,481,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="570,190,529,155,480,124,453,112,455,107,483,119,532,151,573,186"/>
+<area shape="rect" id="Node000005" href="$dc/d7c/classSettingView.html#ac7a30aec357689e34887cc8e9c94b61d" title="Static callback to switch the application language to German." alt="" coords="252,133,481,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="515,197,440,176,442,171,517,191"/>
+<area shape="rect" id="Node000006" href="$dc/d7c/classSettingView.html#acb790b43104b7e20afd62d491c0a2bb1" title="Static callback to switch the application language to English." alt="" coords="252,197,481,237"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="516,220,481,220,481,215,516,215"/>
+<area shape="rect" id="Node000007" href="$dc/d7c/classSettingView.html#a88a487affdce72f54458b1f2aee5848b" title="Static callback to switch the application language to Spanish." alt="" coords="252,261,481,301"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="517,243,442,264,440,259,515,238"/>
+<area shape="rect" id="Node000008" href="$dc/d7c/classSettingView.html#ab25ae58375942d1546ceffe8de8cc9b1" title="Static callbacks for &#39;clicked&#39; events on language selection buttons." alt="" coords="252,325,481,365"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="573,249,532,284,483,316,455,328,453,323,480,311,529,279,570,245"/>
+<area shape="rect" id="Node000009" href="$dc/d7c/classSettingView.html#ae0fcf2bd5f209e1e4518cdf8d9330652" title="Static callback to switch the application language to Chinese." alt="" coords="252,389,481,429"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="587,251,546,316,517,350,483,380,461,392,458,387,480,375,513,347,542,313,583,248"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects GTK signals from widgets to their callback handlers." alt="" coords="5,205,204,230"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,53,253,60,208,95,168,136,116,206,112,203,164,133,204,91,251,55,262,49"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="271,116,253,124,179,166,123,207,120,203,176,162,251,119,269,111"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="271,179,158,207,157,202,270,174"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="238,220,204,220,204,215,238,215"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="270,261,157,233,158,227,271,255"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="269,323,251,316,176,273,120,232,123,228,179,268,253,311,271,318"/>
+<area shape="poly" id="edge14_Node000009_Node000003" title=" " alt="" coords="262,386,251,380,204,344,164,302,112,232,116,229,168,299,208,340,253,375,265,381"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="PlaybackView::cleanupPlaybackState" name="PlaybackView::cleanupPlaybackState">
+<area shape="rect" id="Node000001" title="Resets all playback state and cleans up resources." alt="" coords="925,67,1156,107"/>
+<area shape="rect" id="Node000002" href="$d0/d22/classPlaybackController.html#ac6d9f383762724ca93ccb128044883e6" title="Static callback for handling video button clicks in the playback view." alt="" coords="732,20,877,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="925,67,877,57,878,52,926,61"/>
+<area shape="rect" id="Node000006" href="$d6/d8a/classLiveViewController.html#a54c77bf5f4e9fbc0c676b58e40d721a8" title="Opens the live view page and initializes mode." alt="" coords="732,99,877,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="912,107,878,111,877,106,911,102"/>
+<area shape="rect" id="Node000003" href="$d0/d22/classPlaybackController.html#ae49cbe73c54af212f9cce725c6c02467" title="Opens the playback page and initializes playback&#45;related UI components." alt="" coords="511,5,656,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="718,37,656,33,656,27,719,32"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a686b54a2e8900d6e292bc03b5aa30db0" title="Handles the &#39;Playback&#39; button click event." alt="" coords="210,9,425,49"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="497,29,425,30,425,25,496,24"/>
+<area shape="rect" id="Node000005" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="5,77,152,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="224,55,130,79,129,74,223,50"/>
+<area shape="rect" id="Node000007" href="$d0/d13/classLiveViewView.html#a3aedb33d7095e4773446855a31032e0a" title="Static wrapper for the &#39;Main View&#39; button click signal." alt="" coords="483,69,684,109"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="718,110,684,105,685,100,719,105"/>
+<area shape="rect" id="Node000009" href="$dd/d64/classApp.html#a39e47e97870317e27f578239ae95706e" title="Handles the &#39;Live View&#39; button click event." alt="" coords="200,130,435,155"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="718,126,435,140,435,134,718,120"/>
+<area shape="rect" id="Node000010" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Sets up the application routes and component bindings." alt="" coords="532,185,635,210"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="742,146,685,168,627,187,625,182,683,163,740,141"/>
+<area shape="rect" id="Node000008" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="211,77,423,102"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="469,92,424,92,424,87,469,87"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="246,130,135,105,137,99,247,124"/>
+</map>

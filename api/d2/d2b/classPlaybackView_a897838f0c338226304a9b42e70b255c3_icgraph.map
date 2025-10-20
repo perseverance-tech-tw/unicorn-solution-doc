@@ -1,0 +1,33 @@
+<map id="PlaybackView::setActiveInternalButton" name="PlaybackView::setActiveInternalButton">
+<area shape="rect" id="Node000001" title="Sets the visual &#39;active&#39; state for an internal navigation button." alt="" coords="1196,146,1427,186"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#a833c36846b6744d16dd5718339a2657c" title="Switches the playback display to the BSIS view." alt="" coords="943,5,1121,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1278,138,1220,89,1185,65,1147,44,1115,33,1117,28,1149,40,1187,60,1223,85,1282,134"/>
+<area shape="rect" id="Node000004" href="$d2/d2b/classPlaybackView.html#a63e77e38dbc48dfde138e9ec87f86266" title="Switches the playback display to the BSIS Left view." alt="" coords="931,55,1133,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1259,142,1206,117,1147,94,1106,83,1107,78,1149,89,1208,112,1262,137"/>
+<area shape="rect" id="Node000005" href="$d2/d2b/classPlaybackView.html#ab5beb6a1826d5237441d60cd4de1b110" title="Switches the playback display to the BSIS Reverse view." alt="" coords="916,104,1148,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1184,146,1104,132,1105,127,1185,141"/>
+<area shape="rect" id="Node000006" href="$d2/d2b/classPlaybackView.html#ad821e14f04072ba800c93e8dc1b9380a" title="Switches the playback display to the BSIS Right view." alt="" coords="925,153,1139,179"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="1182,169,1139,169,1139,163,1182,163"/>
+<area shape="rect" id="Node000007" href="$d2/d2b/classPlaybackView.html#a29d29c24637cc95c7decca7f8e48053e" title="Switches the playback display to the MOIS view." alt="" coords="941,301,1123,327"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="1282,198,1223,247,1187,272,1149,292,1117,304,1115,299,1147,288,1185,267,1220,243,1278,194"/>
+<area shape="rect" id="Node000012" href="$d2/d2b/classPlaybackView.html#a80748013a91fbd2443976b789b2c7cfd" title="Switches the playback display to the Original view." alt="" coords="931,203,1133,228"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="1185,191,1105,205,1104,200,1184,186"/>
+<area shape="rect" id="Node000013" href="$d2/d2b/classPlaybackView.html#aedf98be2691f2230fa742106a58ecd29" title="Switches the playback display to the Panorama view." alt="" coords="923,252,1141,277"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="1261,194,1208,219,1149,242,1103,255,1101,249,1147,237,1205,214,1259,190"/>
+<area shape="rect" id="Node000003" href="$d2/d2b/classPlaybackView.html#a55ca9c40e4b3b4672e730ae2e3d50c60" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="656,153,868,179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="934,37,917,44,873,70,834,101,777,155,773,151,830,97,870,66,915,40,932,32"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="944,86,917,94,844,125,787,155,784,151,842,120,915,89,942,81"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="949,134,833,156,832,151,948,129"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="911,169,868,169,868,163,911,163"/>
+<area shape="poly" id="edge14_Node000007_Node000003" title=" " alt="" coords="932,300,915,292,870,266,830,235,773,181,777,177,834,231,873,262,917,288,934,295"/>
+<area shape="rect" id="Node000008" href="$d0/d22/classPlaybackController.html#ac6d9f383762724ca93ccb128044883e6" title="Static callback for handling video button clicks in the playback view." alt="" coords="689,294,835,334"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="927,317,835,317,835,311,927,311"/>
+<area shape="rect" id="Node000009" href="$d0/d22/classPlaybackController.html#ae49cbe73c54af212f9cce725c6c02467" title="Opens the playback page and initializes playback&#45;related UI components." alt="" coords="463,294,608,334"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="676,317,608,317,608,311,676,311"/>
+<area shape="rect" id="Node000010" href="$dd/d64/classApp.html#a686b54a2e8900d6e292bc03b5aa30db0" title="Handles the &#39;Playback&#39; button click event." alt="" coords="200,294,415,334"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="448,317,415,317,415,311,448,311"/>
+<area shape="rect" id="Node000011" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="5,301,152,327"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="186,317,152,317,152,311,186,311"/>
+<area shape="poly" id="edge16_Node000012_Node000003" title=" " alt="" coords="948,203,832,181,833,176,949,198"/>
+<area shape="poly" id="edge18_Node000013_Node000003" title=" " alt="" coords="947,251,915,242,843,211,785,181,787,177,845,207,917,237,948,246"/>
+</map>

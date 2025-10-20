@@ -1,0 +1,7 @@
+<map id="include/helpers/navigation.hpp" name="include/helpers/navigation.hpp">
+<area shape="rect" id="Node000001" title="Declares a helper function for carousel&#45;style navigation in a GtkStack." alt="" coords="88,5,311,31"/>
+<area shape="rect" id="Node000002" href="$da/d7b/navigation_8cpp.html" title="Implements the carousel navigation helper for GtkStack." alt="" coords="5,86,199,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,41,118,88,115,84,173,37"/>
+<area shape="rect" id="Node000003" href="$d8/dc9/live__view__view_8cpp.html" title="Implementation of the LiveViewView class, which handles the main live view UI." alt="" coords="223,79,373,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,37,276,76,273,81,223,41"/>
+</map>
