@@ -1,0 +1,17 @@
+<map id="MoildevApplicator::createMaps" name="MoildevApplicator::createMaps">
+<area shape="rect" id="Node000001" title="Generates and saves the base (full&#45;resolution) maps for all function presets." alt="" coords="5,146,153,186"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="201,97,416,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,148,202,137,203,142,154,153"/>
+<area shape="rect" id="Node000007" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="227,181,391,207"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="154,172,213,180,213,185,153,178"/>
+<area shape="rect" id="Node000003" href="$d1/dc8/classMoildev.html#ad4818dfc88bdadd90595d8ddd20e1d52" title=" " alt="" coords="482,5,633,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,94,400,66,463,40,486,32,488,37,465,44,402,71,348,99"/>
+<area shape="rect" id="Node000004" href="$d1/dc8/classMoildev.html#a02794642b11e74d4567fc645aef71a70" title=" " alt="" coords="464,55,651,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="410,94,479,80,480,85,411,99"/>
+<area shape="rect" id="Node000005" href="$d1/dc8/classMoildev.html#aa57069b0f4c853ebfcf8d642960a1442" title=" " alt="" coords="467,104,648,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="416,114,453,114,453,119,416,119"/>
+<area shape="rect" id="Node000006" href="$d1/dc8/classMoildev.html#a3fef5721ae893cb26e3b6af5402f9320" title=" " alt="" coords="473,153,641,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="411,134,480,148,479,153,410,139"/>
+<area shape="rect" id="Node000008" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="484,203,631,228"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="391,198,470,205,470,211,391,204"/>
+</map>

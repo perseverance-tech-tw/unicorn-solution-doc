@@ -1,0 +1,13 @@
+<map id="BaseView" name="BaseView">
+<area shape="rect" id="Node000001" title="Abstract base class providing common GTK view functionality." alt="" coords="256,5,343,31"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html" title="Main application class that handles GTK UI initialization, navigation, and signal connections." alt="" coords="5,79,52,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,35,65,81,53,85,51,80,64,76,242,30"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html" title="Manages the user interface for the camera configuration page." alt="" coords="77,79,218,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,39,173,81,171,76,262,34"/>
+<area shape="rect" id="Node000004" href="$d0/d13/classLiveViewView.html" title="View for live view functionality, including media loading and display mode switching." alt="" coords="243,79,356,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,44,302,79,297,79,297,44"/>
+<area shape="rect" id="Node000005" href="$d2/d2b/classPlaybackView.html" title="Manages the user interface for the video playback page." alt="" coords="380,79,493,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="335,34,415,76,413,81,332,39"/>
+<area shape="rect" id="Node000006" href="$dc/d7c/classSettingView.html" title="Manages the user interface for the application&#39;s settings pages." alt="" coords="517,79,617,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="357,32,525,76,523,81,355,37"/>
+</map>

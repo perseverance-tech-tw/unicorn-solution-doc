@@ -1,0 +1,9 @@
+<map id="include/helpers/response_retry.hpp" name="include/helpers/response_retry.hpp">
+<area shape="rect" id="Node000001" title="Declares a helper function to display a modal &quot;Retry/Close&quot; dialog." alt="" coords="160,5,344,45"/>
+<area shape="rect" id="Node000002" href="$de/d54/live__view__controller_8cpp.html" title="Implements the LiveViewController class, managing live camera feeds, media input, recording,..." alt="" coords="5,93,160,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,54,121,96,119,91,202,49"/>
+<area shape="rect" id="Node000003" href="$d5/df2/app_8cpp.html" title="Implementation of the App class, which represents the main application window." alt="" coords="185,101,319,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,59,255,100,249,100,249,59"/>
+<area shape="rect" id="Node000004" href="$d0/d40/response__retry_8cpp.html" title="Implements the showRetryDialog helper function." alt="" coords="343,93,499,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,49,385,91,383,96,300,54"/>
+</map>

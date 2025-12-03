@@ -1,0 +1,11 @@
+<map id="SettingController::switchToDatetimePage" name="SettingController::switchToDatetimePage">
+<area shape="rect" id="Node000001" title="Switches the view to the Date and Time Settings page." alt="" coords="5,5,176,45"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#a430ec18fc43b2bdb0a2007563c29b270" title="Updates labels and images for the specified page." alt="" coords="224,5,392,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,23,210,23,210,28,176,28"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#ae9b2362ef7a27751976241012e2debd8" title="Sets the text of a GtkLabel using a translation key." alt="" coords="440,13,616,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,23,426,23,426,28,392,28"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="664,13,807,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="616,23,650,23,650,28,616,28"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="855,13,1079,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="807,23,841,23,841,28,807,28"/>
+</map>

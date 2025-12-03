@@ -1,0 +1,9 @@
+<map id="PlaybackController::PlaybackController" name="PlaybackController::PlaybackController">
+<area shape="rect" id="Node000001" title="Constructs a new PlaybackController." alt="" coords="5,23,159,63"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="207,5,371,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,31,193,27,193,32,159,37"/>
+<area shape="rect" id="Node000004" href="$dd/d94/classBaseView.html#a9bf94b085e1a70487bc653e531c7082a" title="Returns the main view widget." alt="" coords="215,55,362,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,50,202,55,201,60,158,55"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="419,5,565,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,15,405,15,405,21,371,21"/>
+</map>

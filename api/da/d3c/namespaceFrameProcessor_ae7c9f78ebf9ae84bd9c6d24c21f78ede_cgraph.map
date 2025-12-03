@@ -1,0 +1,5 @@
+<map id="FrameProcessor::remapFrame" name="FrameProcessor::remapFrame">
+<area shape="rect" id="Node000001" title="Applies a remapping transformation to a frame using pre&#45;calculated maps." alt="" coords="5,13,223,38"/>
+<area shape="rect" id="Node000002" href="$da/d3c/namespaceFrameProcessor.html#a8547e1931e54e4e6b790a2e513a0c52b" title="Resizes and pads/crops an image to fit exactly into target dimensions." alt="" coords="271,5,440,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,23,257,23,257,28,223,28"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="LiveViewController::changeAiButtonState" name="LiveViewController::changeAiButtonState">
+<area shape="rect" id="Node000001" title="Toggles the AI processing button state (ON/OFF)." alt="" coords="5,35,172,75"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#a5846b9e4115f6aaba09ad0c74a8d05ec" title="Sets the visual &#39;active&#39; state for an internal navigation button (e.g., Main, Panorama)." alt="" coords="220,5,451,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,42,206,38,206,43,173,47"/>
+<area shape="rect" id="Node000004" href="$da/da2/glade_8cpp.html#ac53a941281312000616c1b26c2dbdbc1" title="Sets up hover and active state image effects for a button." alt="" coords="223,70,448,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,61,210,66,210,71,172,67"/>
+<area shape="rect" id="Node000003" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="499,13,625,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,23,485,23,485,28,451,28"/>
+<area shape="rect" id="Node000005" href="$da/da2/glade_8cpp.html#ad1d9c4d98d16172f9107f55eaca0a626" title="Static GTK callback for the &quot;enter&#45;notify&#45;event&quot; (mouse hover)." alt="" coords="501,66,623,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="448,78,487,77,487,83,448,83"/>
+<area shape="rect" id="Node000006" href="$da/da2/glade_8cpp.html#a13fa12eb9a5c0e04138952795ea717a5" title="Static GTK callback for the &quot;leave&#45;notify&#45;event&quot; (mouse un&#45;hover)." alt="" coords="499,115,625,141"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="400,93,486,110,485,115,399,98"/>
+</map>

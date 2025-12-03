@@ -1,0 +1,11 @@
+<map id="RiskLogger::logZone" name="RiskLogger::logZone">
+<area shape="rect" id="Node000001" title="Logs the details of a single ZoneRisk." alt="" coords="256,80,411,105"/>
+<area shape="rect" id="Node000002" href="$db/d5d/namespaceRiskLogger.html#a37ca1fa8564f9d3ea566520e433f40e1" title="Logs the details of a BSIS risk assessment for the left side." alt="" coords="20,5,193,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,77,207,45,167,33,168,28,209,39,293,72"/>
+<area shape="rect" id="Node000003" href="$db/d5d/namespaceRiskLogger.html#aae5ba5f761c590c3b7386bc8579067af" title="Logs the details of a BSIS risk assessment for the reverse direction." alt="" coords="5,55,208,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,85,208,81,209,76,242,80"/>
+<area shape="rect" id="Node000004" href="$db/d5d/namespaceRiskLogger.html#a13527f457e15157b443e4067beb413de" title="Logs the details of a BSIS (Blind Spot Information System) risk assessment for the right side." alt="" coords="15,104,198,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,105,198,110,198,104,242,100"/>
+<area shape="rect" id="Node000005" href="$db/d5d/namespaceRiskLogger.html#a65ffe6ed6c83c91d8e59c6328f1c7e89" title="Logs the details of a MOIS (Manoeuvring Overtaking Information System) risk assessment." alt="" coords="30,153,183,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="291,113,209,143,164,156,163,151,207,138,289,108"/>
+</map>

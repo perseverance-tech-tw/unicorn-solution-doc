@@ -1,0 +1,9 @@
+<map id="src/helpers/navigation.cpp" name="src/helpers/navigation.cpp">
+<area shape="rect" id="Node000001" title="Implements the carousel navigation helper for GtkStack." alt="" coords="69,5,262,31"/>
+<area shape="rect" id="Node000002" href="$d0/d6b/navigation_8hpp.html" title="Declares a helper function for carousel&#45;style navigation in a GtkStack." alt="" coords="5,79,176,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,33,115,71,111,67,152,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="200,79,280,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,29,220,67,216,71,175,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="51,152,131,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,104,93,138,88,138,88,104"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="LiveViewView::hitControllerSwitchMode" name="LiveViewView::hitControllerSwitchMode">
+<area shape="rect" id="Node000001" title="Static wrapper for the &#39;Switch Mode&#39; button click signal." alt="" coords="5,27,207,67"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="255,5,419,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,32,241,27,242,33,207,37"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#a3feb080cbba46532d63dea7a8488f035" title="Switches between standby and drive mode." alt="" coords="264,55,409,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,57,251,62,250,68,206,62"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="470,5,617,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,15,456,15,456,21,419,21"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#ae5ec2ccf5f9365640c6c24cf083b8595" title="Enables or disables UI buttons depending on the current mode." alt="" coords="467,55,620,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="409,73,453,73,453,78,409,78"/>
+</map>

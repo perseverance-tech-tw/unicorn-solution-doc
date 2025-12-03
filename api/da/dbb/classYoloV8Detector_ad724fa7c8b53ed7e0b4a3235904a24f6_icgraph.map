@@ -1,0 +1,5 @@
+<map id="YoloV8Detector::get_output_details" name="YoloV8Detector::get_output_details">
+<area shape="rect" id="Node000001" title="Retrieves and stores the output details of the model." alt="" coords="281,5,432,45"/>
+<area shape="rect" id="Node000002" href="$da/dbb/classYoloV8Detector.html#a12016418cc68e9543b3bc231335e50c9" title="Constructs the YoloV8Detector object." alt="" coords="5,13,233,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,28,233,28,233,23,268,23"/>
+</map>

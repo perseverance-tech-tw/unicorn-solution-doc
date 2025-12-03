@@ -1,0 +1,20 @@
+<map id="include/helpers/alert_manager.hpp" name="include/helpers/alert_manager.hpp">
+<area shape="rect" id="Node000001" title="Defines the AlertManager singleton class for centralized alert handling." alt="" coords="104,5,259,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,167,64,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,45,66,65,49,78,36,95,30,108,27,123,30,153,25,153,22,123,25,107,31,92,45,75,63,60,103,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="45,93,125,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,48,112,87,108,82,156,43"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="149,93,213,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,46,184,79,179,79,179,46"/>
+<area shape="rect" id="Node000005" href="$d3/db7/vru__detector_8hpp.html" title="Defines the public interface for the VRUDetector namespace." alt="" coords="237,93,400,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="216,43,288,84,285,89,213,48"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="424,93,491,119"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="248,43,412,89,410,94,247,48"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="274,121,78,170,77,165,272,116"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="114,167,251,192"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="298,121,218,163,216,158,296,116"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="275,167,362,192"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="321,119,321,153,316,153,316,119"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="386,167,449,192"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="336,117,392,156,389,161,333,121"/>
+</map>

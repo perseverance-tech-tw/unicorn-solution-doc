@@ -1,0 +1,7 @@
+<map id="VRUDetector::prepare" name="VRUDetector::prepare">
+<area shape="rect" id="Node000001" title="An overload for prepare for cases where AI is disabled or no snapshot is needed." alt="" coords="5,13,169,38"/>
+<area shape="rect" id="Node000002" href="$d1/d6a/namespaceVRUDetector.html#a207d4c68f08a1e066758db86bbccf220" title="Prepares a detection packet and ROI overlays." alt="" coords="217,13,381,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,23,204,23,204,28,170,28"/>
+<area shape="rect" id="Node000003" href="$d9/d7c/namespaceConstants.html#aa3d2e62a2936ec5bcd9198bfdc6e4344" title="Retrieves the SIZE_FACTOR value from the database." alt="" coords="429,5,612,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,23,416,23,416,28,381,28"/>
+</map>

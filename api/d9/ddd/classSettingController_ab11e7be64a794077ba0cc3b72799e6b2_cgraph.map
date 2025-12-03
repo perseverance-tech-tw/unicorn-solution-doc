@@ -1,0 +1,13 @@
+<map id="SettingController::switchToCameraPage" name="SettingController::switchToCameraPage">
+<area shape="rect" id="Node000001" title="Switches the view to the Camera Settings page." alt="" coords="5,37,165,77"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#aad93d7e770616caa6da256ef3f832152" title="Enables or disables edit mode for camera settings." alt="" coords="227,5,367,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,43,213,35,214,41,166,48"/>
+<area shape="rect" id="Node000003" href="$d9/ddd/classSettingController.html#a430ec18fc43b2bdb0a2007563c29b270" title="Updates labels and images for the specified page." alt="" coords="213,69,381,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,67,200,72,200,77,165,72"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#ae9b2362ef7a27751976241012e2debd8" title="Sets the text of a GtkLabel using a translation key." alt="" coords="429,77,605,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="381,87,416,87,416,92,381,92"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="653,77,796,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="605,87,640,87,640,92,605,92"/>
+<area shape="rect" id="Node000006" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="844,77,1068,102"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="796,87,830,87,830,92,796,92"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SettingView::syncResolutionUI" name="SettingView::syncResolutionUI">
+<area shape="rect" id="Node000001" title="Updates the resolution radio buttons to reflect the currently active setting." alt="" coords="637,13,857,38"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#aa144dd4040b8258bf421e37c299e46ba" title="Opens the settings main page and initializes UI components." alt="" coords="449,5,589,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="624,28,590,28,590,23,624,23"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a732c57f411b349bf301c8b71170db4cd" title="Handles the &#39;Settings&#39; button click event." alt="" coords="200,5,401,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,28,401,28,401,23,436,23"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="5,13,152,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="186,28,152,28,152,23,186,23"/>
+</map>

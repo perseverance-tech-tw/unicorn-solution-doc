@@ -1,0 +1,6 @@
+<map id="Translator::setTextDirection" name="Translator::setTextDirection">
+<area shape="rect" id="Node000001" title="Sets the text direction for a widget tree based on the language code." alt="" coords="5,37,205,62"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#ac6e49834a44fadd0b54bf7da049cc13a" title="Recursively applies a text direction to a widget and all of its children." alt="" coords="253,29,443,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,47,240,47,240,52,206,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="303,30,300,20,307,10,323,5,348,3,376,6,392,13,389,18,375,11,348,8,325,10,310,15,305,21,308,28"/>
+</map>

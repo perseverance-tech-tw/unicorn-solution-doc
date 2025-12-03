@@ -1,0 +1,16 @@
+<map id="include/views/live_view_view.hpp" name="include/views/live_view_view.hpp">
+<area shape="rect" id="Node000001" title="Defines the LiveViewView class, which manages the user interface for the main live video display." alt="" coords="128,5,267,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,160,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,48,112,88,109,83,168,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="157,167,237,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,46,200,153,195,153,195,46"/>
+<area shape="rect" id="Node000004" href="$d8/dee/base__view_8hpp.html" title="Declares the BaseView class used for managing GTK&#45;based user interfaces." alt="" coords="235,93,395,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,43,288,84,285,88,224,48"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="297,121,230,162,227,157,294,116"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="261,167,312,192"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="313,120,299,155,294,153,308,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="337,167,399,192"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="326,117,353,154,349,157,321,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="424,167,483,192"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="338,116,420,158,417,163,336,121"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="FunctionModel::loadMap" name="FunctionModel::loadMap">
+<area shape="rect" id="Node000001" title="Loads the mapX and mapY matrices for a record from its file paths." alt="" coords="5,224,187,249"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="243,97,458,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,221,294,140,296,145,125,226"/>
+<area shape="rect" id="Node000007" href="$d7/d8b/classMoildevApplicator.html#a929dd28d154e3a6b0a2ac443bc1b1a29" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="277,187,425,227"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="187,224,263,215,264,220,187,229"/>
+<area shape="rect" id="Node000008" href="$d2/dd2/classFunctionModel.html#a36183ae73ea97e3488aadb81e2cf55c9" title="Saves new map matrices to a record and its corresponding files." alt="" coords="259,252,443,277"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="187,244,245,250,244,256,187,249"/>
+<area shape="rect" id="Node000013" href="$d2/dd2/classFunctionModel.html#a790db6bdf6c9742933870cc5f69a9fa2" title="Saves all in&#45;memory function records to the SQLite database." alt="" coords="235,337,467,363"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="127,247,310,329,308,334,125,252"/>
+<area shape="rect" id="Node000003" href="$d1/dc8/classMoildev.html#ad4818dfc88bdadd90595d8ddd20e1d52" title=" " alt="" coords="544,5,695,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,94,447,66,514,39,540,32,542,37,516,45,449,71,391,99"/>
+<area shape="rect" id="Node000004" href="$d1/dc8/classMoildev.html#a02794642b11e74d4567fc645aef71a70" title=" " alt="" coords="526,55,713,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="458,94,536,80,537,85,459,100"/>
+<area shape="rect" id="Node000005" href="$d1/dc8/classMoildev.html#aa57069b0f4c853ebfcf8d642960a1442" title=" " alt="" coords="529,104,710,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="458,114,515,114,515,119,458,119"/>
+<area shape="rect" id="Node000006" href="$d1/dc8/classMoildev.html#a3fef5721ae893cb26e3b6af5402f9320" title=" " alt="" coords="535,153,703,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="459,134,537,148,536,153,458,139"/>
+<area shape="rect" id="Node000009" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="560,203,679,228"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="420,249,546,226,547,231,421,255"/>
+<area shape="rect" id="Node000011" href="$da/da2/glade_8cpp.html#a1599dcb10c73bc9252ed092964a4e518" title="Sanitizes a string to be used as a valid filename." alt="" coords="552,252,687,277"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="443,262,538,262,538,267,443,267"/>
+<area shape="rect" id="Node000012" href="$d8/d7f/classBaseModel.html#a8d849d71a00141d530f70d23ce83a0a6" title="Updates a record with a given ID." alt="" coords="515,302,724,342"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="412,275,513,297,512,302,410,280"/>
+<area shape="rect" id="Node000010" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="772,203,905,228"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="679,213,758,213,758,218,679,218"/>
+<area shape="rect" id="Node000014" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Reads all stored records." alt="" coords="515,366,724,406"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="446,360,502,368,501,373,445,365"/>
+</map>

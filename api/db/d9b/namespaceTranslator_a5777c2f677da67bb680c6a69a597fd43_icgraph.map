@@ -1,0 +1,18 @@
+<map id="Translator::getCurrentLanguage" name="Translator::getCurrentLanguage">
+<area shape="rect" id="Node000001" title="Gets the currently active language code." alt="" coords="843,42,1069,67"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#af87136fab57dd9fea569a14737d2604c" title="Switches the view to the Information (About) page." alt="" coords="574,5,759,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="829,44,759,37,760,32,829,39"/>
+<area shape="rect" id="Node000005" href="$d0/d13/classLiveViewView.html#aa4d71fcdeeb820125f25d3366eb81ef3" title="Refreshes all image widgets in the view, typically with placeholder or test images." alt="" coords="539,70,795,95"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="830,70,795,73,794,68,829,64"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/classSettingView.html#af56590adf70e7dfa8ae7301852367c87" title="Static callback to switch to the Information settings page." alt="" coords="272,5,471,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="560,28,471,28,471,23,560,23"/>
+<area shape="rect" id="Node000004" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects GTK signals from widgets to their callback handlers." alt="" coords="5,13,204,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="258,28,204,28,204,23,258,23"/>
+<area shape="rect" id="Node000006" href="$dd/d64/classApp.html#ac6da02831e42bc4dda7746e2dd5d6c37" title="Handles the &#39;Help&#39; button click event." alt="" coords="252,70,491,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="525,85,491,85,491,80,525,80"/>
+<area shape="rect" id="Node000008" href="$dd/d64/classApp.html#a39e47e97870317e27f578239ae95706e" title="Handles the &#39;Live View&#39; button click event." alt="" coords="254,119,489,145"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="577,100,449,122,448,117,576,95"/>
+<area shape="rect" id="Node000007" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="31,94,178,119"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="239,97,178,103,178,97,238,92"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="240,122,178,116,178,111,241,117"/>
+</map>

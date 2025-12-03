@@ -1,0 +1,84 @@
+<map id="LiveViewController::openPage" name="LiveViewController::openPage">
+<area shape="rect" id="Node000001" title="Opens the live view page and initializes mode." alt="" coords="5,516,151,556"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#a2e17ad19f234175047d8097a496e7dbc" title="Resets all playback state and cleans up resources." alt="" coords="199,5,429,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,515,93,420,118,285,134,215,153,151,174,99,197,62,210,51,213,55,201,66,178,101,158,153,139,216,123,286,98,421,85,516"/>
+<area shape="rect" id="Node000003" href="$d1/df7/namespaceVideoProcessor.html#a73c0c6e4c17743ddb956a6f0dcae8a71" title="The main dispatcher function that orchestrates frame processing." alt="" coords="221,516,407,556"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,533,207,533,207,539,151,539"/>
+<area shape="rect" id="Node000009" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="1317,146,1481,171"/>
+<area shape="poly" id="edge42_Node000001_Node000009" title=" " alt="" coords="87,515,148,410,197,339,257,265,328,195,367,163,408,136,452,113,498,95,545,84,595,80,880,80,1007,86,1132,102,1245,121,1334,140,1332,146,1244,127,1131,107,1006,92,880,85,595,85,546,89,499,100,454,118,411,140,370,168,331,199,261,268,201,342,152,413,92,517"/>
+<area shape="rect" id="Node000035" href="$d0/d13/classLiveViewView.html#a5846b9e4115f6aaba09ad0c74a8d05ec" title="Sets the visual &#39;active&#39; state for an internal navigation button (e.g., Main, Panorama)." alt="" coords="199,580,429,620"/>
+<area shape="poly" id="edge43_Node000001_Node000035" title=" " alt="" coords="152,553,227,574,226,579,151,558"/>
+<area shape="rect" id="Node000037" href="$d6/d8a/classLiveViewController.html#ae5ec2ccf5f9365640c6c24cf083b8595" title="Enables or disables UI buttons depending on the current mode." alt="" coords="237,644,391,684"/>
+<area shape="poly" id="edge45_Node000001_Node000037" title=" " alt="" coords="101,554,144,593,200,630,225,641,223,645,197,634,141,597,97,558"/>
+<area shape="rect" id="Node000004" href="$d1/d6a/namespaceVRUDetector.html#a1055613fb33587ed488e4ffed7327e9d" title="Draws semi&#45;transparent overlays for a 3&#45;part zoning scheme." alt="" coords="499,516,693,556"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="407,533,485,533,485,539,407,539"/>
+<area shape="rect" id="Node000007" href="$d1/d6a/namespaceVRUDetector.html#a51b4caeea22bb0324d6841e75e3dc488" title="Evaluates MOIS risk by splitting each ROI into 3 sub&#45;zones (Near, Med, Far)." alt="" coords="495,580,697,620"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="404,553,495,574,494,580,402,559"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="323,515,345,474,379,423,423,369,476,323,526,292,578,264,689,220,804,188,920,166,1032,153,1136,148,1304,149,1304,154,1136,153,1032,159,921,171,806,193,691,225,581,269,528,296,479,327,427,373,383,426,350,477,328,517"/>
+<area shape="rect" id="Node000011" href="$d0/d5b/classAlertManager.html#ad1e9eb636188138f530cf543fb4829b6" title="Gets the singleton instance of the AlertManager." alt="" coords="1090,745,1213,770"/>
+<area shape="poly" id="edge12_Node000003_Node000011" title=" " alt="" coords="400,513,477,501,594,487,745,472,822,469,893,472,952,484,977,493,996,506,1019,532,1028,560,1028,588,1024,617,1020,646,1019,675,1026,703,1045,730,1060,741,1077,749,1075,754,1057,746,1041,734,1021,705,1014,676,1014,646,1019,617,1023,588,1023,560,1014,534,993,510,974,498,951,489,892,478,822,474,746,477,594,492,478,507,401,519"/>
+<area shape="rect" id="Node000012" href="$d0/d5b/classAlertManager.html#aa355b4728efb775a9c21e30f42743e42" title="Notes the start time of a dispatch cycle for latency measurement. This timestamp is used to log the t..." alt="" coords="494,401,698,441"/>
+<area shape="poly" id="edge13_Node000003_Node000012" title=" " alt="" coords="354,513,476,458,515,443,517,448,478,462,356,518"/>
+<area shape="rect" id="Node000013" href="$d1/d6a/namespaceVRUDetector.html#a207d4c68f08a1e066758db86bbccf220" title="Prepares a detection packet and ROI overlays." alt="" coords="797,795,961,821"/>
+<area shape="poly" id="edge14_Node000003_Node000013" title=" " alt="" coords="409,550,431,566,450,595,458,624,457,653,453,681,449,709,450,736,458,762,479,786,500,798,530,807,608,816,698,817,783,813,783,819,698,822,608,821,529,812,498,803,476,790,454,764,445,737,444,709,448,681,452,652,452,624,446,597,427,570,405,554"/>
+<area shape="rect" id="Node000015" href="$da/d3c/namespaceFrameProcessor.html#a90d40984d68ef2f080e2b280a588c62a" title="Enqueues multiple frame processing tasks into the global thread pool." alt="" coords="477,337,715,377"/>
+<area shape="poly" id="edge16_Node000003_Node000015" title=" " alt="" coords="330,514,390,451,431,417,476,387,490,380,493,385,479,392,434,421,394,455,334,518"/>
+<area shape="rect" id="Node000031" href="$d0/d5b/classAlertManager.html#aa3f4c994d40778d6e66b9299d716a917" title="Evaluates the current risk states and dispatches the appropriate alerts." alt="" coords="483,645,709,670"/>
+<area shape="poly" id="edge37_Node000003_Node000031" title=" " alt="" coords="408,553,431,566,447,582,455,599,463,615,479,630,492,637,490,642,476,634,459,618,451,602,443,585,428,570,406,558"/>
+<area shape="rect" id="Node000032" href="$dd/d6d/namespaceBeeper.html#a625fe491a7e0d7bd8eaed39699b62da9" title="Stops a specific looping beep pattern." alt="" coords="827,731,931,757"/>
+<area shape="poly" id="edge40_Node000003_Node000032" title=" " alt="" coords="409,550,431,566,447,587,454,609,454,652,453,673,455,693,463,711,479,729,519,753,563,769,609,777,657,780,748,773,823,758,824,763,748,778,657,785,609,783,561,774,517,758,476,733,458,714,450,694,447,673,448,652,448,610,442,590,427,570,406,555"/>
+<area shape="rect" id="Node000034" href="$d0/d5b/classAlertManager.html#ac22a4326cd5e5fd82b266617801fd9e5" title="Updates the current risk level for a specific detection zone." alt="" coords="498,694,694,719"/>
+<area shape="poly" id="edge41_Node000003_Node000034" title=" " alt="" coords="408,551,431,566,444,580,451,595,456,625,460,653,467,666,479,679,487,685,484,690,476,683,463,669,455,655,450,626,446,597,439,583,428,570,406,556"/>
+<area shape="rect" id="Node000005" href="$d1/d6a/namespaceVRUDetector.html#a4e98a47f00141eb009d49578effa9696" title="Splits a rectangle horizontally into three equal parts." alt="" coords="770,521,987,546"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="694,532,756,532,756,537,694,538"/>
+<area shape="rect" id="Node000006" href="$d1/d6a/namespaceVRUDetector.html#aeddd750b2b4875f08a021b635517ef5d" title="Splits a rectangle vertically into three equal parts." alt="" coords="779,570,978,595"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="694,549,788,565,787,570,693,555"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="671,577,762,555,800,546,802,551,763,560,673,583"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="697,591,765,587,766,592,698,596"/>
+<area shape="rect" id="Node000008" href="$d1/d6a/namespaceVRUDetector.html#a50018c587fb1a1cfb13260813fb99b2b" title="Constructs a ZoneRisk3 object based on object counts in three sub&#45;zones." alt="" coords="771,619,986,645"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="698,609,758,616,757,621,697,614"/>
+<area shape="rect" id="Node000010" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="1539,146,1685,171"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1482,156,1525,156,1525,161,1482,161"/>
+<area shape="rect" id="Node000014" href="$d9/d7c/namespaceConstants.html#aa3d2e62a2936ec5bcd9198bfdc6e4344" title="Retrieves the SIZE_FACTOR value from the database." alt="" coords="1308,688,1491,728"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="961,810,1026,810,1102,807,1182,797,1259,780,1311,759,1357,733,1359,738,1313,764,1261,785,1182,802,1102,812,1026,815,961,815"/>
+<area shape="poly" id="edge18_Node000015_Node000009" title=" " alt="" coords="647,335,820,272,930,237,1042,207,1178,181,1303,165,1304,170,1179,186,1043,212,932,242,822,277,649,340"/>
+<area shape="rect" id="Node000016" href="$dc/de7/classThreadPool.html#a71736ecd8ae904ef554ebdf8229035e3" title="Submits a new task to be executed by a worker thread." alt="" coords="799,345,958,370"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="715,355,785,355,785,360,715,360"/>
+<area shape="rect" id="Node000017" href="$da/d3c/namespaceFrameProcessor.html#a8ef7d81923f5e05d9530ab0f49737886" title="Processes a single frame asynchronously." alt="" coords="763,401,995,441"/>
+<area shape="poly" id="edge19_Node000015_Node000017" title=" " alt="" coords="686,375,777,396,776,401,685,380"/>
+<area shape="poly" id="edge25_Node000017_Node000011" title=" " alt="" coords="973,440,997,458,1019,494,1027,529,1025,564,1020,598,1014,632,1014,665,1022,697,1045,730,1060,742,1078,750,1076,754,1057,746,1041,734,1017,700,1008,665,1009,631,1014,597,1020,563,1021,529,1014,496,993,462,970,444"/>
+<area shape="rect" id="Node000018" href="$d1/d6a/namespaceVRUDetector.html#a66ed817ad833da8f72d0e96704f731df" title=" " alt="" coords="1060,695,1243,721"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="972,439,997,458,1016,487,1023,516,1023,545,1020,573,1017,600,1017,628,1025,654,1045,681,1050,686,1046,690,1041,684,1021,657,1012,628,1011,600,1015,572,1018,544,1018,517,1011,489,993,462,969,444"/>
+<area shape="rect" id="Node000019" href="$d1/d6a/namespaceVRUDetector.html#a9d2aad9bc067b841cc13bf28fc207d61" title=" " alt="" coords="1059,498,1243,523"/>
+<area shape="poly" id="edge22_Node000017_Node000019" title=" " alt="" coords="947,439,996,458,1020,471,1044,483,1072,492,1070,497,1042,488,1017,475,994,462,945,444"/>
+<area shape="rect" id="Node000020" href="$dc/d3d/namespaceMoilUtils.html#ae20a97a7c11939c90a9179964c05e7d6" title="Draws the boundary of a remapped area onto a source image." alt="" coords="1065,547,1237,573"/>
+<area shape="poly" id="edge24_Node000017_Node000020" title=" " alt="" coords="964,439,996,458,1013,477,1021,497,1028,515,1044,533,1056,540,1053,544,1041,537,1024,518,1016,499,1008,480,993,462,961,444"/>
+<area shape="rect" id="Node000021" href="$de/d43/frame__processor_8cpp.html#afd7b8f561d813edb7fa9d9e5b64b12f1" title="GTK idle callback to add or remove a CSS class from a widget." alt="" coords="1067,597,1236,622"/>
+<area shape="poly" id="edge26_Node000017_Node000021" title=" " alt="" coords="969,439,996,458,1009,474,1016,490,1021,522,1025,553,1032,568,1044,582,1056,590,1053,594,1041,586,1027,571,1020,555,1015,523,1011,492,1005,477,993,462,966,444"/>
+<area shape="rect" id="Node000022" href="$de/d43/frame__processor_8cpp.html#aaaeb53c1a301510d13c808cb7804d27c" title="GTK idle callback function to update a GtkImage widget." alt="" coords="1084,646,1219,671"/>
+<area shape="poly" id="edge27_Node000017_Node000022" title=" " alt="" coords="971,439,997,458,1013,481,1020,503,1020,548,1021,591,1029,611,1044,631,1072,648,1069,653,1041,635,1024,614,1016,592,1015,548,1015,504,1008,483,993,462,968,444"/>
+<area shape="rect" id="Node000023" href="$d0/d5b/classAlertManager.html#a3eecb570475f8a88c838490635462f66" title="Checks if a LOW risk border is currently permitted for the FRONT zone." alt="" coords="1055,221,1248,261"/>
+<area shape="poly" id="edge28_Node000017_Node000023" title=" " alt="" coords="963,399,993,379,1004,366,1010,353,1016,326,1021,299,1029,285,1041,271,1047,267,1050,271,1045,275,1033,288,1026,301,1021,328,1015,355,1008,369,996,383,966,403"/>
+<area shape="rect" id="Node000024" href="$d0/d5b/classAlertManager.html#a1c86b52dae8881998c61506dfa305d1c" title="Checks if a LOW risk border is currently permitted for the RIGHT zone." alt="" coords="1055,285,1248,325"/>
+<area shape="poly" id="edge29_Node000017_Node000024" title=" " alt="" coords="951,399,993,379,1007,368,1017,357,1026,346,1041,335,1054,328,1057,333,1044,340,1030,350,1021,361,1011,372,996,384,953,404"/>
+<area shape="rect" id="Node000025" href="$da/d3c/namespaceFrameProcessor.html#ae7c9f78ebf9ae84bd9c6d24c21f78ede" title="Applies a remapping transformation to a frame using pre&#45;calculated maps." alt="" coords="1043,399,1260,425"/>
+<area shape="poly" id="edge30_Node000017_Node000025" title=" " alt="" coords="995,415,1029,414,1029,419,995,420"/>
+<area shape="rect" id="Node000027" href="$da/d3c/namespaceFrameProcessor.html#a2a78408fdbf7a6ef9c89527e88fd449f" title="Resizes a frame to fit within specified dimensions while maintaining aspect ratio." alt="" coords="1044,350,1259,375"/>
+<area shape="poly" id="edge32_Node000017_Node000027" title=" " alt="" coords="972,399,1078,376,1079,381,973,404"/>
+<area shape="rect" id="Node000029" href="$df/d74/zone__policy_8hpp.html#afaa8cd4e1c6467d658a98a576df23f69" title="Resolves a ZonePolicy for a given frame name based on predefined rules." alt="" coords="1087,449,1216,474"/>
+<area shape="poly" id="edge35_Node000017_Node000029" title=" " alt="" coords="995,436,1074,447,1073,453,995,441"/>
+<area shape="poly" id="edge21_Node000018_Node000014" title=" " alt="" coords="1243,705,1294,705,1294,711,1243,711"/>
+<area shape="poly" id="edge23_Node000019_Node000014" title=" " alt="" coords="1238,521,1261,532,1301,564,1336,602,1363,641,1384,674,1379,677,1359,643,1331,605,1298,568,1259,537,1235,526"/>
+<area shape="rect" id="Node000026" href="$da/d3c/namespaceFrameProcessor.html#a8547e1931e54e4e6b790a2e513a0c52b" title="Resizes and pads/crops an image to fit exactly into target dimensions." alt="" coords="1315,392,1484,432"/>
+<area shape="poly" id="edge31_Node000025_Node000026" title=" " alt="" coords="1260,409,1301,409,1301,415,1260,415"/>
+<area shape="poly" id="edge34_Node000027_Node000009" title=" " alt="" coords="1233,348,1259,335,1301,300,1336,259,1364,217,1384,182,1388,185,1368,220,1340,262,1304,304,1261,340,1235,352"/>
+<area shape="rect" id="Node000028" href="$d8/d7f/classBaseModel.html#a9e4935635ca99517677b87e3b06a6811" title="Returns the first record matching a condition." alt="" coords="1333,342,1465,367"/>
+<area shape="poly" id="edge33_Node000027_Node000028" title=" " alt="" coords="1259,357,1319,355,1319,360,1259,362"/>
+<area shape="rect" id="Node000030" href="$df/d74/zone__policy_8hpp.html#aa78f3a964c69e4ecc56e6e9839df0825" title="A helper function to check if a string contains a substring, case&#45;insensitively." alt="" coords="1354,457,1445,482"/>
+<area shape="poly" id="edge36_Node000029_Node000030" title=" " alt="" coords="1217,461,1340,465,1340,470,1216,466"/>
+<area shape="poly" id="edge38_Node000031_Node000032" title=" " alt="" coords="675,668,716,679,740,690,764,703,823,725,821,730,762,708,738,695,714,684,674,673"/>
+<area shape="rect" id="Node000033" href="$dd/d6d/namespaceBeeper.html#a4f989a30c02bbc211afde3841934ba7e" title="The main API function to trigger or update an audible alert for a specific zone." alt="" coords="818,669,939,694"/>
+<area shape="poly" id="edge39_Node000031_Node000033" title=" " alt="" coords="710,664,805,672,804,678,709,670"/>
+<area shape="rect" id="Node000036" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="533,846,659,871"/>
+<area shape="poly" id="edge44_Node000035_Node000036" title=" " alt="" coords="416,618,431,630,449,655,457,680,458,705,456,730,454,754,455,778,462,801,479,825,498,839,520,848,518,853,495,843,475,829,458,804,450,779,448,754,451,729,453,705,452,681,444,657,427,634,413,622"/>
+</map>

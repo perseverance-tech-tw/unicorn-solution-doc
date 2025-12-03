@@ -1,0 +1,7 @@
+<map id="LiveViewView::updateSwithModeButtonLabel" name="LiveViewView::updateSwithModeButtonLabel">
+<area shape="rect" id="Node000001" title="Updates the label of the mode switch button (e.g., &quot;Drive Mode&quot; to &quot;Standby Mode&quot;)." alt="" coords="5,5,207,45"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="255,13,397,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,23,240,23,240,28,207,28"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="445,13,669,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,23,431,23,431,28,398,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LiveViewController::liveViewDoubleClick" name="LiveViewController::liveViewDoubleClick">
+<area shape="rect" id="Node000001" title="Handles double&#45;click events on live view widgets." alt="" coords="508,5,672,45"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#a4b4e584a286fd818cf98625d757b0bcf" title="Static wrapper for double&#45;click events to toggle full&#45;screen." alt="" coords="265,5,460,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,28,460,28,460,23,494,23"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,13,217,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,28,218,28,218,23,252,23"/>
+</map>

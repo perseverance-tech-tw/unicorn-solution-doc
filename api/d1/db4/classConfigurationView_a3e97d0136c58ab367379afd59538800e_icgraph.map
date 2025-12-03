@@ -1,0 +1,5 @@
+<map id="ConfigurationView::signalConnect" name="ConfigurationView::signalConnect">
+<area shape="rect" id="Node000001" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="201,5,349,45"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="5,5,153,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,28,154,28,154,23,187,23"/>
+</map>

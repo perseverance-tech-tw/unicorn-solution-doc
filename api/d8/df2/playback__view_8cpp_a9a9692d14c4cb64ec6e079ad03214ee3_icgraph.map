@@ -1,0 +1,10 @@
+<map id="format_playback_time_view" name="format_playback_time_view">
+<area shape="rect" id="Node000001" title="Formats a time value in seconds into a &quot;MM:SS&quot; string." alt="" coords="780,42,987,67"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#aa08c62c0793cb2dd82cfc5cf1859bc45" title="Glib timeout callback for video playback, called for each frame." alt="" coords="500,5,732,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="766,44,732,41,732,35,766,39"/>
+<area shape="rect" id="Node000003" href="$d2/d2b/classPlaybackView.html#ae93398654949eb76e805da200bbc948a" title="Initiates playback for the currently selected video file." alt="" coords="265,35,452,75"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="766,60,732,60,500,60,452,59,452,54,500,55,732,55,766,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,43,453,47,452,41,486,37"/>
+<area shape="rect" id="Node000004" href="$d2/d2b/classPlaybackView.html#a55ca9c40e4b3b4672e730ae2e3d50c60" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,42,217,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,57,217,57,217,52,252,52"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="ConfigurationView::onSpinValueChanged" name="ConfigurationView::onSpinValueChanged">
+<area shape="rect" id="Node000001" title="Handles the &#39;value&#45;changed&#39; event for alpha, beta, and zoom spin buttons." alt="" coords="912,131,1071,171"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html#ae975d0a3542a1311028e29fab91d3943" title="Initializes the UI controls (spin buttons, switches) with values from the data model." alt="" coords="644,23,864,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="944,127,863,84,817,66,818,61,865,79,947,122"/>
+<area shape="rect" id="Node000004" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="201,110,349,150"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="898,142,864,139,631,126,397,128,349,130,349,124,397,123,631,121,864,134,899,137"/>
+<area shape="rect" id="Node000007" href="$d1/db4/classConfigurationView.html#a6705956d2e04ae28a29ab069bccf196b" title="Handles mouse clicks on the original fisheye source image to set alpha/beta." alt="" coords="397,138,596,178"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="898,155,596,159,596,154,898,150"/>
+<area shape="rect" id="Node000008" href="$d1/db4/classConfigurationView.html#ac61d15abba6de1e443c1c68df035e82b" title="Handles the end of a drag operation on a result view." alt="" coords="662,188,846,228"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="899,176,838,191,837,186,898,171"/>
+<area shape="rect" id="Node000009" href="$d1/db4/classConfigurationView.html#a6aa468fdf9dfe2537610faaf1628a8b0" title="Handles mouse scroll events over result views to control zoom." alt="" coords="670,252,838,292"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="958,182,915,214,865,243,836,255,834,250,863,238,912,209,954,178"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html#ad51c7d0d5b33b136109741f649e7b95b" title="Handles the &#39;clicked&#39; event for the Reset button." alt="" coords="414,23,579,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="630,46,579,46,579,40,630,40"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classConfigurationView.html#a0c5fed278f22ffa2813ed1b3f3fe7f4f" title="Binds UI widgets from the Glade file to class member variables." alt="" coords="201,6,349,46"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="656,23,596,14,497,8,398,14,350,18,350,13,397,8,497,3,596,8,657,18"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="433,71,398,84,328,112,326,107,396,79,431,66"/>
+<area shape="rect" id="Node000005" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="5,78,153,118"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="187,118,153,113,154,107,188,113"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="208,53,135,80,134,75,206,48"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="383,146,349,142,350,136,384,141"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="648,217,527,213,461,205,397,192,348,174,307,152,309,147,351,169,398,187,462,200,527,208,648,211"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="656,273,596,268,530,259,462,244,396,222,367,207,339,189,296,152,299,148,343,184,370,202,398,217,463,239,531,254,597,263,657,268"/>
+</map>

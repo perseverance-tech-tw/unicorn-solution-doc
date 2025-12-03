@@ -1,0 +1,23 @@
+<map id="src/utils/thread_pool.cpp" name="src/utils/thread_pool.cpp">
+<area shape="rect" id="Node000001" title="Implements the ThreadPool class for concurrent task execution." alt="" coords="319,5,500,31"/>
+<area shape="rect" id="Node000002" href="$de/d51/thread__pool_8hpp.html" title="Defines a generic, thread&#45;safe pool for concurrent task execution." alt="" coords="320,79,499,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,31,412,65,407,65,407,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,69,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,107,223,127,83,154,82,149,222,121,338,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="94,152,181,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="366,107,195,151,193,146,365,101"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="205,152,267,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="382,106,278,149,276,144,380,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="291,152,354,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="397,106,349,145,346,141,394,102"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="379,152,440,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="412,104,412,138,407,138,407,104"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="464,152,528,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="425,102,473,141,470,145,422,106"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="553,152,695,177"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="445,101,577,145,575,150,443,107"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="720,152,800,177"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="469,101,707,149,706,154,468,107"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="825,152,909,177"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="497,101,811,149,810,155,496,107"/>
+</map>

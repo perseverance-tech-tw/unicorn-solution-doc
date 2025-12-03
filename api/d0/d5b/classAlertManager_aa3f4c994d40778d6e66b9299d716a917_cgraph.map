@@ -1,0 +1,7 @@
+<map id="AlertManager::settleAndRender" name="AlertManager::settleAndRender">
+<area shape="rect" id="Node000001" title="Evaluates the current risk states and dispatches the appropriate alerts." alt="" coords="5,31,232,56"/>
+<area shape="rect" id="Node000002" href="$dd/d6d/namespaceBeeper.html#a625fe491a7e0d7bd8eaed39699b62da9" title="Stops a specific looping beep pattern." alt="" coords="289,5,393,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,28,274,23,275,28,231,33"/>
+<area shape="rect" id="Node000003" href="$dd/d6d/namespaceBeeper.html#a4f989a30c02bbc211afde3841934ba7e" title="The main API function to trigger or update an audible alert for a specific zone." alt="" coords="280,55,401,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,53,267,57,266,62,232,58"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="LiveViewView::hitControllerStartRecordWrapper" name="LiveViewView::hitControllerStartRecordWrapper">
+<area shape="rect" id="Node000001" title="Static wrapper for the &#39;Start/Stop Record&#39; button click signal." alt="" coords="5,57,207,97"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="255,20,419,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,55,256,45,257,51,207,60"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#a310cb2d58e78ee7c8b2dd6c7200b458f" title="Toggles between starting and stopping recording." alt="" coords="264,85,409,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,86,251,92,250,97,206,92"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="467,5,613,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,24,453,22,453,27,419,29"/>
+<area shape="rect" id="Node000005" href="$d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e" title="Checks if the system is currently recording." alt="" coords="669,116,884,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="410,106,656,119,656,125,410,111"/>
+<area shape="rect" id="Node000006" href="$d6/d8a/classLiveViewController.html#adffe5670bd28eeeb83a3ca9e511112db" title="Starts recording the current live view." alt="" coords="467,170,613,210"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="386,122,480,162,478,167,384,127"/>
+<area shape="rect" id="Node000013" href="$d6/d8a/classLiveViewController.html#a256403940f67847efae818ba7fc4bad4" title="Stops recording the current live view." alt="" coords="467,55,613,95"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="409,92,454,85,454,90,410,97"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="605,167,661,151,700,142,702,147,662,157,606,172"/>
+<area shape="rect" id="Node000007" href="$d0/d13/classLiveViewView.html#a5846b9e4115f6aaba09ad0c74a8d05ec" title="Sets the visual &#39;active&#39; state for an internal navigation button (e.g., Main, Panorama)." alt="" coords="661,215,892,255"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="613,201,659,210,658,215,612,206"/>
+<area shape="rect" id="Node000009" href="$de/d7b/classMessageDialog.html#aefa0ad36108530840218a99631f73974" title="Creates, shows, and destroys a modal GTK message dialog." alt="" coords="665,280,888,305"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="568,208,611,237,662,265,688,274,686,279,660,270,608,242,565,212"/>
+<area shape="rect" id="Node000010" href="$d0/d64/namespaceRecordProcessor.html#a4bad10b0fc88ac8db2a4a299f599df1e" title="Starts the video recording process." alt="" coords="670,165,883,191"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="613,184,656,181,656,187,613,189"/>
+<area shape="rect" id="Node000008" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="940,223,1067,248"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="893,233,926,233,926,238,893,238"/>
+<area shape="rect" id="Node000011" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="944,165,1063,191"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="883,175,930,175,930,181,883,181"/>
+<area shape="rect" id="Node000012" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="1115,165,1248,191"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1063,175,1101,175,1101,181,1063,181"/>
+<area shape="poly" id="edge14_Node000013_Node000005" title=" " alt="" coords="613,89,707,110,706,116,612,94"/>
+<area shape="rect" id="Node000014" href="$d0/d64/namespaceRecordProcessor.html#ac2d601e4960281ca235d97c326e21189" title="Stops the video recording process." alt="" coords="671,63,882,88"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="613,73,658,73,658,78,613,78"/>
+</map>

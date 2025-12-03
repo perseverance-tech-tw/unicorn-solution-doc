@@ -1,0 +1,5 @@
+<map id="Translator::saveLanguageSettings" name="Translator::saveLanguageSettings">
+<area shape="rect" id="Node000001" title="Persists the chosen language code to a configuration file." alt="" coords="5,5,193,45"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#ae383320be2d8bc76a23ababafb2a363c" title="Determines and creates the configuration directory and path if they don&#39;t exist." alt="" coords="241,13,425,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,23,228,23,228,28,193,28"/>
+</map>

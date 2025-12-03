@@ -1,0 +1,5 @@
+<map id="SettingView::onTimeout" name="SettingView::onTimeout">
+<area shape="rect" id="Node000001" title="Glib timeout callback to periodically update the date/time display." alt="" coords="271,5,448,31"/>
+<area shape="rect" id="Node000002" href="$dc/d7c/classSettingView.html#ac3b124b5ae47b723dae45c4c61ddf790" title="Registers a periodic timer to update the date/time display." alt="" coords="5,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,21,223,21,223,15,257,15"/>
+</map>

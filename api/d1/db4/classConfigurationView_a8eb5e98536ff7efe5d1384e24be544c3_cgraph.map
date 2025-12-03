@@ -1,0 +1,9 @@
+<map id="ConfigurationView::onPressEventBoxView" name="ConfigurationView::onPressEventBoxView">
+<area shape="rect" id="Node000001" title="Handles the start of a drag operation on a result view." alt="" coords="5,23,172,63"/>
+<area shape="rect" id="Node000002" href="$d8/d7f/classBaseModel.html#a9e4935635ca99517677b87e3b06a6811" title="Returns the first record matching a condition." alt="" coords="236,5,368,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,31,222,25,222,30,172,36"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="220,55,384,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,50,207,54,206,59,172,55"/>
+<area shape="rect" id="Node000004" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="432,55,579,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="384,65,418,65,418,70,384,70"/>
+</map>

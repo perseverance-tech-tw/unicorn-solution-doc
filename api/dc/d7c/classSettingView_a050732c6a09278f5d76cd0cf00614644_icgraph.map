@@ -1,0 +1,5 @@
+<map id="SettingView::onApplyButtonClicked" name="SettingView::onApplyButtonClicked">
+<area shape="rect" id="Node000001" title="Static callback for the &#39;Apply&#39; button in camera settings." alt="" coords="252,5,455,45"/>
+<area shape="rect" id="Node000002" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects GTK signals from widgets to their callback handlers." alt="" coords="5,13,204,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,28,204,28,204,23,239,23"/>
+</map>

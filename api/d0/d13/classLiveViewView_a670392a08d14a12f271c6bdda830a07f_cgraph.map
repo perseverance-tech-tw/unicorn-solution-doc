@@ -1,0 +1,11 @@
+<map id="LiveViewView::updateRecordButtonLabel" name="LiveViewView::updateRecordButtonLabel">
+<area shape="rect" id="Node000001" title="Updates the label of the record button (e.g., from &quot;Record&quot; to &quot;Stop&quot;)." alt="" coords="5,23,216,63"/>
+<area shape="rect" id="Node000002" href="$d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e" title="Checks if the system is currently recording." alt="" coords="269,5,484,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,31,255,27,256,32,216,36"/>
+<area shape="rect" id="Node000003" href="$da/da2/glade_8cpp.html#ac53a941281312000616c1b26c2dbdbc1" title="Sets up hover and active state image effects for a button." alt="" coords="264,55,489,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,50,251,53,250,59,216,55"/>
+<area shape="rect" id="Node000004" href="$da/da2/glade_8cpp.html#ad1d9c4d98d16172f9107f55eaca0a626" title="Static GTK callback for the &quot;enter&#45;notify&#45;event&quot; (mouse hover)." alt="" coords="539,29,661,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="489,52,525,48,525,53,489,57"/>
+<area shape="rect" id="Node000005" href="$da/da2/glade_8cpp.html#a13fa12eb9a5c0e04138952795ea717a5" title="Static GTK callback for the &quot;leave&#45;notify&#45;event&quot; (mouse un&#45;hover)." alt="" coords="537,79,663,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="490,77,524,80,523,86,489,82"/>
+</map>

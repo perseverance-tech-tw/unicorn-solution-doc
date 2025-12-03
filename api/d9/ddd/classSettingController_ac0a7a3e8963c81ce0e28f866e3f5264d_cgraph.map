@@ -1,0 +1,27 @@
+<map id="SettingController::applyCameraParameters" name="SettingController::applyCameraParameters">
+<area shape="rect" id="Node000001" title="Applies the current camera settings to the application." alt="" coords="5,89,188,129"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#a929dd28d154e3a6b0a2ac443bc1b1a29" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="245,31,393,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,86,231,71,232,76,176,91"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="248,96,391,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,106,234,106,234,111,188,111"/>
+<area shape="rect" id="Node000005" href="$d7/d8b/classMoildevApplicator.html#aca57f730cd6b9a77e1d1f6b3007093da" title="Reloads all camera parameters, re&#45;initializes the Moildev engine, and regenerates all maps." alt="" coords="236,146,403,186"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="176,126,229,140,227,145,174,131"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="451,96,675,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="391,106,436,106,436,111,391,111"/>
+<area shape="rect" id="Node000006" href="$d7/d8b/classMoildevApplicator.html#a15b1be59dcba7b86c3988ab32e386da1" title="Generates and saves the base (full&#45;resolution) maps for all function presets." alt="" coords="489,146,637,186"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="403,163,475,163,475,169,403,169"/>
+<area shape="rect" id="Node000007" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="723,97,937,137"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="636,150,709,136,710,142,637,155"/>
+<area shape="rect" id="Node000012" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="748,181,912,207"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="637,171,735,181,734,187,636,176"/>
+<area shape="rect" id="Node000008" href="$d1/dc8/classMoildev.html#ad4818dfc88bdadd90595d8ddd20e1d52" title=" " alt="" coords="1003,5,1154,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="867,94,921,66,984,40,1007,32,1009,37,986,44,924,71,869,99"/>
+<area shape="rect" id="Node000009" href="$d1/dc8/classMoildev.html#a02794642b11e74d4567fc645aef71a70" title=" " alt="" coords="985,55,1172,80"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="931,94,1000,80,1001,85,932,99"/>
+<area shape="rect" id="Node000010" href="$d1/dc8/classMoildev.html#aa57069b0f4c853ebfcf8d642960a1442" title=" " alt="" coords="988,104,1169,129"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="937,114,974,114,974,119,937,119"/>
+<area shape="rect" id="Node000011" href="$d1/dc8/classMoildev.html#a3fef5721ae893cb26e3b6af5402f9320" title=" " alt="" coords="995,153,1163,179"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="932,134,1001,148,1000,153,931,139"/>
+<area shape="rect" id="Node000013" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="1005,203,1152,228"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="912,198,992,205,991,211,912,204"/>
+</map>

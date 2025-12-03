@@ -1,0 +1,31 @@
+<map id="ConfigurationView::setConfigurationButtonActive" name="ConfigurationView::setConfigurationButtonActive">
+<area shape="rect" id="Node000001" title="Sets the visual &#39;active&#39; state for a configuration navigation button." alt="" coords="871,165,1084,205"/>
+<area shape="rect" id="Node000002" href="$d3/d3d/classConfigurationController.html#a6e52247af0aae6b8bc9c385c92e03b84" title="Opens the configuration page and initializes the default AnyPoint view." alt="" coords="645,37,818,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="924,161,770,80,772,75,927,156"/>
+<area shape="rect" id="Node000005" href="$d3/d3d/classConfigurationController.html#a93f77e255bfe82b3171445bcbd0ebdf1" title="Switches to a specific AnyPoint configuration page." alt="" coords="644,165,819,205"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="857,188,819,188,819,183,857,183"/>
+<area shape="rect" id="Node000012" href="$d3/d3d/classConfigurationController.html#a58ee33b7d516f2fd12f4aef8b88b1464" title="Switches the configuration view to the Panorama page." alt="" coords="640,261,823,301"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="913,213,785,264,783,259,911,208"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a0daa0f131ed6a4bbfb82c31440aba96a" title="Handles the &#39;Configuration&#39; button click event." alt="" coords="397,5,592,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="631,46,592,41,592,36,631,41"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="202,13,349,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="383,28,349,28,349,23,383,23"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classConfigurationView.html#a1612a6eb721f2885376f190152753837" title="Handles &#39;clicked&#39; event for the Anypoint 1 navigation button." alt="" coords="397,69,592,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="676,162,591,124,559,112,561,107,593,119,679,157"/>
+<area shape="rect" id="Node000009" href="$d1/db4/classConfigurationView.html#a03f513f299dd63c3075281575e9c6016" title="Handles &#39;clicked&#39; event for the Anypoint 2 navigation button." alt="" coords="397,133,592,173"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="630,174,592,169,593,164,630,169"/>
+<area shape="rect" id="Node000010" href="$d1/db4/classConfigurationView.html#acde8bf8391d7398504021200143aee9a" title="Handles &#39;clicked&#39; event for the Anypoint 3 navigation button." alt="" coords="397,197,592,237"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="630,202,593,207,592,202,630,196"/>
+<area shape="rect" id="Node000011" href="$d1/db4/classConfigurationView.html#aae30eae60ed6d0eccb05440c657b3138" title="Handles &#39;clicked&#39; event for the Anypoint 4 navigation button." alt="" coords="397,261,592,301"/>
+<area shape="poly" id="edge12_Node000005_Node000011" title=" " alt="" coords="679,214,593,252,561,264,559,259,591,247,676,209"/>
+<area shape="rect" id="Node000007" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="201,197,349,237"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="412,117,399,124,343,161,299,199,296,195,340,157,396,119,410,112"/>
+<area shape="rect" id="Node000008" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="5,197,153,237"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="187,220,154,220,154,215,187,215"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="413,180,345,200,344,195,412,175"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="384,220,350,220,350,215,384,215"/>
+<area shape="poly" id="edge13_Node000011_Node000007" title=" " alt="" coords="412,260,344,240,345,235,413,255"/>
+<area shape="rect" id="Node000013" href="$d1/db4/classConfigurationView.html#adc0dc9f6fce468c98b87177f77bca558" title="Handles &#39;clicked&#39; event for the Panorama navigation button." alt="" coords="398,325,591,365"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="644,308,570,328,568,323,643,302"/>
+<area shape="poly" id="edge16_Node000013_Node000007" title=" " alt="" coords="410,322,396,316,340,278,296,240,299,235,343,273,399,311,412,318"/>
+</map>

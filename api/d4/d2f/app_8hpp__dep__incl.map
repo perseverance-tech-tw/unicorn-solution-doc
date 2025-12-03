@@ -1,0 +1,9 @@
+<map id="include/cores/app.hpp" name="include/cores/app.hpp">
+<area shape="rect" id="Node000001" title="Declares the main application class managing GTK widgets and navigation." alt="" coords="170,5,334,31"/>
+<area shape="rect" id="Node000002" href="$de/d54/live__view__controller_8cpp.html" title="Implements the LiveViewController class, managing live camera feeds, media input, recording,..." alt="" coords="5,79,160,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,39,125,81,123,76,214,34"/>
+<area shape="rect" id="Node000003" href="$d5/df2/app_8cpp.html" title="Implementation of the App class, which represents the main application window." alt="" coords="185,86,319,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,44,255,86,249,86,249,44"/>
+<area shape="rect" id="Node000004" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="343,86,449,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,35,376,83,373,88,284,40"/>
+</map>

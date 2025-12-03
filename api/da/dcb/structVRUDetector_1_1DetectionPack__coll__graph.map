@@ -1,0 +1,5 @@
+<map id="VRUDetector::DetectionPack" name="VRUDetector::DetectionPack">
+<area shape="rect" id="Node000001" title="A comprehensive data packet returned by the prepare function." alt="" coords="5,93,212,119"/>
+<area shape="rect" id="Node000002" href="$d9/d4d/structVRUDetector_1_1ROIBoxes.html" title="Contains the Regions of Interest (ROIs) for the front and right sides of the vehicle." alt="" coords="21,5,197,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,45,111,93,106,93,106,45"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ConfigurationView::onAnypoint2ButtonClicked" name="ConfigurationView::onAnypoint2ButtonClicked">
+<area shape="rect" id="Node000001" title="Handles &#39;clicked&#39; event for the Anypoint 2 navigation button." alt="" coords="397,5,592,45"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="201,5,349,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="384,28,350,28,350,23,384,23"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="5,5,153,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="187,28,154,28,154,23,187,23"/>
+</map>

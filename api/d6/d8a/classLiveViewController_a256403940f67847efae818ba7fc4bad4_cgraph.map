@@ -1,0 +1,7 @@
+<map id="LiveViewController::stopRecord" name="LiveViewController::stopRecord">
+<area shape="rect" id="Node000001" title="Stops recording the current live view." alt="" coords="5,23,151,63"/>
+<area shape="rect" id="Node000002" href="$d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e" title="Checks if the system is currently recording." alt="" coords="199,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,33,185,29,185,34,152,38"/>
+<area shape="rect" id="Node000003" href="$d0/d64/namespaceRecordProcessor.html#ac2d601e4960281ca235d97c326e21189" title="Stops the video recording process." alt="" coords="201,55,411,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,48,188,52,187,57,151,54"/>
+</map>

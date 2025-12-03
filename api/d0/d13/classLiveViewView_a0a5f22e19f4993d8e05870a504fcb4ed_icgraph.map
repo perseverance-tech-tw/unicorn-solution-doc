@@ -1,0 +1,5 @@
+<map id="LiveViewView::onProgressScalePress" name="LiveViewView::onProgressScalePress">
+<area shape="rect" id="Node000001" title="Static wrapper for the &#39;button&#45;press&#39; event on the video progress bar." alt="" coords="265,5,457,45"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,13,217,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,28,218,28,218,23,251,23"/>
+</map>

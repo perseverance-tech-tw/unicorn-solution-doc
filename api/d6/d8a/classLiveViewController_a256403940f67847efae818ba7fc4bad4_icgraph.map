@@ -1,0 +1,9 @@
+<map id="LiveViewController::stopRecord" name="LiveViewController::stopRecord">
+<area shape="rect" id="Node000001" title="Stops recording the current live view." alt="" coords="708,5,853,45"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#a310cb2d58e78ee7c8b2dd6c7200b458f" title="Toggles between starting and stopping recording." alt="" coords="515,5,660,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="694,28,661,28,661,23,694,23"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html#a16ea6b82f4139d5baa5f9fee52fe4944" title="Static wrapper for the &#39;Start/Stop Record&#39; button click signal." alt="" coords="265,5,467,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="501,28,467,28,467,23,501,23"/>
+<area shape="rect" id="Node000004" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,13,217,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,28,217,28,217,23,252,23"/>
+</map>

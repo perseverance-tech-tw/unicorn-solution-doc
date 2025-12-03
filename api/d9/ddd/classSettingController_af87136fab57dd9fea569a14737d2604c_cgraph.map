@@ -1,0 +1,19 @@
+<map id="SettingController::switchToInformationPage" name="SettingController::switchToInformationPage">
+<area shape="rect" id="Node000001" title="Switches the view to the Information (About) page." alt="" coords="5,75,191,115"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a5777c2f677da67bb680c6a69a597fd43" title="Gets the currently active language code." alt="" coords="239,5,465,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,73,238,47,291,32,292,37,239,53,160,78"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="751,125,893,151"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,82,296,75,424,71,564,75,634,81,703,91,745,103,783,117,781,122,743,108,702,97,634,87,564,80,424,76,296,80,191,88"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a6526d2a56f0804c968e2d84ad966e5b7" title="Sets the text direction for a widget tree based on the language code." alt="" coords="252,123,452,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,107,258,118,257,123,190,113"/>
+<area shape="rect" id="Node000007" href="$d9/ddd/classSettingController.html#a430ec18fc43b2bdb0a2007563c29b270" title="Updates labels and images for the specified page." alt="" coords="268,173,436,213"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="140,113,240,157,266,166,264,171,238,162,138,118"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="941,125,1165,151"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="894,135,927,135,927,141,894,141"/>
+<area shape="rect" id="Node000006" href="$db/d9b/namespaceTranslator.html#ac6e49834a44fadd0b54bf7da049cc13a" title="Recursively applies a text direction to a widget and all of its children." alt="" coords="513,130,703,170"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="452,138,500,141,499,146,452,144"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="568,130,566,120,572,111,586,105,608,103,633,106,647,114,644,118,631,111,608,109,588,111,575,115,571,121,573,129"/>
+<area shape="rect" id="Node000008" href="$db/d9b/namespaceTranslator.html#ae9b2362ef7a27751976241012e2debd8" title="Sets the text of a GtkLabel using a translation key." alt="" coords="520,195,696,220"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="436,195,506,199,506,204,436,200"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="659,192,702,179,775,153,777,158,703,185,660,197"/>
+</map>

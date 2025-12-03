@@ -1,0 +1,5 @@
+<map id="LiveViewController::switchMode" name="LiveViewController::switchMode">
+<area shape="rect" id="Node000001" title="Switches between standby and drive mode." alt="" coords="5,5,151,45"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#ae5ec2ccf5f9365640c6c24cf083b8595" title="Enables or disables UI buttons depending on the current mode." alt="" coords="199,5,352,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,23,184,23,184,28,151,28"/>
+</map>

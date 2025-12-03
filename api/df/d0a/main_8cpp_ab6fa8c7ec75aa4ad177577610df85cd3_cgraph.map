@@ -1,0 +1,19 @@
+<map id="handle_force_exit" name="handle_force_exit">
+<area shape="rect" id="Node000001" title="Signal handler for clean application exit (e.g., Ctrl+C)." alt="" coords="5,59,144,84"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#afbe2c04bccd958d44bd45d005be8060c" title="Performs cleanup and saves persistent application data before exit." alt="" coords="192,59,403,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,69,178,69,178,74,144,74"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="452,16,616,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,56,449,41,450,46,369,61"/>
+<area shape="rect" id="Node000005" href="$d2/dd2/classFunctionModel.html#a47f0938eac429bee73d6a12dc2de001f" title="Iterates over all in&#45;memory records and saves their mapX/mapY to binary files on storage." alt="" coords="451,76,617,131"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="392,81,437,88,437,93,391,87"/>
+<area shape="rect" id="Node000004" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="697,5,843,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="616,22,683,19,683,25,616,28"/>
+<area shape="rect" id="Node000006" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="711,55,829,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="617,88,697,76,698,81,618,93"/>
+<area shape="rect" id="Node000008" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Reads all stored records." alt="" coords="665,105,875,145"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="618,108,652,111,651,117,617,114"/>
+<area shape="rect" id="Node000009" href="$da/da2/glade_8cpp.html#a1599dcb10c73bc9252ed092964a4e518" title="Sanitizes a string to be used as a valid filename." alt="" coords="703,169,837,195"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="598,128,666,154,698,163,697,169,664,159,596,133"/>
+<area shape="rect" id="Node000007" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="923,55,1056,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="829,65,909,65,909,70,829,70"/>
+</map>

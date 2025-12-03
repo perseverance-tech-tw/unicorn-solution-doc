@@ -1,0 +1,7 @@
+<map id="VRUDetector::evaluateBsisReverseByZoning" name="VRUDetector::evaluateBsisReverseByZoning">
+<area shape="rect" id="Node000001" title="Evaluates BSIS risk for a reverse gear configuration." alt="" coords="5,5,204,45"/>
+<area shape="rect" id="Node000002" href="$d1/d6a/namespaceVRUDetector.html#a7b02de16223a28ad297f080b2d78243b" title="A generic helper function to evaluate BSIS risk based on which zone is primary." alt="" coords="252,5,467,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,23,238,23,238,28,204,28"/>
+<area shape="rect" id="Node000003" href="$d1/d6a/namespaceVRUDetector.html#a6aea7b6b9325f76fed60a6b15cd11858" title="Constructs a ZoneRisk object based on object counts." alt="" coords="515,13,721,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,23,501,23,501,28,467,28"/>
+</map>

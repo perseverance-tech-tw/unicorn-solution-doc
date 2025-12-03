@@ -1,0 +1,27 @@
+<map id="include/utils/vru_detector.hpp" name="include/utils/vru_detector.hpp">
+<area shape="rect" id="Node000001" title="Defines the public interface for the VRUDetector namespace." alt="" coords="639,5,854,31"/>
+<area shape="rect" id="Node000002" href="$d4/df8/alert__manager_8hpp.html" title="Defines the AlertManager singleton class for centralized alert handling." alt="" coords="612,79,767,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="732,43,705,80,701,77,728,40"/>
+<area shape="rect" id="Node000004" href="$d4/dc5/alert__manager_8cpp.html" title="Implements the AlertManager singleton for centralized alert handling." alt="" coords="181,167,400,192"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="626,33,484,52,423,65,380,81,353,100,330,124,299,168,295,165,326,121,350,96,377,76,421,60,483,47,625,27"/>
+<area shape="rect" id="Node000006" href="$de/d5f/video__processor_8cpp.html" title="Implements the logic for processing and dispatching video frames for different views." alt="" coords="819,167,1029,192"/>
+<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="765,40,795,78,832,117,869,144,903,164,901,169,866,148,829,121,791,81,761,44"/>
+<area shape="rect" id="Node000007" href="$dd/de4/beeper_8hpp.html" title="Defines a header&#45;only, thread&#45;safe utility for playing audible alert sounds." alt="" coords="391,86,588,111"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="697,37,528,89,526,83,695,32"/>
+<area shape="rect" id="Node000009" href="$d7/dfc/risk__logger_8hpp.html" title="Defines a header&#45;only utility for logging VRU detection risks." alt="" coords="842,79,971,119"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="783,34,869,76,867,81,781,39"/>
+<area shape="rect" id="Node000010" href="$df/d3a/vru__detector_8cpp.html" title="Implements the VRU detector utilities: preparing snapshots &amp; ROIs, zoning&#45;based risk assessment,..." alt="" coords="995,86,1181,111"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="810,31,1039,83,1038,89,809,36"/>
+<area shape="rect" id="Node000003" href="$d5/df2/app_8cpp.html" title="Implementation of the App class, which represents the main application window." alt="" coords="425,167,559,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="630,126,522,169,520,164,628,121"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="599,122,352,169,351,164,598,116"/>
+<area shape="rect" id="Node000005" href="$de/d43/frame__processor_8cpp.html" title="Implements the functions for the FrameProcessor namespace." alt="" coords="583,167,795,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="692,132,692,166,687,166,687,132"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="759,120,891,164,889,169,758,126"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="493,125,494,166,489,167,488,125"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="449,119,321,169,319,164,447,114"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="567,111,861,164,860,169,566,116"/>
+<area shape="rect" id="Node000008" href="$df/d84/routes_8cpp.html" title="Implements application route setup and component initialization." alt="" coords="5,167,157,192"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="417,116,141,169,140,164,416,111"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="916,131,924,166,919,167,911,133"/>
+</map>

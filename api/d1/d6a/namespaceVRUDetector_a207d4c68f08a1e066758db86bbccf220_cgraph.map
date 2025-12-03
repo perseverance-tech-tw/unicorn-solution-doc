@@ -1,0 +1,5 @@
+<map id="VRUDetector::prepare" name="VRUDetector::prepare">
+<area shape="rect" id="Node000001" title="Prepares a detection packet and ROI overlays." alt="" coords="5,13,169,38"/>
+<area shape="rect" id="Node000002" href="$d9/d7c/namespaceConstants.html#aa3d2e62a2936ec5bcd9198bfdc6e4344" title="Retrieves the SIZE_FACTOR value from the database." alt="" coords="217,5,400,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,23,204,23,204,28,169,28"/>
+</map>

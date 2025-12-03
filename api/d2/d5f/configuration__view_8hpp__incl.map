@@ -1,0 +1,34 @@
+<map id="include/views/configuration_view.hpp" name="include/views/configuration_view.hpp">
+<area shape="rect" id="Node000001" title="Defines the ConfigurationView class for the application&#39;s configuration UI." alt="" coords="59,5,259,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="28,167,108,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,48,91,68,69,95,62,124,64,153,59,153,57,123,64,92,87,64,115,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="161,240,220,265"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,48,77,75,35,111,19,130,10,150,9,170,18,190,45,216,78,233,114,243,148,247,147,253,113,248,76,238,42,220,14,194,4,171,5,149,15,127,31,107,74,71,119,43"/>
+<area shape="rect" id="Node000004" href="$d8/dee/base__view_8hpp.html" title="Declares the BaseView class used for managing GTK&#45;based user interfaces." alt="" coords="79,93,239,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,46,161,79,156,79,156,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="233,167,284,192"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="200,43,229,64,253,92,263,122,264,152,259,152,258,123,248,95,226,68,197,48"/>
+<area shape="rect" id="Node000007" href="$d2/dd7/function__model_8hpp.html" title="Defines the FunctionRecord struct and FunctionModel class." alt="" coords="313,93,516,119"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="221,43,365,87,364,92,219,48"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="146,121,95,160,92,156,142,117"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="164,118,180,191,188,226,183,227,175,193,159,119"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="176,117,233,156,230,161,173,121"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="267,240,330,265"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="168,118,191,152,223,190,271,230,268,234,219,194,187,155,164,121"/>
+<area shape="poly" id="edge17_Node000007_Node000003" title=" " alt="" coords="401,121,297,194,226,236,223,231,295,190,398,117"/>
+<area shape="rect" id="Node000008" href="$dd/d13/base__model_8hpp.html" title="Declares the BaseModel template class providing basic CRUD and filtering operations." alt="" coords="572,167,743,192"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="454,116,606,160,604,165,453,121"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="365,240,445,265"/>
+<area shape="poly" id="edge18_Node000007_Node000009" title=" " alt="" coords="413,120,401,167,400,197,403,226,398,226,395,198,396,166,408,118"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="410,167,547,192"/>
+<area shape="poly" id="edge19_Node000007_Node000013" title=" " alt="" coords="427,117,461,155,457,158,423,121"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="577,195,256,243,235,246,234,241,256,237,576,189"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="598,195,354,243,344,245,343,239,353,237,597,189"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="618,195,460,239,458,234,616,189"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="504,240,589,265"/>
+<area shape="poly" id="edge14_Node000008_Node000010" title=" " alt="" coords="641,194,578,235,575,230,638,190"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="614,240,701,265"/>
+<area shape="poly" id="edge15_Node000008_Node000011" title=" " alt="" coords="660,192,660,226,655,226,655,192"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="725,240,800,265"/>
+<area shape="poly" id="edge16_Node000008_Node000012" title=" " alt="" coords="676,190,736,230,733,235,673,194"/>
+</map>

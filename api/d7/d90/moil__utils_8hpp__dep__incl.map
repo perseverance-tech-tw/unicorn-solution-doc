@@ -1,0 +1,9 @@
+<map id="include/utils/moil_utils.hpp" name="include/utils/moil_utils.hpp">
+<area shape="rect" id="Node000001" title="Declares utility functions for Moildev&#45;related OpenCV operations." alt="" coords="259,5,393,45"/>
+<area shape="rect" id="Node000002" href="$de/d43/frame__processor_8cpp.html" title="Implements the functions for the FrameProcessor namespace." alt="" coords="5,101,217,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,53,141,103,139,98,266,48"/>
+<area shape="rect" id="Node000003" href="$db/d89/moil__utils_8cpp.html" title="Implements utility functions for Moildev&#45;related OpenCV operations." alt="" coords="242,101,410,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="329,59,329,100,323,100,323,59"/>
+<area shape="rect" id="Node000004" href="$db/d2d/configuration__view_8cpp.html" title="Implementation of the ConfigurationView class." alt="" coords="435,93,607,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="382,48,479,91,477,96,380,53"/>
+</map>

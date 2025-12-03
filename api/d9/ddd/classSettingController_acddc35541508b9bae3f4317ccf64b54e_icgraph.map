@@ -1,0 +1,12 @@
+<map id="SettingController::displayCameraParameters" name="SettingController::displayCameraParameters">
+<area shape="rect" id="Node000001" title="Displays the parameters of a selected camera." alt="" coords="744,39,939,79"/>
+<area shape="rect" id="Node000002" href="$dc/d7c/classSettingView.html#a26e68c0bc237bd8237065820db3bdc94" title="Static callback for the &#39;changed&#39; event on the camera parameter dropdown." alt="" coords="252,5,469,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="730,54,469,36,470,30,731,48"/>
+<area shape="rect" id="Node000004" href="$d9/ddd/classSettingController.html#a30e5a8d5d1f9a6014f93dff32953ef80" title="Saves the current camera parameters to the database." alt="" coords="517,67,696,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="731,75,696,79,696,73,730,69"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects GTK signals from widgets to their callback handlers." alt="" coords="5,45,204,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,43,205,48,204,42,238,38"/>
+<area shape="rect" id="Node000005" href="$dc/d7c/classSettingView.html#a4b6210c2e97bf837e01512702282513f" title="Static callback for the &#39;Save&#39; button in camera settings." alt="" coords="261,69,460,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="504,90,460,91,460,86,504,85"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="247,78,204,72,205,67,248,73"/>
+</map>

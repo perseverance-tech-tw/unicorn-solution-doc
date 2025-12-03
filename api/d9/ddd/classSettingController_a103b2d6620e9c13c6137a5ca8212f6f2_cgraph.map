@@ -1,0 +1,11 @@
+<map id="SettingController::switchToResolutionPage" name="SettingController::switchToResolutionPage">
+<area shape="rect" id="Node000001" title="Switches the view to the Resolution Settings page." alt="" coords="5,5,184,45"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#a430ec18fc43b2bdb0a2007563c29b270" title="Updates labels and images for the specified page." alt="" coords="232,5,400,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,23,218,23,218,28,184,28"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#ae9b2362ef7a27751976241012e2debd8" title="Sets the text of a GtkLabel using a translation key." alt="" coords="448,13,624,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,23,434,23,434,28,400,28"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="672,13,815,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="624,23,658,23,658,28,624,28"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="863,13,1087,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="815,23,849,23,849,28,815,28"/>
+</map>

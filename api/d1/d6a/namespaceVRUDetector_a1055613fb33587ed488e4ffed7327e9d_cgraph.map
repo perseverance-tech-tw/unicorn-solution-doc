@@ -1,0 +1,7 @@
+<map id="VRUDetector::applyZoningOverlay3" name="VRUDetector::applyZoningOverlay3">
+<area shape="rect" id="Node000001" title="Draws semi&#45;transparent overlays for a 3&#45;part zoning scheme." alt="" coords="5,23,200,63"/>
+<area shape="rect" id="Node000002" href="$d1/d6a/namespaceVRUDetector.html#a4e98a47f00141eb009d49578effa9696" title="Splits a rectangle horizontally into three equal parts." alt="" coords="248,5,465,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,31,234,28,235,33,200,36"/>
+<area shape="rect" id="Node000003" href="$d1/d6a/namespaceVRUDetector.html#aeddd750b2b4875f08a021b635517ef5d" title="Splits a rectangle vertically into three equal parts." alt="" coords="257,55,456,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,50,244,54,244,59,200,55"/>
+</map>

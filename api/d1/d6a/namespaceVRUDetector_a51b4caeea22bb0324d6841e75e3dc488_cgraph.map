@@ -1,0 +1,9 @@
+<map id="VRUDetector::evaluateMoisByZoning3" name="VRUDetector::evaluateMoisByZoning3">
+<area shape="rect" id="Node000001" title="Evaluates MOIS risk by splitting each ROI into 3 sub&#45;zones (Near, Med, Far)." alt="" coords="5,47,208,87"/>
+<area shape="rect" id="Node000002" href="$d1/d6a/namespaceVRUDetector.html#a50018c587fb1a1cfb13260813fb99b2b" title="Constructs a ZoneRisk3 object based on object counts in three sub&#45;zones." alt="" coords="257,5,472,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,45,284,31,285,36,209,51"/>
+<area shape="rect" id="Node000003" href="$d1/d6a/namespaceVRUDetector.html#a4e98a47f00141eb009d49578effa9696" title="Splits a rectangle horizontally into three equal parts." alt="" coords="256,55,473,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,65,242,65,242,70,208,70"/>
+<area shape="rect" id="Node000004" href="$d1/d6a/namespaceVRUDetector.html#aeddd750b2b4875f08a021b635517ef5d" title="Splits a rectangle vertically into three equal parts." alt="" coords="265,104,464,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,84,285,99,284,104,208,89"/>
+</map>

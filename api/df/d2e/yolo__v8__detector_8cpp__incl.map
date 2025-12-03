@@ -1,0 +1,24 @@
+<map id="src/utils/yolo_v8_detector.cpp" name="src/utils/yolo_v8_detector.cpp">
+<area shape="rect" id="Node000001" title="Implements the YoloV8Detector class for ONNX&#45;based object detection." alt="" coords="448,5,663,31"/>
+<area shape="rect" id="Node000002" href="$d0/d42/yolo__v8__detector_8hpp.html" title="Defines the YoloV8Detector class for ONNX&#45;based object detection." alt="" coords="324,79,517,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="535,33,456,74,454,70,532,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,180,177"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="489,33,394,53,291,81,203,115,129,148,127,143,201,110,289,76,393,48,488,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="205,152,359,177"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="448,26,413,33,377,44,344,59,314,81,304,93,296,108,287,139,282,137,291,106,299,90,311,77,341,55,375,39,411,28,447,21"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="568,152,631,177"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="561,30,583,103,594,138,589,140,578,105,556,32"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="593,79,673,104"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="570,29,612,67,608,71,566,33"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="697,79,782,104"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="586,28,697,71,695,76,584,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="806,79,873,104"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="602,28,793,76,792,81,600,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="369,107,159,152,158,146,367,101"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="400,106,318,148,316,143,397,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="450,102,559,144,557,149,448,107"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="485,152,543,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="437,102,490,141,486,146,434,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="383,152,461,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="424,104,424,138,419,139,418,104"/>
+</map>

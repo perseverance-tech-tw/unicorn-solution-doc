@@ -1,0 +1,52 @@
+<map id="MoildevApplicator::generateBaseMapForFunction" name="MoildevApplicator::generateBaseMapForFunction">
+<area shape="rect" id="Node000001" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="1595,253,1809,293"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#aa4195f9d7171f613908717f6334a887f" title="Applies cropping (margins) to a base map and saves the result." alt="" coords="1336,135,1484,175"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1638,251,1459,177,1461,172,1640,246"/>
+<area shape="rect" id="Node000009" href="$d7/d8b/classMoildevApplicator.html#a15b1be59dcba7b86c3988ab32e386da1" title="Generates and saves the base (full&#45;resolution) maps for all function presets." alt="" coords="1336,224,1484,264"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="1581,264,1484,254,1485,249,1581,259"/>
+<area shape="rect" id="Node000018" href="$d2/dd2/classFunctionModel.html#a3b7e6d813c600d03346c0a93384e4768" title="Loads the mapX and mapY matrices for a record from its file paths." alt="" coords="1319,289,1501,314"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="1581,288,1501,295,1501,290,1581,282"/>
+<area shape="rect" id="Node000019" href="$d7/d8b/classMoildevApplicator.html#aa61a841927f071e1ef2dc72acbd0eaf6" title="Regenerates all function maps at a new target resolution." alt="" coords="1273,339,1547,379"/>
+<area shape="poly" id="edge23_Node000001_Node000019" title=" " alt="" coords="1635,301,1547,329,1503,341,1501,336,1546,324,1633,296"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html#a4cc02b3e90aeb5f9772192fab336d343" title="Handles the &#39;value&#45;changed&#39; event for margin control spin buttons." alt="" coords="1021,107,1225,147"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1322,149,1225,139,1226,134,1323,144"/>
+<area shape="poly" id="edge9_Node000003_Node000003" title=" " alt="" coords="1170,95,1154,88,1123,85,1097,87,1081,92,1075,98,1078,105,1073,107,1070,97,1078,88,1096,82,1123,80,1155,83,1172,90"/>
+<area shape="rect" id="Node000004" href="$d1/db4/classConfigurationView.html#ae975d0a3542a1311028e29fab91d3943" title="Initializes the UI controls (spin buttons, switches) with values from the data model." alt="" coords="739,49,959,89"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1013,106,945,92,946,87,1014,101"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="227,95,375,135"/>
+<area shape="poly" id="edge10_Node000003_Node000006" title=" " alt="" coords="1007,128,375,118,375,113,1007,122"/>
+<area shape="rect" id="Node000005" href="$d1/db4/classConfigurationView.html#ad51c7d0d5b33b136109741f649e7b95b" title="Handles the &#39;clicked&#39; event for the Reset button." alt="" coords="480,49,645,89"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="725,72,645,72,645,67,725,67"/>
+<area shape="rect" id="Node000008" href="$d1/db4/classConfigurationView.html#a0c5fed278f22ffa2813ed1b3f3fe7f4f" title="Binds UI widgets from the Glade file to class member variables." alt="" coords="227,5,375,45"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="742,50,677,40,515,29,375,27,375,22,515,24,678,35,743,44"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="467,88,375,105,374,99,466,83"/>
+<area shape="rect" id="Node000007" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="5,51,153,91"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="213,100,153,88,154,83,214,95"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="214,46,154,58,153,53,213,41"/>
+<area shape="rect" id="Node000010" href="$d7/d8b/classMoildevApplicator.html#aca57f730cd6b9a77e1d1f6b3007093da" title="Reloads all camera parameters, re&#45;initializes the Moildev engine, and regenerates all maps." alt="" coords="1040,173,1207,213"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="1322,231,1206,211,1207,205,1323,226"/>
+<area shape="rect" id="Node000015" href="$d2/dd2/classFunctionModel.html#aa28a81f1530283093002ecee07e59730" title="Populates the model with initial default function presets." alt="" coords="1039,238,1208,263"/>
+<area shape="poly" id="edge18_Node000009_Node000015" title=" " alt="" coords="1322,249,1208,251,1208,246,1322,243"/>
+<area shape="rect" id="Node000011" href="$d9/ddd/classSettingController.html#ac0a7a3e8963c81ce0e28f866e3f5264d" title="Applies the current camera settings to the application." alt="" coords="758,173,941,213"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="1026,196,941,196,941,191,1026,191"/>
+<area shape="rect" id="Node000012" href="$dc/d7c/classSettingView.html#a050732c6a09278f5d76cd0cf00614644" title="Static callback for the &#39;Apply&#39; button in camera settings." alt="" coords="461,228,664,268"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="745,216,665,231,664,226,744,211"/>
+<area shape="rect" id="Node000014" href="$d1/db4/classConfigurationView.html#a3f4b61de9ce9838eb197de50e49916f8" title="Handles the &#39;clicked&#39; event for the Scale Factor button." alt="" coords="483,164,642,204"/>
+<area shape="poly" id="edge16_Node000011_Node000014" title=" " alt="" coords="744,193,642,189,642,184,744,187"/>
+<area shape="rect" id="Node000013" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects GTK signals from widgets to their callback handlers." alt="" coords="201,293,400,318"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="458,274,360,295,359,290,457,268"/>
+<area shape="poly" id="edge17_Node000014_Node000006" title=" " alt="" coords="473,163,374,137,376,132,474,158"/>
+<area shape="rect" id="Node000016" href="$d2/dd2/classFunctionModel.html#aa97dab815b623f2bef3d112062fd40d2" title="Loads function records from a SQLite database into memory." alt="" coords="725,289,973,314"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="1041,269,919,291,918,286,1040,263"/>
+<area shape="rect" id="Node000017" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Sets up the application routes and component bindings." alt="" coords="511,293,614,318"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="711,306,614,307,614,302,711,301"/>
+<area shape="poly" id="edge22_Node000018_Node000016" title=" " alt="" coords="1305,304,973,304,973,299,1305,299"/>
+<area shape="rect" id="Node000020" href="$d6/dd9/namespaceResolutionProcessor.html#aa2b64270deead06b632da17ba8c99cd1" title="Applies the currently selected resolution by regenerating all maps." alt="" coords="1041,339,1205,379"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="1260,361,1206,361,1206,356,1260,356"/>
+<area shape="rect" id="Node000021" href="$d9/ddd/classSettingController.html#a2791252c2631e57ec70f7bb296475c95" title="Applies and saves the selected resolution option." alt="" coords="734,339,965,379"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="1028,361,965,361,965,356,1028,356"/>
+<area shape="rect" id="Node000022" href="$dc/d7c/classSettingView.html#a2af9902528deb733be5297327d38a59c" title="Static callback for the &#39;Apply&#39; button in resolution settings." alt="" coords="448,343,677,383"/>
+<area shape="poly" id="edge28_Node000020_Node000022" title=" " alt="" coords="1031,384,974,393,849,401,725,393,663,385,664,380,726,388,849,396,973,388,1030,379"/>
+<area shape="poly" id="edge26_Node000021_Node000022" title=" " alt="" coords="720,363,678,364,678,358,720,358"/>
+<area shape="poly" id="edge27_Node000022_Node000013" title=" " alt="" coords="457,342,359,321,360,315,458,337"/>
+</map>

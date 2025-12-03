@@ -1,0 +1,9 @@
+<map id="SettingController::displayCameraParameters" name="SettingController::displayCameraParameters">
+<area shape="rect" id="Node000001" title="Displays the parameters of a selected camera." alt="" coords="5,27,200,67"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="248,5,391,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,31,234,27,235,32,201,37"/>
+<area shape="rect" id="Node000004" href="$d9/ddd/classSettingController.html#aad93d7e770616caa6da256ef3f832152" title="Enables or disables edit mode for camera settings." alt="" coords="249,55,389,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,57,236,62,235,67,200,63"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="439,5,663,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,15,425,15,425,21,391,21"/>
+</map>

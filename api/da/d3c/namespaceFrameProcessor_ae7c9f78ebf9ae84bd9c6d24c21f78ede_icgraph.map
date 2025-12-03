@@ -1,0 +1,120 @@
+<map id="FrameProcessor::remapFrame" name="FrameProcessor::remapFrame">
+<area shape="rect" id="Node000001" title="Applies a remapping transformation to a frame using pre&#45;calculated maps." alt="" coords="1596,1043,1813,1069"/>
+<area shape="rect" id="Node000002" href="$da/d3c/namespaceFrameProcessor.html#a8ef7d81923f5e05d9530ab0f49737886" title="Processes a single frame asynchronously." alt="" coords="1316,1036,1548,1076"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1582,1059,1548,1059,1548,1053,1582,1053"/>
+<area shape="rect" id="Node000003" href="$da/d3c/namespaceFrameProcessor.html#a90d40984d68ef2f080e2b280a588c62a" title="Enqueues multiple frame processing tasks into the global thread pool." alt="" coords="1031,1036,1268,1076"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1303,1059,1268,1059,1268,1053,1303,1053"/>
+<area shape="rect" id="Node000004" href="$d1/df7/namespaceVideoProcessor.html#a73c0c6e4c17743ddb956a6f0dcae8a71" title="The main dispatcher function that orchestrates frame processing." alt="" coords="797,1036,983,1076"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1017,1059,983,1059,983,1053,1017,1053"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#a064dfb8a2eb50e0edf1f0e3323c439c2" title="Switches to BSIS (Bird Surround Image System) mode." alt="" coords="561,197,706,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="885,1022,876,860,853,628,835,509,812,401,783,311,766,277,747,251,728,236,705,227,707,222,731,232,751,247,770,274,788,309,817,399,841,508,859,628,881,860,890,1022"/>
+<area shape="rect" id="Node000008" href="$d6/d8a/classLiveViewController.html#ad099c41169f8ab2830286be26c7c129c" title="Switches to BSIS left mode." alt="" coords="561,261,706,301"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="884,1023,873,872,849,659,831,551,808,451,780,370,765,339,747,315,728,300,705,291,707,286,731,296,751,311,769,336,785,368,814,450,836,549,855,658,879,871,890,1022"/>
+<area shape="rect" id="Node000010" href="$d6/d8a/classLiveViewController.html#a43b97c526f903b3382e485dc16f5acfe" title="Switches to BSIS reverse mode." alt="" coords="561,325,706,365"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="884,1022,871,883,845,690,827,591,805,502,778,429,763,400,747,379,728,364,705,355,707,350,731,360,751,375,768,398,783,426,810,500,832,590,851,689,876,882,889,1022"/>
+<area shape="rect" id="Node000012" href="$d6/d8a/classLiveViewController.html#af6e0634dea449058402b47bfe11a928c" title="Switches to BSIS right mode." alt="" coords="561,389,706,429"/>
+<area shape="poly" id="edge13_Node000004_Node000012" title=" " alt="" coords="883,1023,868,895,841,721,823,633,801,553,776,487,762,462,747,443,728,429,706,419,708,414,731,424,751,439,766,459,781,485,806,551,828,632,846,720,874,894,888,1022"/>
+<area shape="rect" id="Node000014" href="$d6/d8a/classLiveViewController.html#ab3e2c58b38a4dfc2ceac75d06aa3e60f" title="Exits full screen mode and restores the previous view." alt="" coords="561,453,706,493"/>
+<area shape="poly" id="edge16_Node000004_Node000014" title=" " alt="" coords="882,1022,865,906,837,752,818,674,797,603,773,546,747,507,728,493,705,484,707,479,731,488,751,503,778,543,802,602,823,673,842,751,870,905,887,1021"/>
+<area shape="rect" id="Node000016" href="$d0/d22/classPlaybackController.html#aec0878eaefa1b9ec530018e2cc4df0f3" title="Exits the playback fullscreen mode and restores the normal playback layout." alt="" coords="543,517,724,557"/>
+<area shape="poly" id="edge19_Node000004_Node000016" title=" " alt="" coords="887,1022,883,933,876,874,865,811,848,746,823,683,790,623,748,571,723,554,726,550,751,567,794,620,828,680,853,745,870,810,882,874,888,932,892,1022"/>
+<area shape="rect" id="Node000019" href="$d6/d8a/classLiveViewController.html#aef1cd99c7eea01e79ee85e1308370a02" title="Handles double&#45;click events on live view widgets." alt="" coords="551,7,715,47"/>
+<area shape="poly" id="edge21_Node000004_Node000019" title=" " alt="" coords="886,1022,882,827,875,689,864,539,847,390,822,253,807,193,789,140,770,96,747,63,732,50,714,41,717,36,735,46,751,60,774,94,794,138,812,191,827,252,852,389,869,539,881,689,887,827,891,1022"/>
+<area shape="rect" id="Node000021" href="$d6/d8a/classLiveViewController.html#ac3ceba55f7297483763f02269dd3c140" title="Opens media file dialog for image or video selection." alt="" coords="561,73,706,113"/>
+<area shape="poly" id="edge24_Node000004_Node000021" title=" " alt="" coords="885,1022,878,841,870,714,857,577,839,440,816,315,785,211,767,170,747,139,728,122,705,110,708,105,731,118,751,136,772,168,790,209,821,313,845,439,862,576,875,714,883,841,891,1022"/>
+<area shape="rect" id="Node000023" href="$d6/d8a/classLiveViewController.html#ae2ae34598145c3d3a56ada4df174050c" title="Switches to MOIS driving view mode." alt="" coords="561,581,706,621"/>
+<area shape="poly" id="edge27_Node000004_Node000023" title=" " alt="" coords="885,1023,876,945,854,843,837,789,813,736,784,686,747,642,728,627,705,617,708,612,731,623,751,638,788,683,818,733,842,787,859,842,881,944,890,1022"/>
+<area shape="rect" id="Node000024" href="$d1/db4/classConfigurationView.html#a6705956d2e04ae28a29ab069bccf196b" title="Handles mouse clicks on the original fisheye source image to set alpha/beta." alt="" coords="268,821,467,861"/>
+<area shape="poly" id="edge28_Node000004_Node000024" title=" " alt="" coords="875,1024,856,983,829,937,793,892,772,873,748,857,715,842,679,831,606,819,533,818,467,824,467,819,533,813,606,814,681,825,717,837,751,852,775,868,797,888,834,934,861,981,879,1022"/>
+<area shape="rect" id="Node000027" href="$d0/d13/classLiveViewView.html#a4ae13250d36a65daa03faceffbd0e83f" title="Static wrapper for the &#39;button&#45;release&#39; event on the video progress bar." alt="" coords="271,133,463,173"/>
+<area shape="poly" id="edge30_Node000004_Node000027" title=" " alt="" coords="886,1022,881,846,874,724,863,593,845,463,821,345,806,294,789,250,769,214,748,187,728,175,701,166,628,155,544,150,464,151,464,146,544,145,629,149,702,161,731,171,751,183,774,211,794,248,811,292,826,344,851,462,868,592,880,724,887,846,891,1022"/>
+<area shape="rect" id="Node000028" href="$d2/d2b/classPlaybackView.html#a9609b5e49774393009381f14bedcbe0b" title="Handles the &#39;button&#45;release&#39; event on the video progress bar to seek." alt="" coords="537,1064,729,1104"/>
+<area shape="poly" id="edge32_Node000004_Node000028" title=" " alt="" coords="784,1070,730,1076,729,1071,783,1065"/>
+<area shape="rect" id="Node000029" href="$d1/db4/classConfigurationView.html#ac61d15abba6de1e443c1c68df035e82b" title="Handles the end of a drag operation on a result view." alt="" coords="275,885,459,925"/>
+<area shape="poly" id="edge33_Node000004_Node000029" title=" " alt="" coords="871,1025,851,991,824,952,789,916,748,889,708,874,666,865,623,862,580,862,499,872,431,888,430,883,498,867,580,857,624,856,667,860,710,869,751,884,793,912,828,949,856,988,876,1022"/>
+<area shape="rect" id="Node000030" href="$d1/db4/classConfigurationView.html#ad51c7d0d5b33b136109741f649e7b95b" title="Handles the &#39;clicked&#39; event for the Reset button." alt="" coords="285,1064,450,1104"/>
+<area shape="poly" id="edge35_Node000004_Node000030" title=" " alt="" coords="784,1051,656,1048,518,1055,447,1067,446,1061,517,1049,656,1043,784,1046"/>
+<area shape="rect" id="Node000031" href="$d1/db4/classConfigurationView.html#a3f4b61de9ce9838eb197de50e49916f8" title="Handles the &#39;clicked&#39; event for the Scale Factor button." alt="" coords="288,581,447,621"/>
+<area shape="poly" id="edge37_Node000004_Node000031" title=" " alt="" coords="882,1023,870,958,846,875,828,831,806,789,779,750,748,715,706,696,628,672,446,623,448,618,630,666,708,691,751,711,784,746,811,786,833,829,851,873,875,956,887,1022"/>
+<area shape="rect" id="Node000032" href="$d1/db4/classConfigurationView.html#a6aa468fdf9dfe2537610faaf1628a8b0" title="Handles mouse scroll events over result views to control zoom." alt="" coords="283,1000,451,1040"/>
+<area shape="poly" id="edge39_Node000004_Node000032" title=" " alt="" coords="783,1038,749,1033,591,1023,452,1021,452,1016,591,1018,750,1028,784,1033"/>
+<area shape="rect" id="Node000033" href="$d1/db4/classConfigurationView.html#a011c0307ed969aa6e895cd8a91d9c9b7" title="Handles the &#39;value&#45;changed&#39; event for alpha, beta, and zoom spin buttons." alt="" coords="554,899,713,939"/>
+<area shape="poly" id="edge41_Node000004_Node000033" title=" " alt="" coords="853,1030,805,994,748,960,704,941,706,936,751,955,808,989,856,1025"/>
+<area shape="rect" id="Node000036" href="$d1/db4/classConfigurationView.html#a4cc02b3e90aeb5f9772192fab336d343" title="Handles the &#39;value&#45;changed&#39; event for margin control spin buttons." alt="" coords="265,669,469,709"/>
+<area shape="poly" id="edge46_Node000004_Node000036" title=" " alt="" coords="880,1023,865,968,839,900,801,831,776,801,748,774,716,753,683,736,610,711,537,697,470,691,470,685,538,691,612,705,685,731,719,748,751,770,780,797,805,828,844,898,870,966,885,1022"/>
+<area shape="rect" id="Node000037" href="$d1/db4/classConfigurationView.html#aab00cf47fac0435be1167f7d5ddebfb2" title="Handles the &#39;state&#45;set&#39; event for flip control switches." alt="" coords="281,757,453,797"/>
+<area shape="poly" id="edge49_Node000004_Node000037" title=" " alt="" coords="877,1024,861,976,834,920,797,864,774,840,748,820,713,801,677,787,599,770,522,765,453,768,453,763,522,760,599,765,678,782,716,796,751,815,778,836,801,861,839,917,866,974,882,1022"/>
+<area shape="rect" id="Node000038" href="$d0/d13/classLiveViewView.html#abac967a60133c5cd4632b09a949d364e" title="Glib timeout callback to update the video frame and progress bar." alt="" coords="517,1128,749,1168"/>
+<area shape="poly" id="edge52_Node000004_Node000038" title=" " alt="" coords="835,1084,750,1119,713,1130,711,1125,748,1113,833,1079"/>
+<area shape="rect" id="Node000042" href="$d2/d2b/classPlaybackView.html#aa08c62c0793cb2dd82cfc5cf1859bc45" title="Glib timeout callback for video playback, called for each frame." alt="" coords="517,1192,749,1232"/>
+<area shape="poly" id="edge53_Node000004_Node000042" title=" " alt="" coords="864,1088,815,1137,784,1161,751,1182,724,1194,722,1189,748,1178,781,1157,811,1133,860,1084"/>
+<area shape="rect" id="Node000044" href="$d2/d2b/classPlaybackView.html#a833c36846b6744d16dd5718339a2657c" title="Switches the playback display to the BSIS view." alt="" coords="544,1257,723,1282"/>
+<area shape="poly" id="edge54_Node000004_Node000044" title=" " alt="" coords="876,1090,856,1127,828,1169,793,1211,751,1246,724,1259,722,1254,748,1242,789,1207,824,1166,852,1124,872,1087"/>
+<area shape="rect" id="Node000045" href="$d2/d2b/classPlaybackView.html#a63e77e38dbc48dfde138e9ec87f86266" title="Switches the playback display to the BSIS Left view." alt="" coords="532,1306,735,1331"/>
+<area shape="poly" id="edge55_Node000004_Node000045" title=" " alt="" coords="882,1090,864,1137,837,1193,800,1250,777,1275,751,1297,730,1308,728,1304,748,1292,773,1271,795,1246,832,1191,859,1135,877,1088"/>
+<area shape="rect" id="Node000046" href="$d2/d2b/classPlaybackView.html#ab5beb6a1826d5237441d60cd4de1b110" title="Switches the playback display to the BSIS Reverse view." alt="" coords="517,1355,749,1381"/>
+<area shape="poly" id="edge56_Node000004_Node000046" title=" " alt="" coords="885,1090,870,1146,845,1216,827,1252,806,1287,781,1319,751,1346,732,1358,729,1353,748,1342,777,1315,801,1284,822,1249,840,1214,865,1145,880,1089"/>
+<area shape="rect" id="Node000047" href="$d2/d2b/classPlaybackView.html#ad821e14f04072ba800c93e8dc1b9380a" title="Switches the playback display to the BSIS Right view." alt="" coords="527,1405,740,1430"/>
+<area shape="poly" id="edge57_Node000004_Node000047" title=" " alt="" coords="888,1090,876,1156,852,1238,834,1282,812,1323,784,1362,751,1395,733,1407,730,1402,748,1391,780,1359,807,1321,829,1279,847,1237,871,1154,882,1089"/>
+<area shape="rect" id="Node000048" href="$d2/d2b/classPlaybackView.html#a29d29c24637cc95c7decca7f8e48053e" title="Switches the playback display to the MOIS view." alt="" coords="542,1454,725,1479"/>
+<area shape="poly" id="edge58_Node000004_Node000048" title=" " alt="" coords="890,1090,881,1164,859,1260,841,1311,818,1360,788,1405,751,1445,726,1460,723,1455,748,1441,784,1402,813,1357,836,1309,854,1259,876,1163,884,1089"/>
+<area shape="rect" id="Node000053" href="$d2/d2b/classPlaybackView.html#a80748013a91fbd2443976b789b2c7cfd" title="Switches the playback display to the Original view." alt="" coords="532,1503,735,1529"/>
+<area shape="poly" id="edge59_Node000004_Node000053" title=" " alt="" coords="891,1090,886,1173,878,1225,866,1282,848,1340,824,1396,792,1449,751,1494,734,1506,731,1501,748,1490,788,1445,819,1394,843,1338,861,1281,873,1224,880,1172,886,1090"/>
+<area shape="rect" id="Node000054" href="$d3/d3d/classConfigurationController.html#a6e52247af0aae6b8bc9c385c92e03b84" title="Opens the configuration page and initializes the default AnyPoint view." alt="" coords="547,1553,720,1593"/>
+<area shape="poly" id="edge60_Node000004_Node000054" title=" " alt="" coords="892,1090,888,1179,882,1238,870,1301,853,1366,828,1431,794,1490,751,1543,722,1562,719,1558,748,1539,790,1487,823,1428,848,1365,865,1300,876,1237,883,1179,887,1090"/>
+<area shape="rect" id="Node000056" href="$d6/d8a/classLiveViewController.html#a54c77bf5f4e9fbc0c676b58e40d721a8" title="Opens the live view page and initializes mode." alt="" coords="561,1617,706,1657"/>
+<area shape="poly" id="edge61_Node000004_Node000056" title=" " alt="" coords="887,1091,870,1206,842,1361,823,1439,802,1509,778,1567,751,1607,731,1622,707,1632,705,1627,728,1618,747,1603,773,1565,797,1507,818,1437,837,1360,865,1205,882,1090"/>
+<area shape="rect" id="Node000060" href="$d2/d2b/classPlaybackView.html#aedf98be2691f2230fa742106a58ecd29" title="Switches the playback display to the Panorama view." alt="" coords="525,1682,742,1707"/>
+<area shape="poly" id="edge62_Node000004_Node000060" title=" " alt="" coords="888,1090,874,1218,847,1392,829,1481,807,1561,781,1626,767,1652,751,1671,734,1684,731,1680,747,1667,762,1649,776,1624,802,1559,824,1479,842,1391,869,1217,883,1089"/>
+<area shape="rect" id="Node000061" href="$d6/d8a/classLiveViewController.html#a58fe340dd568b1602738010a75602bfc" title="Switches to original live view mode." alt="" coords="561,1732,706,1772"/>
+<area shape="poly" id="edge63_Node000004_Node000061" title=" " alt="" coords="889,1090,876,1227,850,1416,831,1512,809,1600,782,1672,767,1700,751,1722,731,1737,707,1747,705,1742,728,1733,747,1718,763,1697,778,1670,804,1598,826,1511,844,1415,870,1226,883,1090"/>
+<area shape="rect" id="Node000063" href="$d6/d8a/classLiveViewController.html#a7774401fd0ac51c351f2a7c1f4d10cfb" title="Switches to panorama live view mode." alt="" coords="561,1796,706,1836"/>
+<area shape="poly" id="edge64_Node000004_Node000063" title=" " alt="" coords="889,1090,878,1238,854,1447,835,1553,813,1651,785,1731,769,1762,751,1786,731,1802,707,1811,705,1806,728,1797,747,1782,764,1759,780,1729,808,1649,830,1552,848,1446,873,1238,884,1090"/>
+<area shape="rect" id="Node000065" href="$d0/d22/classPlaybackController.html#af23d3ada297e80de96839cdf3bd0e757" title="Handles double&#45;click events on playback view to enter fullscreen mode." alt="" coords="550,1860,717,1900"/>
+<area shape="poly" id="edge65_Node000004_Node000065" title=" " alt="" coords="890,1090,881,1250,858,1477,840,1594,816,1701,787,1789,770,1824,751,1850,736,1863,718,1872,716,1867,733,1858,747,1846,766,1821,782,1787,811,1700,834,1593,852,1477,875,1249,885,1089"/>
+<area shape="rect" id="Node000067" href="$d3/d3d/classConfigurationController.html#a93f77e255bfe82b3171445bcbd0ebdf1" title="Switches to a specific AnyPoint configuration page." alt="" coords="546,1924,721,1964"/>
+<area shape="poly" id="edge66_Node000004_Node000067" title=" " alt="" coords="891,1090,883,1262,862,1508,844,1635,820,1752,790,1848,772,1885,751,1914,723,1934,720,1930,747,1910,767,1882,785,1846,815,1750,839,1634,856,1508,878,1261,885,1090"/>
+<area shape="rect" id="Node000072" href="$d3/d3d/classConfigurationController.html#a58ee33b7d516f2fd12f4aef8b88b1464" title="Switches the configuration view to the Panorama page." alt="" coords="542,1988,725,2028"/>
+<area shape="poly" id="edge67_Node000004_Node000072" title=" " alt="" coords="891,1090,885,1272,878,1400,866,1538,848,1676,824,1802,809,1858,792,1906,773,1947,751,1978,727,1996,724,1992,747,1974,768,1944,787,1904,804,1856,819,1801,843,1675,860,1538,872,1400,880,1272,886,1089"/>
+<area shape="rect" id="Node000074" href="$d6/d8a/classLiveViewController.html#a21945975d2cf10b33db23a5d228be00f" title="Updates live view frames periodically (GTK timeout callback)." alt="" coords="538,2052,729,2092"/>
+<area shape="poly" id="edge68_Node000004_Node000074" title=" " alt="" coords="891,1090,887,1284,881,1421,869,1569,852,1717,828,1853,812,1912,794,1965,774,2008,751,2042,731,2058,727,2054,747,2038,770,2006,790,1963,807,1911,822,1851,847,1716,864,1569,875,1420,882,1284,886,1090"/>
+<area shape="rect" id="Node000006" href="$d0/d13/classLiveViewView.html#ae44c7e6f396172ce2beb06852092a22c" title="Static wrapper for the &#39;BSIS View&#39; button click signal." alt="" coords="267,197,468,237"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="547,220,468,220,468,215,547,215"/>
+<area shape="rect" id="Node000007" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals from UI widgets to their static callback handlers." alt="" coords="5,237,217,262"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="254,234,213,239,213,234,253,229"/>
+<area shape="rect" id="Node000009" href="$d0/d13/classLiveViewView.html#a7d27da3f5bcd9a99312fcb757ff9893f" title="Static wrapper for the &#39;BSIS Left View&#39; button click signal." alt="" coords="267,261,468,301"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="547,284,468,284,468,279,547,279"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="253,270,213,265,213,259,254,264"/>
+<area shape="rect" id="Node000011" href="$d0/d13/classLiveViewView.html#adc013aa47aa953aebd929e4993b009af" title="Static wrapper for the &#39;BSIS Reverse View&#39; button click signal." alt="" coords="267,325,468,365"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="547,348,468,348,468,343,547,343"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="286,323,264,316,140,265,142,260,266,311,288,318"/>
+<area shape="rect" id="Node000013" href="$d0/d13/classLiveViewView.html#ac2fc47ecd915cae56f1372ce196b65fc" title="Static wrapper for the &#39;BSIS Right View&#39; button click signal." alt="" coords="267,389,468,429"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="547,412,468,412,468,407,547,407"/>
+<area shape="poly" id="edge15_Node000013_Node000007" title=" " alt="" coords="278,386,264,380,220,351,180,319,123,264,126,260,184,315,223,347,267,375,280,382"/>
+<area shape="rect" id="Node000015" href="$d0/d13/classLiveViewView.html#a8f87b6773292dc6c6354a11e1dc20a73" title="Static wrapper for double&#45;click events on the full&#45;screen view to exit." alt="" coords="266,453,469,493"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="547,476,469,476,469,471,547,471"/>
+<area shape="poly" id="edge18_Node000015_Node000007" title=" " alt="" coords="273,449,264,443,213,399,170,348,137,299,117,264,122,261,142,296,174,344,216,395,267,439,276,445"/>
+<area shape="rect" id="Node000017" href="$d2/d2b/classPlaybackView.html#a8a6b7c96220353db6018c43b15bce0d9" title="Handles double&#45;clicks on the full&#45;screen view to exit full&#45;screen mode." alt="" coords="266,517,469,557"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="529,540,469,540,469,535,529,535"/>
+<area shape="rect" id="Node000020" href="$d0/d13/classLiveViewView.html#a4b4e584a286fd818cf98625d757b0bcf" title="Static wrapper for double&#45;click events to toggle full&#45;screen." alt="" coords="270,5,465,45"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="538,29,465,28,465,23,538,24"/>
+<area shape="poly" id="edge23_Node000020_Node000007" title=" " alt="" coords="276,54,267,59,216,103,174,154,142,202,122,238,117,235,137,200,170,151,213,100,264,55,273,49"/>
+<area shape="rect" id="Node000022" href="$d0/d13/classLiveViewView.html#a8e807352f3b2f67a6c3f975a46837990" title="Static wrapper for the &#39;Load Media&#39; button click signal." alt="" coords="267,69,468,109"/>
+<area shape="poly" id="edge25_Node000021_Node000022" title=" " alt="" coords="547,95,468,94,468,88,547,89"/>
+<area shape="poly" id="edge26_Node000022_Node000007" title=" " alt="" coords="280,117,267,124,223,152,184,184,126,238,123,235,180,180,220,147,264,119,278,112"/>
+<area shape="rect" id="Node000025" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="37,853,185,893"/>
+<area shape="poly" id="edge29_Node000024_Node000025" title=" " alt="" coords="254,858,186,867,185,862,254,853"/>
+<area shape="poly" id="edge31_Node000027_Node000007" title=" " alt="" coords="288,180,266,188,142,239,140,234,264,183,286,175"/>
+<area shape="poly" id="edge34_Node000029_Node000025" title=" " alt="" coords="262,895,185,885,186,880,262,890"/>
+<area shape="poly" id="edge36_Node000030_Node000025" title=" " alt="" coords="274,1060,264,1054,217,1016,177,972,122,895,127,892,181,969,221,1012,267,1050,277,1056"/>
+<area shape="poly" id="edge38_Node000031_Node000025" title=" " alt="" coords="277,628,267,635,239,660,214,688,172,750,141,809,122,854,117,852,137,807,167,747,210,685,235,656,264,631,274,624"/>
+<area shape="poly" id="edge40_Node000032_Node000025" title=" " alt="" coords="293,997,264,984,193,939,136,896,139,892,196,934,267,979,295,992"/>
+<area shape="poly" id="edge42_Node000033_Node000024" title=" " alt="" coords="550,897,436,864,438,859,551,892"/>
+<area shape="poly" id="edge45_Node000033_Node000025" title=" " alt="" coords="541,938,479,946,410,950,337,949,265,940,202,921,148,896,150,891,204,916,266,935,337,944,409,945,479,941,540,933"/>
+<area shape="poly" id="edge43_Node000033_Node000029" title=" " alt="" coords="540,917,459,913,460,907,540,911"/>
+<area shape="poly" id="edge44_Node000033_Node000032" title=" " alt="" coords="555,946,518,960,470,984,425,1002,423,997,468,979,516,955,553,941"/>
+<area shape="poly" id="edge48_Node000036_Node000025" title=" " alt="" coords="278,717,267,724,224,755,186,790,130,855,126,851,182,787,221,750,264,719,276,713"/>
+<area shape="poly" id="edge47_Node000036_Node000036" title=" " alt="" coords="411,658,396,651,367,648,343,650,328,655,322,661,325,668,320,670,317,660,325,650,341,645,367,643,397,646,413,653"/>
+<area shape="poly" id="edge51_Node000037_Node000025" title=" " alt="" coords="288,804,266,812,159,856,157,851,264,807,286,799"/>
+<area shape="poly" id="edge50_Node000037_Node000037" title=" " alt="" coords="411,746,396,739,367,736,343,738,328,743,322,749,325,756,320,758,317,748,325,738,341,733,367,731,397,734,413,741"/>
+</map>

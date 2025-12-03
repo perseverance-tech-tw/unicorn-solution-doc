@@ -1,0 +1,5 @@
+<map id="Translator::getKeyFromText" name="Translator::getKeyFromText">
+<area shape="rect" id="Node000001" title="Performs a reverse lookup to find the key for a given translated text." alt="" coords="5,5,204,31"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="252,5,476,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,15,238,15,238,21,204,21"/>
+</map>

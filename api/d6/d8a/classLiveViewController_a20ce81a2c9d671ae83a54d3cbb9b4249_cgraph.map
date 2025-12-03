@@ -1,0 +1,5 @@
+<map id="LiveViewController::pausePlayback" name="LiveViewController::pausePlayback">
+<area shape="rect" id="Node000001" title="Pauses video playback." alt="" coords="5,5,151,45"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#a8e7ce13ba50e3c812621fc24740fca18" title="Pauses the currently playing video." alt="" coords="199,5,395,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,23,185,23,185,28,151,28"/>
+</map>

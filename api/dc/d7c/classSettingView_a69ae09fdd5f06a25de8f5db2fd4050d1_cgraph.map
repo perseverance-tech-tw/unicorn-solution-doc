@@ -1,0 +1,9 @@
+<map id="SettingView::onEditButtonClicked" name="SettingView::onEditButtonClicked">
+<area shape="rect" id="Node000001" title="Static callback for the &#39;Edit&#39; button in camera settings." alt="" coords="5,27,196,67"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="244,5,408,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,32,230,28,231,33,197,38"/>
+<area shape="rect" id="Node000004" href="$d9/ddd/classSettingController.html#aad93d7e770616caa6da256ef3f832152" title="Enables or disables edit mode for camera settings." alt="" coords="256,55,396,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,57,243,62,242,68,196,62"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="456,5,603,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,15,442,15,442,21,408,21"/>
+</map>

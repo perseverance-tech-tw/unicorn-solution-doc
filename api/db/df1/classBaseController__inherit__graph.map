@@ -1,0 +1,11 @@
+<map id="BaseController" name="BaseController">
+<area shape="rect" id="Node000001" title="Abstract base class providing a foundation for all controllers." alt="" coords="301,5,419,31"/>
+<area shape="rect" id="Node000002" href="$d3/d3d/classConfigurationController.html" title="Handles user interactions and view management for the configuration page." alt="" coords="5,79,179,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="304,37,136,81,135,76,303,32"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/classLiveViewController.html" title="Handles live camera viewing, playback, and UI interaction for real&#45;time video processing." alt="" coords="203,79,349,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="338,42,291,80,288,76,334,38"/>
+<area shape="rect" id="Node000004" href="$d0/d22/classPlaybackController.html" title="Handles playback operations including video management, deletion, and fullscreen control." alt="" coords="373,79,518,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="386,37,433,76,430,80,382,41"/>
+<area shape="rect" id="Node000005" href="$d9/ddd/classSettingController.html" title="Controls application settings such as camera parameters, resolution options, date/time formats,..." alt="" coords="542,79,674,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="414,32,569,76,567,81,412,37"/>
+</map>

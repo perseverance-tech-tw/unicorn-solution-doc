@@ -1,0 +1,11 @@
+<map id="FunctionModel::save_all_runtime_maps_to_storage" name="FunctionModel::save_all_runtime_maps_to_storage">
+<area shape="rect" id="Node000001" title="Iterates over all in&#45;memory records and saves their mapX/mapY to binary files on storage." alt="" coords="5,48,172,103"/>
+<area shape="rect" id="Node000002" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="265,5,384,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,53,219,41,258,31,259,37,221,46,173,58"/>
+<area shape="rect" id="Node000004" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Reads all stored records." alt="" coords="220,55,429,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,73,206,73,206,78,172,78"/>
+<area shape="rect" id="Node000005" href="$da/da2/glade_8cpp.html#a1599dcb10c73bc9252ed092964a4e518" title="Sanitizes a string to be used as a valid filename." alt="" coords="257,120,392,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="173,93,221,105,259,114,258,119,219,110,172,98"/>
+<area shape="rect" id="Node000003" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="477,5,611,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,15,464,15,464,21,384,21"/>
+</map>

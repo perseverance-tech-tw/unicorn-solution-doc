@@ -1,0 +1,9 @@
+<map id="src/helpers/message_dialog.cpp" name="src/helpers/message_dialog.cpp">
+<area shape="rect" id="Node000001" title="Implements the MessageDialog utility class." alt="" coords="31,5,187,45"/>
+<area shape="rect" id="Node000002" href="$d8/d74/message__dialog_8hpp.html" title="Defines a simple utility class for displaying GTK message dialogs." alt="" coords="5,93,213,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,46,112,79,107,79,107,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="23,167,103,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,120,80,157,76,154,99,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="127,167,185,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="119,118,143,154,139,157,115,120"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="SettingView::onTimeFormatToggle" name="SettingView::onTimeFormatToggle">
+<area shape="rect" id="Node000001" title="Static callback for &#39;toggled&#39; events on the date/time format radio buttons." alt="" coords="5,26,208,66"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="517,5,681,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,23,256,11,316,7,363,7,469,11,504,12,504,17,469,17,362,12,316,12,256,17,186,29"/>
+<area shape="rect" id="Node000004" href="$d9/ddd/classSettingController.html#a0d0826975b00216e72367f8692478e85" title="Handles the toggle event for datetime format switching." alt="" coords="278,90,447,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,63,270,84,269,89,187,69"/>
+<area shape="rect" id="Node000006" href="$dc/d7c/classSettingView.html#a83fa57969ede9793e5b8fb80575c39ab" title="Updates the date/time label with the current time, formatted according to the selected preference." alt="" coords="256,26,469,66"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="208,43,242,43,242,49,208,49"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="729,5,876,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="682,15,716,15,716,21,682,21"/>
+<area shape="rect" id="Node000005" href="$d9/ddd/classSettingController.html#ad7cbc192852a2c5a9896db3178c62345" title="Saves the user’s current datetime settings." alt="" coords="519,90,679,130"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="448,107,505,107,505,113,448,113"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="469,31,503,27,504,32,470,36"/>
+</map>

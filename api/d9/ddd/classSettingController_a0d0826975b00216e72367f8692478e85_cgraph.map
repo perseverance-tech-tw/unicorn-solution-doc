@@ -1,0 +1,5 @@
+<map id="SettingController::handleDatetimeToggle" name="SettingController::handleDatetimeToggle">
+<area shape="rect" id="Node000001" title="Handles the toggle event for datetime format switching." alt="" coords="5,5,175,45"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#ad7cbc192852a2c5a9896db3178c62345" title="Saves the user’s current datetime settings." alt="" coords="223,5,383,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,23,209,23,209,28,175,28"/>
+</map>

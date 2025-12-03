@@ -1,0 +1,11 @@
+<map id="LiveViewView::hitControllerPauseWrapper" name="LiveViewView::hitControllerPauseWrapper">
+<area shape="rect" id="Node000001" title="Static wrapper for the &#39;Pause&#39; video playback button click signal." alt="" coords="5,27,207,67"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="255,5,419,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,32,241,27,242,33,207,37"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#a20ce81a2c9d671ae83a54d3cbb9b4249" title="Pauses video playback." alt="" coords="264,55,409,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,57,251,62,250,68,206,62"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="491,5,638,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,15,477,15,477,21,419,21"/>
+<area shape="rect" id="Node000005" href="$d0/d13/classLiveViewView.html#a8e7ce13ba50e3c812621fc24740fca18" title="Pauses the currently playing video." alt="" coords="467,55,663,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="410,73,453,73,453,78,410,78"/>
+</map>

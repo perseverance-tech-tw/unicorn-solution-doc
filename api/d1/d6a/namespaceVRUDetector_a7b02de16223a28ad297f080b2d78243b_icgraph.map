@@ -1,0 +1,9 @@
+<map id="VRUDetector::evalBsisZoningGeneric" name="VRUDetector::evalBsisZoningGeneric">
+<area shape="rect" id="Node000001" title="A generic helper function to evaluate BSIS risk based on which zone is primary." alt="" coords="252,69,467,109"/>
+<area shape="rect" id="Node000002" href="$d1/d6a/namespaceVRUDetector.html#ac192a0d8ea4642a504e56cdce70f0e08" title="Evaluates BSIS risk for a left&#45;hand drive configuration." alt="" coords="5,5,204,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,68,184,48,185,43,266,63"/>
+<area shape="rect" id="Node000003" href="$d1/d6a/namespaceVRUDetector.html#a71a8fd884930d245d22c0adca7181e05" title="Evaluates BSIS risk for a reverse gear configuration." alt="" coords="5,69,204,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,92,204,92,204,87,239,87"/>
+<area shape="rect" id="Node000004" href="$d1/d6a/namespaceVRUDetector.html#a787f00a52168ee4bc5ee6bb5426f8af0" title="Evaluates BSIS risk for a right&#45;hand drive configuration." alt="" coords="5,133,204,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,115,185,136,184,131,265,110"/>
+</map>

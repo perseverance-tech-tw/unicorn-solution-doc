@@ -1,0 +1,9 @@
+<map id="ConfigurationController::switchToPanoramaPage" name="ConfigurationController::switchToPanoramaPage">
+<area shape="rect" id="Node000001" title="Switches the configuration view to the Panorama page." alt="" coords="639,5,821,45"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html#adc0dc9f6fce468c98b87177f77bca558" title="Handles &#39;clicked&#39; event for the Panorama navigation button." alt="" coords="397,5,591,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="625,28,591,28,591,23,625,23"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="201,5,349,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,28,349,28,349,23,384,23"/>
+<area shape="rect" id="Node000004" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="5,5,153,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,28,154,28,154,23,187,23"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="FrameRecord" name="FrameRecord">
+<area shape="rect" id="Node000001" title="Represents a single frame configuration in the application." alt="" coords="13,93,121,119"/>
+<area shape="rect" id="Node000002" href="$df/df2/structFunctionRecord.html" title="Represents a single function preset with all its parameters." alt="" coords="5,5,128,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,45,69,93,64,93,64,45"/>
+</map>

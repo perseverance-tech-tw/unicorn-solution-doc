@@ -1,0 +1,10 @@
+<map id="LiveViewView::updateAllImagesTest" name="LiveViewView::updateAllImagesTest">
+<area shape="rect" id="Node000001" title="Refreshes all image widgets in the view, typically with placeholder or test images." alt="" coords="487,31,743,56"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#ac6da02831e42bc4dda7746e2dd5d6c37" title="Handles the &#39;Help&#39; button click event." alt="" coords="200,5,439,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,34,439,31,439,26,473,29"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a39e47e97870317e27f578239ae95706e" title="Handles the &#39;Live View&#39; button click event." alt="" coords="202,55,437,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="473,58,437,60,437,55,473,52"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="5,31,152,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,35,153,38,152,33,186,29"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="188,57,152,53,153,48,189,52"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$dd/d94/classBaseView.html" title="Abstract base class providing common GTK view functionality." alt="" coords="5,104,92,129"/>
+<area shape="rect" id="Node000001" href="$dd/d64/classApp.html" title="Main application class that handles GTK UI initialization, navigation, and signal connections." alt="" coords="187,5,234,31"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="70,93,101,65,139,40,186,21,188,26,141,44,105,70,74,97"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html" title="Manages the user interface for the camera configuration page." alt="" coords="140,55,281,80"/>
+<area shape="poly" id="edge8_Node000000_Node000002" title=" " alt="" coords="103,97,167,78,169,83,105,102"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html" title="View for live view functionality, including media loading and display mode switching." alt="" coords="154,104,267,129"/>
+<area shape="poly" id="edge9_Node000000_Node000003" title=" " alt="" coords="106,114,154,114,154,119,106,119"/>
+<area shape="rect" id="Node000004" href="$d2/d2b/classPlaybackView.html" title="Manages the user interface for the video playback page." alt="" coords="154,153,267,179"/>
+<area shape="poly" id="edge10_Node000000_Node000004" title=" " alt="" coords="105,131,169,151,167,156,103,136"/>
+<area shape="rect" id="Node000005" href="$dc/d7c/classSettingView.html" title="Manages the user interface for the application&#39;s settings pages." alt="" coords="161,203,261,228"/>
+<area shape="poly" id="edge11_Node000000_Node000005" title=" " alt="" coords="74,137,105,163,141,188,169,200,167,205,139,192,102,167,71,141"/>
+</map>

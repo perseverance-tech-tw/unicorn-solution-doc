@@ -1,0 +1,9 @@
+<map id="FrameModel::saveToDatabase" name="FrameModel::saveToDatabase">
+<area shape="rect" id="Node000001" title="Saves all in&#45;memory frame records to the SQLite database(s)." alt="" coords="641,5,860,31"/>
+<area shape="rect" id="Node000002" href="$dd/d08/classFrameModel.html#af770dc5efb0deb83ec8b6bf032bbf2f4" title="Populates the model with initial default frame data." alt="" coords="439,5,593,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="628,21,594,21,594,15,628,15"/>
+<area shape="rect" id="Node000003" href="$dd/d08/classFrameModel.html#aff927721cf4c29767ca9c99b309a5d74" title="Loads frame records from a SQLite database into memory." alt="" coords="156,5,391,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,21,391,21,391,15,424,15"/>
+<area shape="rect" id="Node000004" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Sets up the application routes and component bindings." alt="" coords="5,5,108,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="142,21,108,21,108,15,142,15"/>
+</map>

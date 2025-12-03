@@ -1,0 +1,5 @@
+<map id="MoilUtils::getPolygonFromMaps" name="MoilUtils::getPolygonFromMaps">
+<area shape="rect" id="Node000001" title="Extracts the boundary points from remap matrices into a single contour." alt="" coords="249,5,479,31"/>
+<area shape="rect" id="Node000002" href="$dc/d3d/namespaceMoilUtils.html#a87159a0a0c2906c3094ce886e81eee84" title="Checks if a given point is inside the area defined by remap matrices." alt="" coords="5,5,201,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,21,202,21,202,15,236,15"/>
+</map>

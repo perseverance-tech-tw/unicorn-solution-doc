@@ -1,0 +1,12 @@
+<map id="include/constants/constants.hpp" name="include/constants/constants.hpp">
+<area shape="rect" id="Node000001" title="Global constants, configuration parameters, and helper declarations." alt="" coords="5,5,236,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="99,152,158,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,33,88,47,73,64,64,83,66,103,80,124,99,142,96,146,76,128,61,105,59,82,68,61,85,43,102,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="75,79,166,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,31,123,65,118,65,118,31"/>
+<area shape="rect" id="Node000004" href="$de/d34/resolution__processor_8hpp.html" title="Declares functions and types for managing map resolutions." alt="" coords="190,79,406,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,28,258,71,256,76,148,33"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="272,106,170,149,168,144,270,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="273,152,323,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="301,104,301,138,295,138,295,104"/>
+</map>

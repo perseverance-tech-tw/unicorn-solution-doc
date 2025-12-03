@@ -1,0 +1,9 @@
+<map id="LiveViewController::refreshAvailableCameras" name="LiveViewController::refreshAvailableCameras">
+<area shape="rect" id="Node000001" title="Refreshes the list of available camera devices." alt="" coords="5,5,200,45"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#ae1411491add31744add938be5b7018cc" title="Refreshes the list of connected cameras." alt="" coords="248,13,407,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,23,234,23,234,28,200,28"/>
+<area shape="rect" id="Node000003" href="$d7/d7c/classCameraProcessor.html#a368b2ecbea0b1b75bc6075152fefdeda" title="Re&#45;scans and returns an updated list of available cameras." alt="" coords="455,5,645,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,23,441,23,441,28,407,28"/>
+<area shape="rect" id="Node000004" href="$d7/d7c/classCameraProcessor.html#a19caf2566b8b42e3d1a0ae7e026af6f0" title="Detects all available video cameras connected to the system." alt="" coords="693,5,939,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="646,23,680,23,680,28,646,28"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="ConfigurationView::onSpinValueMarginChanged" name="ConfigurationView::onSpinValueMarginChanged">
+<area shape="rect" id="Node000001" title="Handles the &#39;value&#45;changed&#39; event for margin control spin buttons." alt="" coords="879,92,1083,132"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="1025,80,1009,73,981,71,956,73,940,77,935,83,938,91,933,92,930,82,938,73,955,67,981,65,1011,68,1027,75"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html#ae975d0a3542a1311028e29fab91d3943" title="Initializes the UI controls (spin buttons, switches) with values from the data model." alt="" coords="611,63,831,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="865,102,830,98,831,92,865,96"/>
+<area shape="rect" id="Node000004" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="201,69,349,109"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="865,117,831,117,709,121,614,125,519,126,397,117,349,110,350,105,398,112,519,121,614,120,709,116,831,112,865,112"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html#ad51c7d0d5b33b136109741f649e7b95b" title="Handles the &#39;clicked&#39; event for the Reset button." alt="" coords="397,63,563,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="597,85,563,85,563,80,597,80"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classConfigurationView.html#a0c5fed278f22ffa2813ed1b3f3fe7f4f" title="Binds UI widgets from the Glade file to class member variables." alt="" coords="201,5,349,45"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="616,63,562,53,451,40,350,32,350,27,451,35,563,48,617,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="384,88,350,90,349,84,384,83"/>
+<area shape="rect" id="Node000005" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="5,37,153,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="187,78,153,72,154,67,188,72"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="188,42,154,48,153,43,187,37"/>
+</map>

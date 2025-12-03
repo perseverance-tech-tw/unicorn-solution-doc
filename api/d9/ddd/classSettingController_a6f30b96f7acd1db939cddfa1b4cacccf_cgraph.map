@@ -1,0 +1,15 @@
+<map id="SettingController::SettingController" name="SettingController::SettingController">
+<area shape="rect" id="Node000001" title="Constructs a new SettingController instance." alt="" coords="5,73,145,113"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="193,5,357,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,70,192,41,217,32,219,37,194,46,123,75"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="204,55,347,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,81,190,75,191,81,146,86"/>
+<area shape="rect" id="Node000006" href="$dd/d94/classBaseView.html#a9bf94b085e1a70487bc653e531c7082a" title="Returns the main view widget." alt="" coords="202,104,349,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="146,98,189,104,188,109,145,104"/>
+<area shape="rect" id="Node000007" href="$d9/ddd/classSettingController.html#a3a5c2c0a3ebfeb7caf963aacdb660594" title="Loads camera data from all databases listed in Constants::DB_PATHS." alt="" coords="205,154,345,194"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="125,110,194,140,211,146,209,151,192,144,123,115"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="444,5,591,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,15,430,15,430,21,358,21"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="405,55,629,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="347,65,392,65,392,70,347,70"/>
+</map>

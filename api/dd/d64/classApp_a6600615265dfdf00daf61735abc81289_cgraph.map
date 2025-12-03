@@ -1,0 +1,5 @@
+<map id="App::viewBinding" name="App::viewBinding">
+<area shape="rect" id="Node000001" title="Binds GTK widgets to class member variables." alt="" coords="5,5,140,31"/>
+<area shape="rect" id="Node000002" href="$dd/dc0/check__null__pointer_8cpp.html#a6381cc770a7879732f6478dd035118ba" title="Checks if a pointer is null and terminates the program if it is." alt="" coords="188,5,320,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,15,174,15,174,21,140,21"/>
+</map>

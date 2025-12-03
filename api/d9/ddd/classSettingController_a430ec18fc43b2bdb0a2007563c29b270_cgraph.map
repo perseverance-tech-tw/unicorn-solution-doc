@@ -1,0 +1,9 @@
+<map id="SettingController::updateLabelAndImage" name="SettingController::updateLabelAndImage">
+<area shape="rect" id="Node000001" title="Updates labels and images for the specified page." alt="" coords="5,5,173,45"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#ae9b2362ef7a27751976241012e2debd8" title="Sets the text of a GtkLabel using a translation key." alt="" coords="221,13,397,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,23,208,23,208,28,173,28"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="445,13,588,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,23,432,23,432,28,397,28"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a9c33c50a6040c6863efca46c87169cad" title="Loads the JSON translation file for the currentLanguage into memory." alt="" coords="636,13,860,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="588,23,622,23,622,28,588,28"/>
+</map>

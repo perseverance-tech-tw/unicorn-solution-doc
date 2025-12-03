@@ -1,0 +1,9 @@
+<map id="MoildevApplicator::getAlphaBeta" name="MoildevApplicator::getAlphaBeta">
+<area shape="rect" id="Node000001" title="Converts pixel coordinates (x, y) from the original fisheye image into angular coordinates (alpha,..." alt="" coords="644,5,792,45"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html#a6705956d2e04ae28a29ab069bccf196b" title="Handles mouse clicks on the original fisheye source image to set alpha/beta." alt="" coords="397,5,596,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="630,28,596,28,596,23,630,23"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals from UI widgets to their corresponding static callback handlers." alt="" coords="201,5,349,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,28,350,28,350,23,383,23"/>
+<area shape="rect" id="Node000004" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructs the ConfigurationView." alt="" coords="5,5,153,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,28,154,28,154,23,187,23"/>
+</map>

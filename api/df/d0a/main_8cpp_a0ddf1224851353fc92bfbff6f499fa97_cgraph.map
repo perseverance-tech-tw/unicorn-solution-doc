@@ -1,0 +1,26 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Entry point for the application." alt="" coords="5,92,60,117"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="597,16,761,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,90,73,70,107,53,169,36,234,23,363,11,484,10,584,15,584,21,483,15,363,16,234,29,170,41,109,58,76,74,50,94"/>
+<area shape="rect" id="Node000004" href="$df/d0a/main_8cpp.html#ab6fa8c7ec75aa4ad177577610df85cd3" title="Signal handler for clean application exit (e.g., Ctrl+C)." alt="" coords="129,67,268,92"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="60,98,116,89,116,95,61,103"/>
+<area shape="rect" id="Node000011" href="$dd/d64/classApp.html#ae09dc71078b64c56c673b1ad1d25b5d1" title="Starts the GTK main application loop." alt="" coords="161,116,237,141"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="61,106,147,119,146,124,60,111"/>
+<area shape="rect" id="Node000012" href="$df/dd5/classMediator.html#a37a3074af05d172c900e80db51546714" title="Sets the global ThreadPool instance used for parallel tasks." alt="" coords="108,165,289,191"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="52,116,78,134,109,152,127,159,125,164,107,156,75,139,49,120"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="842,5,989,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="761,22,828,19,829,25,762,28"/>
+<area shape="rect" id="Node000005" href="$dd/d64/classApp.html#afbe2c04bccd958d44bd45d005be8060c" title="Performs cleanup and saves persistent application data before exit." alt="" coords="337,67,548,92"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,77,323,77,323,82,269,82"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="502,64,606,42,607,47,504,69"/>
+<area shape="rect" id="Node000006" href="$d2/dd2/classFunctionModel.html#a47f0938eac429bee73d6a12dc2de001f" title="Iterates over all in&#45;memory records and saves their mapX/mapY to binary files on storage." alt="" coords="596,76,763,131"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="549,87,583,91,582,96,548,93"/>
+<area shape="rect" id="Node000007" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="856,55,975,80"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="763,88,842,76,843,81,763,93"/>
+<area shape="rect" id="Node000009" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Reads all stored records." alt="" coords="811,105,1020,145"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="763,108,797,111,797,117,763,114"/>
+<area shape="rect" id="Node000010" href="$da/da2/glade_8cpp.html#a1599dcb10c73bc9252ed092964a4e518" title="Sanitizes a string to be used as a valid filename." alt="" coords="848,169,983,195"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="743,128,812,154,843,163,842,169,810,159,741,133"/>
+<area shape="rect" id="Node000008" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="1068,55,1201,80"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="975,65,1054,65,1054,70,975,70"/>
+</map>

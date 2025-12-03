@@ -1,0 +1,5 @@
+<map id="loadCss" name="loadCss">
+<area shape="rect" id="Node000001" title="Loads and applies a CSS file to the entire application." alt="" coords="5,5,79,31"/>
+<area shape="rect" id="Node000002" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="127,5,260,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,15,113,15,113,21,79,21"/>
+</map>

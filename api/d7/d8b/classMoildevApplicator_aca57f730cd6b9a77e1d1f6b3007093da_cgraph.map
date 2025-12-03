@@ -1,0 +1,19 @@
+<map id="MoildevApplicator::reconfigureAndRemap" name="MoildevApplicator::reconfigureAndRemap">
+<area shape="rect" id="Node000001" title="Reloads all camera parameters, re&#45;initializes the Moildev engine, and regenerates all maps." alt="" coords="5,146,172,186"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#a15b1be59dcba7b86c3988ab32e386da1" title="Generates and saves the base (full&#45;resolution) maps for all function presets." alt="" coords="220,146,368,186"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,163,206,163,206,169,172,169"/>
+<area shape="rect" id="Node000003" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="416,97,631,137"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,148,416,137,418,142,369,153"/>
+<area shape="rect" id="Node000008" href="$df/dd5/classMediator.html#a5a016db380c9a7b1a529a0722c1e8130" title="Retrieves the global Mediator instance (Singleton access)." alt="" coords="441,181,605,207"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="369,172,428,180,427,185,368,178"/>
+<area shape="rect" id="Node000004" href="$d1/dc8/classMoildev.html#ad4818dfc88bdadd90595d8ddd20e1d52" title=" " alt="" coords="697,5,847,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="560,94,615,66,678,40,701,32,702,37,680,44,617,71,562,99"/>
+<area shape="rect" id="Node000005" href="$d1/dc8/classMoildev.html#a02794642b11e74d4567fc645aef71a70" title=" " alt="" coords="679,55,865,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="624,94,694,80,695,85,625,99"/>
+<area shape="rect" id="Node000006" href="$d1/dc8/classMoildev.html#aa57069b0f4c853ebfcf8d642960a1442" title=" " alt="" coords="681,104,863,129"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="631,114,668,114,668,119,631,119"/>
+<area shape="rect" id="Node000007" href="$d1/dc8/classMoildev.html#a3fef5721ae893cb26e3b6af5402f9320" title=" " alt="" coords="688,153,856,179"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="625,134,695,148,694,153,624,139"/>
+<area shape="rect" id="Node000009" href="$df/dd5/classMediator.html#aa75ae071194f2da701d98de0f6ac0ba7" title="Constructs a new Mediator instance." alt="" coords="699,203,845,228"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="606,198,685,205,685,211,605,204"/>
+</map>

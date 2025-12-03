@@ -1,0 +1,9 @@
+<map id="include/utils/camera_processor.hpp" name="include/utils/camera_processor.hpp">
+<area shape="rect" id="Node000001" title="Defines the CameraProcessor utility class for cross&#45;platform camera detection." alt="" coords="175,5,329,45"/>
+<area shape="rect" id="Node000002" href="$de/d54/live__view__controller_8cpp.html" title="Implements the LiveViewController class, managing live camera feeds, media input, recording,..." alt="" coords="5,93,160,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,54,121,96,119,91,202,49"/>
+<area shape="rect" id="Node000003" href="$d5/df2/app_8cpp.html" title="Implementation of the App class, which represents the main application window." alt="" coords="185,101,319,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,59,255,100,249,100,249,59"/>
+<area shape="rect" id="Node000004" href="$d2/d90/camera__processor_8cpp.html" title="Implementation of the CameraProcessor class." alt="" coords="343,101,566,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,48,429,98,427,103,308,53"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="App::hitControlOpenConfigWrapper" name="App::hitControlOpenConfigWrapper">
+<area shape="rect" id="Node000001" title="Handles the &#39;Configuration&#39; button click event." alt="" coords="200,5,395,45"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects GTK signals to their corresponding callback functions." alt="" coords="5,13,152,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,28,153,28,153,23,186,23"/>
+</map>

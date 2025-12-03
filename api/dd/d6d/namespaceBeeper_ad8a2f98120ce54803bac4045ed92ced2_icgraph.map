@@ -1,0 +1,9 @@
+<map id="Beeper::initAudioOnce" name="Beeper::initAudioOnce">
+<area shape="rect" id="Node000001" title="Initializes the audio backend on first use." alt="" coords="363,31,529,56"/>
+<area shape="rect" id="Node000002" href="$dd/d6d/namespaceBeeper.html#a5d5fe2419ffa44b579b930d2daeccdb6" title="A low&#45;level primitive that plays the configured sound file once." alt="" coords="162,5,309,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="349,34,309,29,309,24,349,29"/>
+<area shape="rect" id="Node000003" href="$dd/d6d/namespaceBeeper.html#a163e1c333b201cdf866bf3bc0590459c" title="Sets or changes the sound file to be used for beeps at runtime." alt="" coords="156,55,315,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="349,57,315,61,315,56,349,52"/>
+<area shape="rect" id="Node000004" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Sets up the application routes and component bindings." alt="" coords="5,55,108,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="142,70,108,70,108,65,142,65"/>
+</map>
