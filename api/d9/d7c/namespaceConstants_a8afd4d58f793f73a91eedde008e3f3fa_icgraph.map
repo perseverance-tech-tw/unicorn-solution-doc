@@ -1,0 +1,11 @@
+<map id="Constants::updateSizeFactorInDatabase" name="Constants::updateSizeFactorInDatabase">
+<area shape="rect" id="Node000001" title="Updates the size factor value in the database." alt="" coords="235,99,441,139"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#ac3ceba55f7297483763f02269dd3c140" title="Opens media file dialog for image or video selection." alt="" coords="23,5,169,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,96,186,60,154,48,156,43,188,55,278,91"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/classLiveViewController.html#ab57b6a6cd7cc0ac448d8b2681e9e786e" title="Restores a specific source (Camera or File) directly." alt="" coords="23,69,169,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,107,168,101,169,95,221,102"/>
+<area shape="rect" id="Node000004" href="$d9/d7c/namespaceConstants.html#a08a3d27396d03f91b984e111eadb5b44" title="Updates the global SIZE_FACTOR both in memory and in the database." alt="" coords="5,134,187,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,135,187,139,186,134,221,130"/>
+<area shape="rect" id="Node000005" href="$d3/d3d/classConfigurationController.html#abfa9b0089a360e1d4012c2ef34912f1d" title="Shows the scale factor dialog." alt="" coords="6,184,186,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="268,146,154,186,153,181,267,141"/>
+</map>

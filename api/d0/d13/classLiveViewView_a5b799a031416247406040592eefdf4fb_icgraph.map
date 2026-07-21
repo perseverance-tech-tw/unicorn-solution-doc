@@ -1,0 +1,12 @@
+<map id="LiveViewView::onBlinkTimeout" name="LiveViewView::onBlinkTimeout">
+<area shape="rect" id="Node000001" title=" " alt="" coords="645,45,868,70"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#abe5db72c1c6a60986fb6aeebf3c6fc41" title="Controls the visibility and blinking animation of the recording icon." alt="" coords="392,37,597,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="631,60,598,60,598,55,631,55"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/classLiveViewController.html#adffe5670bd28eeeb83a3ca9e511112db" title="Initiates Video Recording." alt="" coords="199,5,344,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,43,344,38,345,33,378,38"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#a256403940f67847efae818ba7fc4bad4" title="Terminates Video Recording." alt="" coords="199,69,344,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="378,77,345,82,344,76,378,71"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#a310cb2d58e78ee7c8b2dd6c7200b458f" title="Toggles the recording state." alt="" coords="5,37,151,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="186,42,152,48,151,43,185,37"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="185,78,151,72,152,67,186,72"/>
+</map>

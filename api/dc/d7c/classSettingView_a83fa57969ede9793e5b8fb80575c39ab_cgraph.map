@@ -1,0 +1,5 @@
+<map id="SettingView::updateDatetimeLabel" name="SettingView::updateDatetimeLabel">
+<area shape="rect" id="Node000001" title="Refreshes the displayed date and time string." alt="" coords="5,5,219,45"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="267,13,431,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,23,253,23,253,28,219,28"/>
+</map>

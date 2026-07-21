@@ -1,0 +1,11 @@
+<map id="VRUDetector::setBaseRightCoords" name="VRUDetector::setBaseRightCoords">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,205,63"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="274,5,438,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,31,260,25,261,30,206,36"/>
+<area shape="rect" id="Node000003" href="$de/d06/classRegionModel.html#ac1006896dbfe6288c6526a98f2da7a7a" title="Update berdasarkan nama record." alt="" coords="253,55,459,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,50,240,54,239,59,205,56"/>
+<area shape="rect" id="Node000004" href="$d8/d7f/classBaseModel.html#a7c4c2ec1775de5b027cd11f3f66991b9" title="Creates and stores a new record in the model." alt="" coords="519,18,717,58"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="458,53,505,48,505,53,459,59"/>
+<area shape="rect" id="Node000005" href="$de/d06/classRegionModel.html#a341aba09b9a0033d75b962f37a171480" title="Saves all in&#45;memory region records to the SQLite database(s)." alt="" coords="507,83,729,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="459,76,493,79,493,85,458,81"/>
+</map>

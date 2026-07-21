@@ -1,0 +1,5 @@
+<map id="ConfigurationView::onOriginalViewButtonPress" name="ConfigurationView::onOriginalViewButtonPress">
+<area shape="rect" id="Node000001" title="Callback for mouse button press on the original view." alt="" coords="5,5,204,45"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="252,13,416,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,23,238,23,238,28,204,28"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="src/helpers/glade.cpp" name="src/helpers/glade.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the Glade utility functions." alt="" coords="370,5,530,31"/>
+<area shape="rect" id="Node000002" href="$d0/d7b/glade_8hpp.html" title="Utilities for GTK Builder (Glade) loading and CSS Management." alt="" coords="223,79,362,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,33,332,75,330,71,424,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="157,152,215,177"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="370,33,277,53,238,66,213,81,203,93,196,108,190,139,184,138,191,106,199,90,210,77,236,61,276,48,369,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="343,152,394,177"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="446,32,384,141,380,139,441,30"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="419,152,481,177"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="453,31,453,138,447,138,447,31"/>
+<area shape="rect" id="Node000007" href="$d6/da3/logger_8hpp.html" title="A lightweight, thread&#45;safe logging interface." alt="" coords="5,79,148,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="391,33,151,79,150,73,390,28"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="487,79,567,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="464,29,506,67,503,71,461,33"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="591,79,666,104"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="480,28,588,71,586,76,478,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="691,79,761,104"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="495,28,678,75,677,80,494,33"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="786,79,861,104"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="518,28,773,76,772,81,517,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="239,152,319,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="293,105,287,139,281,138,288,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="277,106,216,147,213,142,274,102"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="307,102,348,141,344,144,303,106"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="319,102,413,144,411,149,317,106"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="96,102,158,142,155,147,93,106"/>
+</map>

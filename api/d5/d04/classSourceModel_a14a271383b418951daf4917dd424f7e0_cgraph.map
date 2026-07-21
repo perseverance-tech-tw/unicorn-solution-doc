@@ -1,0 +1,5 @@
+<map id="SourceModel::saveToDatabase" name="SourceModel::saveToDatabase">
+<area shape="rect" id="Node000001" title="Saves all in&#45;memory records to the SQLite database(s)." alt="" coords="5,13,227,38"/>
+<area shape="rect" id="Node000002" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Retrieves all records stored in the model." alt="" coords="275,5,473,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,23,261,23,261,28,227,28"/>
+</map>

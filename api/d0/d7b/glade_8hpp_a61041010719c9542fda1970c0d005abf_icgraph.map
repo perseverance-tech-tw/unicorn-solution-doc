@@ -1,0 +1,35 @@
+<map id="getExecutableDir" name="getExecutableDir">
+<area shape="rect" id="Node000001" title="Resolves the directory path of the running executable." alt="" coords="1339,263,1472,288"/>
+<area shape="rect" id="Node000002" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="1164,214,1283,239"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1344,262,1271,242,1272,236,1346,257"/>
+<area shape="rect" id="Node000013" href="$da/da2/glade_8cpp.html#abc4176b1f565b93b897e386b8aad2692" title="Loads and applies a CSS file to the entire application." alt="" coords="1187,263,1260,288"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="1324,278,1260,278,1260,273,1324,273"/>
+<area shape="rect" id="Node000015" href="$da/da2/glade_8cpp.html#acf244bc1f6e052e0fb7d09a9e56ffbd0" title="Loads a GtkBuilder object from a Glade UI definition file." alt="" coords="1156,312,1291,338"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="1346,294,1272,315,1271,309,1344,289"/>
+<area shape="rect" id="Node000003" href="$db/d24/function__model_8cpp.html#a8c7b234fc6dbf95e11f7b9dd4f0fa57a" title=" " alt="" coords="960,116,1099,142"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1184,210,1054,144,1057,139,1186,205"/>
+<area shape="rect" id="Node000010" href="$d0/d22/classPlaybackController.html#ae49cbe73c54af212f9cce725c6c02467" title="Initializes the Playback Gallery." alt="" coords="957,217,1102,257"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="1150,233,1102,236,1102,230,1150,228"/>
+<area shape="rect" id="Node000004" href="$d2/dd2/classFunctionModel.html#a3b7e6d813c600d03346c0a93384e4768" title="Loads the mapX and mapY matrices for a record from its file paths." alt="" coords="471,116,652,142"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1007,108,963,64,934,43,902,27,852,12,811,8,770,14,720,27,676,46,636,71,578,118,574,114,633,66,673,41,718,22,769,8,811,3,853,7,904,22,936,38,966,60,1011,104"/>
+<area shape="rect" id="Node000007" href="$d2/dd2/classFunctionModel.html#a47f0938eac429bee73d6a12dc2de001f" title="Iterates over all in&#45;memory records and saves their mapX/mapY to binary files on storage." alt="" coords="727,38,894,92"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="971,115,893,92,895,87,972,110"/>
+<area shape="rect" id="Node000008" href="$d2/dd2/classFunctionModel.html#a36183ae73ea97e3488aadb81e2cf55c9" title="Serializes and Saves Remap Tables to Disk." alt="" coords="719,116,903,142"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="946,132,903,132,903,126,946,126"/>
+<area shape="rect" id="Node000009" href="$d2/dd2/classFunctionModel.html#aa28a81f1530283093002ecee07e59730" title="Populates the model with initial default function presets." alt="" coords="477,167,646,192"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="956,147,903,156,768,170,646,178,646,173,767,165,902,150,955,142"/>
+<area shape="rect" id="Node000005" href="$d2/dd2/classFunctionModel.html#aa97dab815b623f2bef3d112062fd40d2" title="Loads function records from a SQLite database into memory." alt="" coords="156,142,404,167"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="457,141,405,146,404,140,457,136"/>
+<area shape="rect" id="Node000006" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Initializes and connects all core application components." alt="" coords="5,142,108,167"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="142,157,108,157,108,152,142,152"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="705,132,652,132,652,126,705,126"/>
+<area shape="poly" id="edge10_Node000009_Node000005" title=" " alt="" coords="463,173,404,168,404,163,463,168"/>
+<area shape="rect" id="Node000011" href="$d0/d22/classPlaybackController.html#a183452771546143ca327199076df3484" title="Handles requests to delete a distinct video file." alt="" coords="729,217,893,257"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="943,240,893,240,893,234,943,234"/>
+<area shape="rect" id="Node000012" href="$d0/d22/classPlaybackController.html#af509b6493ab2bd578f5ee94c22434037" title="Static wrapper function to connect GTK signal for delete button." alt="" coords="452,245,671,285"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="715,250,671,255,671,250,715,245"/>
+<area shape="poly" id="edge14_Node000012_Node000010" title=" " alt="" coords="685,272,791,273,902,266,962,254,963,260,903,272,791,279,685,277"/>
+<area shape="rect" id="Node000014" href="$dd/d94/classBaseView.html#af470f1fa07284981ce7646d5296c728c" title="Constructs a new Base View object and initializes the UI." alt="" coords="951,292,1108,318"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="1173,286,1108,296,1108,290,1172,280"/>
+<area shape="poly" id="edge18_Node000015_Node000014" title=" " alt="" coords="1142,319,1108,316,1108,310,1142,314"/>
+</map>

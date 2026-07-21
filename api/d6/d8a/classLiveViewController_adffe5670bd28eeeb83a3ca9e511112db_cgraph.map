@@ -1,0 +1,22 @@
+<map id="LiveViewController::startRecord" name="LiveViewController::startRecord">
+<area shape="rect" id="Node000001" title="Initiates Video Recording." alt="" coords="5,81,151,121"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="501,13,644,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,78,144,48,170,34,198,23,273,8,350,3,424,5,488,10,487,16,424,10,351,8,274,14,199,29,172,39,147,53,104,83"/>
+<area shape="rect" id="Node000004" href="$d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e" title="Checks if recording is currently active." alt="" coords="199,39,413,64"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,82,233,64,234,70,152,87"/>
+<area shape="rect" id="Node000005" href="$d0/d13/classLiveViewView.html#abe5db72c1c6a60986fb6aeebf3c6fc41" title="Controls the visibility and blinking animation of the recording icon." alt="" coords="203,138,409,178"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="152,116,213,132,212,137,151,122"/>
+<area shape="rect" id="Node000007" href="$de/d7b/classMessageDialog.html#a7b0e305f314e369e08b89426a5e0b315" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="215,88,397,113"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="151,98,201,98,201,103,151,103"/>
+<area shape="rect" id="Node000009" href="$d0/d64/namespaceRecordProcessor.html#a665d7a048c45064165d30a33b8025290" title="Starts the video recording process." alt="" coords="199,203,413,228"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="102,119,145,154,200,188,222,196,220,201,197,192,142,158,99,123"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="732,6,925,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="644,23,718,23,718,29,644,29"/>
+<area shape="rect" id="Node000006" href="$d0/d13/classLiveViewView.html#a5b799a031416247406040592eefdf4fb" title=" " alt="" coords="461,145,684,171"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="409,155,448,155,448,161,409,161"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="363,85,413,73,519,40,521,45,414,78,364,91"/>
+<area shape="rect" id="Node000008" href="$de/d7b/classMessageDialog.html#ab509294ce066b74cca0997706c2ef69d" title="Shows a modal dialog with a single button." alt="" coords="487,88,659,113"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="397,98,473,98,473,103,397,103"/>
+<area shape="rect" id="Node000010" href="$d0/d64/namespaceRecordProcessor.html#a35bcc98b56f4d058a60d58cd852fd67f" title="Checks available disk space and deletes old recordings if necessary." alt="" coords="467,195,678,235"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="413,213,454,213,454,218,413,218"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SettingView" name="SettingView">
+<area shape="rect" id="Node000001" title="Manages the Settings UI." alt="" coords="5,79,105,104"/>
+<area shape="rect" id="Node000002" href="$dd/d94/classBaseView.html" title="Base Abstraction for GTK User Interfaces." alt="" coords="12,5,99,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,44,58,79,53,79,53,44"/>
+</map>

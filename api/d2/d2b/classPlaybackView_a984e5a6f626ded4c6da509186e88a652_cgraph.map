@@ -1,0 +1,5 @@
+<map id="PlaybackView::onOverlayTimeout" name="PlaybackView::onOverlayTimeout">
+<area shape="rect" id="Node000001" title="Timeout callback to auto&#45;hide controls." alt="" coords="5,13,247,38"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#a32801faef0847fd162c5736a66236606" title="Hides the overlay controls immediately." alt="" coords="295,5,493,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,23,281,23,281,28,247,28"/>
+</map>

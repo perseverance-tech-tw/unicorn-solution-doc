@@ -1,0 +1,17 @@
+<map id="getMapsDirectory" name="getMapsDirectory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="913,83,1052,108"/>
+<area shape="rect" id="Node000002" href="$d2/dd2/classFunctionModel.html#a3b7e6d813c600d03346c0a93384e4768" title="Loads the mapX and mapY matrices for a record from its file paths." alt="" coords="452,115,633,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="955,77,914,49,864,26,814,13,773,8,732,12,682,26,643,45,608,69,557,117,553,113,604,65,640,40,680,21,731,7,773,3,815,8,866,21,917,44,958,72"/>
+<area shape="rect" id="Node000005" href="$d2/dd2/classFunctionModel.html#a47f0938eac429bee73d6a12dc2de001f" title="Iterates over all in&#45;memory records and saves their mapX/mapY to binary files on storage." alt="" coords="690,36,857,91"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="899,86,856,79,857,74,900,80"/>
+<area shape="rect" id="Node000006" href="$d2/dd2/classFunctionModel.html#a36183ae73ea97e3488aadb81e2cf55c9" title="Serializes and Saves Remap Tables to Disk." alt="" coords="681,115,865,140"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="900,111,857,118,856,112,899,106"/>
+<area shape="rect" id="Node000007" href="$d2/dd2/classFunctionModel.html#aa28a81f1530283093002ecee07e59730" title="Populates the model with initial default function presets." alt="" coords="458,164,627,190"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="950,118,911,138,866,154,805,168,742,176,628,182,628,176,741,170,804,162,865,149,909,133,948,113"/>
+<area shape="rect" id="Node000003" href="$d2/dd2/classFunctionModel.html#aa97dab815b623f2bef3d112062fd40d2" title="Loads function records from a SQLite database into memory." alt="" coords="156,140,404,166"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,140,404,144,404,138,438,135"/>
+<area shape="rect" id="Node000004" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Initializes and connects all core application components." alt="" coords="5,140,108,166"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="142,156,108,156,108,150,142,150"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="668,130,633,130,633,125,668,125"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="444,171,404,167,405,162,445,165"/>
+</map>

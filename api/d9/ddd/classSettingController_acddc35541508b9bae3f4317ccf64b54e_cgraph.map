@@ -1,0 +1,5 @@
+<map id="SettingController::displayCameraParameters" name="SettingController::displayCameraParameters">
+<area shape="rect" id="Node000001" title="Loads and displays calibration data for a specific camera." alt="" coords="5,5,200,45"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#aad93d7e770616caa6da256ef3f832152" title="Enables or disables edit mode for camera settings." alt="" coords="248,5,388,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,23,235,23,235,28,200,28"/>
+</map>

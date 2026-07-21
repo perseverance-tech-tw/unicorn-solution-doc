@@ -1,0 +1,11 @@
+<map id="LiveViewView::onLiveViewDoubleClickWrapper" name="LiveViewView::onLiveViewDoubleClickWrapper">
+<area shape="rect" id="Node000001" title="Wrapper for double&#45;click on live view (toggle fullscreen)." alt="" coords="5,23,200,63"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="248,5,412,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,30,234,26,235,31,201,35"/>
+<area shape="rect" id="Node000003" href="$d8/dc9/live__view__view_8cpp.html#a623442cdd467df67061c4df471ba92d0" title="Maps a camera view ID to its corresponding label name." alt="" coords="249,55,411,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,51,235,55,234,60,200,56"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="460,55,603,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="412,65,446,65,446,70,412,70"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="651,47,844,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="603,65,637,65,637,70,603,70"/>
+</map>

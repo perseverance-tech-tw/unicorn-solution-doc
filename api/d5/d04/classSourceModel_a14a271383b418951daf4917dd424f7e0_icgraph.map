@@ -1,0 +1,22 @@
+<map id="SourceModel::saveToDatabase" name="SourceModel::saveToDatabase">
+<area shape="rect" id="Node000001" title="Saves all in&#45;memory records to the SQLite database(s)." alt="" coords="757,116,979,141"/>
+<area shape="rect" id="Node000002" href="$d5/d04/classSourceModel.html#a6f539e35bae36953d394009f9c1937e8" title="Populates the model with an initial default &quot;NONE&quot; record." alt="" coords="551,65,709,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="793,116,690,93,691,88,794,110"/>
+<area shape="rect" id="Node000006" href="$d5/d04/classSourceModel.html#a950862bfb81bbf214b430e46ca5b0e3a" title="Helper to set the current source as Multiple Cameras." alt="" coords="278,105,490,145"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="743,130,490,128,490,123,743,125"/>
+<area shape="rect" id="Node000008" href="$d5/d04/classSourceModel.html#a9124b216bf8b5a025dcda85b5bb2774e" title="Helper to set the current source as Multiple Media." alt="" coords="283,169,485,209"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="752,146,485,179,484,174,751,140"/>
+<area shape="rect" id="Node000003" href="$d5/d04/classSourceModel.html#a912f15cd44d99cb0c8b32dcd9096b888" title="Gets the last source record (ID 1)." alt="" coords="8,5,215,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="579,64,502,45,352,27,215,21,215,16,352,22,503,39,580,59"/>
+<area shape="rect" id="Node000004" href="$d5/d04/classSourceModel.html#aaf198449184ea12b9a9c7571295e6c7f" title="Loads source records from a SQLite database into memory." alt="" coords="265,55,503,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="537,77,503,75,503,70,537,71"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="549,96,490,107,489,102,548,91"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="602,101,557,131,504,159,472,171,470,166,502,154,554,126,599,97"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="299,55,182,33,183,28,300,50"/>
+<area shape="rect" id="Node000005" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Initializes and connects all core application components." alt="" coords="60,55,163,80"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="252,70,163,70,163,65,252,65"/>
+<area shape="rect" id="Node000007" href="$d5/d04/classSourceModel.html#aa3347740c4212453a811e2e7e9bb44f9" title="Helper to set the current source as a Camera (single)." alt="" coords="5,112,217,137"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="264,127,217,127,217,122,264,122"/>
+<area shape="rect" id="Node000009" href="$d5/d04/classSourceModel.html#a3ff8d98449e70022733d262678b5e689" title="Helper to set the current source as Media (single)." alt="" coords="11,176,212,201"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="270,191,212,191,212,186,270,186"/>
+</map>

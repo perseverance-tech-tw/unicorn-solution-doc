@@ -1,0 +1,13 @@
+<map id="LiveViewView::checkAndRestoreLastSource" name="LiveViewView::checkAndRestoreLastSource">
+<area shape="rect" id="Node000001" title="Checks if there&#39;s a last source saved in the database and asks user if they want to restore it." alt="" coords="5,23,239,63"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="296,5,460,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,29,282,25,283,30,239,34"/>
+<area shape="rect" id="Node000003" href="$de/d7b/classMessageDialog.html#a7b0e305f314e369e08b89426a5e0b315" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="287,55,469,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,52,273,55,273,60,239,57"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="532,29,675,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="470,54,518,49,518,54,470,60"/>
+<area shape="rect" id="Node000006" href="$de/d7b/classMessageDialog.html#ab509294ce066b74cca0997706c2ef69d" title="Shows a modal dialog with a single button." alt="" coords="517,79,689,104"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="470,74,504,78,503,83,470,80"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="737,22,931,62"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="675,39,723,39,723,45,675,45"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="LiveViewController::startVideoPlayback" name="LiveViewController::startVideoPlayback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,98,161,138"/>
+<area shape="rect" id="Node000002" href="$de/d54/live__view__controller_8cpp.html#a257c23cda7ca9544d82d1544e4bd7f5e" title="Formats a time value in seconds into a &quot;MM:SS&quot; string." alt="" coords="221,5,393,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,96,155,67,208,40,229,32,230,37,210,44,158,71,114,100"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/classLiveViewController.html#a53d590a708c2126fabf7f7089d45e56f" title=" " alt="" coords="209,55,405,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,103,195,97,196,103,162,108"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#a4778a2be61d9a6e46eeba6b54f4bc0c9" title="Stops UI frame update loop without releasing the capture device." alt="" coords="235,134,380,174"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,128,222,138,221,143,161,133"/>
+<area shape="rect" id="Node000006" href="$d0/d13/classLiveViewView.html#a3f580fde144fa8fb0660c86897b1bd2a" title="Updates the Play/Pause icon state." alt="" coords="676,163,869,203"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="114,136,157,162,210,183,269,196,329,204,450,210,565,206,662,197,663,203,565,212,450,215,328,209,268,201,209,189,155,167,111,141"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#a4f391ad801f385631e02e4dce454be92" title=" " alt="" coords="453,134,628,174"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="380,151,439,151,439,157,380,157"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="628,162,663,167,662,172,628,168"/>
+</map>

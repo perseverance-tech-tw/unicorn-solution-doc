@@ -1,0 +1,11 @@
+<map id="on_hover_leave" name="on_hover_leave">
+<area shape="rect" id="Node000001" title="Static GTK callback for the &quot;leave&#45;notify&#45;event&quot; (mouse un&#45;hover)." alt="" coords="537,70,663,95"/>
+<area shape="rect" id="Node000002" href="$da/da2/glade_8cpp.html#ac53a941281312000616c1b26c2dbdbc1" title="Sets up hover and active state image effects for a button." alt="" coords="264,70,489,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="524,85,489,85,489,80,524,80"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/classLiveViewController.html#adf78489232b4a73cc74722080e0813d9" title="Toggles the AI processing button state (ON/OFF)." alt="" coords="27,5,194,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="303,70,194,46,195,41,304,64"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects global signal handlers to UI events." alt="" coords="37,70,184,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="250,85,184,85,184,80,250,80"/>
+<area shape="rect" id="Node000005" href="$d0/d13/classLiveViewView.html#a670392a08d14a12f271c6bdda830a07f" title="Sets the visual &#39;active&#39; state for an internal navigation button (e.g., Main, Panorama)." alt="" coords="5,120,216,160"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="304,101,204,123,203,117,303,96"/>
+</map>

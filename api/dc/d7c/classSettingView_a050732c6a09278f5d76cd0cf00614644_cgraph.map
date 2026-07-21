@@ -1,0 +1,25 @@
+<map id="SettingView::onApplyButtonClicked" name="SettingView::onApplyButtonClicked">
+<area shape="rect" id="Node000001" title="Handler for Apply button click." alt="" coords="5,170,208,210"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#ac0a7a3e8963c81ce0e28f866e3f5264d" title="Applies the Active Camera Parameters to the Live System." alt="" coords="256,113,439,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,167,249,153,250,158,192,173"/>
+<area shape="rect" id="Node000009" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="963,235,1127,260"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="209,197,487,219,737,233,949,241,949,247,737,238,486,225,208,202"/>
+<area shape="rect" id="Node000003" href="$d7/d8b/classMoildevApplicator.html#a929dd28d154e3a6b0a2ac443bc1b1a29" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="504,55,652,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="428,110,490,94,491,100,429,115"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="732,84,875,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="439,123,669,105,718,101,719,106,670,110,439,128"/>
+<area shape="rect" id="Node000006" href="$d7/d8b/classMoildevApplicator.html#aca57f730cd6b9a77e1d1f6b3007093da" title="Hot&#45;Reloads Camera Calibration." alt="" coords="495,170,661,210"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="429,150,484,164,483,169,428,155"/>
+<area shape="rect" id="Node000010" href="$de/d7b/classMessageDialog.html#a7b0e305f314e369e08b89426a5e0b315" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="487,5,669,31"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="373,110,424,75,486,41,508,32,510,37,488,46,427,80,376,115"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="948,77,1141,117"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="875,94,934,94,934,99,875,99"/>
+<area shape="rect" id="Node000007" href="$d7/d8b/classMoildevApplicator.html#a15b1be59dcba7b86c3988ab32e386da1" title="Batch Generator: Creates Maps for ALL Presets." alt="" coords="729,170,877,210"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="662,187,716,187,716,193,662,193"/>
+<area shape="rect" id="Node000008" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="937,170,1152,210"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="878,187,923,187,923,193,878,193"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="878,205,938,219,977,229,976,234,937,225,877,210"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="629,28,670,41,761,76,759,81,668,46,627,33"/>
+<area shape="rect" id="Node000011" href="$de/d7b/classMessageDialog.html#ab509294ce066b74cca0997706c2ef69d" title="Shows a modal dialog with a single button." alt="" coords="717,5,889,31"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="670,15,704,15,704,21,670,21"/>
+</map>

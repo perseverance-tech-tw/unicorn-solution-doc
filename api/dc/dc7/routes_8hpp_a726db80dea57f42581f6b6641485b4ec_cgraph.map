@@ -1,0 +1,118 @@
+<map id="setupRoutes" name="setupRoutes">
+<area shape="rect" id="Node000001" title="Bootstraps the Application Architecture (MVC)." alt="" coords="5,969,108,994"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="988,169,1152,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,969,54,823,63,584,74,457,92,339,118,242,135,204,154,175,196,130,237,94,279,64,321,40,364,23,407,11,451,5,496,3,590,10,690,30,915,90,952,103,987,121,1044,158,1041,163,985,126,950,108,914,95,689,35,589,15,496,8,452,10,408,17,366,28,324,45,282,68,241,98,199,134,158,178,139,206,123,243,97,340,79,458,68,585,60,823,60,969"/>
+<area shape="rect" id="Node000003" href="$d1/d6a/namespaceVRUDetector.html#aba5255ca427097b4af71093c37756a57" title=" " alt="" coords="697,104,900,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="55,969,56,836,66,621,78,507,95,402,120,315,136,281,154,256,210,207,274,170,343,143,415,125,488,114,559,108,683,109,683,115,559,113,489,119,416,130,345,148,276,175,213,212,158,259,141,284,125,317,100,403,83,508,71,621,61,836,60,969"/>
+<area shape="rect" id="Node000005" href="$d9/d7c/namespaceConstants.html#a621005d00dcbe0e24ee8a7947596c785" title="Loads active camera parameters from the database." alt="" coords="156,676,404,716"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="56,969,63,923,78,858,91,822,107,787,128,755,154,726,160,722,163,726,158,730,132,758,112,790,96,824,83,859,68,924,62,969"/>
+<area shape="rect" id="Node000007" href="$dd/d08/classFrameModel.html#aff927721cf4c29767ca9c99b309a5d74" title="Hydrates the Model from SQLite." alt="" coords="163,270,397,296"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="56,969,60,890,74,761,87,685,104,606,126,528,154,453,176,409,203,368,255,304,259,308,207,371,181,412,158,455,131,530,109,608,92,686,80,761,66,890,61,969"/>
+<area shape="rect" id="Node000012" href="$d2/dd2/classFunctionModel.html#aa97dab815b623f2bef3d112062fd40d2" title="Loads function records from a SQLite database into memory." alt="" coords="156,577,404,602"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="57,968,68,895,88,787,117,681,134,640,154,612,159,608,162,612,158,615,139,642,122,683,93,788,73,896,62,969"/>
+<area shape="rect" id="Node000025" href="$de/d06/classRegionModel.html#a5676e60d4bc35bcdfd2f2039a2f37664" title="Loads region records from a SQLite database into memory." alt="" coords="161,626,399,652"/>
+<area shape="poly" id="edge39_Node000001_Node000025" title=" " alt="" coords="55,968,57,912,69,829,81,784,99,740,123,698,154,662,161,657,164,661,158,666,127,701,104,742,86,786,74,830,62,912,60,968"/>
+<area shape="rect" id="Node000028" href="$d5/d04/classSourceModel.html#aaf198449184ea12b9a9c7571295e6c7f" title="Loads source records from a SQLite database into memory." alt="" coords="161,466,399,492"/>
+<area shape="poly" id="edge43_Node000001_Node000028" title=" " alt="" coords="55,969,57,902,69,797,81,737,99,677,123,618,154,563,171,542,192,523,236,496,239,500,196,528,175,545,158,566,128,620,104,678,87,739,75,798,63,902,60,969"/>
+<area shape="rect" id="Node000031" href="$d9/ddd/classSettingController.html#a328216313a8e31c6122ae7f63e014f2b" title="Loads the saved resolution setting from the database or config file." alt="" coords="197,740,363,780"/>
+<area shape="poly" id="edge47_Node000001_Node000031" title=" " alt="" coords="58,968,68,933,87,885,115,834,133,810,154,790,183,774,186,778,158,795,137,814,119,837,91,887,73,934,63,970"/>
+<area shape="rect" id="Node000032" href="$df/dd5/classMediator.html#a64518138634d85ccd655b9c385659a29" title="Registers and transfers ownership of the CameraManager." alt="" coords="172,805,388,830"/>
+<area shape="poly" id="edge48_Node000001_Node000032" title=" " alt="" coords="61,968,93,906,120,871,154,841,168,833,170,838,158,845,124,874,98,909,65,970"/>
+<area shape="rect" id="Node000033" href="$df/dd5/classMediator.html#a5f706ac76e75041b005244c5feb5b72c" title="Registers and transfers ownership of the ConfigurationController." alt="" coords="183,855,377,895"/>
+<area shape="poly" id="edge49_Node000001_Node000033" title=" " alt="" coords="70,967,106,936,155,905,172,897,174,902,157,909,109,940,73,971"/>
+<area shape="rect" id="Node000034" href="$df/dd5/classMediator.html#af5fe6158efb708c252382492f2050ce6" title="Registers and transfers ownership of the ConfigurationView." alt="" coords="167,920,393,945"/>
+<area shape="poly" id="edge50_Node000001_Node000034" title=" " alt="" coords="104,966,155,954,196,945,197,950,157,959,105,972"/>
+<area shape="rect" id="Node000035" href="$df/dd5/classMediator.html#a5861c962fc6980027ed082027882b2ee" title="Registers and transfers ownership of the FrameModel (Saved frames)." alt="" coords="185,969,375,994"/>
+<area shape="poly" id="edge51_Node000001_Node000035" title=" " alt="" coords="108,979,171,979,171,984,108,984"/>
+<area shape="rect" id="Node000036" href="$df/dd5/classMediator.html#a932b729ae2c81b7f1a7537c7e6a79c77" title="Registers and transfers ownership of the FunctionModel (Presets)." alt="" coords="179,1018,381,1044"/>
+<area shape="poly" id="edge52_Node000001_Node000036" title=" " alt="" coords="109,992,157,1003,202,1013,201,1018,155,1008,108,997"/>
+<area shape="rect" id="Node000037" href="$df/dd5/classMediator.html#abab38668329460257a9991e234e72bf2" title="Registers and transfers ownership of the LiveViewController." alt="" coords="165,1068,395,1093"/>
+<area shape="poly" id="edge53_Node000001_Node000037" title=" " alt="" coords="73,993,109,1023,157,1053,181,1061,179,1066,155,1057,106,1028,70,997"/>
+<area shape="rect" id="Node000038" href="$df/dd5/classMediator.html#adde19ec06ace500619cff0b33d80fb70" title="Registers and transfers ownership of the LiveViewView." alt="" coords="181,1117,379,1142"/>
+<area shape="poly" id="edge54_Node000001_Node000038" title=" " alt="" coords="67,993,100,1047,126,1077,157,1102,172,1110,169,1114,155,1107,123,1081,96,1050,62,996"/>
+<area shape="rect" id="Node000039" href="$df/dd5/classMediator.html#a8692e71965863249ab104d7c70ed8fa7" title="Registers and transfers ownership of the PlaybackController." alt="" coords="165,1166,395,1192"/>
+<area shape="poly" id="edge55_Node000001_Node000039" title=" " alt="" coords="64,994,74,1026,93,1069,121,1114,138,1134,158,1152,168,1158,165,1163,154,1156,134,1138,116,1117,88,1072,69,1028,59,995"/>
+<area shape="rect" id="Node000040" href="$df/dd5/classMediator.html#aec245052939dc947ac764eee6ed73103" title="Registers and transfers ownership of the PlaybackView." alt="" coords="181,1216,379,1241"/>
+<area shape="poly" id="edge56_Node000001_Node000040" title=" " alt="" coords="62,994,70,1035,86,1091,115,1151,134,1178,158,1201,169,1209,166,1213,154,1205,130,1181,110,1154,82,1093,65,1036,57,995"/>
+<area shape="rect" id="Node000041" href="$df/dd5/classMediator.html#a124cfb4542dd81de64011e546393b1af" title="Registers and transfers ownership of the RegionModel (ROI definitions)." alt="" coords="183,1265,377,1290"/>
+<area shape="poly" id="edge57_Node000001_Node000041" title=" " alt="" coords="61,995,66,1043,80,1113,93,1151,109,1187,131,1221,158,1250,172,1260,169,1265,154,1254,126,1225,104,1190,88,1153,75,1114,61,1044,56,995"/>
+<area shape="rect" id="Node000042" href="$df/dd5/classMediator.html#a44a6a061874077de238b3d4857414cae" title="Registers and transfers ownership of the SettingController." alt="" coords="171,1314,389,1340"/>
+<area shape="poly" id="edge58_Node000001_Node000042" title=" " alt="" coords="60,994,62,1051,74,1134,86,1179,103,1223,127,1264,158,1300,164,1305,161,1309,154,1304,123,1267,98,1225,81,1180,69,1135,57,1051,55,995"/>
+<area shape="rect" id="Node000043" href="$df/dd5/classMediator.html#aba2a9aa0fa50f505f71ff6425501f640" title="Registers and transfers ownership of the SettingView." alt="" coords="187,1364,373,1389"/>
+<area shape="poly" id="edge59_Node000001_Node000043" title=" " alt="" coords="62,994,73,1067,93,1175,122,1281,139,1322,158,1349,176,1362,173,1366,154,1353,134,1325,117,1283,88,1176,68,1068,57,995"/>
+<area shape="rect" id="Node000044" href="$dd/d6d/namespaceBeeper.html#a163e1c333b201cdf866bf3bc0590459c" title="Sets or changes the sound file to be used for beeps at runtime." alt="" coords="201,1413,359,1438"/>
+<area shape="poly" id="edge60_Node000001_Node000044" title=" " alt="" coords="62,994,71,1077,90,1199,103,1262,119,1320,137,1367,158,1399,172,1409,188,1417,186,1422,169,1414,154,1402,132,1370,114,1322,98,1264,85,1200,66,1077,57,995"/>
+<area shape="rect" id="Node000049" href="$df/dd5/classMediator.html#a1fe8ad8e18fed30b2af99f1b873d6d58" title="Registers and transfers ownership of the SourceModel (Input sources)." alt="" coords="184,1462,376,1488"/>
+<area shape="poly" id="edge65_Node000001_Node000049" title=" " alt="" coords="61,994,69,1085,86,1223,99,1295,115,1360,135,1414,158,1449,173,1461,170,1465,154,1453,130,1416,110,1362,94,1296,81,1224,64,1085,56,995"/>
+<area shape="rect" id="Node000050" href="$df/dd5/classMediator.html#ab4a252d4385436295cb5af818048afc3" title="Registers the YOLOv8 detector instance." alt="" coords="177,1512,383,1537"/>
+<area shape="poly" id="edge66_Node000001_Node000050" title=" " alt="" coords="61,995,67,1094,83,1247,96,1326,113,1399,133,1459,145,1482,158,1499,167,1506,163,1510,154,1502,140,1485,128,1461,107,1401,91,1327,78,1247,62,1094,56,995"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="895,142,997,164,996,169,893,147"/>
+<area shape="rect" id="Node000004" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Retrieves all records stored in the model." alt="" coords="1005,397,1135,422"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="835,142,875,170,917,205,960,252,999,301,1056,384,1051,387,994,304,956,255,913,209,872,175,832,147"/>
+<area shape="rect" id="Node000006" href="$d9/d7c/namespaceConstants.html#aa3d2e62a2936ec5bcd9198bfdc6e4344" title="Retrieves the SIZE_FACTOR value from the database." alt="" coords="452,835,635,875"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="387,714,406,726,424,750,431,774,437,797,454,820,461,825,458,830,450,824,432,799,426,775,420,752,402,730,384,719"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="324,268,451,236,593,213,736,197,974,182,974,187,736,203,594,219,453,242,326,273"/>
+<area shape="rect" id="Node000008" href="$d8/d7f/classBaseModel.html#ab740842335f1f92ff37e022fa42d7eb6" title="Provides direct mutable access to the internal storage." alt="" coords="685,220,913,245"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="398,269,670,242,671,247,398,274"/>
+<area shape="rect" id="Node000009" href="$dd/d08/classFrameModel.html#af770dc5efb0deb83ec8b6bf032bbf2f4" title="Seeds the Database with Default Layouts." alt="" coords="466,309,621,334"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="367,293,453,306,452,311,367,298"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="621,312,759,292,837,275,914,254,979,227,1034,199,1037,204,981,232,916,259,838,280,760,297,621,317"/>
+<area shape="poly" id="edge14_Node000009_Node000004" title=" " alt="" coords="621,322,759,333,837,343,915,356,973,372,1025,390,1023,395,971,377,914,362,837,348,758,338,621,327"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="572,306,682,262,733,246,734,251,684,267,574,311"/>
+<area shape="rect" id="Node000010" href="$d8/d7f/classBaseModel.html#a7c4c2ec1775de5b027cd11f3f66991b9" title="Creates and stores a new record in the model." alt="" coords="701,586,896,626"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="559,333,596,377,637,438,651,477,655,511,662,541,671,556,685,572,691,577,688,582,681,576,666,559,657,543,650,512,646,478,632,440,592,381,555,336"/>
+<area shape="rect" id="Node000011" href="$dd/d08/classFrameModel.html#ab0fa7a36fa3c15e9d9be6d43dc9854b4" title="Persists In&#45;Memory State to SQLite." alt="" coords="689,372,908,397"/>
+<area shape="poly" id="edge15_Node000009_Node000011" title=" " alt="" coords="596,332,733,366,732,371,595,337"/>
+<area shape="poly" id="edge16_Node000011_Node000004" title=" " alt="" coords="908,392,991,400,991,405,908,397"/>
+<area shape="rect" id="Node000013" href="$d2/dd2/classFunctionModel.html#a3b7e6d813c600d03346c0a93384e4768" title="Loads the mapX and mapY matrices for a record from its file paths." alt="" coords="453,736,634,761"/>
+<area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="377,600,405,611,443,636,477,666,527,723,523,726,473,670,440,640,403,616,375,605"/>
+<area shape="rect" id="Node000023" href="$d2/dd2/classFunctionModel.html#aa28a81f1530283093002ecee07e59730" title="Populates the model with initial default function presets." alt="" coords="459,593,628,618"/>
+<area shape="poly" id="edge30_Node000012_Node000023" title=" " alt="" coords="404,595,445,597,445,602,404,600"/>
+<area shape="rect" id="Node000014" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="963,662,1177,702"/>
+<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="603,759,636,770,660,786,670,793,684,799,748,816,799,822,851,817,914,799,951,782,986,759,1040,710,1044,714,989,763,954,787,916,804,852,822,799,827,747,821,682,804,667,798,657,790,633,775,601,764"/>
+<area shape="rect" id="Node000015" href="$d7/d8b/classMoildevApplicator.html#a929dd28d154e3a6b0a2ac443bc1b1a29" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="725,700,873,740"/>
+<area shape="poly" id="edge20_Node000013_Node000015" title=" " alt="" coords="634,736,710,727,711,733,634,741"/>
+<area shape="rect" id="Node000016" href="$db/d24/function__model_8cpp.html#a8c7b234fc6dbf95e11f7b9dd4f0fa57a" title=" " alt="" coords="1001,866,1139,892"/>
+<area shape="poly" id="edge21_Node000013_Node000016" title=" " alt="" coords="613,759,636,770,652,785,661,801,669,816,684,829,721,846,759,860,840,877,918,883,987,883,987,889,918,889,839,882,758,865,719,851,681,833,665,819,656,804,648,789,633,775,610,764"/>
+<area shape="rect" id="Node000019" href="$d2/dd2/classFunctionModel.html#a36183ae73ea97e3488aadb81e2cf55c9" title="Serializes and Saves Remap Tables to Disk." alt="" coords="707,917,891,942"/>
+<area shape="poly" id="edge24_Node000013_Node000019" title=" " alt="" coords="619,759,636,770,650,786,657,802,661,835,665,866,672,881,684,896,704,909,701,913,681,900,668,884,660,868,656,835,652,804,645,789,633,774,616,763"/>
+<area shape="rect" id="Node000022" href="$d2/dd2/classFunctionModel.html#a790db6bdf6c9742933870cc5f69a9fa2" title="Saves all in&#45;memory function records to the SQLite database." alt="" coords="683,765,915,790"/>
+<area shape="poly" id="edge28_Node000013_Node000022" title=" " alt="" coords="634,756,675,761,674,766,634,761"/>
+<area shape="rect" id="Node000017" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="1225,866,1344,892"/>
+<area shape="poly" id="edge22_Node000016_Node000017" title=" " alt="" coords="1140,876,1212,876,1212,882,1140,882"/>
+<area shape="rect" id="Node000018" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="1392,866,1525,892"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="1344,876,1378,876,1378,882,1344,882"/>
+<area shape="poly" id="edge25_Node000019_Node000016" title=" " alt="" coords="867,914,987,892,988,897,868,920"/>
+<area shape="rect" id="Node000020" href="$da/da2/glade_8cpp.html#a1599dcb10c73bc9252ed092964a4e518" title="Sanitizes a string to be used as a valid filename." alt="" coords="1003,916,1137,941"/>
+<area shape="poly" id="edge26_Node000019_Node000020" title=" " alt="" coords="891,927,989,926,989,931,891,932"/>
+<area shape="rect" id="Node000021" href="$d8/d7f/classBaseModel.html#a8d849d71a00141d530f70d23ce83a0a6" title="Updates an existing record identified by its ID." alt="" coords="965,966,1175,1006"/>
+<area shape="poly" id="edge27_Node000019_Node000021" title=" " alt="" coords="862,940,960,960,959,966,860,945"/>
+<area shape="poly" id="edge29_Node000022_Node000004" title=" " alt="" coords="892,763,913,751,1055,434,1060,436,917,754,895,767"/>
+<area shape="poly" id="edge37_Node000023_Node000004" title=" " alt="" coords="557,591,609,550,644,527,682,507,745,485,796,475,849,469,914,455,1017,424,1019,429,915,460,849,474,797,481,746,490,684,512,647,531,613,554,560,595"/>
+<area shape="poly" id="edge31_Node000023_Node000010" title=" " alt="" coords="628,603,688,603,688,608,628,608"/>
+<area shape="poly" id="edge35_Node000023_Node000015" title=" " alt="" coords="566,616,619,647,684,679,719,693,717,698,682,684,616,651,564,621"/>
+<area shape="poly" id="edge36_Node000023_Node000016" title=" " alt="" coords="600,616,683,635,750,645,804,648,856,658,884,669,916,686,964,724,1005,770,1036,816,1058,853,1054,856,1032,818,1000,773,960,728,913,691,882,674,854,663,803,654,749,650,682,640,598,621"/>
+<area shape="poly" id="edge38_Node000023_Node000022" title=" " alt="" coords="555,617,604,682,641,719,684,750,700,758,698,763,681,755,638,723,600,685,551,620"/>
+<area shape="rect" id="Node000024" href="$d7/d8b/classMoildevApplicator.html#a15b1be59dcba7b86c3988ab32e386da1" title="Batch Generator: Creates Maps for ALL Presets." alt="" coords="725,522,873,562"/>
+<area shape="poly" id="edge32_Node000023_Node000024" title=" " alt="" coords="595,590,710,561,712,566,596,595"/>
+<area shape="poly" id="edge34_Node000024_Node000002" title=" " alt="" coords="834,519,874,492,913,456,977,347,1053,205,1058,208,982,349,917,459,877,496,837,524"/>
+<area shape="poly" id="edge33_Node000024_Node000014" title=" " alt="" coords="874,556,916,571,982,610,1036,650,1033,655,979,614,914,576,872,561"/>
+<area shape="rect" id="Node000026" href="$de/d06/classRegionModel.html#a2749b6fb2a8e6a90556b881fa0d87f81" title="Populates the model with initial default region data." alt="" coords="464,785,623,810"/>
+<area shape="poly" id="edge40_Node000025_Node000026" title=" " alt="" coords="385,650,406,662,418,675,426,689,431,717,436,745,442,758,454,770,462,776,459,781,450,774,438,761,431,746,426,718,421,691,414,679,402,666,382,654"/>
+<area shape="poly" id="edge41_Node000026_Node000010" title=" " alt="" coords="611,783,633,770,650,751,658,731,665,710,681,687,714,656,749,631,752,635,717,660,685,690,670,712,663,733,655,754,636,774,614,787"/>
+<area shape="rect" id="Node000027" href="$de/d06/classRegionModel.html#a341aba09b9a0033d75b962f37a171480" title="Saves all in&#45;memory region records to the SQLite database(s)." alt="" coords="687,966,910,992"/>
+<area shape="poly" id="edge42_Node000026_Node000027" title=" " alt="" coords="617,808,636,821,650,838,657,855,661,889,664,921,671,937,684,952,692,957,689,962,681,956,667,940,659,923,656,889,652,856,646,840,633,825,614,813"/>
+<area shape="rect" id="Node000029" href="$d5/d04/classSourceModel.html#a6f539e35bae36953d394009f9c1937e8" title="Populates the model with an initial default &quot;NONE&quot; record." alt="" coords="464,452,623,477"/>
+<area shape="poly" id="edge44_Node000028_Node000029" title=" " alt="" coords="399,470,450,467,450,472,399,475"/>
+<area shape="rect" id="Node000030" href="$d5/d04/classSourceModel.html#a14a271383b418951daf4917dd424f7e0" title="Saves all in&#45;memory records to the SQLite database(s)." alt="" coords="688,421,909,446"/>
+<area shape="poly" id="edge45_Node000029_Node000030" title=" " alt="" coords="623,452,678,445,679,451,623,458"/>
+<area shape="poly" id="edge46_Node000030_Node000004" title=" " alt="" coords="909,421,991,414,991,419,910,427"/>
+<area shape="rect" id="Node000045" href="$dd/d6d/namespaceBeeper.html#ad8a2f98120ce54803bac4045ed92ced2" title="Initializes the audio backend on first use." alt="" coords="460,1438,627,1464"/>
+<area shape="poly" id="edge61_Node000044_Node000045" title=" " alt="" coords="360,1431,447,1439,446,1444,359,1436"/>
+<area shape="rect" id="Node000046" href="$db/d5b/namespaceBeeper_1_1detail.html#a2f20dabbcedc6db635ac19d967cb47ad" title=" " alt="" coords="470,1488,617,1513"/>
+<area shape="poly" id="edge62_Node000044_Node000046" title=" " alt="" coords="360,1436,405,1449,429,1461,453,1474,474,1481,472,1486,451,1479,427,1466,403,1454,359,1441"/>
+<area shape="rect" id="Node000047" href="$db/d5b/namespaceBeeper_1_1detail.html#a2d9ba9113956d96fb93c327fad957250" title=" " alt="" coords="464,1340,623,1365"/>
+<area shape="poly" id="edge63_Node000044_Node000047" title=" " alt="" coords="358,1410,403,1398,427,1386,451,1374,473,1366,475,1371,453,1379,429,1391,405,1403,359,1415"/>
+<area shape="rect" id="Node000048" href="$db/d5b/namespaceBeeper_1_1detail.html#a98b5ae729984de716af9f4baabf16401" title=" " alt="" coords="452,1389,635,1414"/>
+<area shape="poly" id="edge64_Node000044_Node000048" title=" " alt="" coords="359,1416,438,1409,439,1414,360,1421"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Translator::initConfigPath" name="Translator::initConfigPath">
+<area shape="rect" id="Node000001" title="Determines and creates the configuration directory and path if they don&#39;t exist." alt="" coords="669,45,853,70"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#afb8121d3db162b0b2d4f80d51576d0dc" title="Loads the last used language from the configuration file." alt="" coords="435,5,620,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="656,46,620,41,621,35,656,40"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a7827ff6a7333af80e54bdecabb6fea6e" title="Persists the chosen language code to a configuration file." alt="" coords="433,69,621,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="656,74,622,79,621,74,656,69"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a4b275dbd53cbb19b43d5f27b2780a12d" title="Bootstrapper: Initializes I18n System." alt="" coords="211,13,385,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,28,385,28,385,23,421,23"/>
+<area shape="rect" id="Node000004" href="$dd/d94/classBaseView.html#af470f1fa07284981ce7646d5296c728c" title="Constructs a new Base View object and initializes the UI." alt="" coords="5,13,163,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="196,28,163,28,163,23,196,23"/>
+</map>

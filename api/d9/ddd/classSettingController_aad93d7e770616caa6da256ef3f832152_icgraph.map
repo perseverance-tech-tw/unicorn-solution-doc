@@ -1,0 +1,20 @@
+<map id="SettingController::toggleEditMode" name="SettingController::toggleEditMode">
+<area shape="rect" id="Node000001" title="Enables or disables edit mode for camera settings." alt="" coords="1007,88,1147,128"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#acddc35541508b9bae3f4317ccf64b54e" title="Loads and displays calibration data for a specific camera." alt="" coords="764,5,959,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1010,86,913,48,915,43,1012,81"/>
+<area shape="rect" id="Node000003" href="$d9/ddd/classSettingController.html#a30e5a8d5d1f9a6014f93dff32953ef80" title="Persists the Modified Camera Parameters to the Database." alt="" coords="518,49,697,89"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="993,104,697,79,697,74,993,99"/>
+<area shape="rect" id="Node000006" href="$dc/d7c/classSettingView.html#a69ae09fdd5f06a25de8f5db2fd4050d1" title="Handler for Edit button click." alt="" coords="256,113,447,153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="993,114,447,133,447,127,992,108"/>
+<area shape="rect" id="Node000007" href="$d9/ddd/classSettingController.html#ab11e7be64a794077ba0cc3b72799e6b2" title="Switches the view to the Camera Settings page." alt="" coords="781,171,941,211"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="1012,135,915,173,913,168,1010,130"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="751,47,697,57,696,51,750,42"/>
+<area shape="rect" id="Node000004" href="$dc/d7c/classSettingView.html#a4b6210c2e97bf837e01512702282513f" title="Handler for Save button click." alt="" coords="252,49,451,89"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="504,72,451,72,451,67,504,67"/>
+<area shape="rect" id="Node000005" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects signals to callback handlers." alt="" coords="5,121,204,146"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="261,95,155,123,154,118,260,90"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="242,136,204,136,204,131,242,131"/>
+<area shape="rect" id="Node000008" href="$dc/d7c/classSettingView.html#afe8c684f2cb4012e4127ba35bd8db937" title="Handles Camera button click." alt="" coords="499,171,716,211"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="767,193,716,193,716,188,767,188"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="485,189,371,181,252,168,155,149,156,143,252,163,372,176,485,184"/>
+</map>

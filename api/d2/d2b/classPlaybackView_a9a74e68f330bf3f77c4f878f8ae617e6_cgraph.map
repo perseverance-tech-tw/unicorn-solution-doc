@@ -1,0 +1,7 @@
+<map id="PlaybackView::showOverlayControls" name="PlaybackView::showOverlayControls">
+<area shape="rect" id="Node000001" title="Reveals the top header and bottom controls. Restarts auto&#45;hide timer." alt="" coords="5,5,211,45"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#a984e5a6f626ded4c6da509186e88a652" title="Timeout callback to auto&#45;hide controls." alt="" coords="259,13,500,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,23,245,23,245,28,211,28"/>
+<area shape="rect" id="Node000003" href="$d2/d2b/classPlaybackView.html#a32801faef0847fd162c5736a66236606" title="Hides the overlay controls immediately." alt="" coords="548,5,747,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="500,23,534,23,534,28,500,28"/>
+</map>

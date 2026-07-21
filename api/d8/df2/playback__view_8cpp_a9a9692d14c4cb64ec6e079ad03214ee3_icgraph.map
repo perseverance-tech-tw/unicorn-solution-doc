@@ -1,0 +1,22 @@
+<map id="format_playback_time_view" name="format_playback_time_view">
+<area shape="rect" id="Node000001" title="Formats a time value in seconds into a &quot;MM:SS&quot; string." alt="" coords="1468,57,1675,82"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#a2f286538259a8111c997bcf212191daf" title="Click handler for Play/Pause button." alt="" coords="937,5,1140,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1508,56,1420,40,1273,29,1140,26,1140,21,1274,23,1420,35,1509,51"/>
+<area shape="rect" id="Node000004" href="$d2/d2b/classPlaybackView.html#aa08c62c0793cb2dd82cfc5cf1859bc45" title="Timer callback for rendering the next video frame." alt="" coords="1188,49,1420,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1454,72,1420,72,1420,67,1454,67"/>
+<area shape="rect" id="Node000005" href="$d2/d2b/classPlaybackView.html#ae93398654949eb76e805da200bbc948a" title="Handler to start video recording (if applicable)." alt="" coords="945,81,1132,121"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="1510,88,1420,104,1268,112,1132,109,1132,104,1268,106,1420,99,1509,83"/>
+<area shape="rect" id="Node000003" href="$d2/d2b/classPlaybackView.html#a55ca9c40e4b3b4672e730ae2e3d50c60" title="Connects signals to callbacks." alt="" coords="677,13,889,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="923,28,890,28,890,23,923,23"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="1174,50,1140,45,1141,39,1175,45"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1175,88,1132,93,1132,87,1174,82"/>
+<area shape="rect" id="Node000006" href="$d0/d22/classPlaybackController.html#ac6d9f383762724ca93ccb128044883e6" title="Static callback for handling video button clicks in the playback view." alt="" coords="711,81,856,121"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="931,104,856,104,856,99,931,99"/>
+<area shape="rect" id="Node000007" href="$d0/d22/classPlaybackController.html#ae49cbe73c54af212f9cce725c6c02467" title="Initializes the Playback Gallery." alt="" coords="484,81,629,121"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="697,104,630,104,630,99,697,99"/>
+<area shape="rect" id="Node000008" href="$d0/d22/classPlaybackController.html#a183452771546143ca327199076df3484" title="Handles requests to delete a distinct video file." alt="" coords="272,52,436,92"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="470,91,436,87,437,81,471,86"/>
+<area shape="rect" id="Node000009" href="$d0/d22/classPlaybackController.html#af509b6493ab2bd578f5ee94c22434037" title="Static wrapper function to connect GTK signal for delete button." alt="" coords="5,81,224,121"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="259,86,224,91,224,85,258,81"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="238,101,272,101,436,101,483,101,483,106,436,107,272,107,238,106"/>
+</map>

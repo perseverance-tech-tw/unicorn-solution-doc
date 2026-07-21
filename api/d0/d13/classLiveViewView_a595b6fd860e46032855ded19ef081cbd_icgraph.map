@@ -1,0 +1,5 @@
+<map id="LiveViewView::showLoadMediaDialog" name="LiveViewView::showLoadMediaDialog">
+<area shape="rect" id="Node000001" title="Shows the Load Media dialog and retrieves result." alt="" coords="199,5,424,45"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#ac3ceba55f7297483763f02269dd3c140" title="Opens media file dialog for image or video selection." alt="" coords="5,5,151,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,28,151,28,151,23,185,23"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Translator::loadLanguageData" name="Translator::loadLanguageData">
+<area shape="rect" id="Node000001" title="Loads translation data from the JSON file for the current language." alt="" coords="5,35,221,60"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a6a391fc881ce1c6935580d5675d1a6f2" title="Validation: Is Language Code Known?" alt="" coords="269,5,504,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,33,256,29,256,35,222,38"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="290,55,483,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,56,276,61,276,67,221,61"/>
+</map>

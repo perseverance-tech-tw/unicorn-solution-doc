@@ -1,0 +1,7 @@
+<map id="ConfigurationController::ConfigurationController" name="ConfigurationController::ConfigurationController">
+<area shape="rect" id="Node000001" title="Constructs a ConfigurationController instance." alt="" coords="5,23,187,63"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="235,5,399,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,30,221,26,221,32,188,36"/>
+<area shape="rect" id="Node000003" href="$dd/d94/classBaseView.html#a9bf94b085e1a70487bc653e531c7082a" title="Retrieves the main container widget of this view." alt="" coords="243,55,390,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,51,230,55,229,61,187,56"/>
+</map>

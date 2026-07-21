@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['i_0',['I',['../d0/d5b/classAlertManager.html#ad1e9eb636188138f530cf543fb4829b6',1,'AlertManager']]],
+  ['idleupdateborderstyle_1',['idleUpdateBorderStyle',['../de/d43/frame__processor_8cpp.html#afd7b8f561d813edb7fa9d9e5b64b12f1',1,'frame_processor.cpp']]],
+  ['idleupdateimage_2',['idleUpdateImage',['../de/d43/frame__processor_8cpp.html#aaaeb53c1a301510d13c808cb7804d27c',1,'frame_processor.cpp']]],
+  ['inference_3',['inference',['../da/dbb/classYoloV8Detector.html#a66822ee5c0b01491b9193175cb46c915',1,'YoloV8Detector']]],
+  ['initaudioonce_4',['initAudioOnce',['../dd/d6d/namespaceBeeper.html#ad8a2f98120ce54803bac4045ed92ced2',1,'Beeper']]],
+  ['initconfigpath_5',['initConfigPath',['../db/d9b/namespaceTranslator.html#ae383320be2d8bc76a23ababafb2a363c',1,'Translator']]],
+  ['initializeapp_6',['initializeApp',['../db/d9b/namespaceTranslator.html#a4b275dbd53cbb19b43d5f27b2780a12d',1,'Translator']]],
+  ['initializebasecoords_7',['initializeBaseCoords',['../d1/d6a/namespaceVRUDetector.html#aba5255ca427097b4af71093c37756a57',1,'VRUDetector']]],
+  ['initializecameras_8',['initializeCameras',['../d8/dbf/classCameraManager.html#a796d970c9e45a56ffe89dad0ddf605eb',1,'CameraManager']]],
+  ['initializeresolutions_9',['initializeResolutions',['../d6/dd9/namespaceResolutionProcessor.html#a587abe0b96124c834e31ddf2ab7882af',1,'ResolutionProcessor']]],
+  ['initspinbuttonsfromapplicator_10',['initSpinButtonsFromApplicator',['../d1/db4/classConfigurationView.html#ae975d0a3542a1311028e29fab91d3943',1,'ConfigurationView']]],
+  ['isanypointinpolygon_11',['isAnyPointInPolygon',['../dc/d3d/namespaceMoilUtils.html#a8c36390c0b71a05fe473977f44a73233',1,'MoilUtils']]],
+  ['iscpuavailable_12',['isCPUAvailable',['../d5/dda/classmoildev_1_1Moildev.html#a3f7e578738c91077afa997b7b48784b7',1,'moildev::Moildev']]],
+  ['islanguagesupported_13',['isLanguageSupported',['../db/d9b/namespaceTranslator.html#a6a391fc881ce1c6935580d5675d1a6f2',1,'Translator']]],
+  ['islivecam2view_14',['isLiveCam2View',['../d1/df7/namespaceVideoProcessor.html#aea9693083d3e0edfe0843a68b0e07ceb',1,'VideoProcessor']]],
+  ['ismoismode_15',['isMOISMode',['../d3/d3d/classConfigurationController.html#af6f12b9023f0b9765ef948e8010b4b0f',1,'ConfigurationController']]],
+  ['isopenclavailable_16',['isOpenCLAvailable',['../d5/dda/classmoildev_1_1Moildev.html#ac46a7ef19cd3b6fbe3d0df8ebf1db33d',1,'moildev::Moildev']]],
+  ['isplaying_17',['isPlaying',['../d6/d8a/classLiveViewController.html#ab48ff8159cc37be224a4694e2800931a',1,'LiveViewController']]],
+  ['ispointinpolygon_18',['isPointInPolygon',['../dc/d3d/namespaceMoilUtils.html#a87159a0a0c2906c3094ce886e81eee84',1,'MoilUtils']]],
+  ['isrecording_19',['isRecording',['../d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e',1,'RecordProcessor']]]
+];

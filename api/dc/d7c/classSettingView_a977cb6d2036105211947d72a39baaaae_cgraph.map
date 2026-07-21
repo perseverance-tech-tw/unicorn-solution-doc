@@ -1,0 +1,8 @@
+<map id="SettingView::onTimeFormatToggle" name="SettingView::onTimeFormatToggle">
+<area shape="rect" id="Node000001" title="Handler for Time Format toggle." alt="" coords="5,5,208,45"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="517,13,681,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,20,256,19,469,19,504,19,504,25,469,24,256,24,208,25"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/classSettingView.html#a83fa57969ede9793e5b8fb80575c39ab" title="Refreshes the displayed date and time string." alt="" coords="256,33,469,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,34,243,38,242,43,208,39"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="469,38,503,34,504,39,470,43"/>
+</map>

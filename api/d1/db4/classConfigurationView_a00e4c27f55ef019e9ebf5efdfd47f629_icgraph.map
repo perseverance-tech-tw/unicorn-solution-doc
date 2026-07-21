@@ -1,0 +1,5 @@
+<map id="ConfigurationView::setIsResetting" name="ConfigurationView::setIsResetting">
+<area shape="rect" id="Node000001" title="Sets the resetting state of the view." alt="" coords="252,5,400,45"/>
+<area shape="rect" id="Node000002" href="$d3/d3d/classConfigurationController.html#a681b46d3b088f9c114e2806d33c118fb" title="Menjalankan logika untuk mereset semua parameter konfigurasi." alt="" coords="5,5,204,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,28,204,28,204,23,238,23"/>
+</map>

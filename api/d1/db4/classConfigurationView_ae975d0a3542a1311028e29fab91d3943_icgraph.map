@@ -1,0 +1,9 @@
+<map id="ConfigurationView::initSpinButtonsFromApplicator" name="ConfigurationView::initSpinButtonsFromApplicator">
+<area shape="rect" id="Node000001" title="Initializes spin buttons with values from the logic controller." alt="" coords="448,37,668,77"/>
+<area shape="rect" id="Node000002" href="$d3/d3d/classConfigurationController.html#a681b46d3b088f9c114e2806d33c118fb" title="Menjalankan logika untuk mereset semua parameter konfigurasi." alt="" coords="201,5,400,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="434,45,400,40,401,35,435,39"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html#a0c5fed278f22ffa2813ed1b3f3fe7f4f" title="Binds UI components to member variables." alt="" coords="227,69,375,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="435,75,375,83,374,78,434,70"/>
+<area shape="rect" id="Node000004" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructor for ConfigurationView." alt="" coords="5,69,153,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="213,92,154,92,154,87,213,87"/>
+</map>

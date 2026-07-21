@@ -1,0 +1,5 @@
+<map id="LiveViewView::hitControllerTogglePlaybackWrapper" name="LiveViewView::hitControllerTogglePlaybackWrapper">
+<area shape="rect" id="Node000001" title="Wrapper for Toggle Playback button." alt="" coords="5,5,207,45"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="255,13,419,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,23,241,23,241,28,207,28"/>
+</map>

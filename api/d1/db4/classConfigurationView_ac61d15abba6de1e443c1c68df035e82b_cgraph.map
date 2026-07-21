@@ -1,0 +1,5 @@
+<map id="ConfigurationView::onReleaseEventBoxView" name="ConfigurationView::onReleaseEventBoxView">
+<area shape="rect" id="Node000001" title="Callback for mouse button release on the view (end drag)." alt="" coords="5,5,189,45"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="237,13,401,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,23,224,23,224,28,190,28"/>
+</map>

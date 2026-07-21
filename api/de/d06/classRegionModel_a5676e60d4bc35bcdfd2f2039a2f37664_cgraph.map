@@ -1,0 +1,9 @@
+<map id="RegionModel::loadFromDatabase" name="RegionModel::loadFromDatabase">
+<area shape="rect" id="Node000001" title="Loads region records from a SQLite database into memory." alt="" coords="5,42,244,67"/>
+<area shape="rect" id="Node000002" href="$de/d06/classRegionModel.html#a2749b6fb2a8e6a90556b881fa0d87f81" title="Populates the model with initial default region data." alt="" coords="292,42,451,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,52,278,52,278,57,244,57"/>
+<area shape="rect" id="Node000003" href="$d8/d7f/classBaseModel.html#a7c4c2ec1775de5b027cd11f3f66991b9" title="Creates and stores a new record in the model." alt="" coords="511,5,709,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,42,496,37,497,42,452,48"/>
+<area shape="rect" id="Node000004" href="$de/d06/classRegionModel.html#a341aba09b9a0033d75b962f37a171480" title="Saves all in&#45;memory region records to the SQLite database(s)." alt="" coords="499,70,721,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="452,61,489,66,488,71,451,67"/>
+</map>

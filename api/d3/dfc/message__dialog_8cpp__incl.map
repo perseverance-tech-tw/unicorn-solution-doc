@@ -1,0 +1,18 @@
+<map id="src/helpers/message_dialog.cpp" name="src/helpers/message_dialog.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the MessageDialog class for displaying GTK message dialogs." alt="" coords="199,5,355,45"/>
+<area shape="rect" id="Node000002" href="$d8/d74/message__dialog_8hpp.html" title="Defines a simple utility class for displaying GTK message dialogs." alt="" coords="173,93,381,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,46,280,79,275,79,275,46"/>
+<area shape="rect" id="Node000005" href="$d6/da3/logger_8hpp.html" title="A lightweight, thread&#45;safe logging interface." alt="" coords="406,93,549,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="326,43,436,86,434,91,324,48"/>
+<area shape="rect" id="Node000006" href="$d9/da9/translator_8hpp.html" title="Defines the public interface for the Translator namespace." alt="" coords="5,93,149,119"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="230,48,120,91,118,86,228,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,167,219,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,121,207,161,204,156,260,117"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="248,167,307,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="280,119,280,153,275,153,275,119"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="446,121,321,166,319,160,444,116"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="95,116,152,156,149,161,92,121"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="110,116,236,160,234,166,109,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="46,167,109,192"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="80,119,80,153,75,153,75,119"/>
+</map>

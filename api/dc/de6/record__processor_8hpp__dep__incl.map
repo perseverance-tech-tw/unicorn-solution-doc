@@ -1,0 +1,13 @@
+<map id="include/utils/record_processor.hpp" name="include/utils/record_processor.hpp">
+<area shape="rect" id="Node000001" title="Thread&#45;Safe Video Recording Engine." alt="" coords="377,5,524,45"/>
+<area shape="rect" id="Node000002" href="$de/d54/live__view__controller_8cpp.html" title="Implements the LiveViewController class, managing live camera feeds, media input, recording,..." alt="" coords="5,93,160,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,49,161,97,160,91,363,44"/>
+<area shape="rect" id="Node000003" href="$d5/df2/app_8cpp.html" title="Implementation of the main application window (App class)." alt="" coords="185,101,319,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="396,53,279,103,277,98,394,48"/>
+<area shape="rect" id="Node000004" href="$d3/d48/record__processor_8cpp.html" title="Improved version of the RecordProcessor." alt="" coords="343,101,558,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="453,59,453,100,448,100,448,59"/>
+<area shape="rect" id="Node000005" href="$de/d5f/video__processor_8cpp.html" title="Implements the logic for processing and dispatching video frames for different views." alt="" coords="582,101,791,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="516,48,656,98,654,103,515,53"/>
+<area shape="rect" id="Node000006" href="$d8/dc9/live__view__view_8cpp.html" title="Implementation of the LiveViewView class, which handles the main live view UI." alt="" coords="816,93,965,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="538,40,805,91,817,93,815,98,803,96,537,45"/>
+</map>

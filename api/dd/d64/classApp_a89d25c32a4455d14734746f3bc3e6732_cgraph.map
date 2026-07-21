@@ -1,0 +1,12 @@
+<map id="App::hitControlOpenAiWrapper" name="App::hitControlOpenAiWrapper">
+<area shape="rect" id="Node000001" title="Callback wrapper to toggle the AI system." alt="" coords="5,55,227,80"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="297,5,461,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,52,296,31,297,36,185,57"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a70dd90e4db5fb05d79d923ce53d4ccf2" title="Highlights the active sidebar button corresponding to the current view." alt="" coords="275,55,483,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,65,261,65,261,70,227,70"/>
+<area shape="rect" id="Node000005" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="575,104,701,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="188,77,275,90,427,103,561,111,561,116,427,109,274,95,187,83"/>
+<area shape="rect" id="Node000004" href="$d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e" title="Checks if recording is currently active." alt="" coords="531,55,745,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="483,65,517,65,517,70,483,70"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="447,77,562,100,561,105,446,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ConfigurationView::onSpinValueMarginChanged" name="ConfigurationView::onSpinValueMarginChanged">
+<area shape="rect" id="Node000001" title="Callback for margin spin button value changes." alt="" coords="716,95,920,135"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="862,83,847,76,818,73,793,75,778,80,772,86,775,93,770,95,767,85,775,76,792,70,818,68,848,71,864,78"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html#ae975d0a3542a1311028e29fab91d3943" title="Initializes spin buttons with values from the logic controller." alt="" coords="448,63,668,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="702,103,668,99,668,94,703,98"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals to callback functions." alt="" coords="484,127,632,167"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="702,132,633,140,632,135,702,126"/>
+<area shape="rect" id="Node000003" href="$d3/d3d/classConfigurationController.html#a681b46d3b088f9c114e2806d33c118fb" title="Menjalankan logika untuk mereset semua parameter konfigurasi." alt="" coords="201,5,400,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,62,390,48,392,43,455,57"/>
+<area shape="rect" id="Node000004" href="$d1/db4/classConfigurationView.html#a0c5fed278f22ffa2813ed1b3f3fe7f4f" title="Binds UI components to member variables." alt="" coords="227,69,375,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="435,89,375,90,375,85,434,83"/>
+<area shape="rect" id="Node000005" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructor for ConfigurationView." alt="" coords="5,99,153,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="213,104,154,112,153,106,213,98"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="470,144,153,126,154,120,470,139"/>
+</map>

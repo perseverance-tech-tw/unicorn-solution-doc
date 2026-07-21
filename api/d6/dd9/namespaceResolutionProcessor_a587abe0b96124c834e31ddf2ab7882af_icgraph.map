@@ -1,0 +1,7 @@
+<map id="ResolutionProcessor::initializeResolutions" name="ResolutionProcessor::initializeResolutions">
+<area shape="rect" id="Node000001" title="Dynamically calculates and populates the available resolution settings." alt="" coords="496,5,659,45"/>
+<area shape="rect" id="Node000002" href="$d6/dd9/namespaceResolutionProcessor.html#aa2b64270deead06b632da17ba8c99cd1" title="Applies the currently selected resolution by regenerating all maps." alt="" coords="284,5,448,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,28,448,28,448,23,483,23"/>
+<area shape="rect" id="Node000003" href="$d9/ddd/classSettingController.html#a2791252c2631e57ec70f7bb296475c95" title="Applies and saves the selected resolution option." alt="" coords="5,5,236,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,28,236,28,236,23,270,23"/>
+</map>

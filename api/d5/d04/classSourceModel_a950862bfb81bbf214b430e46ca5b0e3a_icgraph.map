@@ -1,0 +1,5 @@
+<map id="SourceModel::setLastCameraMultiple" name="SourceModel::setLastCameraMultiple">
+<area shape="rect" id="Node000001" title="Helper to set the current source as Multiple Cameras." alt="" coords="265,5,477,45"/>
+<area shape="rect" id="Node000002" href="$d5/d04/classSourceModel.html#aa3347740c4212453a811e2e7e9bb44f9" title="Helper to set the current source as a Camera (single)." alt="" coords="5,13,217,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,28,218,28,218,23,252,23"/>
+</map>

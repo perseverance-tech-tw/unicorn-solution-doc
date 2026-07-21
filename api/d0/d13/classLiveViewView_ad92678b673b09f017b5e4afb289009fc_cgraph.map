@@ -1,0 +1,13 @@
+<map id="LiveViewView::hitControllerEditRightRoiWrapper" name="LiveViewView::hitControllerEditRightRoiWrapper">
+<area shape="rect" id="Node000001" title="Wrapper for Edit Right ROI button click." alt="" coords="5,23,207,63"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="264,5,428,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,30,250,25,250,31,207,35"/>
+<area shape="rect" id="Node000003" href="$de/d7b/classMessageDialog.html#a7b0e305f314e369e08b89426a5e0b315" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="255,55,437,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,51,241,54,241,59,207,56"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="500,29,643,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="438,54,486,49,486,54,438,60"/>
+<area shape="rect" id="Node000006" href="$de/d7b/classMessageDialog.html#ab509294ce066b74cca0997706c2ef69d" title="Shows a modal dialog with a single button." alt="" coords="485,79,657,104"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="438,74,472,78,471,83,438,80"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="705,22,899,62"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="643,39,691,39,691,45,643,45"/>
+</map>

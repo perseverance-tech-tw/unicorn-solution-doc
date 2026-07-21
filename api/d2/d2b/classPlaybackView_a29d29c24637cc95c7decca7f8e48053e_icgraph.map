@@ -1,0 +1,18 @@
+<map id="PlaybackView::openMois" name="PlaybackView::openMois">
+<area shape="rect" id="Node000001" title="Switch to MOIS view." alt="" coords="944,77,1127,102"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a603761aa90a22a24de089d0f228ca5c5" title="Callback wrapper to navigate to the Main View (Dashboard)." alt="" coords="679,5,896,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="971,76,865,48,866,43,972,70"/>
+<area shape="rect" id="Node000004" href="$d0/d22/classPlaybackController.html#ac6d9f383762724ca93ccb128044883e6" title="Static callback for handling video button clicks in the playback view." alt="" coords="715,69,860,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="930,92,860,92,860,87,930,87"/>
+<area shape="rect" id="Node000008" href="$d2/d2b/classPlaybackView.html#a55ca9c40e4b3b4672e730ae2e3d50c60" title="Connects signals to callbacks." alt="" coords="681,134,893,159"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="967,108,844,137,842,131,966,103"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects global signal handlers to UI events." alt="" coords="484,13,631,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="665,28,631,28,631,23,665,23"/>
+<area shape="rect" id="Node000005" href="$d0/d22/classPlaybackController.html#ae49cbe73c54af212f9cce725c6c02467" title="Initializes the Playback Gallery." alt="" coords="485,69,630,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="701,92,630,92,630,87,701,87"/>
+<area shape="rect" id="Node000006" href="$d0/d22/classPlaybackController.html#a183452771546143ca327199076df3484" title="Handles requests to delete a distinct video file." alt="" coords="272,40,436,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="470,80,436,74,437,69,471,74"/>
+<area shape="rect" id="Node000007" href="$d0/d22/classPlaybackController.html#af509b6493ab2bd578f5ee94c22434037" title="Static wrapper function to connect GTK signal for delete button." alt="" coords="5,69,224,109"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="259,74,224,79,224,73,258,69"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="238,89,272,89,436,89,484,89,484,94,436,95,272,95,238,94"/>
+</map>

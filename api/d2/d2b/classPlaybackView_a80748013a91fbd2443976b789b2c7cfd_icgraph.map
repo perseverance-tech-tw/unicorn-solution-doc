@@ -1,0 +1,9 @@
+<map id="PlaybackView::openOriginal" name="PlaybackView::openOriginal">
+<area shape="rect" id="Node000001" title="Switch to Original view." alt="" coords="460,42,663,67"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a88510da0ff65d25b1202cee15b5d3035" title="Callback wrapper to switch to original (unprocessed) view mode." alt="" coords="204,5,408,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,44,408,40,409,34,446,39"/>
+<area shape="rect" id="Node000004" href="$d2/d2b/classPlaybackView.html#a55ca9c40e4b3b4672e730ae2e3d50c60" title="Connects signals to callbacks." alt="" coords="200,70,412,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="446,70,413,74,412,68,446,65"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects global signal handlers to UI events." alt="" coords="5,13,152,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,28,152,28,152,23,190,23"/>
+</map>

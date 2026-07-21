@@ -1,0 +1,7 @@
+<map id="RegionModel::updateValue" name="RegionModel::updateValue">
+<area shape="rect" id="Node000001" title="Updates the coordinates of a specific region record." alt="" coords="5,35,201,60"/>
+<area shape="rect" id="Node000002" href="$de/d06/classRegionModel.html#a341aba09b9a0033d75b962f37a171480" title="Saves all in&#45;memory region records to the SQLite database(s)." alt="" coords="249,5,472,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,34,235,30,236,35,202,39"/>
+<area shape="rect" id="Node000003" href="$d8/d7f/classBaseModel.html#a8d849d71a00141d530f70d23ce83a0a6" title="Updates an existing record identified by its ID." alt="" coords="261,55,460,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,55,248,60,248,66,201,61"/>
+</map>

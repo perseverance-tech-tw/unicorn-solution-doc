@@ -1,0 +1,5 @@
+<map id="Constants::loadCameraParametersFromDatabase" name="Constants::loadCameraParametersFromDatabase">
+<area shape="rect" id="Node000001" title="Loads active camera parameters from the database." alt="" coords="5,5,253,45"/>
+<area shape="rect" id="Node000002" href="$d9/d7c/namespaceConstants.html#aa3d2e62a2936ec5bcd9198bfdc6e4344" title="Retrieves the SIZE_FACTOR value from the database." alt="" coords="301,5,484,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,23,288,23,288,28,253,28"/>
+</map>

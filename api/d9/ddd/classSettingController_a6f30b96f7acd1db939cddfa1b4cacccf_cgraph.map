@@ -1,0 +1,13 @@
+<map id="SettingController::SettingController" name="SettingController::SettingController">
+<area shape="rect" id="Node000001" title="Constructs a new SettingController instance." alt="" coords="5,73,145,113"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="193,5,357,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,70,192,40,214,32,216,37,194,44,120,75"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="204,55,347,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,81,190,75,191,81,146,86"/>
+<area shape="rect" id="Node000005" href="$dd/d94/classBaseView.html#a9bf94b085e1a70487bc653e531c7082a" title="Retrieves the main container widget of this view." alt="" coords="202,104,349,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="146,98,189,104,188,109,145,104"/>
+<area shape="rect" id="Node000006" href="$d9/ddd/classSettingController.html#a3a5c2c0a3ebfeb7caf963aacdb660594" title="Loads camera data from all databases listed in Constants::DB_PATHS." alt="" coords="205,154,345,194"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="126,110,214,146,212,151,124,115"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="405,47,599,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="347,65,392,65,392,70,347,70"/>
+</map>

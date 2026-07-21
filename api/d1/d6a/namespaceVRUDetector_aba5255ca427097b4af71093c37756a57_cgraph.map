@@ -1,0 +1,7 @@
+<map id="VRUDetector::initializeBaseCoords" name="VRUDetector::initializeBaseCoords">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,208,63"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="256,5,420,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,30,242,26,242,31,209,35"/>
+<area shape="rect" id="Node000003" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Retrieves all records stored in the model." alt="" coords="273,55,403,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,51,259,57,259,62,208,57"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Translator::applyTranslationsToBuilder" name="Translator::applyTranslationsToBuilder">
+<area shape="rect" id="Node000001" title="Applies all translations to the widgets in the given GtkBuilder." alt="" coords="5,63,213,103"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a0b426d40685f92ba85ab58f53ccd651f" title="Applies a translated text string to a widget, handling different widget types." alt="" coords="294,5,495,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,60,280,46,281,51,210,65"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#ad274b9923f55beb43bd292285e3e61ab" title="Gets the user&#45;friendly display name for a language code." alt="" coords="261,70,528,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,80,248,80,248,85,214,85"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a6526d2a56f0804c968e2d84ad966e5b7" title="Sets the text direction for a widget tree based on the language code." alt="" coords="295,119,495,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,98,308,114,307,120,213,103"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#ac6e49834a44fadd0b54bf7da049cc13a" title="Recursively applies a text direction to a widget and all of its children." alt="" coords="576,112,765,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="495,129,562,129,562,135,495,135"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="620,112,617,102,625,93,643,87,671,85,702,88,720,95,718,100,701,93,671,91,644,93,628,98,622,103,625,111"/>
+</map>

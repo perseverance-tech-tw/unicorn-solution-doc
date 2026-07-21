@@ -1,0 +1,12 @@
+<map id="App::onMenuAiToggled" name="App::onMenuAiToggled">
+<area shape="rect" id="Node000001" title="Callback for toggling the AI menu item." alt="" coords="5,55,176,80"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="246,5,410,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,52,252,31,254,36,153,57"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a70dd90e4db5fb05d79d923ce53d4ccf2" title="Highlights the active sidebar button corresponding to the current view." alt="" coords="224,55,432,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,65,210,65,210,70,176,70"/>
+<area shape="rect" id="Node000005" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="524,104,651,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="151,77,224,90,377,105,510,112,510,117,376,110,224,95,150,83"/>
+<area shape="rect" id="Node000004" href="$d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e" title="Checks if recording is currently active." alt="" coords="480,55,695,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,65,466,65,466,70,432,70"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="396,77,511,100,510,105,395,83"/>
+</map>

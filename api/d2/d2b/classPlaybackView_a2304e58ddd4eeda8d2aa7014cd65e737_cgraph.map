@@ -1,0 +1,9 @@
+<map id="PlaybackView::onWindowClicked" name="PlaybackView::onWindowClicked">
+<area shape="rect" id="Node000001" title="Handles single clicks on the video area to toggle the overlay." alt="" coords="5,13,240,38"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#a9a74e68f330bf3f77c4f878f8ae617e6" title="Reveals the top header and bottom controls. Restarts auto&#45;hide timer." alt="" coords="288,5,493,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,23,274,23,274,28,240,28"/>
+<area shape="rect" id="Node000003" href="$d2/d2b/classPlaybackView.html#a984e5a6f626ded4c6da509186e88a652" title="Timeout callback to auto&#45;hide controls." alt="" coords="541,13,783,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,23,528,23,528,28,494,28"/>
+<area shape="rect" id="Node000004" href="$d2/d2b/classPlaybackView.html#a32801faef0847fd162c5736a66236606" title="Hides the overlay controls immediately." alt="" coords="831,5,1029,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="783,23,817,23,817,28,783,28"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="SourceModel::setLastMedia" name="SourceModel::setLastMedia">
+<area shape="rect" id="Node000001" title="Helper to set the current source as Media (single)." alt="" coords="5,13,207,38"/>
+<area shape="rect" id="Node000002" href="$d5/d04/classSourceModel.html#a9124b216bf8b5a025dcda85b5bb2774e" title="Helper to set the current source as Multiple Media." alt="" coords="255,5,456,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,23,241,23,241,28,207,28"/>
+<area shape="rect" id="Node000003" href="$d5/d04/classSourceModel.html#a14a271383b418951daf4917dd424f7e0" title="Saves all in&#45;memory records to the SQLite database(s)." alt="" coords="711,13,932,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,23,697,23,697,28,456,28"/>
+<area shape="rect" id="Node000005" href="$d5/d04/classSourceModel.html#a6f539e35bae36953d394009f9c1937e8" title="Populates the model with an initial default &quot;NONE&quot; record." alt="" coords="504,38,663,63"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="456,34,490,38,490,43,456,39"/>
+<area shape="rect" id="Node000004" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Retrieves all records stored in the model." alt="" coords="980,5,1179,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="932,23,966,23,966,28,932,28"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="663,40,697,36,697,41,663,45"/>
+</map>

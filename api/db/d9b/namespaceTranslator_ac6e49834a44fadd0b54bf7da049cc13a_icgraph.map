@@ -1,0 +1,22 @@
+<map id="Translator::applyDirectionRecursive" name="Translator::applyDirectionRecursive">
+<area shape="rect" id="Node000001" title="Recursively applies a text direction to a widget and all of its children." alt="" coords="1015,47,1204,87"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="1152,36,1137,29,1109,26,1085,28,1071,33,1066,39,1068,46,1063,48,1060,38,1068,28,1084,23,1109,21,1138,24,1154,31"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#ab33944c800c6a18f50e70af70f89ba9f" title="Recursively applies Left&#45;to&#45;Right (LTR) text direction to a widget and its children." alt="" coords="755,5,967,31"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="1001,49,925,33,926,28,1002,43"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a417c07bfcf1427635cedb9763cde850a" title="Recursively applies Right&#45;to&#45;Left (RTL) text direction to a widget and its children." alt="" coords="755,55,967,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="1001,70,967,70,967,65,1001,65"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a6526d2a56f0804c968e2d84ad966e5b7" title="Sets the text direction for a widget tree based on the language code." alt="" coords="761,104,961,129"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="1002,91,926,107,925,101,1001,86"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a6489015a21fcd43c28ee636b4a2dc026" title="Applies all translations to the widgets in the given GtkBuilder." alt="" coords="499,65,707,105"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="747,105,706,100,707,95,748,100"/>
+<area shape="rect" id="Node000008" href="$d9/ddd/classSettingController.html#af87136fab57dd9fea569a14737d2604c" title="Switches the view to the Information (About) page." alt="" coords="510,129,695,169"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="747,133,696,140,695,135,747,128"/>
+<area shape="rect" id="Node000006" href="$db/d9b/namespaceTranslator.html#a4b275dbd53cbb19b43d5f27b2780a12d" title="Bootstrapper: Initializes I18n System." alt="" coords="264,72,439,97"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="485,87,439,87,439,82,485,82"/>
+<area shape="rect" id="Node000007" href="$dd/d94/classBaseView.html#af470f1fa07284981ce7646d5296c728c" title="Constructs a new Base View object and initializes the UI." alt="" coords="26,72,183,97"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="250,87,184,87,184,82,250,82"/>
+<area shape="rect" id="Node000009" href="$dc/d7c/classSettingView.html#af56590adf70e7dfa8ae7301852367c87" title="Handles Information button click." alt="" coords="252,129,451,169"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="496,151,451,151,451,146,496,146"/>
+<area shape="rect" id="Node000010" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects signals to callback handlers." alt="" coords="5,136,204,161"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="238,151,204,151,204,146,238,146"/>
+</map>

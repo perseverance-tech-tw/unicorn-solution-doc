@@ -1,0 +1,5 @@
+<map id="RecordProcessor::startRecord" name="RecordProcessor::startRecord">
+<area shape="rect" id="Node000001" title="Starts the video recording process." alt="" coords="5,13,219,38"/>
+<area shape="rect" id="Node000002" href="$d0/d64/namespaceRecordProcessor.html#a35bcc98b56f4d058a60d58cd852fd67f" title="Checks available disk space and deletes old recordings if necessary." alt="" coords="267,5,477,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,23,253,23,253,28,219,28"/>
+</map>

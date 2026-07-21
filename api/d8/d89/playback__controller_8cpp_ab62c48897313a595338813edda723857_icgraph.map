@@ -1,0 +1,10 @@
+<map id="format_file_size" name="format_file_size">
+<area shape="rect" id="Node000001" title="Formats a file size in bytes to a human&#45;readable string with appropriate units." alt="" coords="677,42,804,67"/>
+<area shape="rect" id="Node000002" href="$d0/d22/classPlaybackController.html#ae49cbe73c54af212f9cce725c6c02467" title="Initializes the Playback Gallery." alt="" coords="484,35,629,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="664,57,630,57,630,52,664,52"/>
+<area shape="rect" id="Node000003" href="$d0/d22/classPlaybackController.html#a183452771546143ca327199076df3484" title="Handles requests to delete a distinct video file." alt="" coords="272,5,436,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,45,436,40,437,35,471,40"/>
+<area shape="rect" id="Node000004" href="$d0/d22/classPlaybackController.html#af509b6493ab2bd578f5ee94c22434037" title="Static wrapper function to connect GTK signal for delete button." alt="" coords="5,35,224,75"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="259,40,224,44,224,39,258,34"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="238,54,272,55,436,55,483,54,483,59,436,60,272,60,238,60"/>
+</map>

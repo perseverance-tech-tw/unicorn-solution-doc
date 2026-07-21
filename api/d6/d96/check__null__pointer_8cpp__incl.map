@@ -1,0 +1,14 @@
+<map id="src/helpers/check_null_pointer.cpp" name="src/helpers/check_null_pointer.cpp">
+<area shape="rect" id="Node000001" title="Implements the fatal null pointer check utility function." alt="" coords="157,5,324,45"/>
+<area shape="rect" id="Node000002" href="$df/dd5/check__null__pointer_8hpp.html" title="Declares a utility function for performing fatal null pointer checks." alt="" coords="5,93,148,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,48,126,89,123,85,203,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="91,181,171,207"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="230,47,148,172,144,169,226,44"/>
+<area shape="rect" id="Node000004" href="$d6/da3/logger_8hpp.html" title="A lightweight, thread&#45;safe logging interface." alt="" coords="224,101,367,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,44,283,87,278,90,251,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="391,101,456,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="282,43,388,92,386,97,280,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,132,118,168,113,172,88,135"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="266,181,325,207"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="298,126,298,167,293,167,293,126"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ConfigurationView::updateSpinButtonsFor" name="ConfigurationView::updateSpinButtonsFor">
+<area shape="rect" id="Node000001" title="Updates the spin buttons based on the selected function." alt="" coords="243,69,408,109"/>
+<area shape="rect" id="Node000002" href="$d3/d3d/classConfigurationController.html#aa02cf70d216b554b86b847c47b188786" title="Handles clicks on the original view." alt="" coords="5,5,195,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,68,170,48,172,43,242,63"/>
+<area shape="rect" id="Node000003" href="$d3/d3d/classConfigurationController.html#a5bcebccb2fb13cd69dcc90e45c2b1e4e" title="(Baru) Menangani pelepasan drag mouse di view hasil." alt="" coords="5,69,195,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,92,195,92,195,87,229,87"/>
+<area shape="rect" id="Node000004" href="$d3/d3d/classConfigurationController.html#acb465384988abc8c553b5ac516d777bd" title="(Baru) Menangani event scroll mouse untuk zoom." alt="" coords="13,133,187,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,116,172,136,170,131,240,111"/>
+</map>

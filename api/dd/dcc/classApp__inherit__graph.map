@@ -1,0 +1,5 @@
+<map id="App" name="App">
+<area shape="rect" id="Node000001" title="The main application class that orchestrates the GTK UI and global state." alt="" coords="25,79,72,104"/>
+<area shape="rect" id="Node000002" href="$dd/d94/classBaseView.html" title="Base Abstraction for GTK User Interfaces." alt="" coords="5,5,92,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,44,51,79,46,79,46,44"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="src/constants/constants.cpp" name="src/constants/constants.cpp">
+<area shape="rect" id="Node000001" title="Implementation of global constants and database&#45;related configuration management for the Unicorn Solu..." alt="" coords="411,5,613,31"/>
+<area shape="rect" id="Node000002" href="$d3/dad/constants_8hpp.html" title="Central repository for global configuration, hardcoded paths, and system&#45;wide constants." alt="" coords="187,79,367,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,33,329,77,328,72,474,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="312,225,371,251"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="507,32,464,96,401,179,365,218,361,214,397,176,459,93,502,29"/>
+<area shape="rect" id="Node000007" href="$d6/da3/logger_8hpp.html" title="A lightweight, thread&#45;safe logging interface." alt="" coords="462,152,605,177"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="510,32,503,64,502,84,504,103,520,139,515,141,499,105,496,84,498,64,505,30"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="513,79,586,104"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="521,30,539,65,535,68,516,32"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="610,79,689,104"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="535,28,616,70,614,75,533,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="713,79,788,104"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="551,28,701,72,699,78,550,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,104,278,138,281,157,286,176,300,197,316,214,313,218,295,200,282,178,275,159,273,138,273,104"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="296,152,387,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,103,324,140,320,144,286,106"/>
+<area shape="rect" id="Node000005" href="$de/d34/resolution__processor_8hpp.html" title="Declares functions and types for managing map resolutions." alt="" coords="5,152,221,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="252,106,154,149,151,144,250,102"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="151,175,299,221,298,226,149,180"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="88,225,139,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="116,178,116,212,111,212,111,178"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="503,180,385,224,383,219,502,175"/>
+</map>

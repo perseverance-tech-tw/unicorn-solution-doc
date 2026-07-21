@@ -1,0 +1,7 @@
+<map id="LiveViewController::stopLiveUiOnly" name="LiveViewController::stopLiveUiOnly">
+<area shape="rect" id="Node000001" title="Stops UI frame update loop without releasing the capture device." alt="" coords="5,5,151,45"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#a4f391ad801f385631e02e4dce454be92" title=" " alt="" coords="199,5,373,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,23,185,23,185,28,151,28"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html#a3f580fde144fa8fb0660c86897b1bd2a" title="Updates the Play/Pause icon state." alt="" coords="421,5,615,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,23,408,23,408,28,373,28"/>
+</map>

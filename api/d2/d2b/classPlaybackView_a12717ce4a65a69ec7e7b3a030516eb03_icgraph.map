@@ -1,0 +1,5 @@
+<map id="PlaybackView::updateGlowAnimation" name="PlaybackView::updateGlowAnimation">
+<area shape="rect" id="Node000001" title="Updates the glow effect animation." alt="" coords="304,5,503,45"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#acd9d5f5a459cb85074e0567fe28b0f8c" title="Starts the glowing title animation." alt="" coords="5,13,256,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,28,256,28,256,23,290,23"/>
+</map>

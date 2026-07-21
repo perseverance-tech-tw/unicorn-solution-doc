@@ -1,0 +1,17 @@
+<map id="include/cores/routes.hpp" name="include/cores/routes.hpp">
+<area shape="rect" id="Node000001" title="Declares the setupRoutes function responsible for initializing and linking MVC components." alt="" coords="428,5,609,31"/>
+<area shape="rect" id="Node000002" href="$d6/d2c/app_8hpp.html" title="Declares the main application class managing GTK widgets and navigation." alt="" coords="346,79,510,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,41,444,81,441,76,492,37"/>
+<area shape="rect" id="Node000008" href="$df/d84/routes_8cpp.html" title="Application component initializer (setupRoutes)." alt="" coords="535,79,687,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="546,37,597,76,594,81,542,41"/>
+<area shape="rect" id="Node000003" href="$de/d54/live__view__controller_8cpp.html" title="Implements the LiveViewController class, managing live camera feeds, media input, recording,..." alt="" coords="5,152,160,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,110,161,156,160,151,364,104"/>
+<area shape="rect" id="Node000004" href="$d5/df2/app_8cpp.html" title="Implementation of the main application window (App class)." alt="" coords="185,159,319,185"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="391,112,279,162,277,157,389,107"/>
+<area shape="rect" id="Node000005" href="$df/dbb/mediator_8cpp.html" title="Implements the Mediator class, a singleton for component communication." alt="" coords="343,159,513,185"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="431,118,431,159,425,159,425,118"/>
+<area shape="rect" id="Node000006" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="537,159,642,185"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="465,107,567,157,565,162,462,112"/>
+<area shape="rect" id="Node000007" href="$dc/daa/setting__view_8cpp.html" title="Implementation of the SettingView class." alt="" coords="666,159,862,185"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="491,104,716,157,714,162,490,110"/>
+</map>

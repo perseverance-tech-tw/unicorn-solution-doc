@@ -1,0 +1,22 @@
+<map id="ConfigurationView::onSpinValueChanged" name="ConfigurationView::onSpinValueChanged">
+<area shape="rect" id="Node000001" title="Callback for spin button value changes (alpha, beta, zoom)." alt="" coords="716,131,875,171"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html#ae975d0a3542a1311028e29fab91d3943" title="Initializes spin buttons with values from the logic controller." alt="" coords="448,67,668,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="707,130,632,109,633,104,708,124"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals to callback functions." alt="" coords="484,131,632,171"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="702,153,632,153,632,148,702,148"/>
+<area shape="rect" id="Node000007" href="$d1/db4/classConfigurationView.html#a7b2dbb96034bb928cb606dbbeb7d85f2" title="Updates the spin buttons based on the selected function." alt="" coords="475,220,641,260"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="730,178,613,222,611,217,728,173"/>
+<area shape="rect" id="Node000003" href="$d3/d3d/classConfigurationController.html#a681b46d3b088f9c114e2806d33c118fb" title="Menjalankan logika untuk mereset semua parameter konfigurasi." alt="" coords="201,5,400,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,66,385,48,386,43,461,61"/>
+<area shape="rect" id="Node000004" href="$d1/db4/classConfigurationView.html#a0c5fed278f22ffa2813ed1b3f3fe7f4f" title="Binds UI components to member variables." alt="" coords="227,69,375,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="435,91,375,91,375,86,434,85"/>
+<area shape="rect" id="Node000005" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructor for ConfigurationView." alt="" coords="5,99,153,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="213,104,154,112,153,106,213,98"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="470,148,153,126,154,121,470,142"/>
+<area shape="rect" id="Node000008" href="$d3/d3d/classConfigurationController.html#aa02cf70d216b554b86b847c47b188786" title="Handles clicks on the original view." alt="" coords="206,184,395,224"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="461,229,395,220,396,215,462,224"/>
+<area shape="rect" id="Node000009" href="$d3/d3d/classConfigurationController.html#a5bcebccb2fb13cd69dcc90e45c2b1e4e" title="(Baru) Menangani pelepasan drag mouse di view hasil." alt="" coords="206,248,395,288"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="462,253,396,260,395,255,461,248"/>
+<area shape="rect" id="Node000010" href="$d3/d3d/classConfigurationController.html#acb465384988abc8c553b5ac516d777bd" title="(Baru) Menangani event scroll mouse untuk zoom." alt="" coords="214,312,387,352"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="494,268,401,303,366,315,364,309,399,297,493,263"/>
+</map>

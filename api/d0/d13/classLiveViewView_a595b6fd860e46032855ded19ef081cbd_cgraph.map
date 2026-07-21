@@ -1,0 +1,15 @@
+<map id="LiveViewView::showLoadMediaDialog" name="LiveViewView::showLoadMediaDialog">
+<area shape="rect" id="Node000001" title="Shows the Load Media dialog and retrieves result." alt="" coords="5,55,231,95"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="288,5,452,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,53,300,31,301,36,207,58"/>
+<area shape="rect" id="Node000003" href="$d9/d7c/namespaceConstants.html#aa3d2e62a2936ec5bcd9198bfdc6e4344" title="Retrieves the SIZE_FACTOR value from the database." alt="" coords="279,55,461,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,73,265,73,265,78,231,78"/>
+<area shape="rect" id="Node000004" href="$de/d7b/classMessageDialog.html#a7b0e305f314e369e08b89426a5e0b315" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="279,120,461,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,93,301,114,300,120,206,98"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="524,95,667,120"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="462,120,510,114,510,120,462,125"/>
+<area shape="rect" id="Node000007" href="$de/d7b/classMessageDialog.html#ab509294ce066b74cca0997706c2ef69d" title="Shows a modal dialog with a single button." alt="" coords="509,144,681,169"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="462,140,496,143,495,149,462,145"/>
+<area shape="rect" id="Node000006" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="729,87,923,127"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="667,105,715,105,715,110,667,110"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="LiveViewController::startOrResumePlayback" name="LiveViewController::startOrResumePlayback">
+<area shape="rect" id="Node000001" title="Starts or resumes video playback." alt="" coords="5,60,192,100"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#a89f1c0305d6983635aa1eb6e0cad27ea" title=" " alt="" coords="688,5,863,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,70,674,31,674,36,193,75"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#a72619e0bfecfae080d39ac5d165a1a5b" title=" " alt="" coords="240,113,396,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,97,227,109,226,114,181,103"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html#a3f580fde144fa8fb0660c86897b1bd2a" title="Updates the Play/Pause icon state." alt="" coords="911,63,1104,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="858,43,913,57,912,62,856,48"/>
+<area shape="poly" id="edge9_Node000004_Node000003" title=" " alt="" coords="396,113,444,105,565,93,687,86,897,80,897,85,687,91,565,99,444,111,397,118"/>
+<area shape="rect" id="Node000005" href="$de/d54/live__view__controller_8cpp.html#a257c23cda7ca9544d82d1544e4bd7f5e" title="Formats a time value in seconds into a &quot;MM:SS&quot; string." alt="" coords="456,121,628,146"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="396,131,442,131,442,136,396,136"/>
+<area shape="rect" id="Node000006" href="$d6/d8a/classLiveViewController.html#a53d590a708c2126fabf7f7089d45e56f" title=" " alt="" coords="444,170,640,225"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="389,151,434,164,432,169,388,156"/>
+<area shape="rect" id="Node000007" href="$d6/d8a/classLiveViewController.html#a4778a2be61d9a6e46eeba6b54f4bc0c9" title="Stops UI frame update loop without releasing the capture device." alt="" coords="469,249,615,289"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="341,152,386,193,445,235,459,242,456,246,443,240,383,198,337,156"/>
+<area shape="rect" id="Node000008" href="$d6/d8a/classLiveViewController.html#a4f391ad801f385631e02e4dce454be92" title=" " alt="" coords="688,184,863,224"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="614,247,689,225,691,230,615,252"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="813,182,955,107,957,111,816,186"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="LiveViewController::toggleRecord" name="LiveViewController::toggleRecord">
+<area shape="rect" id="Node000001" title="Toggles the recording state." alt="" coords="5,120,151,160"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#a4b1fbd81415f373b524478551b467636" title="Mengembalikan Judul ke kondisi normal (&quot;Unicorn Solution&quot;)." alt="" coords="199,5,400,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,118,145,86,197,55,213,48,215,53,200,60,148,91,105,122"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="217,70,381,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,118,198,105,234,96,235,101,199,111,152,123"/>
+<area shape="rect" id="Node000004" href="$d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e" title="Checks if recording is currently active." alt="" coords="448,127,663,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,157,199,169,299,177,400,169,492,153,493,158,400,175,299,182,198,175,141,163"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#adffe5670bd28eeeb83a3ca9e511112db" title="Initiates Video Recording." alt="" coords="227,120,372,160"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="151,137,213,137,213,143,151,143"/>
+<area shape="rect" id="Node000014" href="$d6/d8a/classLiveViewController.html#a256403940f67847efae818ba7fc4bad4" title="Terminates Video Recording." alt="" coords="227,235,372,275"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="109,158,151,186,200,214,229,227,227,232,197,218,148,190,106,162"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="372,137,434,137,434,143,372,143"/>
+<area shape="rect" id="Node000006" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="751,242,893,267"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="372,123,449,110,534,100,611,100,641,105,664,114,678,126,686,139,691,167,695,195,701,208,712,221,739,237,736,241,709,225,697,211,690,196,686,168,681,141,674,129,661,118,640,110,610,105,535,106,450,115,373,128"/>
+<area shape="rect" id="Node000008" href="$d0/d13/classLiveViewView.html#abe5db72c1c6a60986fb6aeebf3c6fc41" title="Controls the visibility and blinking animation of the recording icon." alt="" coords="453,177,658,217"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="373,154,453,172,452,177,372,159"/>
+<area shape="rect" id="Node000010" href="$de/d7b/classMessageDialog.html#a7b0e305f314e369e08b89426a5e0b315" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="464,293,647,318"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="333,158,524,283,522,287,330,163"/>
+<area shape="rect" id="Node000012" href="$d0/d64/namespaceRecordProcessor.html#a665d7a048c45064165d30a33b8025290" title="Starts the video recording process." alt="" coords="449,26,662,51"/>
+<area shape="poly" id="edge13_Node000005_Node000012" title=" " alt="" coords="371,118,399,106,422,87,447,68,484,53,486,58,449,73,426,91,401,110,374,123"/>
+<area shape="rect" id="Node000007" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="981,235,1175,275"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="894,252,968,252,968,257,894,257"/>
+<area shape="rect" id="Node000009" href="$d0/d13/classLiveViewView.html#a5b799a031416247406040592eefdf4fb" title=" " alt="" coords="711,185,933,210"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="658,195,697,195,697,200,658,200"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="622,290,740,267,741,273,623,295"/>
+<area shape="rect" id="Node000011" href="$de/d7b/classMessageDialog.html#ab509294ce066b74cca0997706c2ef69d" title="Shows a modal dialog with a single button." alt="" coords="736,293,908,318"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="647,303,722,303,722,308,647,308"/>
+<area shape="rect" id="Node000013" href="$d0/d64/namespaceRecordProcessor.html#a35bcc98b56f4d058a60d58cd852fd67f" title="Checks available disk space and deletes old recordings if necessary." alt="" coords="717,19,927,59"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="662,36,703,36,703,41,662,41"/>
+<area shape="poly" id="edge17_Node000014_Node000004" title=" " alt="" coords="364,232,398,214,413,201,421,188,431,176,447,163,463,155,466,160,449,168,435,179,426,192,417,205,402,218,366,237"/>
+<area shape="poly" id="edge16_Node000014_Node000006" title=" " alt="" coords="372,252,737,252,737,257,372,257"/>
+<area shape="poly" id="edge18_Node000014_Node000008" title=" " alt="" coords="372,236,452,218,453,223,373,241"/>
+<area shape="poly" id="edge19_Node000014_Node000010" title=" " alt="" coords="373,266,477,287,476,293,372,272"/>
+<area shape="rect" id="Node000015" href="$d0/d64/namespaceRecordProcessor.html#ac2d601e4960281ca235d97c326e21189" title="Stops the current recording session." alt="" coords="450,342,661,367"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="335,272,387,301,449,328,474,336,472,341,447,333,385,306,332,277"/>
+</map>

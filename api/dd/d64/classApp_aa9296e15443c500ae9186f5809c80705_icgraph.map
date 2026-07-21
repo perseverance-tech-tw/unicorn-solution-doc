@@ -1,0 +1,39 @@
+<map id="App::setDriveModeButtonsEnabled" name="App::setDriveModeButtonsEnabled">
+<area shape="rect" id="Node000001" title="Enables or disables the drive mode toggle buttons." alt="" coords="771,244,967,284"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a18064f984d3ea2c99709e49194042971" title="Helper to switch back to LiveView from sidebar views." alt="" coords="500,100,709,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="837,237,786,190,755,167,722,147,670,128,672,123,724,142,758,162,789,186,841,233"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a0daa0f131ed6a4bbfb82c31440aba96a" title="Callback wrapper to navigate to the Configuration view." alt="" coords="222,8,417,48"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="853,233,835,190,806,140,769,92,746,72,721,55,685,37,647,25,567,11,488,9,417,14,417,9,488,3,567,6,648,20,687,32,724,50,750,67,773,89,811,137,839,188,858,231"/>
+<area shape="rect" id="Node000005" href="$dd/d64/classApp.html#ac6da02831e42bc4dda7746e2dd5d6c37" title="Callback wrapper to open the Help dialog/view." alt="" coords="200,73,439,98"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="850,233,829,197,801,157,765,118,721,89,677,72,629,62,581,56,532,55,442,63,370,76,370,70,442,57,532,50,581,51,630,56,678,67,724,85,768,114,805,153,834,194,855,231"/>
+<area shape="rect" id="Node000006" href="$dd/d64/classApp.html#a686b54a2e8900d6e292bc03b5aa30db0" title="Callback wrapper to navigate to the Playback view." alt="" coords="212,123,427,163"/>
+<area shape="poly" id="edge18_Node000001_Node000006" title=" " alt="" coords="799,242,722,219,568,185,426,161,427,156,569,180,723,214,801,237"/>
+<area shape="rect" id="Node000007" href="$dd/d64/classApp.html#a732c57f411b349bf301c8b71170db4cd" title="Callback wrapper to navigate to the Settings view." alt="" coords="219,187,420,227"/>
+<area shape="poly" id="edge21_Node000001_Node000007" title=" " alt="" coords="757,252,722,248,420,218,421,213,723,243,757,247"/>
+<area shape="rect" id="Node000008" href="$dd/d64/classApp.html#ad37dbdb7e208b85b8ab4e10a3e13cc20" title="Callback wrapper to toggle BSIS (Blind Spot Information System) features." alt="" coords="202,252,437,277"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="757,267,437,267,437,262,757,262"/>
+<area shape="rect" id="Node000009" href="$dd/d64/classApp.html#a603761aa90a22a24de089d0f228ca5c5" title="Callback wrapper to navigate to the Main View (Dashboard)." alt="" coords="211,302,428,342"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="757,279,428,313,428,308,756,273"/>
+<area shape="rect" id="Node000010" href="$dd/d64/classApp.html#a88510da0ff65d25b1202cee15b5d3035" title="Callback wrapper to switch to original (unprocessed) view mode." alt="" coords="503,352,707,392"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="818,293,724,336,672,355,670,350,722,331,815,288"/>
+<area shape="rect" id="Node000011" href="$dd/d64/classApp.html#aa929b17f6eaf9b5d30fd82a1c2f1315e" title=" " alt="" coords="487,417,723,442"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="846,297,794,354,761,383,724,407,692,419,690,414,721,402,758,378,791,350,842,294"/>
+<area shape="rect" id="Node000012" href="$dd/d64/classApp.html#ab020e623b6c86cc584a0ce53e4bc28d7" title="Callback wrapper to switch between Drive Mode and Standby Mode." alt="" coords="505,467,704,507"/>
+<area shape="poly" id="edge22_Node000001_Node000012" title=" " alt="" coords="853,298,832,335,803,378,767,420,724,456,700,469,697,464,721,451,763,416,799,374,827,332,849,296"/>
+<area shape="rect" id="Node000013" href="$d6/d8a/classLiveViewController.html#a3feb080cbba46532d63dea7a8488f035" title="Toggles the Application Mode (Standby &lt;&#45;&gt; Drive)." alt="" coords="532,531,677,571"/>
+<area shape="poly" id="edge24_Node000001_Node000013" title=" " alt="" coords="860,298,842,348,814,408,775,469,751,497,724,521,702,534,678,543,676,538,700,530,721,517,747,493,771,466,809,406,837,346,855,296"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="551,98,438,63,396,51,397,46,439,58,552,93"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="486,104,439,100,439,94,486,99"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="486,128,427,134,426,129,486,122"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="561,133,440,178,400,189,398,184,438,172,559,128"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects global signal handlers to UI events." alt="" coords="5,252,152,277"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,56,202,62,178,84,157,109,123,163,100,215,86,252,81,251,95,213,118,161,152,106,174,80,198,58,208,52"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="215,106,201,113,162,146,129,185,104,224,88,253,84,250,100,221,125,182,158,142,199,109,213,101"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="218,170,201,177,140,216,95,254,92,249,137,212,199,173,216,165"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="222,233,133,254,132,249,221,228"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="188,267,153,267,153,262,188,262"/>
+<area shape="poly" id="edge15_Node000009_Node000004" title=" " alt="" coords="221,301,132,280,133,274,222,296"/>
+<area shape="poly" id="edge17_Node000010_Node000004" title=" " alt="" coords="489,387,422,389,348,386,272,376,199,356,165,340,135,319,90,279,94,275,138,315,168,335,201,351,273,371,349,381,422,384,489,382"/>
+<area shape="poly" id="edge20_Node000011_Node000004" title=" " alt="" coords="473,443,407,442,337,435,266,420,199,395,160,369,128,337,85,279,90,276,132,333,164,365,201,390,268,415,338,430,408,437,473,438"/>
+<area shape="poly" id="edge23_Node000012_Node000004" title=" " alt="" coords="492,503,422,505,346,498,270,481,233,467,199,449,174,431,153,410,119,361,95,314,82,278,87,276,100,312,124,359,157,407,178,427,201,445,235,462,271,476,347,493,422,499,492,498"/>
+</map>

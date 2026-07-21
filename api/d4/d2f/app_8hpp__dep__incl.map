@@ -1,0 +1,13 @@
+<map id="include/cores/app.hpp" name="include/cores/app.hpp">
+<area shape="rect" id="Node000001" title="Declares the main application class managing GTK widgets and navigation." alt="" coords="346,5,510,31"/>
+<area shape="rect" id="Node000002" href="$de/d54/live__view__controller_8cpp.html" title="Implements the LiveViewController class, managing live camera feeds, media input, recording,..." alt="" coords="5,79,160,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,36,161,82,160,77,364,31"/>
+<area shape="rect" id="Node000003" href="$d5/df2/app_8cpp.html" title="Implementation of the main application window (App class)." alt="" coords="185,86,319,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="391,39,279,88,277,84,389,34"/>
+<area shape="rect" id="Node000004" href="$df/dbb/mediator_8cpp.html" title="Implements the Mediator class, a singleton for component communication." alt="" coords="343,86,513,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="431,44,431,86,425,86,425,44"/>
+<area shape="rect" id="Node000005" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="537,86,642,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="465,34,567,84,565,88,462,39"/>
+<area shape="rect" id="Node000006" href="$dc/daa/setting__view_8cpp.html" title="Implementation of the SettingView class." alt="" coords="666,86,862,111"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="491,31,716,83,714,89,490,36"/>
+</map>

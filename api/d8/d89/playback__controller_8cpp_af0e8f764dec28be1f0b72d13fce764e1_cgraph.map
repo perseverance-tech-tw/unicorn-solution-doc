@@ -1,0 +1,5 @@
+<map id="generate_dewarped_thumbnail_async" name="generate_dewarped_thumbnail_async">
+<area shape="rect" id="Node000001" title="Logic for dewarping a single thumbnail asynchronously." alt="" coords="5,5,229,45"/>
+<area shape="rect" id="Node000002" href="$d8/d89/playback__controller_8cpp.html#afadf0434d385208aaced3eaf7f5e54eb" title="Resizes and crops an image to fit a target size." alt="" coords="277,13,479,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,23,264,23,264,28,230,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LiveViewController::updateOriginalViewButtons" name="LiveViewController::updateOriginalViewButtons">
+<area shape="rect" id="Node000001" title="Updates the visibility of the original view buttons (Cam 1 &amp; Cam 2)." alt="" coords="199,37,407,77"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#ac3ceba55f7297483763f02269dd3c140" title="Opens media file dialog for image or video selection." alt="" coords="5,5,151,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,43,151,38,152,33,185,38"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/classLiveViewController.html#ab57b6a6cd7cc0ac448d8b2681e9e786e" title="Restores a specific source (Camera or File) directly." alt="" coords="5,69,151,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,77,152,82,151,76,184,72"/>
+</map>

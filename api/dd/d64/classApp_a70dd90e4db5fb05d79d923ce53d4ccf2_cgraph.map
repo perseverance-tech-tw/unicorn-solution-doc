@@ -1,0 +1,7 @@
+<map id="App::setActiveSidebarButton" name="App::setActiveSidebarButton">
+<area shape="rect" id="Node000001" title="Highlights the active sidebar button corresponding to the current view." alt="" coords="5,31,213,56"/>
+<area shape="rect" id="Node000002" href="$d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e" title="Checks if recording is currently active." alt="" coords="261,5,476,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,31,247,27,248,32,214,36"/>
+<area shape="rect" id="Node000003" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="305,55,432,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,50,292,58,291,63,213,56"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Translator::setTextDirection" name="Translator::setTextDirection">
+<area shape="rect" id="Node000001" title="Sets the text direction for a widget tree based on the language code." alt="" coords="755,45,955,70"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a6489015a21fcd43c28ee636b4a2dc026" title="Applies all translations to the widgets in the given GtkBuilder." alt="" coords="499,5,707,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="741,46,707,41,707,36,741,40"/>
+<area shape="rect" id="Node000005" href="$d9/ddd/classSettingController.html#af87136fab57dd9fea569a14737d2604c" title="Switches the view to the Information (About) page." alt="" coords="510,69,695,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="741,74,696,80,695,75,741,69"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a4b275dbd53cbb19b43d5f27b2780a12d" title="Bootstrapper: Initializes I18n System." alt="" coords="264,13,439,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,28,439,28,439,23,485,23"/>
+<area shape="rect" id="Node000004" href="$dd/d94/classBaseView.html#af470f1fa07284981ce7646d5296c728c" title="Constructs a new Base View object and initializes the UI." alt="" coords="26,13,183,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="250,28,184,28,184,23,250,23"/>
+<area shape="rect" id="Node000006" href="$dc/d7c/classSettingView.html#af56590adf70e7dfa8ae7301852367c87" title="Handles Information button click." alt="" coords="252,69,451,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="496,92,451,92,451,87,496,87"/>
+<area shape="rect" id="Node000007" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects signals to callback handlers." alt="" coords="5,77,204,102"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="238,92,204,92,204,87,238,87"/>
+</map>

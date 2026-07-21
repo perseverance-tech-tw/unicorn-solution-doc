@@ -1,0 +1,121 @@
+<map id="SettingView::signalConnect" name="SettingView::signalConnect">
+<area shape="rect" id="Node000001" title="Connects signals to callback handlers." alt="" coords="5,1215,204,1241"/>
+<area shape="rect" id="Node000002" href="$dc/d7c/classSettingView.html#a050732c6a09278f5d76cd0cf00614644" title="Handler for Apply button click." alt="" coords="265,1121,468,1161"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,1213,291,1163,293,1168,145,1218"/>
+<area shape="rect" id="Node000013" href="$dc/d7c/classSettingView.html#ad2a71858db29261c53b1adbfa7baf46d" title="Handles Back button click." alt="" coords="267,1236,466,1276"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="204,1236,254,1241,253,1247,204,1241"/>
+<area shape="rect" id="Node000017" href="$dc/d7c/classSettingView.html#a9a06d7883c3846d2cd60beb67614007f" title="Static callback to switch the application language to Arabic." alt="" coords="252,1401,481,1441"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="117,1239,170,1306,209,1346,253,1380,278,1394,276,1398,251,1385,205,1350,166,1309,113,1242"/>
+<area shape="rect" id="Node000018" href="$dc/d7c/classSettingView.html#ac7a30aec357689e34887cc8e9c94b61d" title="Static callback to switch the application language to German." alt="" coords="252,1465,481,1505"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="113,1240,130,1281,159,1338,201,1399,226,1427,254,1451,262,1457,259,1461,250,1455,222,1431,196,1403,155,1341,125,1283,108,1242"/>
+<area shape="rect" id="Node000019" href="$dc/d7c/classSettingView.html#acb790b43104b7e20afd62d491c0a2bb1" title="Static callback to switch the application language to English." alt="" coords="252,1529,481,1569"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="111,1240,124,1291,151,1366,170,1406,193,1446,221,1483,254,1515,260,1520,257,1524,250,1519,217,1487,189,1449,165,1409,146,1368,119,1293,106,1241"/>
+<area shape="rect" id="Node000020" href="$dc/d7c/classSettingView.html#a88a487affdce72f54458b1f2aee5848b" title="Static callback to switch the application language to Spanish." alt="" coords="252,1593,481,1633"/>
+<area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="110,1240,120,1302,143,1393,162,1443,186,1493,217,1539,254,1579,259,1584,256,1588,250,1583,213,1543,182,1496,157,1445,138,1395,114,1303,105,1241"/>
+<area shape="rect" id="Node000021" href="$dc/d7c/classSettingView.html#ab25ae58375942d1546ceffe8de8cc9b1" title="Static callbacks for &#39;clicked&#39; events on language selection buttons." alt="" coords="252,1657,481,1697"/>
+<area shape="poly" id="edge24_Node000001_Node000021" title=" " alt="" coords="109,1241,115,1311,136,1420,154,1480,179,1539,212,1595,254,1643,259,1648,256,1652,250,1647,208,1598,175,1542,149,1482,131,1421,110,1312,104,1241"/>
+<area shape="rect" id="Node000022" href="$dc/d7c/classSettingView.html#ae0fcf2bd5f209e1e4518cdf8d9330652" title="Static callback to switch the application language to Chinese." alt="" coords="252,1721,481,1761"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="108,1241,111,1321,117,1380,129,1446,146,1516,172,1586,208,1651,229,1680,254,1707,258,1711,255,1715,250,1711,225,1684,203,1654,167,1588,141,1518,123,1447,112,1380,106,1321,103,1241"/>
+<area shape="rect" id="Node000023" href="$dc/d7c/classSettingView.html#afe8c684f2cb4012e4127ba35bd8db937" title="Handles Camera button click." alt="" coords="258,848,475,888"/>
+<area shape="poly" id="edge26_Node000001_Node000023" title=" " alt="" coords="108,1214,125,1168,156,1099,198,1022,250,949,282,919,316,894,319,898,285,923,254,952,202,1025,161,1101,130,1170,113,1216"/>
+<area shape="rect" id="Node000026" href="$dc/d7c/classSettingView.html#afb8bb64e8d497a4ad2e130622d714bb8" title="Handles the activation of a row in the camera selection list." alt="" coords="530,1333,727,1373"/>
+<area shape="poly" id="edge31_Node000001_Node000026" title=" " alt="" coords="133,1238,188,1262,253,1285,389,1317,517,1338,516,1343,388,1322,251,1291,186,1267,131,1243"/>
+<area shape="rect" id="Node000027" href="$dc/d7c/classSettingView.html#aa9557db38af0786bbb99fb26ca7bec2b" title="Handles DateTime button click." alt="" coords="253,663,480,703"/>
+<area shape="poly" id="edge33_Node000001_Node000027" title=" " alt="" coords="107,1214,155,1059,197,946,250,835,293,767,337,712,341,715,297,770,254,837,202,948,160,1060,112,1216"/>
+<area shape="rect" id="Node000029" href="$dc/d7c/classSettingView.html#a69ae09fdd5f06a25de8f5db2fd4050d1" title="Handler for Edit button click." alt="" coords="1062,120,1253,160"/>
+<area shape="poly" id="edge37_Node000001_Node000029" title=" " alt="" coords="104,1215,114,1066,139,821,158,690,183,568,213,467,231,427,250,396,289,352,332,313,379,279,429,250,481,224,536,202,648,169,761,148,868,136,966,131,1048,131,1048,137,966,137,869,141,761,153,650,174,538,207,484,229,431,254,382,284,335,317,292,356,254,399,235,429,218,468,188,569,163,691,144,821,119,1066,109,1215"/>
+<area shape="rect" id="Node000030" href="$dc/d7c/classSettingView.html#ac1e583fe45a98ae291032f23224d55db" title="Handles Exit button click." alt="" coords="794,1185,985,1225"/>
+<area shape="poly" id="edge40_Node000001_Node000030" title=" " alt="" coords="204,1222,780,1206,780,1211,204,1228"/>
+<area shape="rect" id="Node000033" href="$dc/d7c/classSettingView.html#af56590adf70e7dfa8ae7301852367c87" title="Handles Information button click." alt="" coords="267,591,466,631"/>
+<area shape="poly" id="edge46_Node000001_Node000033" title=" " alt="" coords="105,1215,120,1106,151,937,171,847,194,764,221,696,235,669,250,649,265,636,269,640,254,652,239,672,226,698,199,766,176,848,156,938,126,1107,110,1215"/>
+<area shape="rect" id="Node000038" href="$dc/d7c/classSettingView.html#ad54611e0839cab312a3aa17a9af55f67" title="Handles Language button click." alt="" coords="252,963,481,1003"/>
+<area shape="poly" id="edge55_Node000001_Node000038" title=" " alt="" coords="118,1213,332,1010,336,1014,121,1217"/>
+<area shape="rect" id="Node000040" href="$dc/d7c/classSettingView.html#a4b6210c2e97bf837e01512702282513f" title="Handler for Save button click." alt="" coords="529,373,728,413"/>
+<area shape="poly" id="edge59_Node000001_Node000040" title=" " alt="" coords="105,1215,120,1096,150,906,170,805,194,711,220,632,235,601,250,577,277,546,309,518,380,472,454,438,523,415,525,420,456,443,382,477,312,522,281,550,254,580,239,604,225,634,199,712,175,806,155,907,125,1097,110,1216"/>
+<area shape="rect" id="Node000043" href="$dc/d7c/classSettingView.html#af5ba552a5bd344cdb36e96e412bc4401" title="Handler for Save DateTime click." alt="" coords="781,288,997,328"/>
+<area shape="poly" id="edge67_Node000001_Node000043" title=" " alt="" coords="104,1215,116,1081,144,862,163,746,187,638,216,548,232,512,250,485,302,432,362,391,429,359,500,335,571,318,642,308,767,300,768,306,642,313,572,324,501,340,431,363,365,395,305,436,254,488,237,515,221,550,193,639,169,747,149,863,122,1081,110,1215"/>
+<area shape="rect" id="Node000044" href="$dc/d7c/classSettingView.html#a977cb6d2036105211947d72a39baaaae" title="Handler for Time Format toggle." alt="" coords="788,1425,991,1465"/>
+<area shape="poly" id="edge71_Node000001_Node000044" title=" " alt="" coords="120,1239,175,1287,212,1314,253,1336,330,1355,467,1380,774,1427,774,1432,466,1385,329,1361,251,1341,209,1319,171,1292,117,1243"/>
+<area shape="rect" id="Node000003" href="$d9/ddd/classSettingController.html#ac0a7a3e8963c81ce0e28f866e3f5264d" title="Applies the Active Camera Parameters to the Live System." alt="" coords="537,1020,720,1060"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,1119,562,1063,564,1068,420,1124"/>
+<area shape="rect" id="Node000010" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="1337,1058,1501,1083"/>
+<area shape="poly" id="edge13_Node000002_Node000010" title=" " alt="" coords="469,1150,580,1156,714,1157,859,1147,932,1136,1002,1120,1025,1108,1050,1095,1120,1079,1192,1070,1323,1064,1324,1070,1193,1075,1121,1084,1052,1100,1028,1113,1004,1125,933,1141,860,1152,714,1162,579,1161,468,1155"/>
+<area shape="rect" id="Node000004" href="$d7/d8b/classMoildevApplicator.html#a929dd28d154e3a6b0a2ac443bc1b1a29" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="815,1071,963,1111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="721,1055,802,1071,801,1076,720,1060"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="1348,539,1491,565"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="689,1017,775,992,840,980,891,974,940,967,1002,947,1082,912,1143,880,1198,839,1262,779,1308,727,1348,671,1403,576,1408,578,1353,673,1312,730,1266,783,1201,843,1146,884,1085,917,1004,952,942,972,891,980,840,985,777,997,690,1023"/>
+<area shape="rect" id="Node000007" href="$d7/d8b/classMoildevApplicator.html#aca57f730cd6b9a77e1d1f6b3007093da" title="Hot&#45;Reloads Camera Calibration." alt="" coords="806,1007,973,1047"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="720,1033,792,1029,792,1034,720,1038"/>
+<area shape="rect" id="Node000011" href="$de/d7b/classMessageDialog.html#a7b0e305f314e369e08b89426a5e0b315" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="1066,235,1249,261"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="662,1018,856,896,951,832,983,807,1001,790,1017,762,1027,737,1035,690,1038,639,1048,577,1101,403,1144,273,1149,275,1106,404,1053,578,1043,640,1040,690,1032,738,1022,765,1005,794,987,811,954,836,859,901,665,1022"/>
+<area shape="rect" id="Node000006" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="1575,532,1768,572"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1491,549,1561,549,1561,555,1491,555"/>
+<area shape="rect" id="Node000008" href="$d7/d8b/classMoildevApplicator.html#a15b1be59dcba7b86c3988ab32e386da1" title="Batch Generator: Creates Maps for ALL Presets." alt="" coords="1083,1209,1231,1249"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="974,1039,1004,1057,1023,1078,1031,1099,1038,1121,1053,1145,1082,1174,1114,1199,1111,1204,1079,1178,1049,1148,1033,1124,1026,1101,1019,1081,1001,1061,971,1044"/>
+<area shape="rect" id="Node000009" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="1312,1209,1527,1249"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1232,1227,1298,1227,1298,1232,1232,1232"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1222,1207,1263,1188,1336,1139,1393,1091,1396,1095,1339,1143,1265,1193,1224,1212"/>
+<area shape="poly" id="edge11_Node000011_Node000005" title=" " alt="" coords="1229,258,1266,278,1295,306,1322,337,1365,406,1395,473,1413,525,1408,527,1390,475,1360,409,1318,341,1292,309,1262,282,1226,263"/>
+<area shape="rect" id="Node000012" href="$de/d7b/classMessageDialog.html#ab509294ce066b74cca0997706c2ef69d" title="Shows a modal dialog with a single button." alt="" coords="1333,235,1505,261"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1249,245,1320,245,1320,251,1249,251"/>
+<area shape="poly" id="edge15_Node000013_Node000010" title=" " alt="" coords="466,1266,674,1291,923,1314,1041,1322,1143,1325,1220,1321,1246,1316,1263,1310,1276,1298,1284,1287,1292,1260,1296,1230,1310,1196,1352,1138,1393,1092,1397,1095,1356,1141,1314,1199,1301,1232,1297,1261,1289,1289,1280,1302,1265,1314,1247,1322,1220,1326,1143,1330,1040,1327,922,1320,674,1296,466,1271"/>
+<area shape="rect" id="Node000014" href="$d9/ddd/classSettingController.html#a654a64d7c1ac14710841bcc57703a771" title="Switches to the settings menu page." alt="" coords="556,905,701,945"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="406,1234,445,1207,479,1172,492,1150,499,1129,504,1091,508,1052,515,1030,527,1007,553,976,582,951,585,955,557,980,532,1009,520,1032,513,1053,509,1092,504,1131,497,1152,483,1175,449,1211,409,1238"/>
+<area shape="rect" id="Node000015" href="$d9/ddd/classSettingController.html#a430ec18fc43b2bdb0a2007563c29b270" title="Updates labels and images for the specified page." alt="" coords="805,740,973,780"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="653,903,726,841,749,817,775,796,802,783,804,788,777,801,753,821,730,845,656,907"/>
+<area shape="rect" id="Node000016" href="$db/d9b/namespaceTranslator.html#ae9b2362ef7a27751976241012e2debd8" title="Sets the text of a GtkLabel using a translation key." alt="" coords="1069,743,1245,769"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="973,756,1056,755,1056,760,974,761"/>
+<area shape="poly" id="edge19_Node000016_Node000005" title=" " alt="" coords="1214,741,1239,731,1263,719,1306,685,1344,646,1400,575,1404,578,1348,650,1309,689,1265,724,1241,736,1216,746"/>
+<area shape="poly" id="edge27_Node000023_Node000010" title=" " alt="" coords="476,869,632,880,831,902,939,919,1049,940,1159,965,1265,996,1329,1022,1384,1049,1382,1054,1327,1027,1263,1001,1158,970,1048,945,938,924,830,908,632,885,475,875"/>
+<area shape="rect" id="Node000024" href="$d9/ddd/classSettingController.html#ab11e7be64a794077ba0cc3b72799e6b2" title="Switches the view to the Camera Settings page." alt="" coords="549,727,709,767"/>
+<area shape="poly" id="edge28_Node000023_Node000024" title=" " alt="" coords="398,846,458,811,528,776,546,769,548,774,530,781,460,816,401,850"/>
+<area shape="poly" id="edge30_Node000024_Node000015" title=" " alt="" coords="709,748,792,752,791,758,709,753"/>
+<area shape="rect" id="Node000025" href="$d9/ddd/classSettingController.html#aad93d7e770616caa6da256ef3f832152" title="Enables or disables edit mode for camera settings." alt="" coords="1349,92,1489,132"/>
+<area shape="poly" id="edge29_Node000024_Node000025" title=" " alt="" coords="709,734,1263,663,1273,648,1282,629,1292,579,1296,518,1296,451,1294,320,1298,264,1310,222,1323,197,1341,175,1378,139,1382,143,1345,179,1328,200,1314,224,1303,265,1299,320,1301,451,1301,518,1297,579,1287,631,1278,651,1265,668,709,739"/>
+<area shape="poly" id="edge32_Node000026_Node000010" title=" " alt="" coords="728,1365,866,1380,1024,1390,1099,1389,1167,1384,1223,1372,1262,1354,1280,1338,1289,1321,1293,1303,1294,1284,1295,1243,1300,1220,1310,1196,1350,1137,1392,1091,1396,1095,1354,1141,1314,1199,1305,1222,1301,1244,1300,1285,1299,1304,1294,1323,1284,1341,1266,1358,1225,1377,1168,1389,1100,1395,1024,1395,866,1386,728,1370"/>
+<area shape="poly" id="edge34_Node000027_Node000010" title=" " alt="" coords="444,660,480,641,494,625,502,608,510,591,528,576,597,551,687,531,791,518,902,512,1012,513,1115,524,1201,544,1237,558,1266,575,1280,589,1295,609,1321,660,1344,725,1365,797,1398,939,1417,1044,1411,1045,1393,940,1360,798,1339,727,1316,663,1290,612,1276,593,1262,579,1235,563,1200,549,1114,529,1012,519,902,517,791,523,688,537,598,556,531,581,515,594,507,610,499,627,483,645,446,665"/>
+<area shape="rect" id="Node000028" href="$d9/ddd/classSettingController.html#a71916caaa599b4bbbfa0ec08024d3b98" title="Switches the view to the Date and Time Settings page." alt="" coords="543,663,714,703"/>
+<area shape="poly" id="edge35_Node000027_Node000028" title=" " alt="" coords="480,680,530,680,530,685,480,685"/>
+<area shape="poly" id="edge36_Node000028_Node000015" title=" " alt="" coords="698,700,809,734,807,739,696,705"/>
+<area shape="poly" id="edge38_Node000029_Node000010" title=" " alt="" coords="1199,158,1235,185,1252,202,1266,221,1290,270,1304,314,1309,354,1310,393,1307,475,1308,523,1315,577,1370,851,1414,1044,1409,1045,1364,852,1309,578,1303,523,1301,475,1305,393,1304,354,1298,315,1285,272,1262,224,1248,205,1232,189,1196,162"/>
+<area shape="poly" id="edge39_Node000029_Node000025" title=" " alt="" coords="1253,127,1336,118,1336,124,1253,132"/>
+<area shape="poly" id="edge44_Node000030_Node000005" title=" " alt="" coords="917,1183,977,1141,1049,1095,1082,1078,1112,1066,1165,1050,1213,1029,1237,1011,1262,986,1300,936,1331,880,1356,821,1375,763,1401,655,1413,578,1418,579,1406,656,1380,764,1361,823,1335,882,1304,939,1266,990,1240,1016,1215,1034,1166,1055,1114,1071,1084,1083,1052,1100,980,1146,920,1187"/>
+<area shape="poly" id="edge43_Node000030_Node000010" title=" " alt="" coords="985,1196,1118,1178,1192,1163,1263,1144,1329,1117,1385,1088,1387,1092,1331,1122,1265,1149,1193,1169,1119,1183,985,1201"/>
+<area shape="rect" id="Node000031" href="$dd/d64/classApp.html#afbe2c04bccd958d44bd45d005be8060c" title="clean up resources and saves persistence data (e.g. last, coordinates) before exiting." alt="" coords="1052,1109,1263,1134"/>
+<area shape="poly" id="edge41_Node000030_Node000031" title=" " alt="" coords="951,1183,1050,1151,1100,1135,1101,1141,1051,1156,952,1188"/>
+<area shape="rect" id="Node000032" href="$de/d7b/classMessageDialog.html#a1c16624155c31b5f9c1ab9dd27448d3a" title="Shows a modal dialog with two buttons (e.g., Yes/No, OK/Cancel)." alt="" coords="1071,1274,1243,1299"/>
+<area shape="poly" id="edge45_Node000030_Node000032" title=" " alt="" coords="944,1223,1051,1259,1086,1268,1085,1273,1050,1264,943,1228"/>
+<area shape="poly" id="edge42_Node000031_Node000010" title=" " alt="" coords="1223,1106,1339,1083,1340,1089,1224,1111"/>
+<area shape="poly" id="edge47_Node000033_Node000010" title=" " alt="" coords="465,589,480,582,494,570,503,557,512,543,528,531,597,505,687,484,792,469,904,461,1015,462,1118,472,1163,481,1204,494,1238,509,1266,527,1281,544,1296,566,1322,624,1346,696,1367,775,1399,931,1417,1044,1412,1045,1394,932,1362,776,1341,697,1317,626,1291,569,1277,547,1262,531,1236,513,1202,499,1162,487,1117,477,1015,467,905,466,793,474,688,489,598,510,531,536,516,547,507,560,498,573,483,586,468,594"/>
+<area shape="rect" id="Node000034" href="$d9/ddd/classSettingController.html#af87136fab57dd9fea569a14737d2604c" title="Switches the view to the Information (About) page." alt="" coords="536,591,721,631"/>
+<area shape="poly" id="edge48_Node000033_Node000034" title=" " alt="" coords="466,608,523,608,523,613,466,613"/>
+<area shape="poly" id="edge50_Node000034_Node000005" title=" " alt="" coords="709,588,776,576,930,561,1083,552,1334,548,1334,554,1084,558,930,566,776,581,710,593"/>
+<area shape="poly" id="edge54_Node000034_Node000015" title=" " alt="" coords="686,628,729,648,796,689,853,729,850,734,793,693,727,653,684,633"/>
+<area shape="rect" id="Node000035" href="$db/d9b/namespaceTranslator.html#a5777c2f677da67bb680c6a69a597fd43" title="Gets the currently active language code." alt="" coords="776,639,1003,665"/>
+<area shape="poly" id="edge49_Node000034_Node000035" title=" " alt="" coords="722,623,796,634,795,640,721,628"/>
+<area shape="rect" id="Node000036" href="$db/d9b/namespaceTranslator.html#a6526d2a56f0804c968e2d84ad966e5b7" title="Sets the text direction for a widget tree based on the language code." alt="" coords="789,590,989,615"/>
+<area shape="poly" id="edge51_Node000034_Node000036" title=" " alt="" coords="722,605,775,603,776,609,722,610"/>
+<area shape="rect" id="Node000037" href="$db/d9b/namespaceTranslator.html#ac6e49834a44fadd0b54bf7da049cc13a" title="Recursively applies a text direction to a widget and all of its children." alt="" coords="1063,613,1252,653"/>
+<area shape="poly" id="edge52_Node000036_Node000037" title=" " alt="" coords="990,611,1049,618,1049,624,989,617"/>
+<area shape="poly" id="edge53_Node000037_Node000037" title=" " alt="" coords="1109,614,1106,604,1114,594,1131,589,1157,587,1188,590,1204,597,1202,602,1186,595,1157,592,1132,594,1117,599,1111,605,1114,612"/>
+<area shape="poly" id="edge56_Node000038_Node000010" title=" " alt="" coords="482,977,722,977,863,982,1003,992,1098,1004,1193,1020,1351,1052,1350,1058,1192,1025,1098,1009,1002,997,862,987,722,982,482,982"/>
+<area shape="rect" id="Node000039" href="$d9/ddd/classSettingController.html#a478607e7991a29a1069f535054b4755d" title="Switches the view to the Language Settings page." alt="" coords="543,791,715,831"/>
+<area shape="poly" id="edge57_Node000038_Node000039" title=" " alt="" coords="397,960,584,836,587,841,400,965"/>
+<area shape="poly" id="edge58_Node000039_Node000015" title=" " alt="" coords="714,791,792,776,793,781,715,797"/>
+<area shape="poly" id="edge60_Node000040_Node000010" title=" " alt="" coords="728,383,867,377,1026,378,1102,383,1170,393,1226,408,1266,430,1279,458,1297,519,1341,701,1415,1044,1410,1045,1336,702,1292,521,1274,460,1262,434,1224,413,1169,398,1101,388,1025,383,867,382,728,388"/>
+<area shape="rect" id="Node000041" href="$d9/ddd/classSettingController.html#a30e5a8d5d1f9a6014f93dff32953ef80" title="Persists the Modified Camera Parameters to the Database." alt="" coords="800,177,979,217"/>
+<area shape="poly" id="edge61_Node000040_Node000041" title=" " alt="" coords="652,371,774,274,845,223,848,227,778,278,656,375"/>
+<area shape="poly" id="edge64_Node000041_Node000005" title=" " alt="" coords="979,177,1046,171,1121,173,1159,178,1196,188,1232,202,1266,221,1287,242,1309,274,1351,361,1387,453,1412,525,1407,527,1382,455,1346,363,1304,277,1283,245,1262,225,1230,206,1195,193,1158,184,1120,178,1046,176,979,182"/>
+<area shape="poly" id="edge65_Node000041_Node000011" title=" " alt="" coords="980,212,1077,230,1076,235,979,217"/>
+<area shape="poly" id="edge66_Node000041_Node000025" title=" " alt="" coords="915,175,974,137,1011,119,1050,105,1124,92,1200,88,1273,90,1336,96,1335,102,1272,96,1200,93,1125,97,1051,111,1013,124,977,142,918,180"/>
+<area shape="rect" id="Node000042" href="$d9/ddd/classSettingController.html#acddc35541508b9bae3f4317ccf64b54e" title="Loads and displays calibration data for a specific camera." alt="" coords="1060,5,1255,45"/>
+<area shape="poly" id="edge62_Node000041_Node000042" title=" " alt="" coords="908,175,968,120,1008,89,1049,62,1076,48,1079,53,1052,66,1011,93,972,124,912,179"/>
+<area shape="poly" id="edge63_Node000042_Node000025" title=" " alt="" coords="1220,43,1345,85,1344,90,1218,48"/>
+<area shape="poly" id="edge69_Node000043_Node000005" title=" " alt="" coords="997,288,1061,285,1130,288,1200,302,1234,313,1265,328,1294,348,1319,371,1361,426,1392,481,1411,525,1406,527,1387,483,1357,429,1315,375,1290,352,1263,333,1232,318,1199,307,1130,294,1061,290,997,293"/>
+<area shape="poly" id="edge68_Node000043_Node000010" title=" " alt="" coords="998,320,1163,348,1230,364,1266,380,1333,668,1415,1044,1410,1045,1328,669,1262,383,1228,369,1162,354,997,326"/>
+<area shape="poly" id="edge70_Node000043_Node000011" title=" " alt="" coords="979,285,1086,261,1087,266,980,291"/>
+<area shape="poly" id="edge72_Node000044_Node000010" title=" " alt="" coords="932,1463,1002,1490,1045,1503,1090,1512,1137,1515,1182,1512,1224,1499,1262,1475,1289,1445,1302,1415,1305,1383,1302,1350,1293,1278,1296,1238,1310,1196,1327,1165,1349,1136,1391,1091,1395,1094,1353,1140,1332,1168,1314,1198,1301,1239,1298,1278,1307,1349,1310,1383,1307,1416,1294,1448,1266,1479,1226,1504,1183,1517,1137,1521,1090,1517,1044,1508,1001,1496,930,1468"/>
+<area shape="rect" id="Node000045" href="$dc/d7c/classSettingView.html#a83fa57969ede9793e5b8fb80575c39ab" title="Refreshes the displayed date and time string." alt="" coords="1051,1425,1264,1465"/>
+<area shape="poly" id="edge73_Node000044_Node000045" title=" " alt="" coords="991,1443,1037,1443,1037,1448,991,1448"/>
+<area shape="poly" id="edge74_Node000045_Node000010" title=" " alt="" coords="1238,1423,1262,1405,1280,1379,1290,1355,1293,1331,1293,1307,1293,1256,1298,1227,1310,1196,1328,1166,1349,1137,1391,1091,1395,1095,1353,1140,1332,1168,1314,1198,1303,1229,1298,1256,1298,1307,1298,1332,1295,1356,1285,1382,1266,1409,1242,1427"/>
+</map>

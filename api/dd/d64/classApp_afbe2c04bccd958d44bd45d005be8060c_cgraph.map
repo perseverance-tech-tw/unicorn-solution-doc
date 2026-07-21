@@ -1,0 +1,5 @@
+<map id="App::cleanup_and_save_data" name="App::cleanup_and_save_data">
+<area shape="rect" id="Node000001" title="clean up resources and saves persistence data (e.g. last, coordinates) before exiting." alt="" coords="5,5,216,31"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="264,5,428,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,15,250,15,250,21,216,21"/>
+</map>

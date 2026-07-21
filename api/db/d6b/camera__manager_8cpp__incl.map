@@ -1,0 +1,26 @@
+<map id="src/utils/camera_manager.cpp" name="src/utils/camera_manager.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the CameraManager class." alt="" coords="385,5,603,31"/>
+<area shape="rect" id="Node000002" href="$de/d2c/camera__manager_8hpp.html" title=" " alt="" coords="397,79,591,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,31,497,65,491,65,491,31"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="566,152,681,177"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="533,28,571,47,590,61,606,77,620,107,625,138,620,139,615,109,601,80,586,65,568,52,531,33"/>
+<area shape="rect" id="Node000008" href="$d6/da3/logger_8hpp.html" title="A lightweight, thread&#45;safe logging interface." alt="" coords="5,79,148,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="427,33,158,79,157,74,427,28"/>
+<area shape="rect" id="Node000009" href="$d4/d4e/camera__processor_8hpp.html" title="Defines the CameraProcessor utility class for cross&#45;platform camera detection." alt="" coords="173,79,373,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="459,33,322,77,320,72,458,28"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="666,79,746,104"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="529,28,660,72,658,77,527,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="296,152,359,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,106,368,149,366,144,466,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="213,152,271,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="454,107,285,154,284,149,453,101"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="383,152,443,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="483,106,438,145,434,141,479,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="467,152,531,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="498,104,500,138,495,139,492,105"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="516,102,591,143,589,147,514,106"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="104,102,204,144,201,149,102,106"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="284,103,312,140,308,143,280,106"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="270,105,255,141,250,139,265,103"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="296,102,379,143,377,148,294,106"/>
+</map>

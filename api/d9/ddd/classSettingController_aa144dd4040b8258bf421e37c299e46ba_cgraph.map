@@ -1,0 +1,11 @@
+<map id="SettingController::openPage" name="SettingController::openPage">
+<area shape="rect" id="Node000001" title="Opens the settings main page and initializes UI components." alt="" coords="5,5,145,45"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#a430ec18fc43b2bdb0a2007563c29b270" title="Updates labels and images for the specified page." alt="" coords="193,5,361,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,23,180,23,180,28,146,28"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#ae9b2362ef7a27751976241012e2debd8" title="Sets the text of a GtkLabel using a translation key." alt="" coords="409,13,585,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,23,396,23,396,28,361,28"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="633,13,776,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="585,23,620,23,620,28,585,28"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="824,5,1017,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="776,23,810,23,810,28,776,28"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="SettingView::updateDatetimeLabel" name="SettingView::updateDatetimeLabel">
+<area shape="rect" id="Node000001" title="Refreshes the displayed date and time string." alt="" coords="521,63,735,103"/>
+<area shape="rect" id="Node000002" href="$dc/d7c/classSettingView.html#a977cb6d2036105211947d72a39baaaae" title="Handler for Time Format toggle." alt="" coords="271,5,473,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="524,62,461,48,462,43,525,57"/>
+<area shape="rect" id="Node000004" href="$dc/d7c/classSettingView.html#a6b0c77e2bc8fd28d3ee8e369599198e7" title="Timer callback for updating clock." alt="" coords="283,70,461,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="507,85,461,85,461,80,507,80"/>
+<area shape="rect" id="Node000005" href="$dc/d7c/classSettingView.html#ac3b124b5ae47b723dae45c4c61ddf790" title="Starts the timer for date/time updates." alt="" coords="5,95,223,121"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="508,107,474,111,343,116,223,115,223,110,343,111,473,105,507,102"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects signals to callback handlers." alt="" coords="15,13,213,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,28,214,28,214,23,257,23"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="270,95,223,100,223,95,270,90"/>
+</map>

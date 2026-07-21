@@ -1,0 +1,5 @@
+<map id="FrameProcessor::resizeFrame" name="FrameProcessor::resizeFrame">
+<area shape="rect" id="Node000001" title="Resizes a frame to fit within specified dimensions while maintaining aspect ratio." alt="" coords="5,5,220,31"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="268,5,432,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,15,254,15,254,21,220,21"/>
+</map>

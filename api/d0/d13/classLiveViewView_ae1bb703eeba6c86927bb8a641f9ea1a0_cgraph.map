@@ -1,0 +1,5 @@
+<map id="LiveViewView::viewBinding" name="LiveViewView::viewBinding">
+<area shape="rect" id="Node000001" title="Binds UI widgets from the builder to member variables." alt="" coords="5,13,205,38"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#accb1caac35737c1099a9f5e2630e079d" title="Wraps a GtkLabel inside a GtkRevealer for animated show/hide effects." alt="" coords="253,5,471,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,23,240,23,240,28,206,28"/>
+</map>

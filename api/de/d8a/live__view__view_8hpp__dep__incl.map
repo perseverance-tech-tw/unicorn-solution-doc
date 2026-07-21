@@ -1,0 +1,74 @@
+<map id="include/views/live_view_view.hpp" name="include/views/live_view_view.hpp">
+<area shape="rect" id="Node000001" title="Header file for the LiveViewView class." alt="" coords="314,5,453,45"/>
+<area shape="rect" id="Node000002" href="$d6/deb/live__view__controller_8hpp.html" title="Declares the LiveViewController class for managing live view camera operations and UI interactions." alt="" coords="162,181,346,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="363,58,270,183,266,180,359,55"/>
+<area shape="rect" id="Node000003" href="$db/d94/mediator_8hpp.html" title="Declares the Mediator singleton for component communication and ownership." alt="" coords="1489,269,1688,295"/>
+<area shape="poly" id="edge33_Node000001_Node000003" title=" " alt="" coords="467,42,1535,267,1534,272,466,47"/>
+<area shape="rect" id="Node000004" href="$dc/dc7/routes_8hpp.html" title="Declares the setupRoutes function responsible for initializing and linking MVC components." alt="" coords="370,350,551,375"/>
+<area shape="poly" id="edge34_Node000001_Node000004" title=" " alt="" coords="393,58,461,349,455,350,388,59"/>
+<area shape="rect" id="Node000010" href="$dc/daa/setting__view_8cpp.html" title="Implementation of the SettingView class." alt="" coords="3069,511,3265,537"/>
+<area shape="poly" id="edge47_Node000001_Node000010" title=" " alt="" coords="466,25,1104,33,1561,43,2045,58,2507,80,2714,94,2897,110,3051,128,3168,149,3211,160,3244,172,3264,185,3271,199,3271,364,3269,388,3261,412,3238,454,3209,489,3183,513,3180,509,3205,485,3233,451,3256,410,3263,387,3266,364,3266,201,3260,189,3241,177,3210,165,3167,154,3050,133,2897,115,2714,99,2506,86,2045,63,1561,48,1103,38,466,30"/>
+<area shape="rect" id="Node000011" href="$df/d84/routes_8cpp.html" title="Application component initializer (setupRoutes)." alt="" coords="269,431,421,456"/>
+<area shape="poly" id="edge45_Node000001_Node000011" title=" " alt="" coords="301,32,208,44,160,56,113,72,72,94,40,122,18,157,12,178,10,200,10,283,10,338,17,359,34,381,50,391,73,401,133,416,202,427,269,434,268,439,202,432,132,421,71,406,48,396,31,385,12,362,5,339,5,283,5,200,7,177,13,155,36,119,69,90,111,67,158,51,207,39,300,27"/>
+<area shape="rect" id="Node000022" href="$d8/dc9/live__view__view_8cpp.html" title="Implementation of the LiveViewView class, which handles the main live view UI." alt="" coords="45,343,194,383"/>
+<area shape="poly" id="edge46_Node000001_Node000022" title=" " alt="" coords="322,53,279,75,232,104,188,140,152,183,133,224,124,268,120,310,121,342,115,342,115,309,118,267,128,222,148,180,184,136,229,100,276,70,320,49"/>
+<area shape="rect" id="Node000024" href="$d3/dc5/setting__view_8hpp.html" title="Header file for the SettingView class." alt="" coords="1630,93,1790,133"/>
+<area shape="poly" id="edge35_Node000001_Node000024" title=" " alt="" coords="466,29,1630,104,1629,109,466,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,206,1489,272,1489,278,360,212"/>
+<area shape="poly" id="edge28_Node000002_Node000004" title=" " alt="" coords="288,229,366,293,445,348,442,352,363,297,284,233"/>
+<area shape="rect" id="Node000006" href="$de/d54/live__view__controller_8cpp.html" title="Implements the LiveViewController class, managing live camera feeds, media input, recording,..." alt="" coords="562,504,717,544"/>
+<area shape="poly" id="edge29_Node000002_Node000006" title=" " alt="" coords="182,228,118,256,87,272,60,291,39,312,27,334,25,357,35,381,48,396,67,411,120,436,187,458,264,476,424,501,562,515,562,520,424,506,262,481,186,463,118,441,65,415,45,400,30,384,19,357,22,332,35,309,57,287,84,268,116,251,180,224"/>
+<area shape="rect" id="Node000007" href="$d5/df2/app_8cpp.html" title="Implementation of the main application window (App class)." alt="" coords="1509,511,1644,537"/>
+<area shape="poly" id="edge30_Node000002_Node000007" title=" " alt="" coords="245,235,232,283,224,343,225,373,230,403,241,430,258,454,276,462,313,469,434,482,603,493,801,502,1209,514,1509,519,1509,524,1208,519,800,507,603,499,434,488,312,474,274,467,255,458,237,433,225,404,220,374,219,343,226,282,240,233"/>
+<area shape="poly" id="edge31_Node000002_Node000011" title=" " alt="" coords="265,234,287,302,316,382,340,429,336,432,312,384,282,304,260,235"/>
+<area shape="poly" id="edge32_Node000002_Node000022" title=" " alt="" coords="231,234,137,344,133,341,227,230"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1476,288,1075,305,823,321,570,345,520,353,520,347,570,340,823,316,1075,299,1475,283"/>
+<area shape="poly" id="edge12_Node000003_Node000006" title=" " alt="" coords="1476,289,991,310,770,326,699,335,666,345,652,361,643,381,633,425,633,468,638,503,632,504,628,469,628,424,638,379,648,359,663,340,697,330,770,321,991,305,1475,284"/>
+<area shape="poly" id="edge15_Node000003_Node000007" title=" " alt="" coords="1590,309,1580,511,1575,511,1585,308"/>
+<area shape="rect" id="Node000008" href="$df/dbb/mediator_8cpp.html" title="Implements the Mediator class, a singleton for component communication." alt="" coords="2296,511,2465,537"/>
+<area shape="poly" id="edge16_Node000003_Node000008" title=" " alt="" coords="1702,282,2005,287,2377,297,2700,314,2806,326,2839,333,2856,341,2873,364,2881,385,2879,405,2869,423,2852,439,2828,452,2767,475,2693,493,2613,506,2466,521,2465,516,2613,501,2692,488,2766,470,2826,448,2848,434,2865,419,2874,403,2876,386,2869,366,2852,345,2837,338,2805,331,2700,319,2377,302,2004,292,1702,287"/>
+<area shape="poly" id="edge27_Node000003_Node000010" title=" " alt="" coords="1702,283,1995,289,2362,300,2694,317,2813,328,2884,340,2931,365,3008,414,3152,509,3149,514,3006,418,2928,370,2882,345,2812,333,2693,322,2361,305,1995,294,1702,288"/>
+<area shape="poly" id="edge17_Node000003_Node000011" title=" " alt="" coords="1476,289,989,310,754,326,671,335,622,345,605,354,593,364,582,374,564,385,485,414,410,433,408,428,483,409,562,380,578,370,590,360,602,349,620,340,670,330,754,321,988,305,1476,284"/>
+<area shape="rect" id="Node000012" href="$df/def/configuration__controller_8cpp.html" title="Implements the ConfigurationController class for configuration management and navigation." alt="" coords="2437,343,2639,383"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="1702,285,2027,304,2226,320,2425,340,2436,341,2436,347,2424,345,2225,325,2027,309,1702,291"/>
+<area shape="rect" id="Node000013" href="$d8/d89/playback__controller_8cpp.html" title="Implementation of the PlaybackController class which manages the playback interface,..." alt="" coords="2664,343,2841,383"/>
+<area shape="poly" id="edge13_Node000003_Node000013" title=" " alt="" coords="1702,282,1884,287,2121,297,2385,314,2652,340,2664,342,2663,347,2651,345,2385,319,2120,302,1884,292,1702,288"/>
+<area shape="rect" id="Node000014" href="$d4/d07/setting__controller_8cpp.html" title="Implements the SettingController class, managing user interactions for the settings view." alt="" coords="2967,343,3130,383"/>
+<area shape="poly" id="edge14_Node000003_Node000014" title=" " alt="" coords="1702,280,1930,282,2240,290,2593,308,2773,322,2949,340,2967,342,2967,348,2948,345,2772,328,2592,314,2240,296,1930,288,1702,286"/>
+<area shape="rect" id="Node000015" href="$d1/ded/frame__model_8cpp.html" title="Implementation of the FrameModel class." alt="" coords="677,350,887,375"/>
+<area shape="poly" id="edge18_Node000003_Node000015" title=" " alt="" coords="1476,293,1212,313,900,345,849,353,848,347,899,340,1212,308,1476,288"/>
+<area shape="rect" id="Node000016" href="$db/d24/function__model_8cpp.html" title="Implementation of the FunctionModel class." alt="" coords="912,343,1063,383"/>
+<area shape="poly" id="edge19_Node000003_Node000016" title=" " alt="" coords="1475,296,1288,316,1076,345,1064,347,1063,342,1075,340,1287,311,1475,291"/>
+<area shape="rect" id="Node000017" href="$de/d43/frame__processor_8cpp.html" title="Implements the functions for the FrameProcessor namespace." alt="" coords="1087,350,1299,375"/>
+<area shape="poly" id="edge20_Node000003_Node000017" title=" " alt="" coords="1518,300,1251,353,1250,347,1517,295"/>
+<area shape="rect" id="Node000018" href="$d7/dbd/moildev__applicator_8cpp.html" title="Implements the MoildevApplicator singleton class." alt="" coords="1323,350,1551,375"/>
+<area shape="poly" id="edge21_Node000003_Node000018" title=" " alt="" coords="1555,303,1460,352,1458,347,1553,299"/>
+<area shape="rect" id="Node000019" href="$de/d5f/video__processor_8cpp.html" title="Implements the logic for processing and dispatching video frames for different views." alt="" coords="1627,350,1836,375"/>
+<area shape="poly" id="edge22_Node000003_Node000019" title=" " alt="" coords="1623,299,1711,347,1709,352,1620,304"/>
+<area shape="rect" id="Node000020" href="$df/d3a/vru__detector_8cpp.html" title="Implements the VRU detector utilities with Dual Camera ROI support." alt="" coords="1860,350,2045,375"/>
+<area shape="poly" id="edge23_Node000003_Node000020" title=" " alt="" coords="1655,295,1900,347,1899,353,1654,300"/>
+<area shape="rect" id="Node000021" href="$db/d2d/configuration__view_8cpp.html" title="Implementation of the ConfigurationView class." alt="" coords="2069,343,2241,383"/>
+<area shape="poly" id="edge24_Node000003_Node000021" title=" " alt="" coords="1702,293,1871,313,2058,340,2069,342,2068,347,2058,345,1870,319,1702,298"/>
+<area shape="poly" id="edge25_Node000003_Node000022" title=" " alt="" coords="1475,290,990,311,358,345,194,358,194,352,358,340,989,306,1475,285"/>
+<area shape="rect" id="Node000023" href="$d8/df2/playback__view_8cpp.html" title="Implementation of the PlaybackView class for the video playback UI." alt="" coords="2266,343,2413,383"/>
+<area shape="poly" id="edge26_Node000003_Node000023" title=" " alt="" coords="1702,286,1956,305,2105,320,2254,340,2266,342,2265,347,2254,345,2105,326,1955,310,1701,292"/>
+<area shape="rect" id="Node000005" href="$d6/d2c/app_8hpp.html" title="Declares the main application class managing GTK widgets and navigation." alt="" coords="1633,431,1797,456"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="565,372,665,380,1218,415,1633,436,1633,441,1218,420,664,385,565,377"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="434,385,363,433,360,428,431,381"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1620,454,717,520,717,514,1619,449"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1684,465,1598,513,1596,509,1682,460"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1811,453,2296,510,2296,515,1811,459"/>
+<area shape="rect" id="Node000009" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="1668,511,1773,537"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="1720,470,1723,511,1717,511,1714,470"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="1811,447,3069,515,3069,520,1811,452"/>
+<area shape="poly" id="edge42_Node000024_Node000003" title=" " alt="" coords="1711,148,1704,185,1687,223,1672,239,1655,252,1620,272,1618,267,1652,248,1669,235,1682,220,1699,184,1706,147"/>
+<area shape="poly" id="edge44_Node000024_Node000010" title=" " alt="" coords="1804,112,2164,119,2396,128,2635,143,2858,164,2957,177,3044,192,3116,210,3172,230,3208,253,3217,266,3221,280,3221,364,3216,408,3203,450,3176,512,3171,510,3198,449,3210,407,3215,364,3215,281,3212,269,3204,257,3170,235,3115,215,3043,197,2956,182,2857,169,2634,148,2396,134,2164,125,1804,118"/>
+<area shape="poly" id="edge43_Node000024_Node000014" title=" " alt="" coords="1804,129,2949,340,2967,343,2966,349,2948,345,1803,134"/>
+<area shape="rect" id="Node000025" href="$d7/d78/setting__controller_8hpp.html" title="Declares the SettingController class responsible for managing the application&#39;s settings view,..." alt="" coords="1505,181,1672,221"/>
+<area shape="poly" id="edge36_Node000024_Node000025" title=" " alt="" coords="1674,143,1617,183,1614,179,1671,139"/>
+<area shape="poly" id="edge37_Node000025_Node000003" title=" " alt="" coords="1591,235,1591,269,1586,269,1586,235"/>
+<area shape="poly" id="edge38_Node000025_Node000004" title=" " alt="" coords="1491,218,1089,271,570,345,526,353,525,347,570,340,1089,265,1491,212"/>
+<area shape="poly" id="edge41_Node000025_Node000010" title=" " alt="" coords="1686,202,2035,212,2496,235,2721,254,2916,277,2997,290,3063,305,3113,322,3144,341,3159,360,3170,383,3179,432,3178,478,3172,512,3167,511,3172,478,3173,432,3165,385,3155,363,3140,345,3111,327,3062,310,2996,295,2915,282,2720,259,2496,241,2035,217,1685,207"/>
+<area shape="poly" id="edge40_Node000025_Node000011" title=" " alt="" coords="1491,210,1209,225,851,252,679,271,530,292,419,317,382,331,360,345,348,364,343,388,345,430,340,430,337,387,343,362,356,341,380,326,417,312,529,287,678,265,850,247,1208,220,1491,204"/>
+<area shape="poly" id="edge39_Node000025_Node000014" title=" " alt="" coords="1686,207,2224,255,2584,293,2949,340,2967,343,2966,348,2948,345,2584,298,2224,260,1685,213"/>
+</map>

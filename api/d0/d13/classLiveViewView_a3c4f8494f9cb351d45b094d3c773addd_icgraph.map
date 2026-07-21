@@ -1,0 +1,12 @@
+<map id="LiveViewView::hideOverlayControls" name="LiveViewView::hideOverlayControls">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1091,37,1289,77"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#a8ecab2b8fa8bf039ca13d8ee44c3c005" title="Callback statis saat timer habis." alt="" coords="801,17,1043,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1077,48,1043,45,1043,39,1077,43"/>
+<area shape="rect" id="Node000005" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals to static callback functions." alt="" coords="5,45,217,70"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1077,60,217,60,217,55,1077,55"/>
+<area shape="rect" id="Node000003" href="$d0/d13/classLiveViewView.html#a0a5a0a74b80cea1378f786fca8ca302e" title=" " alt="" coords="548,5,753,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="788,30,753,30,753,24,788,25"/>
+<area shape="rect" id="Node000004" href="$d0/d13/classLiveViewView.html#a81f4f80d820e9612e9a7c65318f45bc1" title="Callback statis saat layar diklik." alt="" coords="265,17,500,42"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="535,30,500,30,500,25,535,24"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,45,218,49,217,44,251,40"/>
+</map>

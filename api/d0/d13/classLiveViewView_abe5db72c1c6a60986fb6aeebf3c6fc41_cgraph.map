@@ -1,0 +1,5 @@
+<map id="LiveViewView::setRecordingState" name="LiveViewView::setRecordingState">
+<area shape="rect" id="Node000001" title="Controls the visibility and blinking animation of the recording icon." alt="" coords="5,5,211,45"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#a5b799a031416247406040592eefdf4fb" title=" " alt="" coords="259,13,481,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,23,245,23,245,28,211,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SourceModel::loadFromDatabase" name="SourceModel::loadFromDatabase">
+<area shape="rect" id="Node000001" title="Loads source records from a SQLite database into memory." alt="" coords="260,31,497,56"/>
+<area shape="rect" id="Node000002" href="$d5/d04/classSourceModel.html#a912f15cd44d99cb0c8b32dcd9096b888" title="Gets the last source record (ID 1)." alt="" coords="5,5,212,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,34,212,30,212,25,247,28"/>
+<area shape="rect" id="Node000003" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Initializes and connects all core application components." alt="" coords="57,55,160,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,58,161,65,160,60,246,52"/>
+</map>

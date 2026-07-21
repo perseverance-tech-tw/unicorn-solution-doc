@@ -1,0 +1,14 @@
+<map id="SettingView::onSaveDatetimeFormat" name="SettingView::onSaveDatetimeFormat">
+<area shape="rect" id="Node000001" title="Handler for Save DateTime click." alt="" coords="5,49,221,89"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="279,5,443,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,46,284,31,285,36,212,51"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="515,57,657,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,66,501,67,501,72,222,72"/>
+<area shape="rect" id="Node000005" href="$de/d7b/classMessageDialog.html#a7b0e305f314e369e08b89426a5e0b315" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="269,107,452,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="212,86,285,101,284,107,211,91"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="720,50,913,90"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="658,67,706,67,706,73,658,73"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="419,104,513,83,515,88,420,109"/>
+<area shape="rect" id="Node000006" href="$de/d7b/classMessageDialog.html#ab509294ce066b74cca0997706c2ef69d" title="Shows a modal dialog with a single button." alt="" coords="500,107,672,132"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="453,117,486,117,486,122,453,122"/>
+</map>

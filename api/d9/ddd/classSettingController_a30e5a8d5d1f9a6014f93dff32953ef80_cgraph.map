@@ -1,0 +1,17 @@
+<map id="SettingController::saveCameraParameters" name="SettingController::saveCameraParameters">
+<area shape="rect" id="Node000001" title="Persists the Modified Camera Parameters to the Database." alt="" coords="5,88,184,128"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#acddc35541508b9bae3f4317ccf64b54e" title="Loads and displays calibration data for a specific camera." alt="" coords="232,5,427,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,85,258,47,260,52,153,91"/>
+<area shape="rect" id="Node000003" href="$d9/ddd/classSettingController.html#aad93d7e770616caa6da256ef3f832152" title="Enables or disables edit mode for camera settings." alt="" coords="491,32,631,72"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="184,95,477,59,478,65,185,100"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="489,122,632,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,110,476,127,476,133,184,116"/>
+<area shape="rect" id="Node000006" href="$de/d7b/classMessageDialog.html#a7b0e305f314e369e08b89426a5e0b315" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="238,171,421,197"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="158,126,277,165,275,170,157,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,34,477,40,477,45,427,39"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="695,115,888,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="632,132,681,132,681,137,632,137"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="389,169,487,148,488,153,390,174"/>
+<area shape="rect" id="Node000007" href="$de/d7b/classMessageDialog.html#ab509294ce066b74cca0997706c2ef69d" title="Shows a modal dialog with a single button." alt="" coords="475,171,647,197"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="421,181,461,181,461,187,421,187"/>
+</map>

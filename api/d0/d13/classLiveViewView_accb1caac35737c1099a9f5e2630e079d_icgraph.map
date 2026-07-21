@@ -1,0 +1,5 @@
+<map id="LiveViewView::wrapLabelWithRevealer" name="LiveViewView::wrapLabelWithRevealer">
+<area shape="rect" id="Node000001" title="Wraps a GtkLabel inside a GtkRevealer for animated show/hide effects." alt="" coords="253,5,471,45"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#ae1bb703eeba6c86927bb8a641f9ea1a0" title="Binds UI widgets from the builder to member variables." alt="" coords="5,13,205,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,28,206,28,206,23,240,23"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="App::cleanup_and_save_data" name="App::cleanup_and_save_data">
+<area shape="rect" id="Node000001" title="clean up resources and saves persistence data (e.g. last, coordinates) before exiting." alt="" coords="491,80,701,105"/>
+<area shape="rect" id="Node000002" href="$df/d0a/main_8cpp.html#ab6fa8c7ec75aa4ad177577610df85cd3" title="Handles force exit signals (e.g., SIGINT/Ctrl+C)." alt="" coords="278,5,417,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,78,442,45,401,33,402,28,443,39,547,73"/>
+<area shape="rect" id="Node000004" href="$d5/df2/app_8cpp.html#a841f8630587b1f015f2a669367c55057" title=" " alt="" coords="254,55,441,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="476,83,440,79,441,74,477,78"/>
+<area shape="rect" id="Node000006" href="$d5/df2/app_8cpp.html#a6c7e23786a7db6da230d7b73d2f4db95" title=" " alt="" coords="264,104,431,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="477,107,431,111,431,106,476,102"/>
+<area shape="rect" id="Node000007" href="$dc/d7c/classSettingView.html#ac1e583fe45a98ae291032f23224d55db" title="Handles Exit button click." alt="" coords="252,154,443,194"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="544,112,410,156,408,151,542,107"/>
+<area shape="rect" id="Node000003" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Application entry point." alt="" coords="77,5,132,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,21,132,21,132,15,264,15"/>
+<area shape="rect" id="Node000005" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects global signal handlers to UI events." alt="" coords="31,80,178,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="240,81,178,88,178,82,240,76"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="250,110,178,103,178,97,250,104"/>
+<area shape="rect" id="Node000008" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects signals to callback handlers." alt="" coords="5,161,204,187"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="238,177,204,177,204,171,238,171"/>
+</map>

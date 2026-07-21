@@ -1,0 +1,26 @@
+<map id="include/models/frame_model.hpp" name="include/models/frame_model.hpp">
+<area shape="rect" id="Node000001" title="Active Record Model for Display Frame Layouts." alt="" coords="189,5,353,45"/>
+<area shape="rect" id="Node000002" href="$dd/d13/base__model_8hpp.html" title="Template base class for basic CRUD and filtering operations." alt="" coords="132,167,303,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,47,242,69,229,94,222,125,220,154,214,153,217,124,224,92,237,66,252,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,240,64,265"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="240,48,165,98,124,131,86,168,64,199,48,229,43,227,59,196,82,165,120,127,162,93,237,43"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="496,240,576,265"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="345,43,400,63,455,91,499,122,514,140,529,166,538,196,540,226,535,226,533,197,524,168,510,143,495,126,452,96,398,68,343,48"/>
+<area shape="rect" id="Node000009" href="$d2/dd7/function__model_8hpp.html" title="Active Record Model for Image Processing &quot;Functions&quot; (Presets)." alt="" coords="239,93,441,119"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="289,44,322,81,318,84,285,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,240,151,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,194,149,234,146,229,200,190"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="189,195,78,237,76,232,187,190"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="269,189,483,237,482,242,268,195"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="176,240,261,265"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="220,192,221,226,216,227,215,192"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="286,240,373,265"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="237,190,301,230,298,235,234,194"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="397,240,472,265"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="253,189,387,233,386,238,251,195"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="322,121,250,162,248,157,319,116"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="260,121,190,139,155,152,121,169,83,198,54,231,50,227,80,194,119,164,153,148,189,134,259,116"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="343,118,348,154,356,173,367,190,386,203,415,215,484,236,482,241,413,220,383,207,363,194,351,176,343,155,338,119"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="378,167,515,192"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="359,116,419,157,416,161,356,121"/>
+</map>

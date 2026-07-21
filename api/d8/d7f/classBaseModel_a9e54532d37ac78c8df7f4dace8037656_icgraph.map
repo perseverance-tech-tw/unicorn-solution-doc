@@ -1,0 +1,15 @@
+<map id="BaseModel::read" name="BaseModel::read">
+<area shape="rect" id="Node000001" title="Retrieves all records stored in the model." alt="" coords="477,67,608,92"/>
+<area shape="rect" id="Node000002" href="$d1/d6a/namespaceVRUDetector.html#aba5255ca427097b4af71093c37756a57" title=" " alt="" coords="217,13,419,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,66,414,55,415,50,468,61"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#a0098ca6238b477e1c983621f681d0490" title="Memuat koordinat region dari database ke UI berdasarkan Kamera yang dipilih." alt="" coords="207,91,429,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="464,93,430,98,429,93,463,88"/>
+<area shape="rect" id="Node000003" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Initializes and connects all core application components." alt="" coords="31,5,133,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,28,133,24,134,18,203,23"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#abd8f2f6cece7f13dc235f766ee1bb87d" title="Constructs the LiveViewController object." alt="" coords="5,55,159,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="193,95,159,90,159,84,193,90"/>
+<area shape="rect" id="Node000006" href="$d6/d8a/classLiveViewController.html#af0d9e3d5c0f6a5217053794d308bac92" title="Switches the view to the original camera 1 view." alt="" coords="9,119,155,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="193,129,155,133,155,128,193,124"/>
+<area shape="rect" id="Node000007" href="$d6/d8a/classLiveViewController.html#a1226ae65d7c70f07ea31955f56c0b874" title="Switches the view to the original camera 2 view." alt="" coords="9,183,155,223"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="254,139,135,186,133,181,252,134"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="LiveViewView::updatePlayPauseIcon" name="LiveViewView::updatePlayPauseIcon">
+<area shape="rect" id="Node000001" title="Updates the Play/Pause icon state." alt="" coords="937,246,1131,286"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#a064dfb8a2eb50e0edf1f0e3323c439c2" title="Switches to BSIS (Bird Surround Image System) mode." alt="" coords="711,39,856,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1012,235,962,163,927,125,888,93,855,77,858,72,891,89,931,121,966,160,1017,232"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/classLiveViewController.html#a4f391ad801f385631e02e4dce454be92" title=" " alt="" coords="696,103,871,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="997,239,947,201,888,164,847,145,849,141,891,159,950,196,1000,235"/>
+<area shape="rect" id="Node000008" href="$d6/d8a/classLiveViewController.html#a72619e0bfecfae080d39ac5d165a1a5b" title=" " alt="" coords="245,154,401,194"/>
+<area shape="poly" id="edge18_Node000001_Node000008" title=" " alt="" coords="941,245,889,235,755,215,621,200,401,181,402,176,621,195,756,210,890,230,942,240"/>
+<area shape="rect" id="Node000010" href="$d6/d8a/classLiveViewController.html#aa171790959df0a56f09c73729e35d865" title="Toggles video playback (play/pause)." alt="" coords="26,275,171,315"/>
+<area shape="poly" id="edge19_Node000001_Node000010" title=" " alt="" coords="924,272,172,295,172,290,924,266"/>
+<area shape="rect" id="Node000012" href="$d6/d8a/classLiveViewController.html#ae2ae34598145c3d3a56ada4df174050c" title="Switches to MOIS driving view mode." alt="" coords="711,331,856,371"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="962,293,844,333,842,328,961,287"/>
+<area shape="rect" id="Node000013" href="$d6/d8a/classLiveViewController.html#a20ce81a2c9d671ae83a54d3cbb9b4249" title="Pauses video playback." alt="" coords="711,395,856,435"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="1005,297,954,342,891,385,858,399,855,395,888,381,951,338,1002,293"/>
+<area shape="rect" id="Node000014" href="$d6/d8a/classLiveViewController.html#a89f1c0305d6983635aa1eb6e0cad27ea" title=" " alt="" coords="455,218,629,258"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="924,262,629,245,630,240,924,257"/>
+<area shape="rect" id="Node000015" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals to static callback functions." alt="" coords="677,460,889,485"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="1018,299,997,335,968,375,933,415,891,449,864,462,862,457,888,445,929,412,964,372,993,332,1014,296"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#a950458d01075a0fbcdd628ebb45d09cc" title="halts all active video capture and processing loops." alt="" coords="240,83,407,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="685,99,676,93,660,76,652,58,644,42,628,29,583,12,544,9,504,16,455,29,426,40,398,54,351,85,348,80,395,50,424,35,454,24,503,11,544,4,584,7,631,25,648,39,657,56,664,73,679,89,688,94"/>
+<area shape="rect" id="Node000007" href="$d6/d8a/classLiveViewController.html#a4778a2be61d9a6e46eeba6b54f4bc0c9" title="Stops UI frame update loop without releasing the capture device." alt="" coords="469,103,615,143"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="682,126,615,126,615,120,682,120"/>
+<area shape="rect" id="Node000011" href="$d6/d8a/classLiveViewController.html#a89cffd4321a9b77d3820326c4bbbf768" title=" " alt="" coords="460,39,624,79"/>
+<area shape="poly" id="edge12_Node000003_Node000011" title=" " alt="" coords="694,102,617,81,619,76,695,97"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#ac3ceba55f7297483763f02269dd3c140" title="Opens media file dialog for image or video selection." alt="" coords="26,83,171,123"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,106,171,106,171,100,227,100"/>
+<area shape="rect" id="Node000006" href="$d6/d8a/classLiveViewController.html#ab57b6a6cd7cc0ac448d8b2681e9e786e" title="Restores a specific source (Camera or File) directly." alt="" coords="26,147,171,187"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="240,129,170,149,169,144,238,124"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="456,145,402,158,401,153,455,140"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="245,152,162,126,164,120,247,147"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="231,173,172,172,172,166,231,168"/>
+<area shape="rect" id="Node000009" href="$d6/d8a/classLiveViewController.html#a6623836ead39e0d6e910d5d8f23c11e3" title="Starts or resumes video playback." alt="" coords="5,211,192,251"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="233,199,178,213,177,208,231,194"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="288,204,244,236,193,265,166,277,164,272,191,260,241,231,284,200"/>
+<area shape="poly" id="edge16_Node000014_Node000009" title=" " alt="" coords="441,239,192,235,192,230,441,233"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="RegionModel::saveToDatabase" name="RegionModel::saveToDatabase">
+<area shape="rect" id="Node000001" title="Saves all in&#45;memory region records to the SQLite database(s)." alt="" coords="1017,63,1240,88"/>
+<area shape="rect" id="Node000002" href="$de/d06/classRegionModel.html#a2749b6fb2a8e6a90556b881fa0d87f81" title="Populates the model with initial default region data." alt="" coords="787,9,946,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1051,62,929,37,930,32,1052,57"/>
+<area shape="rect" id="Node000005" href="$de/d06/classRegionModel.html#ac1006896dbfe6288c6526a98f2da7a7a" title="Update berdasarkan nama record." alt="" coords="764,63,969,88"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1003,78,970,78,970,73,1003,73"/>
+<area shape="rect" id="Node000012" href="$de/d06/classRegionModel.html#a62d1d1fa643430bcfc48bca3cd16abc8" title="Updates the coordinates of a specific region record." alt="" coords="769,112,965,137"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1048,93,936,115,935,109,1047,88"/>
+<area shape="rect" id="Node000003" href="$de/d06/classRegionModel.html#a5676e60d4bc35bcdfd2f2039a2f37664" title="Loads region records from a SQLite database into memory." alt="" coords="477,5,716,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="773,23,716,22,716,17,774,18"/>
+<area shape="rect" id="Node000004" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Initializes and connects all core application components." alt="" coords="267,5,369,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="464,21,369,21,369,15,464,15"/>
+<area shape="rect" id="Node000006" href="$d1/d6a/namespaceVRUDetector.html#adf6e23b8255a4d08d7036f96af93c9c4" title=" " alt="" coords="497,55,696,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="750,78,696,78,696,73,750,73"/>
+<area shape="rect" id="Node000011" href="$d1/d6a/namespaceVRUDetector.html#acb0f38d3849ade239c8f17831360da62" title=" " alt="" coords="497,119,697,159"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="799,94,765,102,681,122,680,117,763,97,797,89"/>
+<area shape="rect" id="Node000007" href="$d6/d8a/classLiveViewController.html#a0098ca6238b477e1c983621f681d0490" title="Memuat koordinat region dari database ke UI berdasarkan Kamera yang dipilih." alt="" coords="207,87,429,127"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="484,91,430,97,429,92,483,86"/>
+<area shape="rect" id="Node000008" href="$d6/d8a/classLiveViewController.html#abd8f2f6cece7f13dc235f766ee1bb87d" title="Constructs the LiveViewController object." alt="" coords="5,23,159,63"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="230,86,156,66,157,61,231,81"/>
+<area shape="rect" id="Node000009" href="$d6/d8a/classLiveViewController.html#af0d9e3d5c0f6a5217053794d308bac92" title="Switches the view to the original camera 1 view." alt="" coords="9,87,155,127"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="193,110,155,110,155,105,193,105"/>
+<area shape="rect" id="Node000010" href="$d6/d8a/classLiveViewController.html#a1226ae65d7c70f07ea31955f56c0b874" title="Switches the view to the original camera 2 view." alt="" coords="9,151,155,191"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="231,134,156,154,154,149,230,128"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="483,129,429,123,430,117,483,124"/>
+</map>

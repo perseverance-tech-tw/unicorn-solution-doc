@@ -1,0 +1,56 @@
+<map id="MessageDialog::showOk" name="MessageDialog::showOk">
+<area shape="rect" id="Node000001" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="800,429,983,454"/>
+<area shape="rect" id="Node000002" href="$d9/ddd/classSettingController.html#ac0a7a3e8963c81ce0e28f866e3f5264d" title="Applies the Active Camera Parameters to the Live System." alt="" coords="544,683,727,723"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="884,468,867,512,840,568,802,624,779,650,754,673,728,687,725,683,750,668,775,646,798,621,835,565,862,510,879,466"/>
+<area shape="rect" id="Node000005" href="$d0/d13/classLiveViewView.html#a058225e98179ca5aea6f75fff653a637" title="Checks if there&#39;s a last source saved in the database and asks user if they want to restore it." alt="" coords="519,5,752,45"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="886,415,877,344,856,248,838,197,815,147,786,100,750,59,734,48,737,43,754,55,791,97,820,144,843,195,861,247,883,343,891,415"/>
+<area shape="rect" id="Node000007" href="$d3/d3d/classConfigurationController.html#a681b46d3b088f9c114e2806d33c118fb" title="Menjalankan logika untuk mereset semua parameter konfigurasi." alt="" coords="536,133,735,173"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="881,416,865,367,839,305,801,241,777,213,750,187,732,176,735,171,754,183,781,209,805,238,843,303,870,365,886,414"/>
+<area shape="rect" id="Node000008" href="$d0/d13/classLiveViewView.html#a06837b60c49cc0fe19511a652d7fb81b" title="Wrapper for Edit Front ROI button click." alt="" coords="535,69,736,109"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="884,415,872,355,847,276,830,234,808,194,782,156,750,123,733,112,736,107,754,119,786,153,813,191,835,232,852,274,877,354,889,414"/>
+<area shape="rect" id="Node000010" href="$d0/d13/classLiveViewView.html#ad92678b673b09f017b5e4afb289009fc" title="Wrapper for Edit Right ROI button click." alt="" coords="535,197,736,237"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="876,417,857,380,829,335,794,290,750,252,729,240,732,235,754,247,797,286,834,332,862,377,881,415"/>
+<area shape="rect" id="Node000011" href="$dd/d64/classApp.html#a0daa0f131ed6a4bbfb82c31440aba96a" title="Callback wrapper to navigate to the Configuration view." alt="" coords="538,389,733,429"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="786,431,733,424,733,419,787,426"/>
+<area shape="rect" id="Node000013" href="$dd/d64/classApp.html#a686b54a2e8900d6e292bc03b5aa30db0" title="Callback wrapper to navigate to the Playback view." alt="" coords="528,325,743,365"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="852,425,751,380,715,368,717,363,753,375,855,420"/>
+<area shape="rect" id="Node000014" href="$d6/d8a/classLiveViewController.html#ac3ceba55f7297483763f02269dd3c140" title="Opens media file dialog for image or video selection." alt="" coords="289,472,434,512"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="859,463,810,488,753,508,668,520,582,521,502,516,434,508,435,502,502,511,582,516,667,514,751,503,808,483,857,459"/>
+<area shape="rect" id="Node000015" href="$d0/d22/classPlaybackController.html#a183452771546143ca327199076df3484" title="Handles requests to delete a distinct video file." alt="" coords="553,261,717,301"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="869,420,819,367,786,339,751,316,716,301,718,296,753,311,789,335,823,363,873,416"/>
+<area shape="rect" id="Node000018" href="$dc/d7c/classSettingView.html#af5ba552a5bd344cdb36e96e412bc4401" title="Handler for Save DateTime click." alt="" coords="253,555,469,595"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="865,464,815,498,753,528,681,548,607,562,470,576,469,570,606,557,680,543,751,523,812,493,862,460"/>
+<area shape="rect" id="Node000019" href="$d9/ddd/classSettingController.html#a30e5a8d5d1f9a6014f93dff32953ef80" title="Persists the Modified Camera Parameters to the Database." alt="" coords="546,619,725,659"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="877,467,828,534,793,570,753,602,717,621,714,616,751,598,789,566,824,530,873,464"/>
+<area shape="rect" id="Node000021" href="$d0/d13/classLiveViewView.html#a595b6fd860e46032855ded19ef081cbd" title="Shows the Load Media dialog and retrieves result." alt="" coords="523,453,748,493"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="787,457,748,462,748,457,786,452"/>
+<area shape="rect" id="Node000022" href="$d6/d8a/classLiveViewController.html#adffe5670bd28eeeb83a3ca9e511112db" title="Initiates Video Recording." alt="" coords="563,747,708,787"/>
+<area shape="poly" id="edge27_Node000001_Node000022" title=" " alt="" coords="888,468,874,524,849,597,831,635,810,672,784,707,754,737,733,750,709,759,707,754,730,746,750,733,780,703,805,669,826,632,844,595,869,523,883,467"/>
+<area shape="rect" id="Node000024" href="$d6/d8a/classLiveViewController.html#a256403940f67847efae818ba7fc4bad4" title="Terminates Video Recording." alt="" coords="563,811,708,851"/>
+<area shape="poly" id="edge29_Node000001_Node000024" title=" " alt="" coords="890,468,880,534,858,624,840,672,817,719,789,762,754,801,733,815,709,824,707,819,730,810,750,797,784,759,813,716,835,670,853,622,875,533,885,467"/>
+<area shape="rect" id="Node000003" href="$dc/d7c/classSettingView.html#a050732c6a09278f5d76cd0cf00614644" title="Handler for Apply button click." alt="" coords="260,683,463,723"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="530,705,463,705,463,700,530,700"/>
+<area shape="rect" id="Node000004" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects signals to callback handlers." alt="" coords="5,626,204,651"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="267,682,156,654,157,649,268,677"/>
+<area shape="rect" id="Node000006" href="$d6/d8a/classLiveViewController.html#a3feb080cbba46532d63dea7a8488f035" title="Toggles the Application Mode (Standby &lt;&#45;&gt; Drive)." alt="" coords="289,5,434,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="505,28,434,28,434,23,505,23"/>
+<area shape="rect" id="Node000009" href="$d0/d13/classLiveViewView.html#a2cdb9c1374b8f81c4e02affedc76a89c" title="Connects GTK signals to static callback functions." alt="" coords="255,141,467,166"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="536,115,417,143,416,138,535,110"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="535,197,416,169,417,163,536,192"/>
+<area shape="rect" id="Node000012" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects global signal handlers to UI events." alt="" coords="288,387,435,413"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="524,408,435,405,435,400,524,403"/>
+<area shape="poly" id="edge14_Node000013_Node000012" title=" " alt="" coords="522,371,426,390,425,385,521,365"/>
+<area shape="rect" id="Node000016" href="$d0/d22/classPlaybackController.html#af509b6493ab2bd578f5ee94c22434037" title="Static wrapper function to connect GTK signal for delete button." alt="" coords="252,233,471,273"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="539,274,470,267,471,262,540,269"/>
+<area shape="rect" id="Node000017" href="$d0/d22/classPlaybackController.html#ae49cbe73c54af212f9cce725c6c02467" title="Initializes the Playback Gallery." alt="" coords="32,263,177,303"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="239,270,178,277,177,272,238,265"/>
+<area shape="poly" id="edge19_Node000017_Node000015" title=" " alt="" coords="191,282,252,283,471,283,553,281,553,286,471,288,252,288,191,287"/>
+<area shape="poly" id="edge21_Node000018_Node000004" title=" " alt="" coords="268,601,157,628,156,623,267,595"/>
+<area shape="rect" id="Node000020" href="$dc/d7c/classSettingView.html#a4b6210c2e97bf837e01512702282513f" title="Handler for Save button click." alt="" coords="262,619,461,659"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="532,641,461,641,461,636,532,636"/>
+<area shape="poly" id="edge24_Node000020_Node000004" title=" " alt="" coords="248,641,204,641,204,636,248,636"/>
+<area shape="poly" id="edge26_Node000021_Node000014" title=" " alt="" coords="509,485,434,490,434,484,509,479"/>
+<area shape="rect" id="Node000023" href="$d6/d8a/classLiveViewController.html#a310cb2d58e78ee7c8b2dd6c7200b458f" title="Toggles the recording state." alt="" coords="289,779,434,819"/>
+<area shape="poly" id="edge28_Node000022_Node000023" title=" " alt="" coords="549,779,435,793,434,788,549,774"/>
+<area shape="poly" id="edge30_Node000024_Node000023" title=" " alt="" coords="549,823,434,810,435,804,549,818"/>
+</map>

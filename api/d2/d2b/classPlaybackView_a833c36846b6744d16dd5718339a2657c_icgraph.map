@@ -1,0 +1,9 @@
+<map id="PlaybackView::openBsis" name="PlaybackView::openBsis">
+<area shape="rect" id="Node000001" title="Switch to BSIS view." alt="" coords="483,31,661,56"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#ad37dbdb7e208b85b8ab4e10a3e13cc20" title="Callback wrapper to toggle BSIS (Blind Spot Information System) features." alt="" coords="200,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,36,435,32,435,27,469,30"/>
+<area shape="rect" id="Node000004" href="$d2/d2b/classPlaybackView.html#a55ca9c40e4b3b4672e730ae2e3d50c60" title="Connects signals to callbacks." alt="" coords="211,55,423,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="469,56,424,60,423,55,469,50"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects global signal handlers to UI events." alt="" coords="5,5,152,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,21,153,21,153,15,186,15"/>
+</map>

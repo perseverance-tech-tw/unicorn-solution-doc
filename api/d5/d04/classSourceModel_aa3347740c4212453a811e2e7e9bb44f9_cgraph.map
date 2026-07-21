@@ -1,0 +1,12 @@
+<map id="SourceModel::setLastCamera" name="SourceModel::setLastCamera">
+<area shape="rect" id="Node000001" title="Helper to set the current source as a Camera (single)." alt="" coords="5,13,217,38"/>
+<area shape="rect" id="Node000002" href="$d5/d04/classSourceModel.html#a950862bfb81bbf214b430e46ca5b0e3a" title="Helper to set the current source as Multiple Cameras." alt="" coords="265,5,477,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,23,252,23,252,28,217,28"/>
+<area shape="rect" id="Node000003" href="$d5/d04/classSourceModel.html#a14a271383b418951daf4917dd424f7e0" title="Saves all in&#45;memory records to the SQLite database(s)." alt="" coords="732,13,953,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,23,718,23,718,28,478,28"/>
+<area shape="rect" id="Node000005" href="$d5/d04/classSourceModel.html#a6f539e35bae36953d394009f9c1937e8" title="Populates the model with an initial default &quot;NONE&quot; record." alt="" coords="525,38,684,63"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="478,34,512,38,511,43,477,40"/>
+<area shape="rect" id="Node000004" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Retrieves all records stored in the model." alt="" coords="1001,5,1200,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="953,23,987,23,987,28,953,28"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="684,40,718,36,719,41,685,45"/>
+</map>

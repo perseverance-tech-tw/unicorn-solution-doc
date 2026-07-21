@@ -1,0 +1,7 @@
+<map id="Translator::loadLanguageData" name="Translator::loadLanguageData">
+<area shape="rect" id="Node000001" title="Loads translation data from the JSON file for the current language." alt="" coords="433,5,649,31"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a4b275dbd53cbb19b43d5f27b2780a12d" title="Bootstrapper: Initializes I18n System." alt="" coords="211,5,385,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,21,385,21,385,15,420,15"/>
+<area shape="rect" id="Node000003" href="$dd/d94/classBaseView.html#af470f1fa07284981ce7646d5296c728c" title="Constructs a new Base View object and initializes the UI." alt="" coords="5,5,163,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,21,163,21,163,15,196,15"/>
+</map>

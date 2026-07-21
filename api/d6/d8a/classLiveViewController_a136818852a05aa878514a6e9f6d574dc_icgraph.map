@@ -1,0 +1,5 @@
+<map id="LiveViewController::timeout_update_frame" name="LiveViewController::timeout_update_frame">
+<area shape="rect" id="Node000001" title="GTK timer trampoline to call update_frame_live_view()." alt="" coords="199,5,377,45"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#ab57b6a6cd7cc0ac448d8b2681e9e786e" title="Restores a specific source (Camera or File) directly." alt="" coords="5,5,151,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,28,151,28,151,23,185,23"/>
+</map>

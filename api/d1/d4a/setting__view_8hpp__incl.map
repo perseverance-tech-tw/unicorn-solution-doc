@@ -1,0 +1,37 @@
+<map id="include/views/setting_view.hpp" name="include/views/setting_view.hpp">
+<area shape="rect" id="Node000001" title="Header file for the SettingView class." alt="" coords="377,5,537,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,240,85,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,32,297,42,207,65,163,82,121,105,83,134,52,168,45,181,41,196,42,226,37,226,36,195,40,180,47,165,80,130,118,101,161,78,206,60,296,37,377,26"/>
+<area shape="rect" id="Node000003" href="$d8/dee/base__view_8hpp.html" title="Declares the BaseView class used for managing GTK&#45;based user interfaces." alt="" coords="83,167,243,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="422,48,198,163,196,158,419,43"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="557,240,616,265"/>
+<area shape="poly" id="edge21_Node000001_Node000006" title=" " alt="" coords="538,37,640,57,752,86,805,103,851,122,888,143,913,165,919,179,913,194,893,209,864,221,787,238,702,248,630,253,629,247,702,243,786,233,862,216,890,204,909,190,913,179,908,168,885,147,849,127,803,108,751,91,639,63,537,42"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="974,93,1149,119"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="538,34,961,89,960,94,537,40"/>
+<area shape="rect" id="Node000008" href="$d8/d5b/live__view__view_8hpp.html" title="Header file for the LiveViewView class." alt="" coords="362,93,553,119"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="460,46,460,79,455,79,455,46"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="145,194,78,235,75,230,142,190"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="123,240,173,265"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="163,193,156,227,151,226,158,192"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,240,261,265"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="176,191,211,228,207,232,172,194"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="243,188,380,207,544,237,543,243,379,213,242,193"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="362,113,280,119,195,129,121,146,92,156,72,169,62,181,55,195,49,226,43,225,50,194,58,178,69,165,90,152,119,141,194,124,280,114,362,108"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="411,121,224,166,223,161,409,116"/>
+<area shape="poly" id="edge20_Node000008_Node000005" title=" " alt="" coords="414,121,361,140,307,169,273,199,247,231,243,227,269,195,304,164,358,135,412,116"/>
+<area shape="poly" id="edge18_Node000008_Node000006" title=" " alt="" coords="470,117,569,228,565,231,466,121"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="555,167,709,192"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="486,116,592,159,590,164,484,121"/>
+<area shape="rect" id="Node000010" href="$d3/db7/vru__detector_8hpp.html" title="Defines the public interface for the VRUDetector namespace." alt="" coords="317,167,480,192"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="450,121,419,158,415,155,446,117"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="733,167,800,192"/>
+<area shape="poly" id="edge17_Node000008_Node000013" title=" " alt="" coords="510,116,720,164,719,169,509,121"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="824,167,899,192"/>
+<area shape="poly" id="edge19_Node000008_Node000014" title=" " alt="" coords="534,116,811,164,810,169,533,121"/>
+<area shape="poly" id="edge15_Node000010_Node000005" title=" " alt="" coords="372,194,271,237,269,232,370,190"/>
+<area shape="poly" id="edge16_Node000010_Node000006" title=" " alt="" coords="430,190,545,233,544,238,428,195"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="285,240,422,265"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="393,194,370,230,366,227,389,191"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="446,240,533,265"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="415,190,465,229,462,233,412,194"/>
+</map>

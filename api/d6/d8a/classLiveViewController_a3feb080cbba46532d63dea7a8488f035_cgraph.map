@@ -1,0 +1,20 @@
+<map id="LiveViewController::switchMode" name="LiveViewController::switchMode">
+<area shape="rect" id="Node000001" title="Toggles the Application Mode (Standby &lt;&#45;&gt; Drive)." alt="" coords="5,51,151,91"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classLiveViewView.html#a058225e98179ca5aea6f75fff653a637" title="Checks if there&#39;s a last source saved in the database and asks user if they want to restore it." alt="" coords="199,51,432,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,69,185,69,185,74,151,74"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="489,5,653,31"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="144,49,198,37,344,21,475,15,476,21,344,26,199,42,145,54"/>
+<area shape="rect" id="Node000008" href="$dd/d64/classApp.html#aa9296e15443c500ae9186f5809c80705" title="Enables or disables the drive mode toggle buttons." alt="" coords="217,115,413,155"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="152,88,228,109,227,114,150,93"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,49,496,31,497,36,412,54"/>
+<area shape="rect" id="Node000004" href="$de/d7b/classMessageDialog.html#a7b0e305f314e369e08b89426a5e0b315" title="Convenience method to show a simple &quot;OK&quot; generic info dialog." alt="" coords="480,59,663,84"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="432,69,466,69,466,74,432,74"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="725,35,868,60"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="663,59,711,54,712,59,664,64"/>
+<area shape="rect" id="Node000007" href="$de/d7b/classMessageDialog.html#ab509294ce066b74cca0997706c2ef69d" title="Shows a modal dialog with a single button." alt="" coords="711,84,883,109"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="664,79,697,83,697,88,663,84"/>
+<area shape="rect" id="Node000006" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="931,27,1124,67"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="868,45,917,45,917,50,868,50"/>
+<area shape="rect" id="Node000009" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="508,123,635,148"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="414,133,495,133,495,138,414,138"/>
+</map>

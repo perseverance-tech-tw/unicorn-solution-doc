@@ -1,0 +1,9 @@
+<map id="RecordProcessor::checkAndRotateFile" name="RecordProcessor::checkAndRotateFile">
+<area shape="rect" id="Node000001" title="Checks if the current recording file has exceeded the chunk duration." alt="" coords="5,31,207,71"/>
+<area shape="rect" id="Node000002" href="$d0/d64/namespaceRecordProcessor.html#a665d7a048c45064165d30a33b8025290" title="Starts the video recording process." alt="" coords="255,13,468,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,38,241,35,241,40,207,43"/>
+<area shape="rect" id="Node000004" href="$d0/d64/namespaceRecordProcessor.html#ac2d601e4960281ca235d97c326e21189" title="Stops the current recording session." alt="" coords="256,62,467,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,57,243,61,242,66,207,63"/>
+<area shape="rect" id="Node000003" href="$d0/d64/namespaceRecordProcessor.html#a35bcc98b56f4d058a60d58cd852fd67f" title="Checks available disk space and deletes old recordings if necessary." alt="" coords="516,5,727,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,23,502,23,502,28,468,28"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="RecordProcessor::startRecord" name="RecordProcessor::startRecord">
+<area shape="rect" id="Node000001" title="Starts the video recording process." alt="" coords="515,45,728,70"/>
+<area shape="rect" id="Node000002" href="$d0/d64/namespaceRecordProcessor.html#abdaef90027098c7e23272e9eaf623451" title="Checks if the current recording file has exceeded the chunk duration." alt="" coords="265,5,467,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="506,46,467,41,467,35,507,40"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#adffe5670bd28eeeb83a3ca9e511112db" title="Initiates Video Recording." alt="" coords="293,69,439,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="507,74,439,83,439,78,506,69"/>
+<area shape="rect" id="Node000003" href="$d0/d64/namespaceRecordProcessor.html#a47eca83638c7456e2c415dceb76d7327" title="Writes a video frame to the current recording." alt="" coords="5,13,217,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,28,217,28,217,23,252,23"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#a310cb2d58e78ee7c8b2dd6c7200b458f" title="Toggles the recording state." alt="" coords="39,69,184,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="280,92,184,92,184,87,280,87"/>
+</map>

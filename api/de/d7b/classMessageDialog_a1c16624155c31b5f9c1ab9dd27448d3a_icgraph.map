@@ -1,0 +1,20 @@
+<map id="MessageDialog::show2" name="MessageDialog::show2">
+<area shape="rect" id="Node000001" title="Shows a modal dialog with two buttons (e.g., Yes/No, OK/Cancel)." alt="" coords="721,127,893,152"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#ab88cb90053983401a1171b3677d51bf8" title="Ensures that media (camera or video) is ready/loaded." alt="" coords="479,5,659,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="780,120,732,82,672,46,637,33,639,28,674,41,735,77,784,115"/>
+<area shape="rect" id="Node000003" href="$d3/d3d/classConfigurationController.html#a681b46d3b088f9c114e2806d33c118fb" title="Menjalankan logika untuk mereset semua parameter konfigurasi." alt="" coords="470,55,669,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="745,126,644,98,645,93,746,120"/>
+<area shape="rect" id="Node000004" href="$d0/d22/classPlaybackController.html#a183452771546143ca327199076df3484" title="Handles requests to delete a distinct video file." alt="" coords="487,119,651,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="708,142,652,142,652,137,708,137"/>
+<area shape="rect" id="Node000007" href="$dc/d7c/classSettingView.html#ac1e583fe45a98ae291032f23224d55db" title="Handles Exit button click." alt="" coords="474,183,665,223"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="746,158,645,186,644,181,745,153"/>
+<area shape="rect" id="Node000009" href="$de/d7b/classMessageDialog.html#a71ed8d8f295c5cbb62d149dddb6d06be" title="Convenience method to show a &quot;Cancel / Apply&quot; dialog." alt="" coords="465,247,673,287"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="783,163,735,201,675,238,646,250,644,245,672,233,732,196,780,159"/>
+<area shape="rect" id="Node000005" href="$d0/d22/classPlaybackController.html#af509b6493ab2bd578f5ee94c22434037" title="Static wrapper function to connect GTK signal for delete button." alt="" coords="199,69,417,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="474,124,411,111,412,106,475,118"/>
+<area shape="rect" id="Node000006" href="$d0/d22/classPlaybackController.html#ae49cbe73c54af212f9cce725c6c02467" title="Initializes the Playback Gallery." alt="" coords="5,98,151,138"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="185,107,151,111,151,106,184,102"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="165,119,487,133,487,138,164,124"/>
+<area shape="rect" id="Node000008" href="$dc/d7c/classSettingView.html#af576cf1a10d8f065178f89eee78cbc16" title="Connects signals to callback handlers." alt="" coords="209,191,407,216"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="460,206,408,206,408,201,460,201"/>
+</map>

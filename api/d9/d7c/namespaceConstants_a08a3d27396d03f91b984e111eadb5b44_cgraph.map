@@ -1,0 +1,7 @@
+<map id="Constants::setSizeFactor" name="Constants::setSizeFactor">
+<area shape="rect" id="Node000001" title="Updates the global SIZE_FACTOR both in memory and in the database." alt="" coords="5,45,187,70"/>
+<area shape="rect" id="Node000002" href="$d9/d7c/namespaceConstants.html#aa3d2e62a2936ec5bcd9198bfdc6e4344" title="Retrieves the SIZE_FACTOR value from the database." alt="" coords="247,5,429,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,43,233,37,233,42,187,48"/>
+<area shape="rect" id="Node000003" href="$d9/d7c/namespaceConstants.html#a8afd4d58f793f73a91eedde008e3f3fa" title="Updates the size factor value in the database." alt="" coords="235,69,441,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,67,221,71,221,77,186,72"/>
+</map>

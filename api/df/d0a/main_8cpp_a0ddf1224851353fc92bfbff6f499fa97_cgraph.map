@@ -1,0 +1,18 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Application entry point." alt="" coords="5,142,60,168"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="596,42,760,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,141,61,96,82,72,107,54,173,28,243,12,315,4,386,3,454,8,518,16,619,36,618,42,517,21,454,13,386,9,316,9,244,17,175,33,109,59,85,76,66,99,41,143"/>
+<area shape="rect" id="Node000003" href="$df/d0a/main_8cpp.html#ab6fa8c7ec75aa4ad177577610df85cd3" title="Handles force exit signals (e.g., SIGINT/Ctrl+C)." alt="" coords="129,68,268,93"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="49,140,75,121,107,103,128,95,130,100,109,108,78,126,52,144"/>
+<area shape="rect" id="Node000005" href="$df/d0a/main_8cpp.html#a80cb7949d47b8ad049fa81f876d99e5f" title="Loads custom fonts from the &quot;assets/fonts&quot; directory." alt="" coords="126,117,271,142"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="60,148,112,140,112,146,61,154"/>
+<area shape="rect" id="Node000006" href="$dd/d64/classApp.html#ae09dc71078b64c56c673b1ad1d25b5d1" title="Starts the application&#39;s main execution loop." alt="" coords="161,166,237,192"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="61,156,147,169,146,174,60,161"/>
+<area shape="rect" id="Node000007" href="$df/dd5/classMediator.html#ab06b0668c1fbc34e25083c3b813124e4" title="Registers the global ThreadPool used for async tasks." alt="" coords="108,216,289,241"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="52,166,78,184,109,202,127,209,125,214,107,207,75,189,49,170"/>
+<area shape="rect" id="Node000008" href="$df/dd5/classMediator.html#a8a232018276c855530f7da465c2ae072" title="Initiates the specialized shutdown sequence." alt="" coords="123,265,274,290"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="42,166,68,209,87,232,110,251,119,257,117,262,106,256,83,236,63,212,38,169"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#afbe2c04bccd958d44bd45d005be8060c" title="clean up resources and saves persistence data (e.g. last, coordinates) before exiting." alt="" coords="337,68,548,93"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,78,323,78,323,83,269,83"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="548,66,582,63,582,68,548,72"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PlaybackView::cleanupPlaybackState" name="PlaybackView::cleanupPlaybackState">
+<area shape="rect" id="Node000001" title="Resets the playback state and releases resources." alt="" coords="5,37,236,77"/>
+<area shape="rect" id="Node000002" href="$d2/d2b/classPlaybackView.html#a32801faef0847fd162c5736a66236606" title="Hides the overlay controls immediately." alt="" coords="284,5,483,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,41,270,36,271,42,236,46"/>
+<area shape="rect" id="Node000003" href="$d2/d2b/classPlaybackView.html#a95948bb0927636157406d8f32f9440ed" title="Updates the Play/Pause icon." alt="" coords="287,69,480,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,69,273,73,272,79,236,74"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="531,77,673,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="480,87,517,87,517,92,480,92"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="721,69,915,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="674,87,708,87,708,92,674,92"/>
+</map>

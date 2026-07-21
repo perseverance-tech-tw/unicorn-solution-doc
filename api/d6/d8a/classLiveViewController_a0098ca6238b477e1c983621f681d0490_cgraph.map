@@ -1,0 +1,20 @@
+<map id="LiveViewController::loadAndDisplayRegionCoords" name="LiveViewController::loadAndDisplayRegionCoords">
+<area shape="rect" id="Node000001" title="Memuat koordinat region dari database ke UI berdasarkan Kamera yang dipilih." alt="" coords="5,58,228,98"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="545,33,709,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,55,211,31,275,11,353,3,432,6,504,15,565,27,564,33,504,21,431,11,354,9,277,17,212,36,157,60"/>
+<area shape="rect" id="Node000003" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Retrieves all records stored in the model." alt="" coords="311,155,441,180"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,96,277,139,307,148,306,154,275,144,162,101"/>
+<area shape="rect" id="Node000004" href="$d1/d6a/namespaceVRUDetector.html#adf6e23b8255a4d08d7036f96af93c9c4" title=" " alt="" coords="277,26,475,66"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,62,263,57,263,62,229,67"/>
+<area shape="rect" id="Node000008" href="$d1/d6a/namespaceVRUDetector.html#acb0f38d3849ade239c8f17831360da62" title=" " alt="" coords="276,90,476,130"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="229,89,262,93,262,99,228,94"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="475,43,531,43,531,49,475,49"/>
+<area shape="rect" id="Node000005" href="$de/d06/classRegionModel.html#ac1006896dbfe6288c6526a98f2da7a7a" title="Update berdasarkan nama record." alt="" coords="524,89,729,115"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="467,63,556,84,555,89,466,69"/>
+<area shape="rect" id="Node000006" href="$d8/d7f/classBaseModel.html#a7c4c2ec1775de5b027cd11f3f66991b9" title="Creates and stores a new record in the model." alt="" coords="789,53,988,93"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="729,88,775,83,776,88,730,93"/>
+<area shape="rect" id="Node000007" href="$de/d06/classRegionModel.html#a341aba09b9a0033d75b962f37a171480" title="Saves all in&#45;memory region records to the SQLite database(s)." alt="" coords="777,117,1000,143"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="730,110,764,114,763,119,729,116"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="454,87,562,59,564,65,456,92"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="476,104,510,103,510,108,476,109"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SettingView::onEditButtonClicked" name="SettingView::onEditButtonClicked">
+<area shape="rect" id="Node000001" title="Handler for Edit button click." alt="" coords="5,27,196,67"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="244,5,408,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,32,230,28,231,33,197,38"/>
+<area shape="rect" id="Node000003" href="$d9/ddd/classSettingController.html#aad93d7e770616caa6da256ef3f832152" title="Enables or disables edit mode for camera settings." alt="" coords="256,55,396,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,57,243,62,242,68,196,62"/>
+</map>

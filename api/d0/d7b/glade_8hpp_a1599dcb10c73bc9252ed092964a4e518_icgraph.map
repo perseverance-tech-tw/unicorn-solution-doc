@@ -1,0 +1,13 @@
+<map id="sanitizeFileName" name="sanitizeFileName">
+<area shape="rect" id="Node000001" title="Sanitizes a string to be used as a valid filename." alt="" coords="913,52,1048,77"/>
+<area shape="rect" id="Node000002" href="$d2/dd2/classFunctionModel.html#a47f0938eac429bee73d6a12dc2de001f" title="Iterates over all in&#45;memory records and saves their mapX/mapY to binary files on storage." alt="" coords="690,5,857,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="899,55,856,48,857,43,900,50"/>
+<area shape="rect" id="Node000003" href="$d2/dd2/classFunctionModel.html#a36183ae73ea97e3488aadb81e2cf55c9" title="Serializes and Saves Remap Tables to Disk." alt="" coords="681,84,865,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="900,80,856,87,855,81,899,75"/>
+<area shape="rect" id="Node000004" href="$d2/dd2/classFunctionModel.html#a3b7e6d813c600d03346c0a93384e4768" title="Loads the mapX and mapY matrices for a record from its file paths." alt="" coords="452,84,633,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="668,99,633,99,633,94,668,94"/>
+<area shape="rect" id="Node000005" href="$d2/dd2/classFunctionModel.html#aa97dab815b623f2bef3d112062fd40d2" title="Loads function records from a SQLite database into memory." alt="" coords="156,84,404,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="438,99,404,99,404,94,438,94"/>
+<area shape="rect" id="Node000006" href="$df/d84/routes_8cpp.html#a726db80dea57f42581f6b6641485b4ec" title="Initializes and connects all core application components." alt="" coords="5,84,108,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="142,99,108,99,108,94,142,94"/>
+</map>

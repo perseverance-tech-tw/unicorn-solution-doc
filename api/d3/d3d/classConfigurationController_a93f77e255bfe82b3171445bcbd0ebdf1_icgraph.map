@@ -1,0 +1,24 @@
+<map id="ConfigurationController::switchToAnyPointPage" name="ConfigurationController::switchToAnyPointPage">
+<area shape="rect" id="Node000001" title="Switches the calibration context to a specific Anypoint view." alt="" coords="644,197,819,237"/>
+<area shape="rect" id="Node000002" href="$d3/d3d/classConfigurationController.html#a1061230856ea69d09c1252b9a12d718d" title="Handles the BSIS button click event." alt="" coords="400,5,593,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="709,187,662,122,630,89,595,60,573,48,576,43,597,55,634,85,666,119,713,184"/>
+<area shape="rect" id="Node000003" href="$d3/d3d/classConfigurationController.html#ad36d23ab16f3e82fea82896258cf9bc4" title="Handles the MOIS button click event." alt="" coords="397,69,596,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="695,191,649,156,595,124,568,112,570,107,597,119,652,152,698,187"/>
+<area shape="rect" id="Node000004" href="$d3/d3d/classConfigurationController.html#a042c6affe9da83d3b8029fb5576b9070" title=" " alt="" coords="400,133,593,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="644,196,570,176,571,171,645,191"/>
+<area shape="rect" id="Node000005" href="$d1/db4/classConfigurationView.html#a1612a6eb721f2885376f190152753837" title="Callback for Anypoint 1 button click." alt="" coords="399,197,594,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="630,220,594,220,594,215,630,215"/>
+<area shape="rect" id="Node000008" href="$d1/db4/classConfigurationView.html#a03f513f299dd63c3075281575e9c6016" title="Callback for Anypoint 2 button click." alt="" coords="399,261,594,301"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="645,244,571,264,570,259,644,238"/>
+<area shape="rect" id="Node000009" href="$d1/db4/classConfigurationView.html#acde8bf8391d7398504021200143aee9a" title="Callback for Anypoint 3 button click." alt="" coords="399,325,594,365"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="698,248,652,283,597,316,570,328,568,323,595,311,649,278,695,244"/>
+<area shape="rect" id="Node000010" href="$d1/db4/classConfigurationView.html#aae30eae60ed6d0eccb05440c657b3138" title="Callback for Anypoint 4 button click." alt="" coords="399,389,594,429"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="713,251,666,316,634,350,597,380,576,391,573,387,595,375,630,346,662,312,709,248"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals to callback functions." alt="" coords="201,293,349,333"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="417,245,398,252,312,296,310,291,396,247,415,240"/>
+<area shape="rect" id="Node000007" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructor for ConfigurationView." alt="" coords="5,293,153,333"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="187,316,154,316,154,311,187,311"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="386,300,350,305,349,300,385,295"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="385,332,349,327,350,321,386,327"/>
+<area shape="poly" id="edge12_Node000010_Node000006" title=" " alt="" coords="415,387,396,380,310,336,312,331,398,375,417,382"/>
+</map>

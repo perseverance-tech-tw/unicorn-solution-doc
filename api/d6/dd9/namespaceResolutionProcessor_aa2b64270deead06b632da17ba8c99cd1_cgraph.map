@@ -1,0 +1,16 @@
+<map id="ResolutionProcessor::applyNewResolution" name="ResolutionProcessor::applyNewResolution">
+<area shape="rect" id="Node000001" title="Applies the currently selected resolution by regenerating all maps." alt="" coords="5,67,169,107"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#a929dd28d154e3a6b0a2ac443bc1b1a29" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="569,5,717,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,64,217,52,307,40,397,32,555,24,555,30,398,38,307,46,218,57,160,69"/>
+<area shape="rect" id="Node000003" href="$d6/dd9/namespaceResolutionProcessor.html#a587abe0b96124c834e31ddf2ab7882af" title="Dynamically calculates and populates the available resolution settings." alt="" coords="273,67,435,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,84,259,84,259,89,170,89"/>
+<area shape="rect" id="Node000005" href="$d7/d8b/classMoildevApplicator.html#aa61a841927f071e1ef2dc72acbd0eaf6" title="Global Resolution Rescaling (Performance Tuning)." alt="" coords="217,133,491,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="169,104,261,127,259,133,167,109"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="435,67,555,41,556,46,436,72"/>
+<area shape="rect" id="Node000004" href="$d7/d8b/classMoildevApplicator.html#ad63cde2afc00b7a67822c509e3f44116" title="Gets the native (full) resolution of the maps as determined by the initialized Moildev camera paramet..." alt="" coords="569,69,717,109"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="435,85,555,86,555,91,435,90"/>
+<area shape="rect" id="Node000006" href="$d7/d8b/classMoildevApplicator.html#a2b370af0985322985aa6bae14f85bb22" title="Generates a remapping map with specific dimensions and parameters." alt="" coords="539,133,747,173"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="491,151,525,151,525,156,491,156"/>
+<area shape="rect" id="Node000007" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="561,198,725,223"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="456,171,565,193,564,198,455,176"/>
+</map>

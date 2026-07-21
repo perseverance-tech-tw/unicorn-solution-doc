@@ -1,0 +1,11 @@
+<map id="VRUDetector::setBaseFrontCoords" name="VRUDetector::setBaseFrontCoords">
+<area shape="rect" id="Node000001" title=" " alt="" coords="477,69,676,109"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#a0098ca6238b477e1c983621f681d0490" title="Memuat koordinat region dari database ke UI berdasarkan Kamera yang dipilih." alt="" coords="207,69,429,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,92,430,92,430,87,464,87"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/classLiveViewController.html#abd8f2f6cece7f13dc235f766ee1bb87d" title="Constructs the LiveViewController object." alt="" coords="5,5,159,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,68,156,48,157,43,231,63"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#af0d9e3d5c0f6a5217053794d308bac92" title="Switches the view to the original camera 1 view." alt="" coords="9,69,155,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="193,92,155,92,155,87,193,87"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#a1226ae65d7c70f07ea31955f56c0b874" title="Switches the view to the original camera 2 view." alt="" coords="9,133,155,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="231,116,156,136,154,131,230,110"/>
+</map>

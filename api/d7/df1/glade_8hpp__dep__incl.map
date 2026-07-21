@@ -1,0 +1,39 @@
+<map id="include/helpers/glade.hpp" name="include/helpers/glade.hpp">
+<area shape="rect" id="Node000001" title="Utilities for GTK Builder (Glade) loading and CSS Management." alt="" coords="1267,5,1456,31"/>
+<area shape="rect" id="Node000002" href="$dc/dc7/routes_8hpp.html" title="Declares the setupRoutes function responsible for initializing and linking MVC components." alt="" coords="512,86,693,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1253,29,1006,49,712,81,665,89,664,83,712,76,1005,44,1253,24"/>
+<area shape="rect" id="Node000004" href="$de/d54/live__view__controller_8cpp.html" title="Implements the LiveViewController class, managing live camera feeds, media input, recording,..." alt="" coords="5,240,160,280"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="1253,25,855,43,649,59,565,69,501,81,387,116,278,161,184,206,117,242,114,238,182,201,276,156,385,111,499,76,564,64,649,54,855,37,1253,20"/>
+<area shape="rect" id="Node000008" href="$dc/daa/setting__view_8cpp.html" title="Implementation of the SettingView class." alt="" coords="666,247,862,273"/>
+<area shape="poly" id="edge19_Node000001_Node000008" title=" " alt="" coords="1253,25,1110,31,955,42,825,58,781,69,758,81,745,100,739,121,737,145,738,169,749,214,761,246,756,248,744,215,733,170,731,145,733,120,741,97,754,77,779,64,824,53,954,36,1110,26,1252,20"/>
+<area shape="rect" id="Node000010" href="$df/dec/base__view_8cpp.html" title="Implementation of BaseView handling GTK UI loading and setup." alt="" coords="769,86,951,111"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1267,35,964,81,922,89,921,83,964,76,1267,30"/>
+<area shape="rect" id="Node000011" href="$d8/d89/playback__controller_8cpp.html" title="Implementation of the PlaybackController class which manages the playback interface,..." alt="" coords="975,79,1153,119"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1306,37,1136,81,1135,76,1304,31"/>
+<area shape="rect" id="Node000012" href="$da/da2/glade_8cpp.html" title="Implementation of the Glade utility functions." alt="" coords="1177,86,1337,111"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1337,41,1274,88,1271,84,1334,37"/>
+<area shape="rect" id="Node000013" href="$d1/ded/frame__model_8cpp.html" title="Implementation of the FrameModel class." alt="" coords="1361,86,1572,111"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1389,37,1453,84,1449,88,1386,41"/>
+<area shape="rect" id="Node000014" href="$db/d24/function__model_8cpp.html" title="Implementation of the FunctionModel class." alt="" coords="1597,79,1747,119"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1421,31,1598,76,1597,81,1419,37"/>
+<area shape="rect" id="Node000015" href="$d3/d48/record__processor_8cpp.html" title="Improved version of the RecordProcessor." alt="" coords="1771,86,1986,111"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1453,30,1760,76,1808,83,1807,89,1760,81,1452,35"/>
+<area shape="rect" id="Node000016" href="$db/d2d/configuration__view_8cpp.html" title="Implementation of the ConfigurationView class." alt="" coords="2010,79,2182,119"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1470,24,1713,43,1999,76,2010,78,2009,83,1998,81,1712,49,1469,29"/>
+<area shape="rect" id="Node000017" href="$d8/dc9/live__view__view_8cpp.html" title="Implementation of the LiveViewView class, which handles the main live view UI." alt="" coords="2207,79,2356,119"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="1470,20,1795,36,1995,52,2195,76,2207,78,2206,83,2194,81,1995,58,1795,41,1470,25"/>
+<area shape="rect" id="Node000018" href="$d8/df2/playback__view_8cpp.html" title="Implementation of the PlaybackView class for the video playback UI." alt="" coords="2380,79,2527,119"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="1470,18,1643,21,1867,31,2117,48,2368,76,2380,78,2380,83,2368,81,2116,54,1866,36,1642,27,1470,23"/>
+<area shape="rect" id="Node000003" href="$d6/d2c/app_8hpp.html" title="Declares the main application class managing GTK widgets and navigation." alt="" coords="346,167,510,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="566,119,455,169,452,164,564,115"/>
+<area shape="rect" id="Node000009" href="$df/d84/routes_8cpp.html" title="Application component initializer (setupRoutes)." alt="" coords="535,167,687,192"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="608,125,612,166,607,167,603,125"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,198,161,244,160,239,364,192"/>
+<area shape="rect" id="Node000005" href="$d5/df2/app_8cpp.html" title="Implementation of the main application window (App class)." alt="" coords="185,247,319,273"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="391,200,279,250,277,245,389,195"/>
+<area shape="rect" id="Node000006" href="$df/dbb/mediator_8cpp.html" title="Implements the Mediator class, a singleton for component communication." alt="" coords="343,247,513,273"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="431,206,431,247,425,247,425,206"/>
+<area shape="rect" id="Node000007" href="$df/d0a/main_8cpp.html" title=" " alt="" coords="537,247,642,273"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="465,195,567,245,565,250,462,200"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="491,192,716,245,714,250,490,198"/>
+</map>

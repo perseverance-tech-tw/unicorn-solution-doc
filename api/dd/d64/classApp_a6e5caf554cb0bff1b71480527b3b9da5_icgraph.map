@@ -1,0 +1,23 @@
+<map id="App::updateSwitchModeButtonLabel" name="App::updateSwitchModeButtonLabel">
+<area shape="rect" id="Node000001" title="Updates the label and icon of the &quot;Switch Mode&quot; button based on the current state." alt="" coords="744,209,967,249"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a18064f984d3ea2c99709e49194042971" title="Helper to switch back to LiveView from sidebar views." alt="" coords="487,127,696,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="782,207,629,155,631,150,783,202"/>
+<area shape="rect" id="Node000008" href="$dd/d64/classApp.html#ab020e623b6c86cc584a0ce53e4bc28d7" title="Callback wrapper to switch between Drive Mode and Standby Mode." alt="" coords="492,209,691,249"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="730,232,691,232,691,227,730,227"/>
+<area shape="rect" id="Node000009" href="$dd/d64/classApp.html#a5359579f458fac0f6cf1b760298ac741" title="Refreshes the global UI elements." alt="" coords="534,274,649,299"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="750,255,650,277,648,272,749,250"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a0daa0f131ed6a4bbfb82c31440aba96a" title="Callback wrapper to navigate to the Configuration view." alt="" coords="222,5,417,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="558,122,503,91,438,60,404,48,406,43,440,55,505,86,560,118"/>
+<area shape="rect" id="Node000005" href="$dd/d64/classApp.html#ac6da02831e42bc4dda7746e2dd5d6c37" title="Callback wrapper to open the Help dialog/view." alt="" coords="200,70,439,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="516,127,380,98,381,93,517,122"/>
+<area shape="rect" id="Node000006" href="$dd/d64/classApp.html#a686b54a2e8900d6e292bc03b5aa30db0" title="Callback wrapper to navigate to the Playback view." alt="" coords="212,120,427,160"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="473,143,427,143,427,137,473,137"/>
+<area shape="rect" id="Node000007" href="$dd/d64/classApp.html#a732c57f411b349bf301c8b71170db4cd" title="Callback wrapper to navigate to the Settings view." alt="" coords="219,184,420,224"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="524,159,406,187,405,181,522,153"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects global signal handlers to UI events." alt="" coords="5,127,152,153"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,52,201,60,142,95,97,129,93,125,139,90,199,55,217,47"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="243,101,201,111,126,130,125,125,199,105,242,96"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="198,143,152,143,152,137,198,137"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="230,183,127,155,128,150,231,178"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="479,254,414,261,343,262,270,256,199,239,164,221,133,198,89,155,92,151,136,194,167,217,201,233,271,251,343,257,414,255,479,249"/>
+</map>

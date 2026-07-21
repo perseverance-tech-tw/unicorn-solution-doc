@@ -1,0 +1,37 @@
+<map id="MoildevApplicator::createMap" name="MoildevApplicator::createMap">
+<area shape="rect" id="Node000001" title="Generates/Caches the Remap Table for a Single Preset." alt="" coords="1175,194,1323,234"/>
+<area shape="rect" id="Node000002" href="$d3/d3d/classConfigurationController.html#a7cfbbfe61b848f15cdef6aaf37960604" title="Handles changes to flip state." alt="" coords="945,101,1118,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1198,190,1126,155,1095,143,1097,138,1128,150,1200,185"/>
+<area shape="rect" id="Node000005" href="$d3/d3d/classConfigurationController.html#a681b46d3b088f9c114e2806d33c118fb" title="Menjalankan logika untuk mereset semua parameter konfigurasi." alt="" coords="201,30,400,70"/>
+<area shape="poly" id="edge19_Node000001_Node000005" title=" " alt="" coords="1225,184,1183,134,1156,110,1125,91,1032,54,934,29,834,15,734,9,638,9,548,15,400,33,400,28,548,10,638,4,734,3,834,10,935,24,1034,49,1128,86,1159,106,1187,130,1229,181"/>
+<area shape="rect" id="Node000009" href="$d3/d3d/classConfigurationController.html#aa02cf70d216b554b86b847c47b188786" title="Handles clicks on the original view." alt="" coords="206,226,395,266"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="1161,219,396,245,396,240,1161,214"/>
+<area shape="rect" id="Node000010" href="$d3/d3d/classConfigurationController.html#a33b91bc5e674eb48391cb830ea542413" title="Handles live updates to Moildev View Parameters (Alpha, Beta, Zoom)." alt="" coords="936,165,1127,205"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1161,205,1127,200,1127,195,1161,199"/>
+<area shape="rect" id="Node000013" href="$d3/d3d/classConfigurationController.html#a5bcebccb2fb13cd69dcc90e45c2b1e4e" title="(Baru) Menangani pelepasan drag mouse di view hasil." alt="" coords="206,299,395,339"/>
+<area shape="poly" id="edge20_Node000001_Node000013" title=" " alt="" coords="1162,239,940,291,805,316,668,334,558,339,448,334,395,331,396,325,448,329,558,334,668,329,804,310,939,286,1161,234"/>
+<area shape="rect" id="Node000014" href="$d3/d3d/classConfigurationController.html#acb465384988abc8c553b5ac516d777bd" title="(Baru) Menangani event scroll mouse untuk zoom." alt="" coords="214,382,387,422"/>
+<area shape="poly" id="edge21_Node000001_Node000014" title=" " alt="" coords="1213,245,1174,272,1128,295,1028,328,925,354,821,373,719,387,532,403,388,406,388,401,532,397,719,382,820,368,924,349,1027,323,1126,290,1171,267,1210,241"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html#a67538252933611b12ffdb2538f257dc3" title="Callback for switch state changes (flip horizontal/vertical)." alt="" coords="716,101,888,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="931,123,888,123,888,118,931,118"/>
+<area shape="poly" id="edge7_Node000003_Node000003" title=" " alt="" coords="841,89,827,82,802,79,780,81,767,86,762,92,764,99,759,101,757,91,763,82,779,76,802,74,829,77,843,84"/>
+<area shape="rect" id="Node000004" href="$d1/db4/classConfigurationView.html#ae975d0a3542a1311028e29fab91d3943" title="Initializes spin buttons with values from the logic controller." alt="" coords="448,101,668,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="702,123,668,123,668,118,702,118"/>
+<area shape="rect" id="Node000008" href="$d1/db4/classConfigurationView.html#a3e97d0136c58ab367379afd59538800e" title="Connects GTK signals to callback functions." alt="" coords="484,165,632,205"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="713,147,633,168,632,163,711,142"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="470,99,374,73,375,67,472,94"/>
+<area shape="rect" id="Node000006" href="$d1/db4/classConfigurationView.html#a0c5fed278f22ffa2813ed1b3f3fe7f4f" title="Binds UI components to member variables." alt="" coords="227,103,375,143"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="435,125,375,125,375,120,434,119"/>
+<area shape="rect" id="Node000007" href="$d1/db4/classConfigurationView.html#ae98f00456b902137c4d69c019153d675" title="Constructor for ConfigurationView." alt="" coords="5,133,153,173"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="213,137,154,145,153,140,213,132"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="470,181,153,160,154,155,470,176"/>
+<area shape="rect" id="Node000011" href="$d1/db4/classConfigurationView.html#a011c0307ed969aa6e895cd8a91d9c9b7" title="Callback for spin button value changes (alpha, beta, zoom)." alt="" coords="723,165,881,205"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="922,187,881,187,881,182,922,182"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="711,164,634,143,635,138,713,158"/>
+<area shape="poly" id="edge14_Node000011_Node000008" title=" " alt="" coords="709,187,632,187,632,182,709,182"/>
+<area shape="rect" id="Node000012" href="$d1/db4/classConfigurationView.html#a7b2dbb96034bb928cb606dbbeb7d85f2" title="Updates the spin buttons based on the selected function." alt="" coords="475,279,641,319"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="747,213,603,282,600,277,744,208"/>
+<area shape="poly" id="edge16_Node000012_Node000009" title=" " alt="" coords="461,282,395,268,396,263,462,277"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="461,309,396,315,395,309,461,304"/>
+<area shape="poly" id="edge18_Node000012_Node000014" title=" " alt="" coords="495,327,353,384,351,379,493,322"/>
+</map>

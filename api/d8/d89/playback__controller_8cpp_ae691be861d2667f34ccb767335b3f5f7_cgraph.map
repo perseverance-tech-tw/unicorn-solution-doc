@@ -1,0 +1,9 @@
+<map id="generate_thumbnail_pixbuf" name="generate_thumbnail_pixbuf">
+<area shape="rect" id="Node000001" title="Helper Static: Generate GdkPixbuf from video path using OpenCV." alt="" coords="5,27,159,67"/>
+<area shape="rect" id="Node000002" href="$d8/d89/playback__controller_8cpp.html#afadf0434d385208aaced3eaf7f5e54eb" title="Resizes and crops an image to fit a target size." alt="" coords="216,5,417,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,35,202,30,203,35,160,40"/>
+<area shape="rect" id="Node000003" href="$d0/d22/classPlaybackController.html#a6352b34dddbd9332426c902c56c8a26e" title="Helper: Applies Anypoint dewarping to a raw video frame." alt="" coords="207,55,427,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,54,193,58,193,63,159,59"/>
+<area shape="rect" id="Node000004" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="475,63,639,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="427,73,461,73,461,78,427,78"/>
+</map>

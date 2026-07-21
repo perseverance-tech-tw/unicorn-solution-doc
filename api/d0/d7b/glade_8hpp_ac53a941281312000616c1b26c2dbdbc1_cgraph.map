@@ -1,0 +1,7 @@
+<map id="setImageHoverAndActiveEffect" name="setImageHoverAndActiveEffect">
+<area shape="rect" id="Node000001" title="Sets up hover and active state image effects for a button." alt="" coords="5,31,231,56"/>
+<area shape="rect" id="Node000002" href="$da/da2/glade_8cpp.html#ad1d9c4d98d16172f9107f55eaca0a626" title="Static GTK callback for the &quot;enter&#45;notify&#45;event&quot; (mouse hover)." alt="" coords="280,5,403,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,28,266,24,267,29,231,33"/>
+<area shape="rect" id="Node000003" href="$da/da2/glade_8cpp.html#a13fa12eb9a5c0e04138952795ea717a5" title="Static GTK callback for the &quot;leave&#45;notify&#45;event&quot; (mouse un&#45;hover)." alt="" coords="279,55,404,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,53,265,56,264,62,231,58"/>
+</map>

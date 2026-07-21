@@ -1,0 +1,25 @@
+<map id="LiveViewController::LiveViewController" name="LiveViewController::LiveViewController">
+<area shape="rect" id="Node000001" title="Constructs the LiveViewController object." alt="" coords="5,49,159,89"/>
+<area shape="rect" id="Node000002" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="746,29,910,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,46,206,35,338,14,441,4,545,4,678,13,753,23,752,29,677,19,545,10,441,10,338,19,207,40,153,52"/>
+<area shape="rect" id="Node000003" href="$dd/d94/classBaseView.html#a9bf94b085e1a70487bc653e531c7082a" title="Retrieves the main container widget of this view." alt="" coords="245,114,391,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,87,207,99,248,108,246,113,206,104,158,92"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#a0098ca6238b477e1c983621f681d0490" title="Memuat koordinat region dari database ke UI berdasarkan Kamera yang dipilih." alt="" coords="207,49,429,89"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,67,193,67,193,72,159,72"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="402,46,477,35,611,29,732,32,732,37,611,34,478,40,403,52"/>
+<area shape="rect" id="Node000005" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Retrieves all records stored in the model." alt="" coords="512,178,643,203"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="407,87,431,100,447,116,456,133,464,148,479,163,500,174,498,179,476,167,459,152,451,135,443,120,428,105,404,92"/>
+<area shape="rect" id="Node000006" href="$d1/d6a/namespaceVRUDetector.html#adf6e23b8255a4d08d7036f96af93c9c4" title=" " alt="" coords="478,49,677,89"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="430,67,464,67,464,72,430,72"/>
+<area shape="rect" id="Node000010" href="$d1/d6a/namespaceVRUDetector.html#acb0f38d3849ade239c8f17831360da62" title=" " alt="" coords="477,113,677,153"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="400,87,483,107,482,112,399,92"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="676,55,732,49,732,55,677,61"/>
+<area shape="rect" id="Node000007" href="$de/d06/classRegionModel.html#ac1006896dbfe6288c6526a98f2da7a7a" title="Update berdasarkan nama record." alt="" coords="725,85,931,110"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="677,78,712,82,712,87,676,83"/>
+<area shape="rect" id="Node000008" href="$d8/d7f/classBaseModel.html#a7c4c2ec1775de5b027cd11f3f66991b9" title="Creates and stores a new record in the model." alt="" coords="991,48,1189,88"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="930,83,977,78,977,83,931,88"/>
+<area shape="rect" id="Node000009" href="$de/d06/classRegionModel.html#a341aba09b9a0033d75b962f37a171480" title="Saves all in&#45;memory region records to the SQLite database(s)." alt="" coords="979,113,1201,138"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="931,105,965,109,965,114,930,111"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="647,111,676,99,700,84,724,69,761,55,763,60,726,74,703,89,679,104,649,115"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="677,116,725,109,726,114,678,121"/>
+</map>

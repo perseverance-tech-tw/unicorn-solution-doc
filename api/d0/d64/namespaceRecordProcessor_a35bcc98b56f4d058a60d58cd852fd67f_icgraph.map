@@ -1,0 +1,14 @@
+<map id="RecordProcessor::ensureDiskSpace" name="RecordProcessor::ensureDiskSpace">
+<area shape="rect" id="Node000001" title="Checks available disk space and deletes old recordings if necessary." alt="" coords="776,99,987,139"/>
+<area shape="rect" id="Node000002" href="$d0/d64/namespaceRecordProcessor.html#a665d7a048c45064165d30a33b8025290" title="Starts the video recording process." alt="" coords="515,77,728,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="762,108,728,104,729,99,763,103"/>
+<area shape="rect" id="Node000004" href="$d0/d64/namespaceRecordProcessor.html#a47eca83638c7456e2c415dceb76d7327" title="Writes a video frame to the current recording." alt="" coords="5,105,217,130"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="762,123,265,124,217,123,217,118,265,119,762,118"/>
+<area shape="rect" id="Node000003" href="$d0/d64/namespaceRecordProcessor.html#abdaef90027098c7e23272e9eaf623451" title="Checks if the current recording file has exceeded the chunk duration." alt="" coords="265,69,467,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="501,92,467,92,467,87,501,87"/>
+<area shape="rect" id="Node000005" href="$d6/d8a/classLiveViewController.html#adffe5670bd28eeeb83a3ca9e511112db" title="Initiates Video Recording." alt="" coords="293,5,439,45"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="556,76,438,46,439,41,557,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,105,218,108,217,103,251,99"/>
+<area shape="rect" id="Node000006" href="$d6/d8a/classLiveViewController.html#a310cb2d58e78ee7c8b2dd6c7200b458f" title="Toggles the recording state." alt="" coords="39,5,184,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="280,28,184,28,184,23,280,23"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="PlaybackView::openBsisReverse" name="PlaybackView::openBsisReverse">
+<area shape="rect" id="Node000001" title="Switch to BSIS Reverse view." alt="" coords="484,31,716,56"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#aa929b17f6eaf9b5d30fd82a1c2f1315e" title=" " alt="" coords="200,5,436,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,34,436,31,437,26,471,29"/>
+<area shape="rect" id="Node000004" href="$d2/d2b/classPlaybackView.html#a55ca9c40e4b3b4672e730ae2e3d50c60" title="Connects signals to callbacks." alt="" coords="212,55,424,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="471,57,425,61,424,56,470,52"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects global signal handlers to UI events." alt="" coords="5,5,152,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,21,153,21,153,15,186,15"/>
+</map>

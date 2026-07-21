@@ -1,0 +1,5 @@
+<map id="RecordProcessor::checkAndRotateFile" name="RecordProcessor::checkAndRotateFile">
+<area shape="rect" id="Node000001" title="Checks if the current recording file has exceeded the chunk duration." alt="" coords="265,5,467,45"/>
+<area shape="rect" id="Node000002" href="$d0/d64/namespaceRecordProcessor.html#a47eca83638c7456e2c415dceb76d7327" title="Writes a video frame to the current recording." alt="" coords="5,13,217,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,28,217,28,217,23,252,23"/>
+</map>

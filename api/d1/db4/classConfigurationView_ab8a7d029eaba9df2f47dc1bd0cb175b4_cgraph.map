@@ -1,0 +1,11 @@
+<map id="ConfigurationView::updateNavigationVisibility" name="ConfigurationView::updateNavigationVisibility">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,200,77"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classConfigurationView.html#adf47291a16aa7e56d7352de4d00f254d" title="Sets the active state for mode selection buttons (MOIS/BSIS)." alt="" coords="248,5,411,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,41,234,36,235,41,201,46"/>
+<area shape="rect" id="Node000003" href="$d1/db4/classConfigurationView.html#aa39f1e107797b429ef54fa90a39a3055" title=" " alt="" coords="255,69,403,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,68,242,74,241,80,200,74"/>
+<area shape="rect" id="Node000004" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="459,77,601,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="404,87,445,87,445,92,404,92"/>
+<area shape="rect" id="Node000005" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="649,69,843,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="602,87,636,87,636,92,602,92"/>
+</map>

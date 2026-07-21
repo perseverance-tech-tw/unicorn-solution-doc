@@ -1,0 +1,5 @@
+<map id="LiveViewController" name="LiveViewController">
+<area shape="rect" id="Node000001" title="The primary controller for the Live Camera View and Drive Mode interfaces." alt="" coords="5,79,151,104"/>
+<area shape="rect" id="Node000002" href="$d3/d75/classBaseController.html" title="Base Interface for Application Logic Controllers." alt="" coords="19,5,137,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,44,81,79,75,79,75,44"/>
+</map>

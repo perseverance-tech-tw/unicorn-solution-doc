@@ -1,0 +1,9 @@
+<map id="LiveViewController::update_frame_live_view" name="LiveViewController::update_frame_live_view">
+<area shape="rect" id="Node000001" title="Updates live view frames periodically (GTK timeout callback)." alt="" coords="425,37,616,77"/>
+<area shape="rect" id="Node000002" href="$d6/d8a/classLiveViewController.html#ac3ceba55f7297483763f02269dd3c140" title="Opens media file dialog for image or video selection." alt="" coords="215,5,361,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="411,45,360,38,361,33,412,40"/>
+<area shape="rect" id="Node000003" href="$d6/d8a/classLiveViewController.html#a136818852a05aa878514a6e9f6d574dc" title="GTK timer trampoline to call update_frame_live_view()." alt="" coords="199,69,377,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="412,75,378,80,377,74,411,70"/>
+<area shape="rect" id="Node000004" href="$d6/d8a/classLiveViewController.html#ab57b6a6cd7cc0ac448d8b2681e9e786e" title="Restores a specific source (Camera or File) directly." alt="" coords="5,69,151,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="185,92,151,92,151,87,185,87"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="App::updateSwitchModeButtonLabel" name="App::updateSwitchModeButtonLabel">
+<area shape="rect" id="Node000001" title="Updates the label and icon of the &quot;Switch Mode&quot; button based on the current state." alt="" coords="5,5,228,45"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="276,13,419,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,23,262,23,262,28,228,28"/>
+<area shape="rect" id="Node000003" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="467,5,660,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,23,453,23,453,28,419,28"/>
+</map>

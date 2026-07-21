@@ -1,0 +1,5 @@
+<map id="VRUDetector::MoisZonedRisk" name="VRUDetector::MoisZonedRisk">
+<area shape="rect" id="Node000001" title="Holds the 2&#45;part zoned risk results for both MOIS zones (Front and Right)." alt="" coords="5,108,220,133"/>
+<area shape="rect" id="Node000002" href="$d8/d26/structVRUDetector_1_1ZoneRisk.html" title="A summary of risk for a zone that is divided into 2 sub&#45;zones (Near, Far)." alt="" coords="25,5,200,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,45,115,108,110,108,110,45"/>
+</map>

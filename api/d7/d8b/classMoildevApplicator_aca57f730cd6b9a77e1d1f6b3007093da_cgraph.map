@@ -1,0 +1,9 @@
+<map id="MoildevApplicator::reconfigureAndRemap" name="MoildevApplicator::reconfigureAndRemap">
+<area shape="rect" id="Node000001" title="Hot&#45;Reloads Camera Calibration." alt="" coords="5,35,172,75"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#a15b1be59dcba7b86c3988ab32e386da1" title="Batch Generator: Creates Maps for ALL Presets." alt="" coords="220,35,368,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,52,206,52,206,57,172,57"/>
+<area shape="rect" id="Node000003" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="416,5,631,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,43,402,38,403,43,369,48"/>
+<area shape="rect" id="Node000004" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="441,70,605,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="369,61,428,68,427,74,368,66"/>
+</map>

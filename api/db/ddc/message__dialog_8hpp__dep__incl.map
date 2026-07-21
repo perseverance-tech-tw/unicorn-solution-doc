@@ -1,0 +1,19 @@
+<map id="include/helpers/message_dialog.hpp" name="include/helpers/message_dialog.hpp">
+<area shape="rect" id="Node000001" title="Defines a simple utility class for displaying GTK message dialogs." alt="" coords="689,5,873,45"/>
+<area shape="rect" id="Node000002" href="$df/def/configuration__controller_8cpp.html" title="Implements the ConfigurationController class for configuration management and navigation." alt="" coords="5,93,208,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="676,40,465,64,220,96,209,98,208,92,220,91,465,59,676,35"/>
+<area shape="rect" id="Node000003" href="$de/d54/live__view__controller_8cpp.html" title="Implements the LiveViewController class, managing live camera feeds, media input, recording,..." alt="" coords="232,93,387,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="676,47,399,96,387,98,386,93,398,91,675,41"/>
+<area shape="rect" id="Node000004" href="$d8/d89/playback__controller_8cpp.html" title="Implementation of the PlaybackController class which manages the playback interface,..." alt="" coords="411,93,589,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="707,52,562,96,561,91,706,47"/>
+<area shape="rect" id="Node000005" href="$d4/d07/setting__controller_8cpp.html" title="Implements the SettingController class, managing user interactions for the settings view." alt="" coords="613,93,776,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="754,57,716,95,712,91,751,53"/>
+<area shape="rect" id="Node000006" href="$d5/df2/app_8cpp.html" title="Implementation of the main application window (App class)." alt="" coords="801,101,935,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="812,53,858,98,854,102,808,57"/>
+<area shape="rect" id="Node000007" href="$d6/de1/message__dialog_8cpp.html" title="Implementation of the MessageDialog class for displaying GTK message dialogs." alt="" coords="959,93,1115,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="851,47,982,91,980,96,850,52"/>
+<area shape="rect" id="Node000008" href="$d8/dc9/live__view__view_8cpp.html" title="Implementation of the LiveViewView class, which handles the main live view UI." alt="" coords="1140,93,1289,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="887,44,1129,91,1141,93,1139,98,1127,96,886,49"/>
+<area shape="rect" id="Node000009" href="$dc/daa/setting__view_8cpp.html" title="Implementation of the SettingView class." alt="" coords="1314,101,1510,126"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="888,36,1302,91,1348,98,1347,103,1301,96,887,42"/>
+</map>

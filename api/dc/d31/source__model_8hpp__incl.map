@@ -1,0 +1,20 @@
+<map id="include/models/source_model.hpp" name="include/models/source_model.hpp">
+<area shape="rect" id="Node000001" title="Active Record for Input Source Configuration (Camera vs. File)." alt="" coords="99,5,267,45"/>
+<area shape="rect" id="Node000002" href="$dd/d13/base__model_8hpp.html" title="Template base class for basic CRUD and filtering operations." alt="" coords="159,93,330,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,44,229,81,225,84,196,47"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,68,192"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="167,48,59,158,55,155,163,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="93,167,151,192"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="174,47,150,94,131,154,126,152,145,92,169,44"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="501,167,575,192"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="229,43,343,91,500,159,498,163,341,96,227,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,121,82,165,80,160,210,116"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="226,121,155,162,152,157,224,116"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="175,167,255,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="242,120,228,155,223,153,237,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="279,167,365,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="259,117,301,155,297,159,255,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="389,167,476,192"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="276,116,390,159,388,164,274,121"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="292,116,488,163,486,168,291,121"/>
+</map>

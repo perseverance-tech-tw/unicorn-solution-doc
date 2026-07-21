@@ -1,0 +1,7 @@
+<map id="MoildevApplicator::regenerateAllMapsWithNewResolution" name="MoildevApplicator::regenerateAllMapsWithNewResolution">
+<area shape="rect" id="Node000001" title="Global Resolution Rescaling (Performance Tuning)." alt="" coords="5,35,279,75"/>
+<area shape="rect" id="Node000002" href="$d7/d8b/classMoildevApplicator.html#a2b370af0985322985aa6bae14f85bb22" title="Generates a remapping map with specific dimensions and parameters." alt="" coords="327,5,535,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,38,313,35,313,40,279,43"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="349,70,513,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,65,335,71,335,76,279,71"/>
+</map>

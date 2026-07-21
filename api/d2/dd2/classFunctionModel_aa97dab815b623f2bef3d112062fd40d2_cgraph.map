@@ -1,0 +1,39 @@
+<map id="FunctionModel::loadFromDatabase" name="FunctionModel::loadFromDatabase">
+<area shape="rect" id="Node000001" title="Loads function records from a SQLite database into memory." alt="" coords="5,279,253,304"/>
+<area shape="rect" id="Node000002" href="$d2/dd2/classFunctionModel.html#a3b7e6d813c600d03346c0a93384e4768" title="Loads the mapX and mapY matrices for a record from its file paths." alt="" coords="301,193,483,219"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,276,338,220,340,225,170,281"/>
+<area shape="rect" id="Node000013" href="$d2/dd2/classFunctionModel.html#aa28a81f1530283093002ecee07e59730" title="Populates the model with initial default function presets." alt="" coords="307,336,477,361"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="189,301,321,331,320,336,188,307"/>
+<area shape="rect" id="Node000003" href="$d7/d8b/classMoildevApplicator.html#a219231aa36a42515312a4b9aadbaf425" title="A helper function to generate a full&#45;resolution base map for a given function." alt="" coords="811,221,1025,261"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,196,615,191,690,193,763,199,839,215,838,220,762,205,689,198,615,197,483,201"/>
+<area shape="rect" id="Node000004" href="$d7/d8b/classMoildevApplicator.html#a929dd28d154e3a6b0a2ac443bc1b1a29" title="Gets the singleton instance of the MoildevApplicator." alt="" coords="573,214,721,254"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="483,213,560,222,559,227,483,219"/>
+<area shape="rect" id="Node000005" href="$db/d24/function__model_8cpp.html#a8c7b234fc6dbf95e11f7b9dd4f0fa57a" title=" " alt="" coords="849,120,987,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="453,191,530,177,692,154,835,138,835,143,693,160,531,182,454,196"/>
+<area shape="rect" id="Node000008" href="$d2/dd2/classFunctionModel.html#a36183ae73ea97e3488aadb81e2cf55c9" title="Serializes and Saves Remap Tables to Disk." alt="" coords="555,63,739,88"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="406,191,458,149,493,126,530,105,570,89,572,94,532,110,495,130,461,153,409,195"/>
+<area shape="rect" id="Node000011" href="$d2/dd2/classFunctionModel.html#a790db6bdf6c9742933870cc5f69a9fa2" title="Saves all in&#45;memory function records to the SQLite database." alt="" coords="531,393,763,419"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="405,218,477,311,532,379,546,386,544,391,529,383,473,314,401,221"/>
+<area shape="rect" id="Node000006" href="$da/da2/glade_8cpp.html#af4fa5ec64679d2a89c903a336e2a1b02" title="Gets the project&#39;s root directory." alt="" coords="1073,120,1192,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="988,130,1060,130,1060,135,988,135"/>
+<area shape="rect" id="Node000007" href="$da/da2/glade_8cpp.html#a61041010719c9542fda1970c0d005abf" title="Gets the absolute path of the directory containing the running executable." alt="" coords="1240,120,1373,145"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1192,130,1226,130,1226,135,1192,135"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="708,85,844,114,843,120,707,91"/>
+<area shape="rect" id="Node000009" href="$da/da2/glade_8cpp.html#a1599dcb10c73bc9252ed092964a4e518" title="Sanitizes a string to be used as a valid filename." alt="" coords="851,5,985,31"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="707,60,843,31,844,36,708,65"/>
+<area shape="rect" id="Node000010" href="$d8/d7f/classBaseModel.html#a8d849d71a00141d530f70d23ce83a0a6" title="Updates an existing record identified by its ID." alt="" coords="813,55,1023,95"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="739,73,799,73,799,78,739,78"/>
+<area shape="rect" id="Node000012" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Retrieves all records stored in the model." alt="" coords="813,411,1023,451"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="763,414,800,418,799,423,762,419"/>
+<area shape="poly" id="edge18_Node000013_Node000004" title=" " alt="" coords="412,334,465,303,530,270,565,256,567,261,532,275,467,308,415,338"/>
+<area shape="poly" id="edge19_Node000013_Node000005" title=" " alt="" coords="447,333,530,314,597,304,651,300,702,291,730,280,761,264,777,251,786,238,795,223,809,207,846,176,883,151,886,155,849,180,813,211,799,226,790,241,781,255,764,268,732,285,704,296,652,306,598,309,531,319,448,338"/>
+<area shape="poly" id="edge21_Node000013_Node000011" title=" " alt="" coords="448,359,531,378,574,388,573,393,530,383,447,364"/>
+<area shape="poly" id="edge20_Node000013_Node000012" title=" " alt="" coords="410,359,461,396,495,415,531,429,599,442,669,448,737,449,799,445,800,450,737,454,669,454,598,448,530,434,493,420,458,401,407,364"/>
+<area shape="rect" id="Node000014" href="$d8/d7f/classBaseModel.html#a7c4c2ec1775de5b027cd11f3f66991b9" title="Creates and stores a new record in the model." alt="" coords="542,494,751,534"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="406,360,457,414,493,446,532,473,559,486,556,491,529,478,489,450,453,418,402,364"/>
+<area shape="rect" id="Node000015" href="$d7/d8b/classMoildevApplicator.html#a15b1be59dcba7b86c3988ab32e386da1" title="Batch Generator: Creates Maps for ALL Presets." alt="" coords="573,329,721,369"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="477,346,559,346,559,351,477,351"/>
+<area shape="poly" id="edge16_Node000015_Node000003" title=" " alt="" coords="711,326,762,308,861,264,863,269,764,312,712,331"/>
+<area shape="rect" id="Node000016" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="836,336,1000,361"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="721,346,822,346,822,351,721,351"/>
+</map>

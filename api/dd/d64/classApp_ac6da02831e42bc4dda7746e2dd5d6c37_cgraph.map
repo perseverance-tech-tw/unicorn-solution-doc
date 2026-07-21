@@ -1,0 +1,30 @@
+<map id="App::hitControlOpenHelpWrapper" name="App::hitControlOpenHelpWrapper">
+<area shape="rect" id="Node000001" title="Callback wrapper to open the Help dialog/view." alt="" coords="5,112,244,137"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a18064f984d3ea2c99709e49194042971" title="Helper to switch back to LiveView from sidebar views." alt="" coords="292,112,501,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,122,278,122,278,127,244,127"/>
+<area shape="rect" id="Node000003" href="$df/dd5/classMediator.html#a9698030f13d19e8d0477d8b7642b93de" title="Retrieves the single global instance of the Mediator." alt="" coords="579,5,743,31"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="159,109,220,89,291,69,434,42,564,25,565,30,435,47,293,74,222,94,161,114"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a70dd90e4db5fb05d79d923ce53d4ccf2" title="Highlights the active sidebar button corresponding to the current view." alt="" coords="557,55,765,80"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="207,109,292,98,543,74,543,79,292,103,208,115"/>
+<area shape="rect" id="Node000007" href="$dd/d64/classApp.html#aa9296e15443c500ae9186f5809c80705" title="Enables or disables the drive mode toggle buttons." alt="" coords="563,169,759,209"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="204,135,292,147,549,176,549,181,292,153,204,140"/>
+<area shape="rect" id="Node000011" href="$d9/ddd/classSettingController.html#a430ec18fc43b2bdb0a2007563c29b270" title="Updates labels and images for the specified page." alt="" coords="313,222,481,262"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="156,135,338,214,336,219,154,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,110,474,75,548,40,573,32,575,37,550,44,476,79,419,114"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,109,588,80,589,85,457,115"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="451,135,565,163,563,168,450,140"/>
+<area shape="rect" id="Node000008" href="$dd/d64/classApp.html#a6e5caf554cb0bff1b71480527b3b9da5" title="Updates the label and icon of the &quot;Switch Mode&quot; button based on the current state." alt="" coords="549,105,772,145"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="502,122,535,122,535,127,502,127"/>
+<area shape="rect" id="Node000005" href="$d0/d64/namespaceRecordProcessor.html#a5860f162a6c9cd65e8b39e5d81a0ca8e" title="Checks if recording is currently active." alt="" coords="820,55,1035,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="765,65,806,65,806,70,765,70"/>
+<area shape="rect" id="Node000006" href="$da/da2/glade_8cpp.html#ad39124f8be4f9502953449054c6737af" title="Manually sets the visual state of a button to active or inactive." alt="" coords="864,140,991,165"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="725,78,773,90,886,132,884,137,771,95,724,83"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="758,173,850,160,850,166,759,178"/>
+<area shape="rect" id="Node000009" href="$db/d9b/namespaceTranslator.html#a46cd2fbd74fe457f3adce2f29dbe1744" title="Retrieves the translated string for a given key." alt="" coords="856,193,999,219"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="737,142,773,154,821,176,859,187,857,192,819,180,771,159,736,147"/>
+<area shape="rect" id="Node000010" href="$db/d9b/namespaceTranslator.html#a852095adbd8c8524f710a61c4e055727" title=" " alt="" coords="1083,186,1276,226"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="999,203,1069,203,1069,209,999,209"/>
+<area shape="rect" id="Node000012" href="$db/d9b/namespaceTranslator.html#ae9b2362ef7a27751976241012e2debd8" title="Sets the text of a GtkLabel using a translation key." alt="" coords="573,233,749,259"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="481,241,559,242,559,247,481,246"/>
+<area shape="poly" id="edge16_Node000012_Node000009" title=" " alt="" coords="745,231,842,216,843,221,746,236"/>
+</map>

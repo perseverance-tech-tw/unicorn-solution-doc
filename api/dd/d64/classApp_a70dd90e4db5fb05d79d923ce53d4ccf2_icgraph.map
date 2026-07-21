@@ -1,0 +1,51 @@
+<map id="App::setActiveSidebarButton" name="App::setActiveSidebarButton">
+<area shape="rect" id="Node000001" title="Highlights the active sidebar button corresponding to the current view." alt="" coords="771,388,979,414"/>
+<area shape="rect" id="Node000002" href="$dd/d64/classApp.html#a18064f984d3ea2c99709e49194042971" title="Helper to switch back to LiveView from sidebar views." alt="" coords="500,464,709,490"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="818,420,723,448,654,467,652,462,722,442,817,415"/>
+<area shape="rect" id="Node000003" href="$dd/d64/classApp.html#a0daa0f131ed6a4bbfb82c31440aba96a" title="Callback wrapper to navigate to the Configuration view." alt="" coords="222,356,417,396"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="757,398,417,383,417,377,757,393"/>
+<area shape="rect" id="Node000005" href="$dd/d64/classApp.html#ac6da02831e42bc4dda7746e2dd5d6c37" title="Callback wrapper to open the Help dialog/view." alt="" coords="200,420,439,446"/>
+<area shape="poly" id="edge14_Node000001_Node000005" title=" " alt="" coords="757,410,439,429,439,424,756,405"/>
+<area shape="rect" id="Node000006" href="$dd/d64/classApp.html#a686b54a2e8900d6e292bc03b5aa30db0" title="Callback wrapper to navigate to the Playback view." alt="" coords="212,470,427,510"/>
+<area shape="poly" id="edge19_Node000001_Node000006" title=" " alt="" coords="852,425,797,468,761,489,723,505,645,521,564,525,486,522,418,513,418,508,487,516,564,520,644,516,722,500,759,485,794,464,849,421"/>
+<area shape="rect" id="Node000007" href="$dd/d64/classApp.html#a732c57f411b349bf301c8b71170db4cd" title="Callback wrapper to navigate to the Settings view." alt="" coords="219,534,420,574"/>
+<area shape="poly" id="edge24_Node000001_Node000007" title=" " alt="" coords="856,426,801,481,765,509,724,530,647,553,567,565,489,569,420,567,420,562,489,564,566,560,646,548,722,525,762,504,798,477,853,422"/>
+<area shape="rect" id="Node000008" href="$dd/d64/classApp.html#a89d25c32a4455d14734746f3bc3e6732" title="Callback wrapper to toggle the AI system." alt="" coords="494,667,715,692"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="867,428,848,476,818,536,777,597,752,625,724,650,686,669,683,665,721,645,748,622,773,594,814,533,843,474,862,426"/>
+<area shape="rect" id="Node000009" href="$dd/d64/classApp.html#ad37dbdb7e208b85b8ab4e10a3e13cc20" title="Callback wrapper to toggle BSIS (Blind Spot Information System) features." alt="" coords="202,607,437,632"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="862,427,840,461,809,501,770,541,724,573,653,601,579,619,505,627,437,629,437,624,505,622,578,613,652,596,721,568,766,537,805,498,835,458,857,424"/>
+<area shape="rect" id="Node000010" href="$dd/d64/classApp.html#a603761aa90a22a24de089d0f228ca5c5" title="Callback wrapper to navigate to the Main View (Dashboard)." alt="" coords="211,17,428,57"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="868,375,857,308,833,220,813,174,789,131,758,92,721,59,685,39,646,24,604,15,562,10,480,10,407,20,406,14,480,5,563,5,605,10,647,19,687,34,724,55,762,88,793,128,818,172,838,218,863,307,874,374"/>
+<area shape="rect" id="Node000011" href="$dd/d64/classApp.html#a88510da0ff65d25b1202cee15b5d3035" title="Callback wrapper to switch to original (unprocessed) view mode." alt="" coords="503,69,707,109"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="864,376,847,323,819,254,777,183,751,151,721,123,702,111,705,107,724,119,755,147,781,180,824,252,852,321,869,374"/>
+<area shape="rect" id="Node000012" href="$dd/d64/classApp.html#aba7abe81455f42e6b09bc6253579dc16" title="Callback wrapper to toggle video recording." alt="" coords="505,133,704,173"/>
+<area shape="poly" id="edge20_Node000001_Node000012" title=" " alt="" coords="860,377,840,335,810,284,770,231,746,208,721,187,700,175,703,171,724,183,750,204,774,228,814,281,845,332,865,374"/>
+<area shape="rect" id="Node000013" href="$dd/d64/classApp.html#aa929b17f6eaf9b5d30fd82a1c2f1315e" title=" " alt="" coords="487,198,723,223"/>
+<area shape="poly" id="edge22_Node000001_Node000013" title=" " alt="" coords="856,378,834,346,803,308,765,270,721,238,693,226,695,221,724,233,768,265,807,304,838,343,861,375"/>
+<area shape="rect" id="Node000014" href="$dd/d64/classApp.html#ab020e623b6c86cc584a0ce53e4bc28d7" title="Callback wrapper to switch between Drive Mode and Standby Mode." alt="" coords="505,248,704,288"/>
+<area shape="poly" id="edge25_Node000001_Node000014" title=" " alt="" coords="846,382,790,342,722,302,691,290,693,285,724,297,793,337,849,378"/>
+<area shape="rect" id="Node000015" href="$dd/d64/classApp.html#a5248d9e20a115748bee55c0c7a4ed650" title="Callback for toggling the AI menu item." alt="" coords="519,312,690,338"/>
+<area shape="poly" id="edge27_Node000001_Node000015" title=" " alt="" coords="817,387,722,360,652,340,654,335,723,354,818,382"/>
+<area shape="rect" id="Node000016" href="$d6/d8a/classLiveViewController.html#a743265614fcdba74683cc3b03a443d86" title="Updates the visibility of the original view buttons (Cam 1 &amp; Cam 2)." alt="" coords="501,717,709,757"/>
+<area shape="poly" id="edge29_Node000001_Node000016" title=" " alt="" coords="871,428,855,486,827,561,808,601,784,640,757,676,724,707,706,719,703,715,721,703,753,672,780,637,803,598,822,559,850,484,865,426"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="562,461,438,412,396,398,397,393,440,407,564,456"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="508,465,402,448,403,443,509,460"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="486,485,427,488,427,483,486,480"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="545,496,439,525,396,537,394,532,438,520,544,491"/>
+<area shape="rect" id="Node000004" href="$dd/d64/classApp.html#a1896e898ccf3303188a168f336ab2cd6" title="Connects global signal handlers to UI events." alt="" coords="5,306,152,331"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,355,132,334,133,328,222,350"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="223,419,199,410,167,393,137,372,91,333,95,329,140,367,169,388,201,405,225,414"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="210,467,199,461,160,430,127,394,85,333,89,330,132,391,164,426,201,456,212,462"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="206,530,198,524,174,503,152,477,118,422,95,370,81,332,86,330,100,368,123,420,157,474,178,499,202,520,209,526"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="222,604,198,588,169,558,145,524,126,487,110,449,89,380,79,332,84,331,94,379,115,447,130,484,150,521,173,555,202,584,225,599"/>
+<area shape="poly" id="edge16_Node000010_Node000004" title=" " alt="" coords="226,65,202,82,176,108,154,138,120,203,97,263,85,306,80,305,92,262,115,201,150,136,172,105,198,78,223,61"/>
+<area shape="poly" id="edge18_Node000011_Node000004" title=" " alt="" coords="490,100,421,111,347,128,272,153,201,187,164,215,132,249,90,307,86,304,128,245,161,211,199,183,270,148,345,123,420,106,489,95"/>
+<area shape="poly" id="edge21_Node000012_Node000004" title=" " alt="" coords="492,166,425,176,350,190,274,210,201,237,170,253,141,272,96,308,92,304,138,268,167,248,199,232,273,205,349,185,424,170,491,160"/>
+<area shape="poly" id="edge23_Node000013_Node000004" title=" " alt="" coords="473,227,341,247,201,277,110,308,109,303,199,272,340,242,473,222"/>
+<area shape="poly" id="edge26_Node000014_Node000004" title=" " alt="" coords="492,279,200,306,153,312,152,307,200,301,491,274"/>
+<area shape="poly" id="edge28_Node000015_Node000004" title=" " alt="" coords="506,326,152,322,152,317,506,321"/>
+<area shape="rect" id="Node000017" href="$d6/d8a/classLiveViewController.html#ac3ceba55f7297483763f02269dd3c140" title="Opens media file dialog for image or video selection." alt="" coords="247,749,392,789"/>
+<area shape="poly" id="edge30_Node000016_Node000017" title=" " alt="" coords="487,753,392,764,392,758,487,748"/>
+<area shape="rect" id="Node000018" href="$d6/d8a/classLiveViewController.html#ab57b6a6cd7cc0ac448d8b2681e9e786e" title="Restores a specific source (Camera or File) directly." alt="" coords="247,685,392,725"/>
+<area shape="poly" id="edge31_Node000016_Node000018" title=" " alt="" coords="487,727,392,716,392,710,487,721"/>
+</map>

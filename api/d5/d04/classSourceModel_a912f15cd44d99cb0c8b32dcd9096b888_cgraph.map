@@ -1,0 +1,12 @@
+<map id="SourceModel::getLastSource" name="SourceModel::getLastSource">
+<area shape="rect" id="Node000001" title="Gets the last source record (ID 1)." alt="" coords="5,31,212,56"/>
+<area shape="rect" id="Node000002" href="$d5/d04/classSourceModel.html#aaf198449184ea12b9a9c7571295e6c7f" title="Loads source records from a SQLite database into memory." alt="" coords="260,5,497,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,31,246,28,247,33,212,36"/>
+<area shape="rect" id="Node000003" href="$d5/d04/classSourceModel.html#a6f539e35bae36953d394009f9c1937e8" title="Populates the model with an initial default &quot;NONE&quot; record." alt="" coords="545,31,704,56"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="212,41,532,41,532,46,212,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="498,28,532,31,531,36,497,33"/>
+<area shape="rect" id="Node000004" href="$d5/d04/classSourceModel.html#a14a271383b418951daf4917dd424f7e0" title="Saves all in&#45;memory records to the SQLite database(s)." alt="" coords="752,31,973,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="704,41,738,41,738,46,704,46"/>
+<area shape="rect" id="Node000005" href="$d8/d7f/classBaseModel.html#a9e54532d37ac78c8df7f4dace8037656" title="Retrieves all records stored in the model." alt="" coords="1021,23,1220,63"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="973,41,1007,41,1007,46,973,46"/>
+</map>

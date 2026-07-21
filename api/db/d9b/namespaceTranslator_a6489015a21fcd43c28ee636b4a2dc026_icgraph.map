@@ -1,0 +1,7 @@
+<map id="Translator::applyTranslationsToBuilder" name="Translator::applyTranslationsToBuilder">
+<area shape="rect" id="Node000001" title="Applies all translations to the widgets in the given GtkBuilder." alt="" coords="433,5,641,45"/>
+<area shape="rect" id="Node000002" href="$db/d9b/namespaceTranslator.html#a4b275dbd53cbb19b43d5f27b2780a12d" title="Bootstrapper: Initializes I18n System." alt="" coords="211,13,385,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,28,385,28,385,23,420,23"/>
+<area shape="rect" id="Node000003" href="$dd/d94/classBaseView.html#af470f1fa07284981ce7646d5296c728c" title="Constructs a new Base View object and initializes the UI." alt="" coords="5,13,163,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,28,163,28,163,23,196,23"/>
+</map>

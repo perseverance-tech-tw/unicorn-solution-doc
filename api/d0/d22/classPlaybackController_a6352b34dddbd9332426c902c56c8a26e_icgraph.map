@@ -1,0 +1,5 @@
+<map id="PlaybackController::preprocess_thumbnail_frame" name="PlaybackController::preprocess_thumbnail_frame">
+<area shape="rect" id="Node000001" title="Helper: Applies Anypoint dewarping to a raw video frame." alt="" coords="207,5,427,45"/>
+<area shape="rect" id="Node000002" href="$d8/d89/playback__controller_8cpp.html#ae691be861d2667f34ccb767335b3f5f7" title="Helper Static: Generate GdkPixbuf from video path using OpenCV." alt="" coords="5,5,159,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,28,159,28,159,23,193,23"/>
+</map>

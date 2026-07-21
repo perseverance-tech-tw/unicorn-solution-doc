@@ -1,0 +1,28 @@
+var classBaseView =
+[
+    [ "BaseView", "dd/d94/classBaseView.html#af470f1fa07284981ce7646d5296c728c", null ],
+    [ "~BaseView", "dd/d94/classBaseView.html#a0b87986502d132344f08be851cdb15d2", null ],
+    [ "getBuilder", "dd/d94/classBaseView.html#a236766111df073bedcdefd62e4b5655a", null ],
+    [ "getView", "dd/d94/classBaseView.html#a9bf94b085e1a70487bc653e531c7082a", null ],
+    [ "signalConnect", "dd/d94/classBaseView.html#ab796af0f2a658a162b32e6c996db4313", null ],
+    [ "viewBinding", "dd/d94/classBaseView.html#a706c61207965f3d374f20d91df839a3e", null ],
+    [ "builder", "dd/d94/classBaseView.html#a824f441d410da563a1f2be386829417f", null ],
+    [ "buttonAi", "dd/d94/classBaseView.html#ad3e8e64b4e22e96fd4cd1f3c7c7df5fb", null ],
+    [ "buttonBsis", "dd/d94/classBaseView.html#ade645ff7c6cbac1a8c947d0e766fa551", null ],
+    [ "buttonConfig", "dd/d94/classBaseView.html#a6d50e5a2bfb3844b0f336bdb6835bf90", null ],
+    [ "buttonHelp", "dd/d94/classBaseView.html#ad3e72311842d8a62768aef60ac875e2d", null ],
+    [ "buttonLive", "dd/d94/classBaseView.html#a4939efe2e0e0615a727cece94a3bb869", null ],
+    [ "buttonLoadMedia", "dd/d94/classBaseView.html#a94f0eda1e603afe4e1e9d91372b8da09", null ],
+    [ "buttonMainView", "dd/d94/classBaseView.html#af76c6523f0d01aa3929528830261c3a2", null ],
+    [ "buttonOpenCamera", "dd/d94/classBaseView.html#adc0204d3a4850990e46683555a6c908f", null ],
+    [ "buttonOriginal", "dd/d94/classBaseView.html#ad6c42cd617071521ee3ca61f81cbbf2b", null ],
+    [ "buttonPlayback", "dd/d94/classBaseView.html#a1b1b4166fadf97da70b666a123346b81", null ],
+    [ "buttonRecord", "dd/d94/classBaseView.html#a3d9a84cdfd464ad7962576588abf4618", null ],
+    [ "buttonSetting", "dd/d94/classBaseView.html#ace2579c6afc04efc1d2b6d84c0ae0b2b", null ],
+    [ "menuAi", "dd/d94/classBaseView.html#acd660b4bfeed7f3e9969184be4bc8243", null ],
+    [ "menuBbox", "dd/d94/classBaseView.html#ab0871696a3bced6c9a7f35ecf0ce6284", null ],
+    [ "menuCircle", "dd/d94/classBaseView.html#aa2e9a31dd6409e9fe43f5a8185d63524", null ],
+    [ "sidebar", "dd/d94/classBaseView.html#ab6be1afd2eab252bad7b74cb8e3f9877", null ],
+    [ "switch_mode", "dd/d94/classBaseView.html#a447a9487e60151e488682decbd97a0d3", null ],
+    [ "view", "dd/d94/classBaseView.html#a8c7fc3e23d55f7c5d1a198c02fed916c", null ]
+];

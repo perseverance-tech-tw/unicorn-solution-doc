@@ -1,0 +1,60 @@
+<map id="include/utils/moildev_applicator.hpp" name="include/utils/moildev_applicator.hpp">
+<area shape="rect" id="Node000001" title="Defines the MoildevApplicator singleton class for high&#45;level Moildev operations." alt="" coords="994,5,1153,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="387,313,445,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="994,36,856,53,694,80,616,97,547,118,490,142,453,169,432,199,421,234,417,270,417,300,411,300,412,269,416,233,428,197,449,165,488,137,545,113,615,92,693,74,855,47,993,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="1205,93,1283,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1115,43,1208,85,1206,90,1113,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="1137,240,1274,265"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1095,44,1143,95,1168,129,1189,166,1200,196,1206,226,1200,227,1195,198,1184,168,1164,132,1139,99,1092,47"/>
+<area shape="rect" id="Node000005" href="$d3/dad/constants_8hpp.html" title="Central repository for global configuration, hardcoded paths, and system&#45;wide constants." alt="" coords="203,167,383,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="994,32,852,39,682,51,521,69,455,82,406,96,380,109,356,125,316,159,312,155,352,121,378,104,404,91,454,76,520,64,681,45,852,33,994,27"/>
+<area shape="rect" id="Node000009" href="$d3/d3a/frame__model_8hpp.html" title="Active Record Model for Display Frame Layouts." alt="" coords="840,93,1029,119"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="1041,48,968,89,966,84,1039,43"/>
+<area shape="rect" id="Node000016" href="$d2/dd7/function__model_8hpp.html" title="Active Record Model for Image Processing &quot;Functions&quot; (Presets)." alt="" coords="972,167,1175,192"/>
+<area shape="poly" id="edge26_Node000001_Node000016" title=" " alt="" coords="1076,46,1076,153,1071,153,1071,46"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1307,93,1367,119"/>
+<area shape="poly" id="edge25_Node000001_Node000017" title=" " alt="" coords="1137,43,1295,89,1293,94,1136,48"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1392,93,1456,119"/>
+<area shape="poly" id="edge27_Node000001_Node000018" title=" " alt="" coords="1154,41,1379,91,1378,96,1152,46"/>
+<area shape="rect" id="Node000019" href="$d6/dea/moildev__cpu_8hpp.html" title=" " alt="" coords="462,167,615,192"/>
+<area shape="poly" id="edge28_Node000001_Node000019" title=" " alt="" coords="1004,48,829,96,591,165,589,160,827,91,1002,43"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="306,190,350,238,401,301,397,304,346,242,302,194"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="245,240,336,265"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="296,192,294,227,289,226,290,192"/>
+<area shape="rect" id="Node000007" href="$de/d34/resolution__processor_8hpp.html" title="Declares functions and types for managing map resolutions." alt="" coords="5,240,221,265"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="265,195,156,237,154,232,263,190"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="163,263,374,312,372,317,161,268"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="88,313,139,339"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="116,266,116,300,111,300,111,266"/>
+<area shape="poly" id="edge18_Node000009_Node000002" title=" " alt="" coords="890,121,734,167,639,202,545,242,489,275,443,307,440,303,486,270,543,238,637,197,733,162,888,116"/>
+<area shape="rect" id="Node000010" href="$dd/d13/base__model_8hpp.html" title="Template base class for basic CRUD and filtering operations." alt="" coords="805,240,976,265"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="934,119,919,167,900,228,895,226,913,166,928,118"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1075,313,1155,339"/>
+<area shape="poly" id="edge19_Node000009_Node000012" title=" " alt="" coords="939,119,946,153,962,191,990,226,1022,257,1085,304,1082,308,1019,261,986,229,958,193,941,154,933,120"/>
+<area shape="poly" id="edge20_Node000009_Node000016" title=" " alt="" coords="958,116,1040,158,1037,163,956,121"/>
+<area shape="poly" id="edge13_Node000010_Node000002" title=" " alt="" coords="806,267,625,290,459,316,459,311,625,285,805,262"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="767,313,830,339"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="878,267,826,307,823,303,874,263"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="927,263,1066,307,1065,312,926,268"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="965,313,1051,339"/>
+<area shape="poly" id="edge15_Node000010_Node000013" title=" " alt="" coords="911,263,978,304,976,308,908,268"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="854,313,941,339"/>
+<area shape="poly" id="edge16_Node000010_Node000014" title=" " alt="" coords="894,265,898,300,892,300,889,266"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="668,313,743,339"/>
+<area shape="poly" id="edge17_Node000010_Node000015" title=" " alt="" coords="862,268,749,311,747,306,860,263"/>
+<area shape="poly" id="edge22_Node000016_Node000002" title=" " alt="" coords="972,187,798,204,700,220,604,243,454,310,452,305,602,237,699,215,797,199,972,182"/>
+<area shape="poly" id="edge24_Node000016_Node000004" title=" " alt="" coords="1096,190,1173,231,1171,236,1093,194"/>
+<area shape="poly" id="edge21_Node000016_Node000010" title=" " alt="" coords="1045,195,934,237,932,232,1043,190"/>
+<area shape="poly" id="edge23_Node000016_Node000012" title=" " alt="" coords="1079,192,1110,299,1105,301,1074,193"/>
+<area shape="poly" id="edge36_Node000019_Node000002" title=" " alt="" coords="531,194,437,304,433,301,527,191"/>
+<area shape="rect" id="Node000020" href="$d3/da2/moildev__common_8hpp.html" title=" " alt="" coords="614,240,781,265"/>
+<area shape="poly" id="edge29_Node000019_Node000020" title=" " alt="" coords="565,190,660,232,658,237,563,194"/>
+<area shape="poly" id="edge33_Node000020_Node000002" title=" " alt="" coords="651,268,460,316,458,310,649,263"/>
+<area shape="poly" id="edge35_Node000020_Node000011" title=" " alt="" coords="715,263,772,303,769,307,712,268"/>
+<area shape="poly" id="edge31_Node000020_Node000012" title=" " alt="" coords="775,263,1061,310,1060,316,774,268"/>
+<area shape="poly" id="edge34_Node000020_Node000015" title=" " alt="" coords="701,265,705,300,700,300,696,266"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="581,313,643,339"/>
+<area shape="poly" id="edge30_Node000020_Node000021" title=" " alt="" coords="685,267,638,307,635,302,682,263"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="470,313,557,339"/>
+<area shape="poly" id="edge32_Node000020_Node000022" title=" " alt="" coords="669,268,557,311,555,306,667,263"/>
+</map>
